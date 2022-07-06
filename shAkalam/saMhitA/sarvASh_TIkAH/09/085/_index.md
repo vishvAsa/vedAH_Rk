@@ -33,4 +33,13 @@ The trimeter portion of the IXth Maṇḍala begins with IX.68, and the Jagatī 
 
 </details>
 </div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085-086.md">
+<details open><summary><h2>85-86 ...{Loading}...</h2></summary>
+
+On the structure of the last two hymns of the Jagatī group, see the published
+
+introductions to IX.85 and 86. In brief, after a series of hymns of 5 vss. (IX.75-84), these last two have 12 vss. and 48 vss. respectively. However, they are clearly composites: IX.85 consists of three groups of four vss. apiece, IX.86 of 16 tṛcas. The standard principles of hymn arrangement can thus be restored.
+</details>
+</div>
 </details>

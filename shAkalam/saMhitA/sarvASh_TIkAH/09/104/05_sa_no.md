@@ -120,7 +120,10 @@ like a comrade for a comrade, become the best finder of the way for us.
 
 <details><summary>+Jamison Brereton Notes</summary>
 
-Because of the 2nd ps. reference of vs.-init. sá, which is only appropriate with imperatives, I take devápsarā asi as a parenthentical insertion, with sá to be construed with vs.-final bhava. This has the advantage of allowing naḥ in pāda a, which would have no function in ab, to be construed with gātuvíttamaḥ in c, where it most naturally belongs. See asmábhyam gātuvíttamaḥ in two nearby hymns
+Because of the 2nd ps. reference of vs.-init. sá, which is only appropriate with imperatives, I take devápsarā asi as a parenthentical insertion, with sá to be construed with vs.-final bhava. This has the advantage of allowing naḥ in pāda a, which would have no function in ab, to be construed with gātuvíttamaḥ in c, where it most naturally belongs. See asmábhyam gātuvíttamaḥ in two nearby hymns IX.101.10 and IX.106.6. My interpr. of b is supported by the parallel vs. in the twinned hymn, IX.105.5, which has no intermediate clause and has the same configuration #sá naḥ … / …. bhava# with polarized vs.-init. and vs.-final elements as here.
+
+The Anukr. credits this hymn to Parvata Kāṇva and Nārada Kāṇva or, alternatively, to “Kaśyapa’s two Apsaras daughters Śikhaṇḍinī”: śikhaṇḍinyāv apsarasau kāśyapyau. It seems likely that this second - unusual - ascription is based on a misparsing of the cmpd. devápsarā(ḥ).
+
 </details>
 
 <details><summary>+Griffith</summary>

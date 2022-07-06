@@ -162,7 +162,7 @@ deniers of commandments down into the pit.
 
 The subject here is of course Soma, though tricked out with Varuṇian vocabulary (see, e.g., Lüders 402-3).
 
-It is not clear what the three filters (trī́… pavítrā) are; the phrase recurs in
+It is not clear what the three filters (trī́… pavítrā) are; the phrase recurs in IX.97.55 with equal lack of clarity - though there all three don’t have to be fitted into the heart. The three filters here recall the three heads of 1c, though I do not think the referents are the same.
 </details>
 
 <details><summary>+Griffith</summary>
