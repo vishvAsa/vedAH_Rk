@@ -29,4 +29,7 @@ If we are correct in our identification of Yama as the father in 5b, there are  
 To sum up and indeed to go further, this hymn, and the hymn cycle within  which it is embedded, are a reflection of and a reflection on the dualities that define  
 
 human existence: mortal and immortal, male and female, heaven and earth, sacred  and profane, as we pointed out in the introduction to the Yama cycle as a whole.  These dualities are neatly conceptually symbolized in the notion of twins, the pri mal twins Yama and Yamī, and in this hymn also ritually symbolized by the twin  soma carts, appropriate both to the sacrifice and to the divergent paths that lead  to the gods and the ancestors respectively, thus providing a proper preface to the  funeral hymns that follow.
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/10/010-019.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 </details>

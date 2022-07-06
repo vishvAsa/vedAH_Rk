@@ -26,4 +26,7 @@ The relevance of the next set of verses (4–6), to Pūṣan, is considerably cl
 The goddess, and river, Sarasvatī is addressed in the next three verses (7–9), with  a final verse (10) to the Waters in general. Sarasvatī here seems especially connected  with the dead forefathers and the offerings to them at the ritual (esp. vss. 8–9); this  may be an early foreshadowing of the later ritual offering of water to the dead, or,  as verse 10 suggests, connected with the general purificatory power of waters (see  X.9.6–9 earlier in this maṇḍala).  
 
 Verses 10–13 concern the “drop” (drapsá) and are addressed in the 2nd person to  Soma, who is never named but clearly identifiable from his characteristic vocabu lary. There is no mention of the forefathers or of anything related to a funeral, and  there is no obvious reason why these verses should have been attached to this hymn.  Indeed, the final purificatory verse (14) would follow better directly on verse 10.
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/10/010-019.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 </details>

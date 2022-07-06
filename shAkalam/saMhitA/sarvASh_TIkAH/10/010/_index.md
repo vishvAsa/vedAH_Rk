@@ -21,4 +21,7 @@ cal turns of phrase, and especially in the first part of the hymn they distance 
 in the hymn is also notable, including the fact that “brother” and “sister” are not  encountered until verse 11. It is also striking that the names of the speakers do not  appear until verse 7.  
 The emotional temperature of the hymn rises significantly at that very point.  Yamī abandons her legalistic arguments—that they need to have offspring, that they  were already a married couple in the womb—in favor of a naked expression of sexual  desire. Yama remains unmoved, but the roiling emotions are reflected in the ragged  meter of some of the later verses (12–13), especially in the latter verse where Yamī breaks off her speech in frustration in a very short pāda containing two occurrences  of a word (batá) found nowhere else and exhibiting aberrant phonology. Our render  
 ing of the word aims at the level of slangy insult to which batá appears to belong. The hymn ends in an impasse. Yama remains obdurate and urges Yamī to find  another lover—a difficult quest when there are no other mortals! However, given  the rest of his history, sketched briefly above, we must assume that he gave in in the  end, on the evidence of X.13.4.
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/10/010-019.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 </details>
