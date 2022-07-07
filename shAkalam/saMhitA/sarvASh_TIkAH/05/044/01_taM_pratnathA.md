@@ -183,6 +183,16 @@ As in the first old times, as all were wont, as now, he draweth forth the power 
      The Princedom throned on holy grass, who findeth light, swift, conquering in the' plants wherein he waxeth strong.
 </details>
 
+
+<details><summary>Keith</summary>
+
+Him, as aforetime, as of old, as always, as now,  
+The prince, who hath his seat on the strew and knoweth the heaven,  
+The favouring, the strong, thou milkest with thy speech,  
+The swift who is victor in those among whom thou dost wax.
+</details>
+
+
 <details><summary>Geldner</summary>
 
 Aus ihm, dem Barhissitzer, dem Sonnenfinder, sollst du wie in früherer Zeit, wo die Vorfahren, wie alle, wie die Gegenwärtigen den Vorrang für uns und hinwiederum einen Opferbund mit dem Loblied herausmelken und ein Rennpferd, das Kühe gewinnt, an denen du nach und nach reich wirst.
