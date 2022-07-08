@@ -92,8 +92,8 @@ O Aśvins, quick-handed lords of beauty, in the sacrificial refreshments find yo
 
 <details><summary>Griffith</summary>
 
-I Laud Agni, the chosen Priest, God, minister of sacrifice,  
-   The hotar, lavishest of wealth.
+YE Asvins, rich in treasure, Lords of splendour, having nimble hands,  
+     Accept the sacrificial food.
 </details>
 
 <details><summary>Geldner</summary>
@@ -112,3 +112,4 @@ O Ritter, nehmet gnädig an des Opfers Tränke, Glanzesherrn, Weitwaltende, mit 
 Жертвенным возлияниям,  
 О быстрорукие повелители красоты, многорадостные!
 </details>
+

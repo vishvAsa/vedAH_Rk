@@ -113,8 +113,8 @@ The two beings in pādas ab, one as unexpressed sg. subj. of the verb, one in th
 
 <details><summary>Griffith</summary>
 
-To thee, dispeller of the night, O Agni, day by day with prayer  
-   Bringing thee reverence, we come
+Mayest thou verily be seen coming by fearless Indra's side:  
+     Both joyous, equal in your sheen.
 </details>
 
 <details><summary>Geldner</summary>
@@ -133,3 +133,4 @@ Mit Indra fahrend zeige dich, o Schar, mit ihm der furchtlos ist, Erfreuend, bei
 Двигаясь вместе с бесстрашным, –  
 (Вы оба) радостные, с равным блеском.
 </details>
+

@@ -106,8 +106,8 @@ In b tū́rṇayaḥ was carelessly omitted from the tr., which should read “C
 
 <details><summary>Griffith</summary>
 
-Ruler of sacrifices, guard of Law eternal, radiant One,  
-   Increasing in thine own abode.
+Ye Visvedevas, swift at work, come hither quickly to the draught,  
+     As milch-kine hasten to their stalls.
 </details>
 
 <details><summary>Geldner</summary>
@@ -126,3 +126,4 @@ Ihr Götter alle, rasch im Werk, kommt eilend zu dem Soma her, Wie Kühe in die 
 Придите, быстрые, к выжатому (соме),  
 Как коровы – на пастбища!
 </details>
+

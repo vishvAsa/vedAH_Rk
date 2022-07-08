@@ -116,8 +116,8 @@ I.4.5-6: Most interpretations take these two verses as syntactically parallel (e
 
 <details><summary>Griffith</summary>
 
-Agni, the perfect sacrifice which thou encompassest about  
-   Verily goeth to the Gods.
+Go to the wise unconquered One, ask thou of Indra, skilled in song,  
+     Him who is better than thy friends.
 </details>
 
 <details><summary>Geldner</summary>
@@ -136,3 +136,4 @@ Zum unbesiegten starken geh, den weisen Indra flehe an, Der deiner Freunde beste
 О быстром, неодолимом Индре,  
 Который для тебя – лучший из друзей.
 </details>
+

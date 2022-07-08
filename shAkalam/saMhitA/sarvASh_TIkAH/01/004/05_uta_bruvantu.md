@@ -110,8 +110,8 @@ in placing your friendship in Indra alone.”
 
 <details><summary>Griffith</summary>
 
-May Agni, sapient-minded Priest, truthful, most gloriously great,  
-   The God, come hither with the Gods.
+Whether the men who mock us say, Depart unto another place,  
+     Ye who serve Indra and none else;
 </details>
 
 <details><summary>Geldner</summary>
@@ -130,3 +130,4 @@ Mag spottend sagen unser Feind: "Kein andrer kümmert sich um sie; Drum feiern I
 А другого-то вы лишились,  
 Оказывая почтение только Индре.
 </details>
+

@@ -113,8 +113,8 @@ This is a rare example of the present middle ṛñj not taking an acc. (see Tuck
 
 <details><summary>Griffith</summary>
 
-Be to us easy of approach, even as a father to his son:  
-   Agni, be with us for our weal.
+Come from this place, O Wanderer, or downward from the light of heaven:  
+     Our songs of praise all yearn for this.
 </details>
 
 <details><summary>Geldner</summary>
@@ -133,3 +133,4 @@ Von dort komm her, o fahrender, und von des Himmels lichter Höh, Die Lieder str
 Или со светлого пространства неба!  
 К нему устремились вместе (все) голоса.
 </details>
+

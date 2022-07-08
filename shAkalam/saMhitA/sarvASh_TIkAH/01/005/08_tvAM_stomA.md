@@ -101,8 +101,8 @@ Let our songs strengthen you.
 
 <details><summary>Griffith</summary>
 
-Ruler of sacrifices, guard of Law eternal, radiant One,  
-   Increasing in thine own abode.
+Our chants of praise have strengthened thee, O Satakratu, and our lauds  
+     So strengthen thee the songs we sing.
 </details>
 
 <details><summary>Geldner</summary>
@@ -121,3 +121,4 @@ Dich, mächtiger, hat Lobgesang, dich haben Sprüche auch erfreut, Dich stärke 
 Тебя – хвалебные песни, о стосильный!  
 Да усилят тебя наши восхваления!
 </details>
+

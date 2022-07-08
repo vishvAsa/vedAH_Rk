@@ -113,8 +113,8 @@ As for the subject of ajāyathāḥ, contrary to most interpretations I take thi
 
 <details><summary>Griffith</summary>
 
-Through Agni man obtaineth wealth, yea, plenty waxing day by day,   
-   Most rich in heroes, glorious.
+Thou, making light where no light was, and form, O men: where form was not,  
+     Wast born together with the Dawns.
 </details>
 
 <details><summary>Geldner</summary>
@@ -133,3 +133,4 @@ O Held, dem Dunklen schaffend Licht, Gestalt dem, was gestaltlos war, Entsprangs
 Форму, о люди, для бесформенного,  
 Вместе с зорями ты родился.
 </details>
+

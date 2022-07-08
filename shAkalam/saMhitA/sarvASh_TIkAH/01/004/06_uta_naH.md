@@ -103,8 +103,8 @@ But (even) a stranger—(indeed all) the separate peoples—would say we  have a
 
 <details><summary>Griffith</summary>
 
-Whatever blessing, Agni, thou wilt grant unto thy worshipper,  
-   That, Angiras, is indeed thy truth.
+Or whether, God of wondrous deeds, all our true people call us blest,  
+     Still may we dwell in Indra's care.
 </details>
 
 <details><summary>Geldner</summary>
@@ -123,3 +123,4 @@ Und glücklich mögen, mächtiger! die Freundesstämme nennen uns, Nur wenn wir 
 Пусть назовут нас счастливыми:  
 Только у Индры мы хотели бы быть под защитой!
 </details>
+

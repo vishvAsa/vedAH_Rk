@@ -100,8 +100,8 @@ to win the stakes, Indra.
 
 <details><summary>Griffith</summary>
 
-Be to us easy of approach, even as a father to his son:  
-   Agni, be with us for our weal.
+We strengthen, Satakratu, thee, yea, thee the powerful in fight,  
+     That, Indra, we may win us wealth.
 </details>
 
 <details><summary>Geldner</summary>
@@ -120,3 +120,4 @@ Dich hier, den Kämpfer in dem Kampf erregen wir zum Kampf, o Held, 0 Indra, Beu
 Мы подгоняем к награде, о стосильный,  
 К захвату богатств, о Индра.
 </details>
+

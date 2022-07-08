@@ -96,8 +96,8 @@ as the mighty one with mighty forms of help.
 
 <details><summary>Griffith</summary>
 
-Agni, the perfect sacrifice which thou encompassest about  
-   Verily goeth to the Gods.
+Help us, O Indra, in the frays, yea, frays, where thousand spoils are gained,  
+     With awful aids, O awful One.
 </details>
 
 <details><summary>Geldner</summary>
@@ -116,3 +116,4 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 И (там), где добыча – тысяча,  
 Сильный, с сильными подкреплениями!
 </details>
+

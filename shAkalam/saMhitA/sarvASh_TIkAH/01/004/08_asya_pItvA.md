@@ -107,8 +107,8 @@ My occasional tr. of ghaná- as ‘bane’ was inspired by my husband’s treatm
 
 <details><summary>Griffith</summary>
 
-Ruler of sacrifices, guard of Law eternal, radiant One,  
-   Increasing in thine own abode.
+Thou, Satakratu, drankest this and wast the Vrtras' slayer; thou  
+     Helpest the warrior in the fray.
 </details>
 
 <details><summary>Geldner</summary>
@@ -127,3 +127,4 @@ Als, mächt'ger, du getrunken ihn, da wurdest du des Feinds Verderb Und halfst d
 Ты стал убийцей врагов.  
 Только ты помог (в битвах) за награды рвущемуся к награде.
 </details>
+

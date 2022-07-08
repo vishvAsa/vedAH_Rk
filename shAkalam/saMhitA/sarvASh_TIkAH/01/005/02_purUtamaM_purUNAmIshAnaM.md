@@ -92,8 +92,8 @@ purūtámam purūṇā́m is pleonastic+++(=redundant)+++, meaning literally “
 
 <details><summary>Griffith</summary>
 
-Worthy is Agni to be praised by living as by ancient seers.  
-   He shall bring. hitherward the Gods.
+To him the richest of the rich, the Lord of treasures excellent,  
+     Indra, with Soma juice outpoured.
 </details>
 
 <details><summary>Geldner</summary>
@@ -112,3 +112,4 @@ Ihn, der der Reichen reichster ist, und über schönes Gut verfügt, Den Indra b
 Владыку самых достойных благ,  
 Индру – при выжатом соме!
 </details>
+

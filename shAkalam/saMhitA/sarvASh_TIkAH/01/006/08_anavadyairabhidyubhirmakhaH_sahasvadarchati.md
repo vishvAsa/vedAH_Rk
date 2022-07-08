@@ -93,8 +93,8 @@ The Aṅgirases are presumably the referents of the instr. phrases, and the vers
 
 <details><summary>Griffith</summary>
 
-Ruler of sacrifices, guard of Law eternal, radiant One,  
-   Increasing in thine own abode.
+With Indra's well beloved hosts, the blameless, hastening to heaven,  
+     The sacrificer cries aloud.
 </details>
 
 <details><summary>Geldner</summary>
@@ -113,3 +113,4 @@ Mit Indra's makelloser Schar, der lieben, die zum Himmel strebt, Erglänzet krä
 Желанными для Индры толпами (певцов)  
 Щедрый громко распевает (победную песнь).
 </details>
+

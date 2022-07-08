@@ -105,8 +105,8 @@ As noted in the introduction, this verse helps resolve the unclear referents in 
 
 <details><summary>Griffith</summary>
 
-May Agni, sapient-minded Priest, truthful, most gloriously great,  
-   The God, come hither with the Gods.
+Thou, Indra, with the Tempest-Gods, the breakers down of what is firm,  
+     Foundest the kine even in the cave.
 </details>
 
 <details><summary>Geldner</summary>
@@ -125,3 +125,4 @@ Mit ihnen, die das Feste auch im Sturm zerbrechen, fandest du die Kühe, Indra, 
 О Индра, ты отыскал коров,  
 Даже (когда они были спрятаны) в тайнике.
 </details>
+

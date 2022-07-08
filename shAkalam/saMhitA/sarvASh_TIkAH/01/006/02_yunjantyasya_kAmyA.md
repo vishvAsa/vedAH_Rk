@@ -104,8 +104,8 @@ They hitch his beloved fallow bays to his chariot on opposite sides, the bold pa
 
 <details><summary>Griffith</summary>
 
-Worthy is Agni to be praised by living as by ancient seers.  
-   He shall bring. hitherward the Gods.
+On both sides to the car they yoke the two bay coursers dear to him,  
+     Bold, tawny, bearers of the Chief.
 </details>
 
 <details><summary>Geldner</summary>
@@ -124,3 +124,4 @@ Sie schirren an den Wagen an des Indra Füchse licht und kühn, Das Zwiegespann,
 Буланых коней по обе стороны колесницы (?),  
 Огненно-красных, неустрашимых, мужей возящих.
 </details>
+

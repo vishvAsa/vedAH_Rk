@@ -101,8 +101,8 @@ For the pot, see introduction. The doubling of the 1st pl. pronoun (naḥ in a, 
 
 <details><summary>Griffith</summary>
 
-Whatever blessing, Agni, thou wilt grant unto thy worshipper,  
-   That, Angiras, is indeed thy truth.
+Unclose, our manly Hero, thou for ever bounteous, yonder cloud,  
+     For us, thou irresistible.
 </details>
 
 <details><summary>Geldner</summary>
@@ -121,3 +121,4 @@ Eröffne jenen Kessel uns, die Wolke, du der alles schenkt, O starker, unbezwing
 О (ты,) дающий сполна, раскрой для нас,  
 (Ты,) не встречающий сопротивления!
 </details>
+

@@ -108,8 +108,8 @@ There may be bit of ring composition here, with 10b supāráḥ echoing the firs
 
 <details><summary>Griffith</summary>
 
-यो रा॒यो॒३॒॑ऽवनि॑र्म॒हान्त्सु॑पा॒रः सु॑न्व॒तः सखा॑ ।  
-तस्मा॒ इन्द्रा॑य गायत ॥
+To him the mighty stream of wealth, prompt friend of him who pours the juice,  
+     yea, to this Indra sing your song.
 </details>
 
 <details><summary>Geldner</summary>
@@ -128,3 +128,4 @@ Den Indra, der ein grosser Strom des Reichthums leichtdurchfahrbar ist, Und Freu
 (Кто) друг, переправляющий на другой берег выжимающего (сому).  
 Этому Индре пойте (славу)!
 </details>
+

@@ -91,8 +91,8 @@ be eager for our sacrifice, bringing goods through her insight.
 
 <details><summary>Griffith</summary>
 
-पा॒व॒का नः॒ सर॑स्वती॒ वाजे॑भिर्वा॒जिनी॑वती ।  
-य॒ज्ञं व॑ष्टु धि॒याव॑सुः ॥
+Wealthy in spoil, enriched with hymns, may bright Sarasvati desire,  
+    With eager love, our sacrifice.
 </details>
 
 <details><summary>Geldner</summary>
@@ -111,3 +111,4 @@ Die glänzende Sarasvati, durch unsre Labung labungsreich, Begehr das Opfer eife
 Награждающая наградами,  
 Да возжелает жертвы нашей, мыслью добывающая богатство!
 </details>
+

@@ -106,8 +106,8 @@ Do not look past us—come here!
 
 <details><summary>Griffith</summary>
 
-Through Agni man obtaineth wealth, yea, plenty waxing day by day,   
-   Most rich in heroes, glorious.
+So may we be acquainted with thine innermost benevolence:  
+     Neglect us not, come hitherward.
 </details>
 
 <details><summary>Geldner</summary>
@@ -126,3 +126,4 @@ Dann mögen wir, o Indra, bald erfahren deine höchste Huld; Nicht übersieh uns
 Твоих высших милостей.  
 Не прогляди нас! Приди!
 </details>
+

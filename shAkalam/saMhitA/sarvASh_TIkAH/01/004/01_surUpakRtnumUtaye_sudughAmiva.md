@@ -100,8 +100,8 @@ do we call upon every day.
 
 <details><summary>Griffith</summary>
 
-I Laud Agni, the chosen Priest, God, minister of sacrifice,  
-   The hotar, lavishest of wealth.
+As a good cow to him who milks, we call the doer of fair deeds,  
+     To our assistance day by day.
 </details>
 
 <details><summary>Geldner</summary>
@@ -120,3 +120,4 @@ Ihn rufen wir, der schönes wirkt, uns zum Genusse Tag für Tag, Wie man die Kuh
 Принявшего прекрасный облик,  
 Как хорошо доимую корову – для доения.
 </details>
+

@@ -82,8 +82,8 @@ Sarasvatī has received our sacrifice.
 
 <details><summary>Griffith</summary>
 
-चो॒द॒यि॒त्री सू॒नृता॑नां॒ चेत॑न्ती सुमती॒नाम् ।  
-य॒ज्ञं द॑धे॒ सर॑स्वती ॥
+Inciter of all pleasant songs, inspirer o all gracious thought,  
+     Sarasvati accept our rite
 </details>
 
 <details><summary>Geldner</summary>
@@ -102,3 +102,4 @@ Sarasvati, die Lieder weckt und achtet anf den Lobgesang, Nahm unser Opfer gnäd
 Настроенная на благодеяния,  
 Сарасвати приняла жертву.
 </details>
+

@@ -103,8 +103,8 @@ The peculiarly formed stem vāghát- clearly refers to a ritual officient of som
 
 <details><summary>Griffith</summary>
 
-May Agni, sapient-minded Priest, truthful, most gloriously great,  
-   The God, come hither with the Gods.
+Urged by the holy singer, sped by song, come, Indra, to the prayers,  
+     Of the libation-pouring priest.
 </details>
 
 <details><summary>Geldner</summary>
@@ -123,3 +123,4 @@ Komm, Indra, durch Gebet gelockt, beeilt vom Sänger zu dem Spruch Des somareich
 Возбужденный вдохновенными (поэтами) на молитвы  
 Устроителя жертвы, выжавшего (сому)!
 </details>
+

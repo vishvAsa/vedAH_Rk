@@ -101,8 +101,8 @@ I.3.11-12: Note the contrastive values of the simplex pres. cétantī ‘perceiv
 
 <details><summary>Griffith</summary>
 
-Be to us easy of approach, even as a father to his son:  
-   Agni, be with us for our weal.
+The Visvedevas, changing shape like serpents, fearless, void of guile,  
+     Bearers, accept the sacred draught
 </details>
 
 <details><summary>Geldner</summary>
@@ -121,3 +121,4 @@ Die vielgestalt'gen Götter all, die holden, treuen, fahrenden, Sie mögen nehme
 Желанные, благосклонные,  
 Пусть насладятся возницы жертвенным напитком!
 </details>
+

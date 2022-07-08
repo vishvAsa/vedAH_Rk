@@ -104,8 +104,8 @@ refuses to translate the word. We generally follow the view of Pinault (UTexas V
 
 <details><summary>Griffith</summary>
 
-Worthy is Agni to be praised by living as by ancient seers.  
-   He shall bring. hitherward the Gods.
+Ye Asvins, rich in wondrous deeds, ye heroes worthy of our praise,  
+     Accept our songs with mighty thought.
 </details>
 
 <details><summary>Geldner</summary>
@@ -124,3 +124,4 @@ O thatenreiche Ritter, nehmt mit kräft'gem  Geist die Lieder auf, O gabenreiche
 О два мужа, с большим пониманием  
 Примите благосклонно (наши) голоса, о благоговейные!
 </details>
+

@@ -104,8 +104,8 @@ A whiff of ring composition - 10c ī́śānaḥ ‘having control over’ echoes
 
 <details><summary>Griffith</summary>
 
-मा नो॒ मर्ता॑ अ॒भि द्रु॑हन्त॒नूना॑मिन्द्र गिर्वणः ।  
-ईशा॑नो यवया व॒धम् ॥
+O Indra, thou who lovest song, let no man hurt our bodies, keep  
+     Slaughter far from us, for thou canst.
 </details>
 
 <details><summary>Geldner</summary>
@@ -124,3 +124,4 @@ Kein Mensch verletz', o Indra, uns, Herr unsrer Leiber, Liederfreund! Die Todesw
 Нашим телам, о Индра, воспевания жаждущий!  
 Отврати смертоносное оружие, о (ты,) в чьей (это) власти!
 </details>
+

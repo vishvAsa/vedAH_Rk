@@ -120,8 +120,8 @@ On the voc. of víśva- see comm. ad X.15.6.
 
 <details><summary>Griffith</summary>
 
-To thee, dispeller of the night, O Agni, day by day with prayer  
-   Bringing thee reverence, we come
+Ye Visvedevas, who protect, reward, and cherish men, approach  
+     Your worshipper's drink-offering.
 </details>
 
 <details><summary>Keith</summary>
@@ -130,7 +130,6 @@ Ye dread ones, guardians of men,
 O All-gods, come ye,  
 Generous, to the pressed drink of the generous one.
 </details>
-
 
 <details><summary>Geldner</summary>
 
@@ -148,3 +147,4 @@ Vereint, o menschenschirmende, ihr Götter alle, kommt herbei, Ihr frommen, in d
 О Все-Боги, придите  
 Милостивыми к выжатому (соме) жертвователя!
 </details>
+
