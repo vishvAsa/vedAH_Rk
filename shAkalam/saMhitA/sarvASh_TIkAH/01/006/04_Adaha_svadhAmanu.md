@@ -112,8 +112,8 @@ Grammatically problematic is the accent on the verb eriré in b, a fact that see
 
 <details><summary>Griffith</summary>
 
-Agni, the perfect sacrifice which thou encompassest about  
-   Verily goeth to the Gods.
+Thereafter they, as is their wont, threw off the state of babes unborn,  
+     Assuming sacrificial names.
 </details>
 
 <details><summary>Geldner</summary>
@@ -132,3 +132,4 @@ Die Maruts dann nach ihrem Brauch entsprangen neu aus dem Gewölk Und nahmen hei
 Он стал рождаться снова (и снова),  
 И сотворили себе имя, достойное жертвы.
 </details>
+

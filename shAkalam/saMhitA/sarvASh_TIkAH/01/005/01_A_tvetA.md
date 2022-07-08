@@ -113,8 +113,8 @@ Seems deliberately to echo the last vs. of the preceding hymn (I.4.10), with pā
 
 <details><summary>Griffith</summary>
 
-I Laud Agni, the chosen Priest, God, minister of sacrifice,  
-   The hotar, lavishest of wealth.
+O come ye hither, sit ye down: to Indra sing ye forth, your song,  
+     companions, bringing hymns of praise.
 </details>
 
 <details><summary>Geldner</summary>
@@ -133,3 +133,4 @@ Auf, kommet her und setzet euch, besinget euern Indra nun, 0 Freunde, die ihr Lo
 Индру воспойте,  
 Возносящие хвалу друзья!
 </details>
+

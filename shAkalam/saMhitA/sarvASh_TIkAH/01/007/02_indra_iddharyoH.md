@@ -110,8 +110,8 @@ and supply ráthena ‘chariot’, this form otherwise (4x) is only du. and modi
 
 <details><summary>Griffith</summary>
 
-Worthy is Agni to be praised by living as by ancient seers.  
-   He shall bring. hitherward the Gods.
+Indra hath ever close to him his two bay steeds and word-yoked car,  
+     Indra the golden, thunder-armed.
 </details>
 
 <details><summary>Geldner</summary>
@@ -130,3 +130,4 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 (Пусть) с (нарядит своих коней), запрягаемых словом,  
 Индра-громовержец, золотистый!
 </details>
+

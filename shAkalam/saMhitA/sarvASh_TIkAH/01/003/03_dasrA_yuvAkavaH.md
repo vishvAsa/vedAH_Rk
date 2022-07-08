@@ -101,8 +101,8 @@ In the compound rudra-vartanī, number is of course neutralized in the first mem
 
 <details><summary>Griffith</summary>
 
-Through Agni man obtaineth wealth, yea, plenty waxing day by day,   
-   Most rich in heroes, glorious.
+Nasatyas, wonder-workers, yours are these libations with clipt grass:  
+     Come ye whose paths are red with flame.
 </details>
 
 <details><summary>Geldner</summary>
@@ -121,3 +121,4 @@ Hülfreiche, euer ist der Trank, o treue, auf geweihter Streu, Auf lichten Pfade
 У того, кто разложил жертвенную солому, о Насатьи.  
 Придите, вы оба, следуя сверкающим путем!
 </details>
+

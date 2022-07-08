@@ -102,8 +102,8 @@ She rules over all insights.
 
 <details><summary>Griffith</summary>
 
-म॒हो अर्णः॒ सर॑स्वती॒ प्र चे॑तयति के॒तुना॑ ।  
-धियो॒ विश्वा॒ वि रा॑जति ॥
+Sarasvati, the mighty flood,--she with be light illuminates,  
+     She brightens every pious thought.
 </details>
 
 <details><summary>Geldner</summary>
@@ -122,3 +122,4 @@ Die grosse Meeresflut erhellt Sarasvati mit ihrem Licht, Und lenket jedes Andach
 Сарасвати (своим) знаменем.  
 Она господствует надо всеми молитвами.
 </details>
+

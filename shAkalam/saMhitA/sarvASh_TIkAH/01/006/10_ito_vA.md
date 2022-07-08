@@ -107,8 +107,8 @@ We beseech Indra for gain from here, the earthly realm, or from heaven, or from 
 
 <details><summary>Griffith</summary>
 
-इ॒तो वा॑ सा॒तिमीम॑हे दि॒वो वा॒ पार्थि॑वा॒दधि॑ ।  
-इन्द्रं॑ म॒हो वा॒ रज॑सः ॥
+Indra we seek to give us help, from here, from heaven above the earth,  
+     Or from the spacious firmament.
 </details>
 
 <details><summary>Geldner</summary>
@@ -127,3 +127,4 @@ Von dort her bitten um Geschenk, vom Himmel, von der Erde, wir Den Indra, und au
 Отсюда ли или с неба,  
 Из земного (ли пространства) или из великого (воздушного).
 </details>
+

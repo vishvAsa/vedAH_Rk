@@ -98,8 +98,8 @@ for preeminence, o Indra of good resolve.
 
 <details><summary>Griffith</summary>
 
-Whatever blessing, Agni, thou wilt grant unto thy worshipper,  
-   That, Angiras, is indeed thy truth.
+Thou, grown at once to perfect strength, wast born to drink the Soma juice,  
+     Strong Indra, for preëminence.
 </details>
 
 <details><summary>Geldner</summary>
@@ -118,3 +118,4 @@ Geboren kaum, o Indra, warst sogleich du stark zum Somatrunk, Zur Oberherrschaft
 Для питья выжатого (сомы),  
 О Индра, для превосходства, о благосклонный.
 </details>
+

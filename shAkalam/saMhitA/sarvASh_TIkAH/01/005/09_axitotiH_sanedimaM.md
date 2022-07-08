@@ -92,8 +92,8 @@ he in whom are all manly powers.
 
 <details><summary>Griffith</summary>
 
-Be to us easy of approach, even as a father to his son:  
-   Agni, be with us for our weal.
+Indra, whose succour never fails, accept these viands thousandfold,  
+     Wherein all manly powers abide.
 </details>
 
 <details><summary>Geldner</summary>
@@ -112,3 +112,4 @@ Die tausendfache Labung hier nehm Indra an, der dauernd hilft, In welchem alle K
 Эту награду числом в тысячу,  
 (Он,) в котором все силы мужества!
 </details>
+

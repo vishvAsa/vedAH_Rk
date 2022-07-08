@@ -98,8 +98,8 @@ The zeugma may iconically represent the fact that the verse connects across a te
 
 <details><summary>Griffith</summary>
 
-Whatever blessing, Agni, thou wilt grant unto thy worshipper,  
-   That, Angiras, is indeed thy truth.
+Worshipping even as they list, singers laud him who findeth wealth,  
+     The far-renowned, the mighty One.
 </details>
 
 <details><summary>Geldner</summary>
@@ -118,3 +118,4 @@ Die frommen Sänger haben nach ihrer Einsicht dem grossen, berühmten, schatzspe
 Воспевания превозносили  
 Отыскивателя богатств, великого, знаменитого.
 </details>
+

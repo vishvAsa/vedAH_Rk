@@ -99,8 +99,8 @@ The double dative sutapā̎vne … vītáye with yanti is more literally “… 
 
 <details><summary>Griffith</summary>
 
-May Agni, sapient-minded Priest, truthful, most gloriously great,  
-   The God, come hither with the Gods.
+Nigh to the Soma-drinker come, for his enjoyment, these pure drops,  
+     The Somas mingled with the curd.
 </details>
 
 <details><summary>Geldner</summary>
@@ -119,3 +119,4 @@ Zum Somatrinker dringen hin die reinen Säfte hier zum Mahl, Der milchgemischte 
 Чистые и смешанные с кислым молоком соки сомы  
 Текут, приглашая (выпить их).
 </details>
+

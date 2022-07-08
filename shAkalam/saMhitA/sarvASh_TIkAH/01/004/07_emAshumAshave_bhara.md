@@ -112,8 +112,8 @@ exhilarating our comrade [=Indra] in its flight.
 
 <details><summary>Griffith</summary>
 
-To thee, dispeller of the night, O Agni, day by day with prayer  
-   Bringing thee reverence, we come
+Unto the swift One bring the swift, man-cheering, grace of sacrifice,  
+     That to the Friend gives wings and joy.
 </details>
 
 <details><summary>Geldner</summary>
@@ -132,3 +132,4 @@ Dem starken bring den starken Trank, der Opfer ziert und Männer labt, Den Freun
 (Его) украшающего жертву, опьяняющего мужей,  
 Летящего (к другу), радующего друга!
 </details>
+

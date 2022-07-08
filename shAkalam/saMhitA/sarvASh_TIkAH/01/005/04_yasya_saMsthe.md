@@ -98,8 +98,8 @@ to him, to Indra, sing!
 
 <details><summary>Griffith</summary>
 
-Agni, the perfect sacrifice which thou encompassest about  
-   Verily goeth to the Gods.
+Whose pair of tawny horses yoked in battles foemen challenge not:  
+     To him, to Indra sing your song.
 </details>
 
 <details><summary>Geldner</summary>
@@ -118,3 +118,4 @@ Bei dessen Angriff Feinde nicht aufhalten seiner Füchse Paar Im Kampfe, diesem 
 Врагам при столкновении в битвах.  
 Этому Индре пропойте (славу)!
 </details>
+

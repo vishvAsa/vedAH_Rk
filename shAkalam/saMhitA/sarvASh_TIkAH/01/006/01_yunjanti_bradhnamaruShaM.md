@@ -108,8 +108,8 @@ The lights are alight in heaven.
 
 <details><summary>Griffith</summary>
 
-I Laud Agni, the chosen Priest, God, minister of sacrifice,  
-   The hotar, lavishest of wealth.
+They who stand round him as he moves harness the bright, the ruddy Steed  
+     The lights are shining in the sky.
 </details>
 
 <details><summary>Geldner</summary>
@@ -128,3 +128,4 @@ Sie schirren an das rothe Ross, das umläuft um das stehende, Am Himmel glänzt 
 Бродящего вокруг неподвижных.  
 Светят светила на небе.
 </details>
+

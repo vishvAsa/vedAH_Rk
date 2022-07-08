@@ -94,8 +94,8 @@ Let him be exclusively ours.
 
 <details><summary>Griffith</summary>
 
-इन्द्रं॑ वो वि॒श्वत॒स्परि॒ हवा॑महे॒ जने॑भ्यः ।  
-अ॒स्माक॑मस्तु॒ केव॑लः ॥
+For your sake from each side we call Indra away from other men:  
+     Ours, and none others', may he be.
 </details>
 
 <details><summary>Geldner</summary>
@@ -114,3 +114,4 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 Отовсюду вокруг, (прочь) от всех племен –  
 Да будет он только наш!
 </details>
+

@@ -107,8 +107,8 @@ Improper relative, as shown best by Renou’s rendering, “Les corps-de-louange
 
 <details><summary>Griffith</summary>
 
-To thee, dispeller of the night, O Agni, day by day with prayer  
-   Bringing thee reverence, we come
+Still higher, at each strain of mine, thunder-armed Indra's praises rise:  
+     I find no laud worthy of him.
 </details>
 
 <details><summary>Geldner</summary>
@@ -127,3 +127,4 @@ Es steigen höher Stoss auf Stoss des Blitzers Indra Lieder auf, Nicht geht mir 
 Хвалы Индре-громовержцу --  
 Нет у меня недостатка в восхвалении его!
 </details>
+

@@ -117,8 +117,8 @@ godā́(ḥ) of pāda c echoes godúhe of 1b. I consider pāda c a proverbial ex
 
 <details><summary>Griffith</summary>
 
-Worthy is Agni to be praised by living as by ancient seers.  
-   He shall bring. hitherward the Gods.
+Come thou to our libations, drink of Soma; Soma-drinker thou!  
+     The rich One's rapture giveth kine.
 </details>
 
 <details><summary>Geldner</summary>
@@ -137,3 +137,4 @@ Zu unsern Opfern komm herbei, den Soma, Somatrinker, trink; Denn Rinder schenkt 
 Испей сомы, о пьющий сому!  
 Ведь опьянение богатого сулит дарение коров.
 </details>
+

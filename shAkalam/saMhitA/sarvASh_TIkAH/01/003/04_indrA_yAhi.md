@@ -102,8 +102,8 @@ the ones purifed in full measure by delicate (fingers).
 
 <details><summary>Griffith</summary>
 
-Agni, the perfect sacrifice which thou encompassest about  
-   Verily goeth to the Gods.
+O Indra marvellously bright, come, these libations long for thee,  
+     Thus by fine fingers purified.
 </details>
 
 <details><summary>Geldner</summary>
@@ -122,3 +122,4 @@ O Indra  komme glänzendhell, die Tränke sehnen sich nach dir, Durch zarte Fing
 Эти выжатые (соки сомы) стремятся к тебе,  
 Очищенные в один прием тонкими (пальцами).
 </details>
+

@@ -112,8 +112,8 @@ The usage of the instr. góbhiḥ is somewhat strange; it is clearly not meant e
 
 <details><summary>Griffith</summary>
 
-Through Agni man obtaineth wealth, yea, plenty waxing day by day,   
-   Most rich in heroes, glorious.
+Indra hath raised the Sun on high in heaven, that he may see afar:  
+     He burst the mountain for the kine.
 </details>
 
 <details><summary>Geldner</summary>
@@ -132,3 +132,4 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 Чтоб долго можно было видеть (его).  
 Он расколол скалу с коровами (в ней).
 </details>
+

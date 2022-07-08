@@ -136,8 +136,8 @@ My interpretation of these sentences as questions is not overtly marked in the t
 
 <details><summary>Griffith</summary>
 
-Through Agni man obtaineth wealth, yea, plenty waxing day by day,   
-   Most rich in heroes, glorious.
+May he stand by us in our need and in abundance for our wealth:  
+     May he come nigh us with his strength.
 </details>
 
 <details><summary>Geldner</summary>
@@ -156,3 +156,4 @@ Er helfe uns bei jedem Werk in reicher Fülle zum Besitz, Mit Schätzen komm er 
 В богатстве, в изобилии!  
 Да приидет он к нам с наградами!
 </details>
+

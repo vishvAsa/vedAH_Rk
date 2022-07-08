@@ -102,8 +102,8 @@ Take delight in our pressed soma.
 
 <details><summary>Griffith</summary>
 
-Whatever blessing, Agni, thou wilt grant unto thy worshipper,  
-   That, Angiras, is indeed thy truth.
+Approach, O Indra, hasting thee, Lord of Bay Horses, to the prayers.  
+     In our libation take delight.
 </details>
 
 <details><summary>Geldner</summary>
@@ -122,3 +122,4 @@ Komm eilend zu den Sprüchen her, o Indra, mit den Füchsen dein, An unserm Soma
 На молитвы, о хозяин буланых коней!  
 Одобри нашего выжатого (сому)!
 </details>
+

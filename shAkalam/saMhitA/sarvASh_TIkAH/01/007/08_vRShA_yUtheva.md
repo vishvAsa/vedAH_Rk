@@ -95,8 +95,8 @@ Connected to vs. 6 by shared vocab., vṛ́ṣan- (a) and (the rather rare) ápr
 
 <details><summary>Griffith</summary>
 
-Ruler of sacrifices, guard of Law eternal, radiant One,  
-   Increasing in thine own abode.
+Even as the bull drives on the herds, he drives the people with his might,  
+     The Ruler irresistible:
 </details>
 
 <details><summary>Geldner</summary>
@@ -115,3 +115,4 @@ Wie Heerden ein gewalt'ger Bull, regt er die Völker an mit Macht Unwiderstehlic
 С силой гонит он народы,  
 Властный, не встречающий сопротивления.
 </details>
+

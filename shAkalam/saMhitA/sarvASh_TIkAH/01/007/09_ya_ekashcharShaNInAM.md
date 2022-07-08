@@ -102,8 +102,8 @@ Once again Madhuchandas seems to be faintly signalling ring composition.
 
 <details><summary>Griffith</summary>
 
-Be to us easy of approach, even as a father to his son:  
-   Agni, be with us for our weal.
+Indra who rules with single sway men, riches, and the fivefold race  
+     Of those who dwell upon the earth.
 </details>
 
 <details><summary>Geldner</summary>
@@ -122,3 +122,4 @@ Von allem, was da lebt, allein ist's Indra, der in seiner Hand Der fünf Geschle
 Над богатствами царствует,  
 Индра – над пятью поселениями (племен), –
 </details>
+

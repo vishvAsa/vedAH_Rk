@@ -91,8 +91,8 @@ our mace-wielding yokemate amid obstacles.
 
 <details><summary>Griffith</summary>
 
-May Agni, sapient-minded Priest, truthful, most gloriously great,  
-   The God, come hither with the Gods.
+In mighty battle we invoke Indra, Indra in lesser fight,  
+     The Friend who bends his bolt at fiends.
 </details>
 
 <details><summary>Geldner</summary>
@@ -111,3 +111,4 @@ Im grossen Kampfe rufen wir den Indra und im kleinen auch, den Freund, der auf d
 Индру – в малой  
 Как союзника при избиении врагов, (как) громовержца.
 </details>
+

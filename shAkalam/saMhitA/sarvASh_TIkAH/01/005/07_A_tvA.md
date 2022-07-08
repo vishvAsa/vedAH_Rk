@@ -99,8 +99,8 @@ Let them be weal for you, the discerning one.
 
 <details><summary>Griffith</summary>
 
-To thee, dispeller of the night, O Agni, day by day with prayer  
-   Bringing thee reverence, we come
+O Indra, lover of the song, may these quick Somas enter thee:  
+     May they bring bliss to thee the Sage.
 </details>
 
 <details><summary>Geldner</summary>
@@ -119,3 +119,4 @@ In dich, o Indra, dringe ein der scharfe Soma, Liederfreund! Dir weisem sei er z
 Соки сомы, о Индра, жаждущий воспевания!  
 Да будут они на благо тебе, мудрому!
 </details>
+

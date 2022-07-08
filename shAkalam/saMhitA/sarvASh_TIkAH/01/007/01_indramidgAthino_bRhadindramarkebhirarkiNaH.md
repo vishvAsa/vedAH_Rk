@@ -112,8 +112,8 @@ anūṣata provides a link to the immediately preceding hymn, I.6.6.
 
 <details><summary>Griffith</summary>
 
-I Laud Agni, the chosen Priest, God, minister of sacrifice,  
-   The hotar, lavishest of wealth.
+INDRA the singers with high praise, Indra reciters with their lauds,  
+     Indra the choirs have glorified.
 </details>
 
 <details><summary>Geldner</summary>
@@ -132,3 +132,4 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 Индру – восхвалениями восхвалители,  
 Индру призвали голоса.
 </details>
+
