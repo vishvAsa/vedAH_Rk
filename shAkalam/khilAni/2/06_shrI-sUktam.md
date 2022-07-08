@@ -3,6 +3,16 @@ title: ०६ श्री-सूक्तम्
 unicode_script: devanagari
 
 ---
+<details><summary>मानसतरङ्गिणीकृत्-परिचयः</summary>
+
+The celebrated shrI sUkta has spread widely beyond its original role in the vedic gR^ihya liturgy and prayoga-s of the vedic vidhAna-s. Its earliest occurrences are seen in the khila of the R^igveda and the bodhAyana and vaikhAnasa mantra pATha-s of the kR^iShNa yajur veda. It is also related to the ShaShThI sUkta of the mAnava gR^ihya sUtra. The tantric literature also mentions it—the most prominent mention is in the lakShmI tantra (LT 36.121-140 and LT 50.1-237). LT50.1-2367 gives a detailed account of the pA~ncharatric prayoga of the shrI sUkta in worshiping lakShmI. The lakShmI-ratna kosha is another text providing its deployment in the worship of shrI. In the kAdividyA stream of shrI-kula tradition a saMpuTikaraNa of the sUkta and the pa~nchadashI (and other bIja-s like mAya, shrI, kAma, vANI and tripurashekharAnta) is a favored mode of deployment. The shrI sUkta has even been retained by the bauddha nAstika-s and this tradition was until recently alive in Nepal and Bhutan.
+
+The pure vedic form of both the yajurvedic and R^igvedic traditions are no longer commonly practiced, especially in South India. Instead, what one has is a vulgate that is widely used in the drAviDa, Andhra and karnATa countries. It may be recited in a pseudo-yajurvedic form without following the rules of yajurvedic phonetics (e.g. hirANyavarNAM harinIM suvarNa … instead of the correct yajuSh form: hirANyavarNA{\m+} harinI{\m+} suvarNa … as is specified, for example, in the bodhAyana mantra pATha) or in a form typical of R^igvedic recitation.
+
+Original R^ivedic version is often termed the kAshmIra-pATha because it appears to have been retained in those regions.
+
+</details>
+
 
 ## द्राविडपाठः
 <details><summary>परिचयः</summary>
@@ -61,8 +71,14 @@ unicode_script: devanagari
 तां म॒ आव॑ह+++(स्वरः?)+++ जात॑वेदो ल॒क्ष्मीम् अन॑पगा॒मिनी॑॑म्।  
 यस्यां॒ हिर॑ण्यं॒ प्रभू॑तं॒ गावो॑ दा॒स्यो ऽश्वा॑॑न् वि॒न्देयं॒ पुरु॑षान् अ॒हम्॥
 
-## काशीकरपाठः
+## काशीकर-पाठः
 क्वचित् स्वरः सन्देहास्पदम्। उदात्त एव दर्शितः।
+
+<details><summary>मानसतरङ्गिणीकृत्-परिचयः</summary>
+
+The learned shrI Ravlekar gave me this original R^igvedic form. Based on his oral tradition and the kashmIra-paTha of the khila text we have restored this text of the shrI sUkta ([pdf](https://manasataramgini.files.wordpress.com/2008/04/shri_suktam_kp.pdf)):
+</details>
+
 
 हि꣡रण्यवर्णां ह꣡रिणीं सुव꣡र्णरजत꣡स्रजाम्+++(स्वरः??)+++।  
 चन्द्रां꣡ हिर꣡ण्मयीं लक्ष्मीं꣡ जा꣡तवेदो म꣡मा꣡वह॥
@@ -71,7 +87,7 @@ unicode_script: devanagari
 य꣡स्यां हि꣡रण्यं विन्दे꣡यं गा꣡म् अ꣡श्वं पु꣡रुषान् अह꣡म्॥२॥
 
 अश्वपूर्वां꣡ रथमध्यां꣡ हस्ति꣡नादप्रमोदि꣡नीम्+++(स्वरः??)+++।  
-श्रि꣡यं देवी꣡म् उ꣡प ह्वये श्री꣡र् मा देवी꣡ जुषताम्॥२.६.३॥
+श्रि꣡यं देवी꣡म् उ꣡प ह्वये श्री꣡र् मा देवी꣡+++(र्)+++ जुषताम्॥२.६.३॥
 
 कांस्य꣡स्मि तां हि꣡रण्यप्रावाराम् आर्द्रा꣡ञ् ज्व꣡लन्तीं तृप्तां꣡ तर्प꣡यन्तीम्।  
 पद्मेस्थितां꣡ पद्म꣡वर्णां ता꣡म् इहो꣡प ह्वये श्रि꣡यम्॥२.६.४॥
@@ -88,10 +104,10 @@ unicode_script: devanagari
 
 उ꣡पैतु मान् देवसखᳲ꣡  
 कीर्ति꣡श् च म꣡णिना सह꣡।  
-प्रादु꣡र्भूतो꣡ ऽस्मि रा꣡ष्ट्रे ऽस्मि꣡न्  
+प्रादु꣡र् भूतो꣡ ऽस्मि रा꣡ष्ट्रे ऽस्मि꣡न्  
 कीर्तिं꣡ वृद्धिं꣡ ददातु मे॥२.६.७॥
 
-क्षु꣡त्पिपासा꣡मला+++(ं)+++ ज्येष्ठा꣡म् अलक्ष्मी꣡न् नाशयाम्य् अ꣡हम्।  
+क्षु꣡त् पिपासा꣡मला+++(ं)+++ ज्येष्ठा꣡म् अलक्ष्मी꣡न् नाशयाम्य् अ꣡हम्।  
 अ꣡भूतिम् अ꣡समृद्धिं च स꣡र्वान् नि꣡र्णुद मे गृ꣡हात्॥२.६.८॥
 
 ग꣡न्धद्वारां꣡ दुरा꣡धर्षां नित्य꣡पुष्टां करीषि꣡णीम्।  
@@ -144,4 +160,3 @@ unicode_script: devanagari
 देवा꣡न् अ꣡ग्ने वो꣡चः सुमतिं रो꣡दस्योः।  
 वीहि꣡ स्वस्तिं꣡ सुक्षितिं꣡ दिवो꣡ नॄ꣡न् द्वोषो꣡ अं꣡हांसि दुरिता꣡ तरेम  
 ता꣡ तरेम त꣡वा꣡वसा तरेम॥
-
