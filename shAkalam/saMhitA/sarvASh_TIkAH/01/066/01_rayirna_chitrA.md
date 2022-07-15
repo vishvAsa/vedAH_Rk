@@ -85,7 +85,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 
 <details><summary>सायण-भाष्यम्</summary>
 
-रयिरिति दशर्चं द्वैपदमध्ययनतः पञ्चर्चं द्वितीयं सूक्तं पराशरस्यार्षमाग्नेयम् । अनुक्रान्तं च । रयिरिति ॥ विनियोगो लैङ्गिकः ॥Sayana bhashya empty
+रयिरिति दशर्चं द्वैपदमध्ययनतः पञ्चर्चं द्वितीयं सूक्तं पराशरस्यार्षमाग्नेयम् । अनुक्रान्तं च । रयिरिति ॥ विनियोगो लैङ्गिकः ॥
 </details>
 
 <details><summary>Wilson</summary>

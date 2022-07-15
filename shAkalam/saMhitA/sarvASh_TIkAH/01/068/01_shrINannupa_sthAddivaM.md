@@ -73,7 +73,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 
 <details><summary>सायण-भाष्यम्</summary>
 
-श्रीणन्निति द्वैपदं दशर्चं चतुर्थं सूक्तम् । तत्राध्ययनतः पञ्चर्चम् । ऋष्याद्याः पूर्ववत् ॥ विनियोगस्तु लैङ्गिकः ॥Sayana bhashya empty
+श्रीणन्निति द्वैपदं दशर्चं चतुर्थं सूक्तम् । तत्राध्ययनतः पञ्चर्चम् । ऋष्याद्याः पूर्ववत् ॥ विनियोगस्तु लैङ्गिकः ॥
 </details>
 
 <details><summary>Wilson</summary>
