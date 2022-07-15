@@ -74,7 +74,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 
 <details><summary>सायण-भाष्यम्</summary>
 
-शुक्र इति द्वैपदं दशर्चमध्ययनतः पञ्चर्चं पञ्चमं सूक्तं पराशरस्यार्षमाग्नेयम् । शुक्र इत्यनुक्रान्तं ॥ विनियोगो लैङ्गिकः ॥Sayana bhashya empty
+शुक्र इति द्वैपदं दशर्चमध्ययनतः पञ्चर्चं पञ्चमं सूक्तं पराशरस्यार्षमाग्नेयम् । शुक्र इत्यनुक्रान्तं ॥ विनियोगो लैङ्गिकः ॥
 </details>
 
 <details><summary>Wilson</summary>

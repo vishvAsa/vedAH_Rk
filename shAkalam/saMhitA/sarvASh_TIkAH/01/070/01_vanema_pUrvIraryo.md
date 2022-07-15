@@ -71,7 +71,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 
 <details><summary>सायण-भाष्यम्</summary>
 
-वनेमेति द्वैपदमेकादशर्चमध्ययनतः षडृचं षष्ठं सूक्तम् । ऋष्याद्याः पूर्ववत् । अनुक्रान्तं च । वनेमैकादशेति ॥ विनियोगो लैङ्गिकः ॥Sayana bhashya empty
+वनेमेति द्वैपदमेकादशर्चमध्ययनतः षडृचं षष्ठं सूक्तम् । ऋष्याद्याः पूर्ववत् । अनुक्रान्तं च । वनेमैकादशेति ॥ विनियोगो लैङ्गिकः ॥
 </details>
 
 <details><summary>Wilson</summary>
