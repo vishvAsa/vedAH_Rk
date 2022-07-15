@@ -84,6 +84,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** **इन्द्रः** **ओजसा** बलेन **महान्** सर्वेभ्योऽधिकः । क इव । **वृष्टिमानिव** । यथा वृष्ट्या युक्तः **पर्जन्यः** रसानां प्रार्जयिता देवो महान् स इवेत्यर्थः । स इन्द्रः **वत्सस्य** पुत्रस्थानीयस्य स्तोतुर्वत्सनाम्न एवर्षेः स्तोत्रैः **ववृधे** प्रवर्धते ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+य **ओजसा** बलेन **महान् इन्द्रः** । पूर्ववद्रुत्वादि संहितायाम् । स **इन्द्रः**, **वत्सस्य** वत्सस्थानीयस्य यजमानस्य ऋषेर्वा वत्सनाम्नः, स्वभूतैस् तोमैस् **स्तोत्रैः वावृधे** वर्धताम् । 'छन्दसि लुङ्लिङ्लिटः' इति लिट् । 'तुजादीनां' इत्यभ्यासस्य दीर्घः । 
+
+क इव? **पर्जन्यो वृष्टिमानिव** यथा वृष्टिमान् पर्जन्योभिवर्धते लोकाभिवृद्ध्या तथेत्यर्थः । वृष्टिमानित्यस्व 'ह्रस्वनुङ्भ्यां मतुप्' इति मतुप उदात्तत्वम् । पूर्ववद्रुत्वादि संहितायाम् ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -107,6 +114,15 @@ Displaced iva in b; we might expect *parjánya iva vṛṣṭimā́n, which woul
 INDRA, great in his power and might, and like Parjanya rich in rain,  
      Is magnified by Vatsa's lauds.
 </details>
+
+<details><summary>English</summary>
+
+Great is Indra who through his might  
+Is like Parjanya with the rain;  
+He waxeth with the praises of Vatsa.
+</details>
+
+
 
 <details><summary>Geldner</summary>
 
