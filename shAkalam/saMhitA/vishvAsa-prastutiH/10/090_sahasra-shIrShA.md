@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
-<div class="js_include" url="/vedAH_RkshAkalam/saMhitA/vishvAsa-prastutiH/10/090/_index.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/_index.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
