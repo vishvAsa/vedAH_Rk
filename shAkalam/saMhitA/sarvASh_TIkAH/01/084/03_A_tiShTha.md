@@ -117,6 +117,15 @@ genre M
 हे **वृत्रहन्** शत्रूणां हन्तरिन्द्र **रथम्** **आ** **तिष्ठ** आरोह । यस्मात् **ते** **हरी** त्वदीयावश्वौ **ब्रह्मणा** स्तोत्रलक्षणेन मन्त्रेण **युक्ता** रथेऽस्माभिर्योंजितौ तस्मात् त्वं रथमातिष्ठ। **ते** **मनः** त्वदीयं मनश्च **ग्रावा** अभिषवार्थं प्रवृत्तः पाषाणः **वग्नुना** वचनीयेनाभिषवशब्देन **अर्वाचीनम्** अस्मदभिमुखं **सु** **कृणोतु** सुष्ठु करोतु ॥ युक्ता । ‘सुपां सुलुक्' इति आकारः । वग्नुना । ' वचेर्गश्च ' ( उ. सू. ३. ३१३ ) इति नुप्रत्ययो गकारश्चान्तादेशः ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+हे **वृत्रहन् रथम् आतिष्ठ** । यस्मात् **ते** तव स्वभूतौ **हरी** अश्वौ **ब्रह्मणा** मन्त्रेण **युक्ता** युक्तौ । 'सुपां सुलुक्' इत्याकारः । तस्माद् **रथम् आतिष्ठेति** ।  
+
+किञ्च - **ते** तव **मनः अर्वाचीनं** अस्मद्-यज्ञाभिमुखं **ग्रावा** अभिषवाश्मा **सुकृणोतु** सुष्ठु करोतु **वग्नुना** वचनीयेन श्रवणीयेनाभिषव-शब्देन ॥
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -135,6 +144,16 @@ Let the pressing stone with its call make your mind inclined hither.
 Slayer of Vrtra, mount thy car; thy Bay Steeds have been yoked by prayer.  
      May, with its voice, the pressing-stone draw thine attention hitherward.
 </details>
+
+<details><summary>Keith</summary>
+
+Mount thy car, O slayer of Vrtra;  
+Thy steeds are yoked by our prayer;  
+May the pressing-stone with its voice  
+Incline thy mind towards us.
+</details>
+
+
 
 <details><summary>Geldner</summary>
 
