@@ -136,6 +136,17 @@ popular
 **विभ्राट्** विभ्राजमानं **बृहत्** प्रौढं **सुभृतं** सुपुष्टं **वाजसातमं** वाजस्यान्नस्य बलस्य वा दातृतमं **धर्मन्** धर्मणि वायुना धारयितव्ये **दिवः** द्युलोकस्य **धरुणे** धारके सूर्यमण्डले **अर्पितं** निक्षिप्तं **सत्यम्** अविनश्वरम् **अमित्रहा** अमित्राणामप्रियाणां हन्तृ **वृत्रहा** वृत्राणामावृण्वतां हन्तृ **दस्युहंतमं** दस्यूनामुपक्षपयितॄणां हन्तृतमम् **असुरहा** असुराणां क्षेप्तॄणां घातकं **सपत्नहा** सपत्नानां सहजशत्रूणामपि घातकमीदृग्भूतं **ज्योतिः** सौरं तेजः **जज्ञे** प्रादुर्भवति ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+We note that first hemistich contains the words subhR^itaM, dharman, dharuNe, all implying bearing, propping or supporting of the heavens, which relates with the basic theme of the divAkIrtya-s as a prop of sUrya as described so vividly in the aitareya brAhmaNa. 
+
+In the second hemistich where we encounter the phrase “jyotir jaj\~ne asurahA …” i.e. he generated a light that smote the asura. This atypical use of the negative asura along with its smiting reminds one of the the sUktaM of atri (RV 5.40) where the negative asura is repeatedly used to describe the solar eclipse. 
+
+These observations together suggest that the sUktaM RV 10.170 comprised a “proto-divAkIrtyA”, which already was linked to elements seen in the classical divAkIrtya-s.
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
