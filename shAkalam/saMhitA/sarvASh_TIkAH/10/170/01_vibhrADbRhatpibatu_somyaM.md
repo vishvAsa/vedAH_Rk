@@ -119,6 +119,16 @@ popular
 **विभ्राट्** विभ्राजमानो विशेषेण दीप्यमानः सूर्यः **बृहत्** महत् परिवृढं **सोम्यं** सोममयं **मधु** **पिबतु** । किं कुर्वन् । **यज्ञपतौ** यजमाने **अविह्रुतम्** अकुटिलम् **आयुः** दधत्कुर्वन् । **यः** सूर्यः **वातजूतः** वातेन महावायुना प्रेर्यमाणः सन् **त्मना** आत्मना स्वयमेव **अभिरक्षति** सर्वं जगदभिपश्यन् पालयति । राशिचक्रस्य वायुप्रेर्यत्वात् सूर्यस्यापि तत्प्रेर्यत्यम् । स सूर्यः **प्रजाः** **पुपोष** वृष्ट्यादिप्रदानेन पोषयति **पुरुधा** बहुधा **वि** **राजति** विशेषेण दीप्यते च ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+May the great bright one drink soma with honey,  
+giving the lord of the sacrifice (yajamAna implied) undiminished life.  
+He impelled by the wind personally protects our people,  
+having nourished them with food and lords over many regions.
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
