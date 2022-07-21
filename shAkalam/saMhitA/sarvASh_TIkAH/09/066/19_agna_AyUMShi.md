@@ -147,6 +147,12 @@ Do thou give food and strength to us;
 Far away drive ill-fortune.
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+agni you purify our life, send to us swift strength. Prevent the misfortune from over taking us.
+</details>
+
+
 
 <details><summary>Geldner</summary>
 

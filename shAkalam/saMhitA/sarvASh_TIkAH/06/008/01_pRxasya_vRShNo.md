@@ -124,6 +124,15 @@ genre M
 **पृक्षस्य** संपृक्तस्य व्याप्तस्य । यद्वा । पृक्षं हविर्लक्षणमन्नम् । तद्वतः । **वृष्णः** कामानां वर्षितुः **अरुषस्य** आरोचमानस्य **जातवेदसः** जातानां वेदितुर्वैश्वानराग्नेः **सहः** बलमभिभवनसमर्थं **विदथा** विदथे यज्ञे **नु** क्षिप्रं **प्र** **वोचं** प्रब्रवीमि । प्रकर्षेण स्तौमीत्यर्थः । एको नुशब्दः पूरकः । **नव्यसी** नवतरा **शुचिः** निर्मला यद्वा स्तोतॄणां शोधयित्री **चारुः** शोभना **मतिः** मननीया स्तुतिश्चास्मै **वैश्वानराय** **अग्नये** **पवते** । मत्सकाशात् स्रवति । स्वयमेव निर्गच्छतीत्यर्थः । **सोमइव**। यथा सोमो दशापवित्रात् स्रवति तद्वत् ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+In this assembly of sages I will proclaim the greatness of the red-spotted (the red destructive) bull jAtavedas.  
+A pure and new mantra flows to vaishvAnara,  
+like the purified tasty soma for agni.
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

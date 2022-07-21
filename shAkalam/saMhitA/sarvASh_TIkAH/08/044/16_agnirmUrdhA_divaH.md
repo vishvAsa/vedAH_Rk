@@ -103,6 +103,13 @@ Agni is head and height of heaven, the Master of the earth is he:
      He quickeneth the watere seed.
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+agni is the head and the axis of heaven, the lord of this earth. He makes the seed of water successful.
+</details>
+
+
+
 <details><summary>Geldner</summary>
 
 Agni ist das Haupt, die Spitze des Himmels, er der Herr der Erde; er kräftigt den Samen der Gewässer.
