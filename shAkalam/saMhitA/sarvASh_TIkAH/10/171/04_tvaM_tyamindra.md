@@ -96,8 +96,21 @@ genre M
 
 <details><summary>सायण-भाष्यम्</summary>
 
-हे इन्द्र त्वं त्यं सूर्यं सायंसमये पश्चा पश्चात् सन्तं भवन्तं **पुरः** परेद्युः प्रातःकाले पुरस्तात् कृधि करोषि। लकारव्यत्ययः । कीदृशम् । **देवानां** चित् देवानामपि **तिरः** तिरोहितं तैरपि क्व गत इति दुर्विज्ञातं **वशं** कान्तम् ॥ ॥ २९ ॥
+हे **इन्द्र त्वं त्यं सूर्यं** सायंसमये **पश्चा** पश्चात् **सन्तं** भवन्तं **पुरः** परेद्युः प्रातःकाले पुरस्तात् कृधि करोषि। लकारव्यत्ययः । कीदृशम् । **देवानां चित्** देवानामपि **तिरः** तिरोहितं तैरपि क्व गत इति दुर्विज्ञातं **वशं** कान्तम् ॥ ॥ २९ ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Bring, indra, the sun to the front that is lingering behind,  
+hidden against the wishes of the deva-s.
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+Bring, indra, the sun to the front that is lingering behind, hidden against the wishes of the deva-s.
+</details>
+
+
 
 <details><summary>Wilson</summary>
 

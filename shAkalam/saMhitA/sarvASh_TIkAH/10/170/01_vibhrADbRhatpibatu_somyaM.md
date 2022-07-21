@@ -127,6 +127,11 @@ He impelled by the wind personally protects our people,
 having nourished them with food and lords over many regions.
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The vikarNa sAman amongst the divAkIrtya-s is based on RV 10.170.1. 
+</details>
+
 
 
 <details><summary>Wilson</summary>
