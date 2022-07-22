@@ -113,6 +113,14 @@ popular
 एवमग्निना पृष्टा देवा अग्निं ब्रुवन्ति । हे **जातवेदः** जातप्रज्ञ **अग्ने** **त्वा** त्वाम् अनु **ऐच्छाम** । कीदृशं त्वाम् **अप्सु** उदकेषु **ओषधीषु** च **बहुधा** **प्रविष्टम्** । अन्विष्य च **तं** तादृशमप्प्रविष्टं **त्वा** त्वां **यमः** देवः **अचिकेत्** ज्ञातवान् हे **चित्रभानो** चायनीयरश्मे । कुत्र स्थितं ज्ञातवानिति तदुच्यते । **दशान्तरुष्यात्** । अन्तरुष्यं गूढमावासस्थानं तच्च स्थानं दशसंख्योपेतम् । तादृशं स्थानम् **अतिरोचमानम्** अतीत्य प्रकाशमानम् । अग्नेर्हि गूढानि दश स्थानानि भवन्ति । पृथिव्यादयस्त्रयो लोका अग्निवाय्वादित्यास्त्रयो देवा आप ओषधयो वनस्पतयः प्राणिशरीरमिति दश स्थानानि ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+\[varUNa on behalf of the devas said:\] In many places, we searched for you O agni jAtavedas, hidden in the plants and waters. Then yama piled you\*, one with many-colored \[flames\], blazing forth from your tenfold secret station,  
+\*(achikech: the same root as chayana as in agni-chayana the piling of fire altar)
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

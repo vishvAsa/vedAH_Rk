@@ -17,6 +17,13 @@ Agni Saucīka
 The classic dialogue between Agni and the gods (or one or more gods: he addresses  Mitra and Varuṇa [vs.  2] and Varuṇa alone [vss. 4,  6]). Agni appears still to be  in the waters (or just emerged), and the gods have only recently discovered his  hiding place. The first question is which god spotted him (vss. 1–3). Agni then describes the fear that drove him from his sacrificial role, in responsive language  that defines an omphalos (vss. 4, 6, esp. 4a and 6c). In the omphalos verse (5) the  gods make the argument that Manu, a human and the first sacrificer, deserves to  have his sacrifice completed by Agni’s conveyance of the oblations. It is striking that  the gods, perhaps disingenuously, do not argue for their own deserving state. In the  last three verses (7–9) the gods propose rewards for Agni’s returning to his task, and  he accepts them.
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The mention of the archer shooting at the bull is important. It is an ancient motif in myth that is depicted in Egypt on the Dendera Zodiac. Here the goddess Satit shoots at Sirius which is the head of the Sothis cow! But in this instance the gaur bull is likely to be Taurus fleeing from the archer who is mR^igavyAdha (or could he gaur be another name for the antelope mR^iga?) for the Indo-Aryans.
+</details>
+
+
+
 <details><summary>Geldner</summary>
 
 Ein Gott:

@@ -148,6 +148,14 @@ popular
 अनया देवा मां ज्ञातवन्त इति निश्चित्य गूहनस्य प्रयोजनमाह । हे **वरुण** देव **अहं** **होत्रात्** होतव्यात् । हविर्वहनादित्यर्थः । तस्मात् **बिभ्यत्** **आयम्** आगतवानस्मि । अतः **मा** माम् **एव** एवं पूर्वप्रकारेण **अत्र** अस्मिन् हविर्वहने **नेत्** **युनजन्** नैव योजयन्तु **देवाः** । **तस्य** तादृशस्य बिभ्यतः **मे** **तन्वो** **बहुधा** **निविष्टाः** अप्सु । **एतमर्थम्** एतद्धविर्वहनकार्यम् **अग्निः** **अहं** न **चिकेत** न बुध्ये नाङ्गीकरोमि ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+\[agni said:\] O varuNa, I fled in fear from the sacrifice,so that gods do not in this manner yoke me\*. Thus my forms we laid down in many places; I, agni saw this as my path.  
+\* yoke me= enjoin to the sacrificial rite
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

@@ -142,6 +142,13 @@ popular
 **Taittirīya** **Saṃhitā** 2.6.6: Agnihad three elder brothers, who were killed by the **Vaṣaṭkāra** (utterance of **vaṣaṭ**!) in the form of a thunderbolt,and by Havirvāhana (conveyance of oblations to the gods), the oblation bearer of the gods. Agni **Śaucika**,afraid of sharing the fate of his elder brothers, fled and his himself in the deep water. The fishes betrayed hisretreat to the gods who were searching for him, and upon this discovery the dialogue recorded in this and thefollowing two **sūktas** is supposed to have occurred
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+\[gods to agni\] Great was that dome (ulbaM), and firmly set, and it weighed-down \[folded\] at the place where you entered the waters. One god alone, O agni jAtavedas, saw your many forms all over.
+</details>
+
+
+
 <details><summary>Jamison Brereton</summary>
 
 [Gods:] Great was that caul and sturdy it was, enveloped in which you  entered the waters.  

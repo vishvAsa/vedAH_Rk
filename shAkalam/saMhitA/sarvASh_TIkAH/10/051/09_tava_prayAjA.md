@@ -133,6 +133,15 @@ popular
 “(The gods). Yours, **Agni**, be the Prayājas and Anuyājas exclusively; yours be the concentrated portions of the oblations; let this sacrifice; Agni, be all yours, and let the four quarters of space bow down beforeyou.”
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+\[varUNa on behalf of the devas said:\]\[agni said:\] Yours are the fore-offerings and post-offerings\*, and the sole-offerings and the shares of the strengthening oblations. O agni let this whole sacrificial rite belong to you, and let the four directions bow before thee.
+
+\*The fore- and after-offerings are the pra-yAjas and anu-yAja oblations made in the aprI rite. The kevala is the agni-only offering in the main course of the ritual.
+</details>
+
+
+
 <details><summary>Jamison Brereton</summary>
 
 [Gods:] Yours be the fore-offerings and the after-offerings exclusively, the  nourishing portions of the oblation;  
