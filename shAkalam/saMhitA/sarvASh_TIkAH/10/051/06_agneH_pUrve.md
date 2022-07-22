@@ -132,6 +132,13 @@ popular
 अनयाग्निः स्वपलायननिमित्तमाह । हे देवाः **अग्नेः** मम **पूर्वे** पूर्वमुत्पन्नाः **भ्रातरः** भूपतिभुवनपतिर्भूतानां पतिरिति त्रयोऽग्रजाः **एतम्** **अर्थं** हविर्वहनाख्यमर्थम् **अन्वावरीवुः** अनुक्रमेण वृतवन्तः । तत्र वृणोतेर्यङ्लुगन्ताल्लुङि झेश्छन्दसो लुक् । ‘बहुलं छन्दसि' इत्युक्तम् । आवरणे दृष्टान्तः । **रथीवाध्वानम्** । अध्वानं यथा रथी वृणोति तद्वत् । ते भ्रातरस्तथा कुर्वन्तो हताः । **तस्मात्** मरणात् **भिया** भीत्या हे **वरुण** **दूरं** देशम् **आयम्** । किंच **क्षेप्नोः** इषुक्षेप्तुः धनुषः **ज्यायाः** सकाशातू **गौरो** **न** गौरमृग इव स यथा बिभेति चलति वा तद्वत् **अविजे** अकम्पे । ‘ ओविजी भयचलनयोः । अनुदात्तेत्तौदादिकः । तस्य लङ्युत्तमे रूपम् ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+\[agni said:\] My elder brothers first selected this path, a circuit, like the circumambulation of a charioteer. So,varuNa, I fled afar in fear, as the wild bull (Gaur) flees from the archer’s bowstring. (The elder brothers of agni are the previous equinoctial points that slipped away from precession and thus “died”)
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

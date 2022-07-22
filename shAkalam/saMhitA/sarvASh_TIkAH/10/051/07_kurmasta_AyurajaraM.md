@@ -140,6 +140,13 @@ popular
 इदं देवानां वाक्यम् । हे **अग्ने** **यत्** **आयुः** आयुष्यम् **अजरं** जरारहितमस्ति तत् **ते** **कुर्मः** । **युक्तः** तेनायुषा संयुक्तस्त्वं हे **जातवेदः** जातप्रज्ञ **यथा** **न** **रिष्याः** न म्रियसे तथा कुर्मः। **अथ** **वहासि** वह **सुमनस्यमानः** सौमनस्यं कुर्वन् वोढव्यं वहन् । तदेव दर्शयति । **हविषः** यजमानप्रत्तस्य **भागम्** । केभ्यः । **देवेभ्यः** । हे **सुजात** शोभनजन्मन्नग्ने ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+\[varUNa on behalf of the devas said:\] O agni jAtadvedas we establish for you undecaying life, so that when you are thus employed you are not harmed. So, well-born one you shall with good-will bear to the gods their share of oblations.
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

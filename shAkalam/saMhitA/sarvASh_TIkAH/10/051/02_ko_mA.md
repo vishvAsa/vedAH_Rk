@@ -130,6 +130,18 @@ popular
 इदमग्नेर्वाक्यम् । एको देवोऽपश्यदित्युक्ते पृच्छति । **को** **मा** मां **ददर्श** दृष्टवान् । **स** **देवः** **कतमः** **यो** **मे** मम **तन्वः** तनूः **बहुधा** बहुप्रकारं स्थिताः **पर्यपश्यत्** परिदृष्टवान् । हे **मित्रावरुणा** मित्रावरुणौ **अग्नेः** मम **विश्वाः** सर्वाः **समिधः** दीप्ताः **देवयानीः** देवयानसाधनभूताः तन्वो दृष्टा इत्युक्तं यदि दृष्टाश्चेत्तर्हि **क्व** **क्षियन्ति** क्व निवसन्तीत्येवं देवानां पुरतो वर्तमानौ मित्रावरुणावाहाग्निः ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+\[agni asks the devas:\] Which God had seen me? Who of all their multitude saw my forms in many dwellings? Where then are placed the fire sticks of agni that lead one of the northern path of the ecliptic (devayAna) O varuNa and mitra?
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+These cryptically allude exactly to what de Santillana and von Dechend mention as the armillary sphere of the sky with agni as the equinotical colure. The point where he enters the waters is the intersection with the celestial equator. They mention that the Aztecs took Castor and Pollux to be the fire sticks from which men learned to make fire.
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
