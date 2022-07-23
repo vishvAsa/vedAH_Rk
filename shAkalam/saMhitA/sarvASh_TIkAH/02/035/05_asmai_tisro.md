@@ -124,7 +124,13 @@ genre M
 
 <details><summary>सायण-भाष्यम्</summary>
 
-नारीर्नेत्र्यः तिस्रोदेवीर्देव्यः इळासरस्वतीभारत्याख्याः अव्यथ्यायअव्यथनायास्मैदेवायापान्न पाते अन्नंसोमाख्यन्दिधिषन्ति धारयन्ति धिषशब्दे जौहोत्यादिकः व्यत्ययेनान्तादेशः धातूनामने कार्थत्वादत्रधारणार्थः अप्सूदकेषुक्रुताइवनिर्मिताइव उपप्रसर्स्रेप्रसरन्ति सृगतौ लिटि इरयोरेआ देशः छान्दसोहलादिशेषाभावः हियस्मादेवन्तस्मात्पूर्वसूनाम्पूर्वम्ब्रह्मणः सकाशात् उत्पन्नानामपां पीयूषंसारभूतंसोमाख्यममृतंसोपान्नपादग्निर्धयति पिबति ॥ ५ ॥
+**नारीर्** नेत्र्यस् **तिस्रो देवीर्** देव्य - इळा-सरस्वती-भारत्याख्या  
+**अव्यथ्याय** +अव्यथनायास्मै **देवाय** +अपां नपाते **ऽन्नं** सोमाख्यं  
+**दिधिषन्ति**  धारयन्ति ॥ धिष शब्दे जौहोत्यादिकः । व्यत्ययेनांत्यादेशः । धातूनाम् अनेकार्थत्वाद् अत्र धारणार्थः ॥ 
+
+अप्सूदकेषु कृता **इवोपप्रसर्स्रे** - प्रसरंति ॥ सृ गतौ । लिटीरयो रे इति रेआदेशः । छांदसो हलादिशेषाभावः ॥  
+
+यस्माद् एवं तस्मात् **पूर्वसूनां** पूर्वं ब्रह्मणः सकाशाद् उत्पन्नानाम् अपां **पीयूषं** सारभूतं सोमाख्यम् अमृतं सो ऽपांनपादग्निर् **धयति** पिबति ॥ ॥ ५ ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -137,6 +143,15 @@ genre M
 
 The three divine feminine les: iḷā, **sarasvatī** and **bhāratī**,person nifications of sacred prayer or praise; as if formed in the waters: **kṛtā** iva upa hi prasarsre apsu, they have proceeded or issued, as if made, in the waters; sa pīyuṣam dhayati pūr vasūnām, he drinks the nectar, that is, the **Soma**, of those first born; the essence of the waters which were the first created things by **Brahmā**; pūrvam **brāhmaṇaḥ** sakāśād utpannānām apām sārabhūtam
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Three goddesses present food to that unassailable god;  
+as if formed in the waters they spread all over,  
+and he drinks the colostrum of the first-emergent.
+</details>
+
+
 
 <details><summary>Jamison Brereton</summary>
 
