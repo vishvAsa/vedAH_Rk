@@ -89,6 +89,13 @@ genre M;; repeated line
 **होता** देवानामाह्वाता होमनिष्पादको वा **अग्निः** **नः** अस्मदीये **अध्वरे** यागे । वाजीत्येतत् लुप्तोपमाकम् । **वाजी** शीघ्रगामी वोढाश्व इव तथा देवेभ्यो हविर्वाहकः **सन्** **परि** **णीयते** परितः समन्तात् प्राप्यते । तथा ब्राह्मणं च भवति - ’वाजी सन्परि णीयत इति वाजिनमिव ह्येनं सन्तं परिणयन्ति ' ( ऐ. ब्रा. २.५ ) इति । कीदृशोऽग्निः । **देवेषु** द्योतमानेष्विन्द्रादिषु मध्ये **देवः** द्योतमानः **यज्ञियः** यज्ञार्हः ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+agni, the hotar, being the booty bearing horse, is led around in our sacrifice; a deva to be worshipped amongst the devas.
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

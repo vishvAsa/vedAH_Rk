@@ -118,14 +118,23 @@ genre M;; repeated line
 
 <details><summary>सायण-भाष्यम्</summary>
 
-हे स्तोतः **सु** **प्रभूतये** प्रकृष्टधनाय **अस्मै** **वरुणाय** **विदुष्टरेभ्यः** विद्वत्तरेभ्यः **मरुद्भ्यः** च **अर्च** स्तुहि । **यः** वरुणः **धीता** कर्मणा **मानुषाणां** मनुष्याणां **पश्वः** पशून् **गाइव** **रक्षति** । सिद्धमन्यत् ॥
+हे स्तोतः **सु** **प्रभूतये** प्रकृष्टधनाय **अस्मै** **वरुणाय** **विदुष्टरेभ्यः** विद्वत्तरेभ्यः **मरुद्भ्यः** च **अर्च** स्तुहि । **यः** वरुणः **धीता** कर्मणा **मानुषाणां** मनुष्याणां **पश्वः** पशून् **गा इव** **रक्षति** । सिद्धमन्यत् ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+if one is favored by it the bhrAtR^ivyas are slain.  
+The verse though simple is simply misunderstood and mistranslated by most (for example the ridiculous translations of the Germans Grassmann and Geldner as also sAyaNa’s incorrect idea). What they do not realize is that the verb rakShati has two meanings : 1) protect 2) To keep watch. The second meaning is critical to correctly understand this mantra. Its prayoga can be successful only with this latter meaning taken into account.
+</details>
+
+
+
 
 <details><summary>Wilson</summary>
 
 ### English translation:
 
-“Offer praise to that opulent **Varuṇa**, and to the most sage **Maruts**; (Varuṇa) who protects men by hisacts, as (the herdsman guards) the cattle; may all our adversaries perish.”
+“Offer praise to that opulent **Varuṇa**, and to the most sage **Maruts**; (Varuṇa) who protects men by his acts, as (the herdsman guards) the cattle; may all our adversaries perish.”
 
 ### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
