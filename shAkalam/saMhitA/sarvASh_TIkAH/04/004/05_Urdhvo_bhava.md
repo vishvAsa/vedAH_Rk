@@ -141,6 +141,13 @@ genre M
 एतदुक्तं भवति; - शत्रून् प्रमृणीहि । किं विशेषेण? जामिं चाजामिं च शत्रुं मारय यः पूर्वं प्रहृतस्तमपि प्रहर, हतो यमिति मोपेक्षिष्ठाः, यश्च न प्रहृतः कुतश्चित्कारणात्तमपि प्रहर, वराकोयं न हन्तव्य इत्यादि चेतसि माकृथाः । इदमेव कार्त्स्न्यं प्रतिपादयितुं बहुवचनं प्रयुक्तम् । एकेन जामि मारणेन एकेनाजामिमारणेन देवस्य कृतार्थता माविज्ञायीति । यद्वा - द्वे अप्येते क्रियाविशेषणे, व्यत्ययने 'स्वमोर्नपुंसकात्' इति न क्रियते । पुनरुक्तमपुनरुक्तं च शत्रून् मारयेति ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Rise up O agni, hit back against those who fight against us, putting forth your celestial might.  
+Slacken the firm bows of the inciters of yAtus, destroy our foemen whether from our people or foreigners. 
+</details>
+
+
 
 <details><summary>Wilson</summary>
 

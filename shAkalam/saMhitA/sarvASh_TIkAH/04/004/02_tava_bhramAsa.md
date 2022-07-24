@@ -124,6 +124,12 @@ genre M
 अन्य आह - असन्दितः केनचिदप्यखण्डितप्रसरस्सन् इत्थं कुरु । तत्र कारणमाह - जुह्वा जुहूस्थेनाज्येनेत्यर्थः ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Proceed rapidly flying, whirling your \[weapons\], follow them closely, and attack blazing in fury.  
+Spread with thy tongue the flying flames, O agni; unstoppable, hurl forth firebrands \[like meteors\] all around thee.
+</details>
+
 
 
 <details><summary>Wilson</summary>
