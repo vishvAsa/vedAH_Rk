@@ -146,6 +146,13 @@ genre M
 सईंसोयमपान्नपात् सञ्ज्ञकोदेवः वृषासेक्ताभूत्वातासुमेघस्थास्वप्सुगर्भमजनयत् स्वात्मानमेव गर्भरूपेणवर्षणार्थङ्कृतवानित्यर्थः गर्भोभूत्वाचसईंसोयम्माध्यमिकोवैद्युतोग्निः तासांशिशुः पुत्रः सन् धयतिमेघस्थास्ताःपिबति अबिन्धनोह्यसौतम्पुत्रस्थानीयमद्भिः आपश्चरिहन्ति लिहआस्वा दने कपिलकादित्वाल्लत्वविकल्पः सोयमपान्नपात् वृष्ट्यासहभूमौनिपतितः अनभिम्लातवर्णः अभितोम्लातोम्लानः क्षीणोवर्णोयस्यतद्विपरीतोत्यर्थन्दीप्यमानःसन् इहास्मिन्लोकेअन्यस्येव इव शब्दोवधारणे अन्यस्यपार्थिवस्यैवाग्नेस्तन्वाशरीरेणकाष्ठेन्धनत्वलक्षणेनविवेष व्याप्तोबभूव विषॢ व्याप्तौ ॥ १३ ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Of great fertility, he has generated himself as a germ in those \[waters\]; he is their infant; he sucks the \[waters\]; the \[waters\] moisten him; apAm napAt of the waters of unfading color has entered here in a new body.  
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -166,7 +173,7 @@ The Child of the Waters, whose color never fades, has toiled here as if  with th
 <details><summary>Griffith</summary>
 
 The Bull hath laid his own life-germ Within them. He sucks them as an infant, and they kiss him.  
-     He, Son of Waters, of unfading colour, hadi entered here as in another's body.
+     He, Son of Waters, of unfading colour, hath entered here as in another's body.
 </details>
 
 <details><summary>Macdonell</summary>
