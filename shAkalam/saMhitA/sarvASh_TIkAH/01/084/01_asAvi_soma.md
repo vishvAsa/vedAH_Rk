@@ -112,6 +112,15 @@ genre M
 हे **इन्द्र** **ते** त्वदर्थं **सोमः** **असावि** अभिषुतोऽभूत् । हे **शविष्ठ** अतिशयेन बलवन् अत एव **धृष्णो** शत्रूणां धर्षयितरिन्द्र **आ** **गहि** देवयजनदेशमागच्छ । आगतं च त्वाम् **इन्द्रियं** सोमपानेनोत्पन्नं प्रभूतं सामर्थ्यम् **आ** **पृणक्तु** आपूरयतु । **रजः** अन्तरिक्षं **रश्मिभिः** किरणैः **सूर्यो** **न** । यथा सूर्यः पूरयति तद्वत् ॥ शविष्ठ । शवस्विञ्शब्दात् इष्टनि ‘ विन्मतोर्लुक्'।' टेः' इति टिलोपः । पादादित्वात् निघाताभावः । गहि । गमेर्लोटि: बहलं छन्दसि ' इति शपो लुक् ।' अनुदात्तोपदेश इत्यादिना अनुनासिकलोपः । तस्य ‘असिद्धवदत्रा भात्' इति असिद्धवत्त्वात् हेः लुगभावः ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+हे **इन्द्र शविष्ठ** बलवत्तम । शवस्वच्-छब्दादिष्ठनि 'विन्मतोर्लुक्' इति मतुपो लुक्, 'टेः' इति टिलोपः । हे **धृष्णो** शत्रूणां धर्षयितः । 'त्रसिगृधिधृषिक्षिपेः क्नुः' इति क्नुप्रत्ययः । **आगहि** आगच्छ अस्मद्यज्ञम् । गमेश्शपो लुक् ।
+
+कस्मादेवमुच्यस इति चेत्? त्वदर्थम् अयं **सोमोऽसावि** अभिषुतस् - तस्मादागच्छेति ।
+
+किञ्च - **इन्द्रियं** वीर्यं सोमपानेन च प्रभूततां गतं त्वाम् **आपृणक्तु** आपूरयतु । सूर्यमिव रज उदकं यथा रश्मिभिर्द्वारभूतैः सूर्यमापूरयति ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -135,6 +144,15 @@ Unlike the standard tr., Witzel Gotō take rájaḥ ‘Raum’ with the frame, n
 The Soma hath been pressed for thee, O Indra; mightiest, bold One, come.  
      May Indra-vigour fill thee full, as the Sun fills mid-air with rays.
 </details>
+
+<details><summary>Keith</summary>
+
+The Soma hath been pressed for thee O Indra;  
+O most strong, O impetuous one, come hither;  
+Let power encompass thee,  
+Even as the sun encompasses the atmosphere with its rays.
+</details>
+
 
 <details><summary>Geldner</summary>
 
