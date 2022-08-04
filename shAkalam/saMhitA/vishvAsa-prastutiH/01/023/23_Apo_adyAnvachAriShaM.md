@@ -3,5 +3,5 @@ title = "२३ आपो अद्यान्वचारिषं"
 
 +++
 
-आपो॑ अ॒द्यान्व॑चारिषं॒ रसे॑न॒ सम॑गस्महि ।  
-पय॑स्वानग्न॒ आ ग॑हि॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/09_Apo_adyAnvachAriShaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+

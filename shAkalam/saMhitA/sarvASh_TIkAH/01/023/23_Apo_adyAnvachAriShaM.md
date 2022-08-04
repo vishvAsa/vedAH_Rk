@@ -156,6 +156,8 @@ The Waters I this day have sought, and to their moisture have we come:
 <details><summary>Geldner</summary>
 
 Die Gewässer habe ich heut aufgesucht; wir sind mit dem Naß in Berührung gekommen. Komm Milch bringend, Agni; begabe mich hier mit Ansehen!
+__________
+Die Gewässer habe ich heute aufgesucht; wir sind mit ihrem Naß in Berührung gekommen. Komm Milch bringend, Agni, begabe mich hier mit Anziehungskraft!
 </details>
 
 <details><summary>Grassmann</summary>
