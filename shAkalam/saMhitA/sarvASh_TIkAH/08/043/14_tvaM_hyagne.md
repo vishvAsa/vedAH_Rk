@@ -89,6 +89,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **विप्रः** मेधावी **सन्** विद्यमानः **सखा** च **त्वं** **विप्रेण** **सता** **सख्या** **अग्निना** **समिध्यसे** । तथा च ब्राह्मणं - ’त्वं ह्यग्ने अग्निना विप्रो विप्रेण सन्त्सतेति विप्र इतरो विप्र इतरः सन्नितरः सन्नितरः सखा सख्या समिध्यस इत्येष ह वा अस्य स्वः सखा' (ऐ. ब्रा. १. १६ ) इति ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+हे अग्ने त्वमग्निनाभ्युद्धृतेन समिध्यसे सम्यगेवेध्यसे । कीदृशः कीदृशेनेत्याह - विप्रो मेधावी विप्रेण मेधाविना समिध्यसे । अयमकेस्समिन्धनहेतुः । किञ्च - सन् प्राज्ञः स तादृशेनाग्निना समिध्यसे । 'हि च' इति निघातप्रतिषेधः, 'तिङि चोदात्तवति' इति गतेरनुदात्तत्वं, 'उहात्तवता तिङा' इति समासः, अदुपदेशाल्लसार्वधातुकानुदात्तत्वे यक उदात्तत्वम् । ईदृशस्त्वमभ्युद्धरणदोषमुपशमयेति शेषः ॥
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -117,6 +124,14 @@ agne has to be tr. “Fire,” rather than the usual “Agni,” because otherwi
 For thou, O Agni, by the fire, Sage by the Sage, Good by the Good,  
      Friend by the Friend, art lighted up.
 </details>
+
+<details><summary>Keith</summary>
+
+Thou, O Agni, by Agni,  
+The sage by the sage, the good by the good,  
+The comrade by the comrade, art kindled.
+</details>
+
 
 <details><summary>Geldner</summary>
 
