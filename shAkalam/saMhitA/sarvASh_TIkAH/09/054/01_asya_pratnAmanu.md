@@ -117,6 +117,14 @@ AFTER his ancient splendour, they, the bold, have drawn the bright milk from
      The Sage who wins a thousand gifts.
 </details>
 
+<details><summary>Keith</summary>
+
+After his ancient splendour,  
+The bold ones have drawn the white milk  
+From the seer who winneth a thousand.
+</details>
+
+
 <details><summary>Geldner</summary>
 
 Seinem altbekannten Glanze gemäß haben die nicht Schüchternen aus dem tausendgewinnenden Rishi die helle Milch herausgemolken.

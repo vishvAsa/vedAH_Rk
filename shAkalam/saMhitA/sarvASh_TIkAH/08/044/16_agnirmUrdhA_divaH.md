@@ -81,6 +81,11 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मूर्धा** देवानां श्रेष्ठः **दिवः** द्युलोकस्य **ककुत्** उच्छ्रितः **पृथिव्याः** च **पतिः** **अयम्** **अग्निः** **अपां** **रेतांसि** स्थावरजङ्गमात्मकानि भूतानि जिन्वति प्रीणयति ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+अयम् **अग्निर् मूर्धा** प्रधानभूतः **दिवः** द्युलोकस्य **ककुत्** उच्छ्रितः आत्मेत्यर्थः अर्यमात्मना **दिवो** मूर्धत्वेन वतत इति । अयमेव **पृथिव्याः पतिः** पाता; अग्निर् हि पृथिव्यात्मना वर्तते । सो ऽयम् **अपां रेतांसि** कार्यभूतानि स्थावरजङ्गमाख्यानि माध्यमिकाग्निरूपेण **जिन्वति** वृष्ट्या तर्पयति । 'ऊडिदम्' इति षष्ठ्या उदात्तत्वम् । 'उदात्तयणः' इति पृथिव्याः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -108,6 +113,12 @@ Agni is head and height of heaven, the Master of the earth is he:
 agni is the head and the axis of heaven, the lord of this earth. He makes the seed of water successful.
 </details>
 
+<details><summary>Keith</summary>
+
+Agni is the head of the sky, the height,  
+Lord of the earth here,  
+He quickeneth the seed of the waters.
+</details>
 
 
 <details><summary>Geldner</summary>
