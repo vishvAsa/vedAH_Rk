@@ -69,6 +69,13 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 8+3
 **शोचिष्ठ** अतिशयेन शोचिष्मन् **दीदिवः** स्वतेजोभिर्दीप्ताग्ने **तं** त्वां **सुम्नाय** सुखाय । सुम्नमिति सुखनाम् । तदर्थं **सखिभ्यः** समानख्यातिभ्यः पुत्रेभ्यः तदर्थं च **नूनम्** **ईमहे** याचामहे ॥ ॥ १६ ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+8तं त्वेति ॥ शोचिष्ठ दीपयितृतम 'तुश्छन्दसि' इतीष्ठन् । 'तुरिष्ठेमेयस्सु' इति टिलोपः । यद्वा - शोचस्वितम । 'विन्मतोर्लुक्' । हे दीदिवः दीप्यमान जिगीषन्वा । दिवेर्लिटः क्वसुरादेशः, 'तुजादीनाम्' इत्यभ्यासस्य दीर्घत्वम् । तं त्वां तादृशमन्तिकतमत्वादिगुणविशिष्टं त्वां सुम्नाय धनाय सुखाय वा ईमहे याचामहे । नूनमिति पादपूरणे निश्चये वा । यद्वा - नूनं नूतनं अभूतपूवं तं त्वां सखिभ्यः समानख्यानेभ्यः सुहृदयसुहृद्भ्यः । 'क्रियाग्रहणं कर्तव्यम्' इति कर्मणस्सम्प्रदानत्वात्सुम्नायेति चतुर्थी ॥
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -88,6 +95,13 @@ To thee then, O Most Bright, O Radiant God, we come with prayer for happiness fo
 
 We entreat thee now, O brightest, shining (Agni), for thy grace, for our friends.
 </details>
+
+<details><summary>Keith</summary>
+
+Thee, O shining and most radiant one,  
+We implore for favour, for our friends;  
+</details>
+
 
 <details><summary>Geldner</summary>
 
