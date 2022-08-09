@@ -104,6 +104,30 @@ genre M
 **प्रचोदयात्** । चोदयतेर् लेट्याडागमः । यद्-वृत्त-योगाद् अनिघातः । आगमस्यानुदात्तत्वे णिचः स्वरः ॥ ॥ १० ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+**तत्** तस्य 'सुपां सुलुक्' इति षष्ठ्या लुक् । तस्य **सवितुः देवस्य** दाना[देवना]दिगुणयुक्तस्य स्वभूतं तत्प्रसादलभ्यं वा अत एव **वरेण्यं** वरणीयं सर्वैः प्रार्थनीयं **भर्गः** तेजः अन्नं धनं वा वयं **धीमहि** धारयेम तस्यैव प्रसादात् तस्याधारभूता भवेम । धीङ् आधारे दैवादिकः । 'छन्दसि लुङ्लङ्लिटः' इति लङि 'बहुलं छन्दस्यमाङ्' इत्यडभावः । दधातेर्वा लिङ् । सर्वत्र 'बहुलं छन्दसि' इति शपोलुक् ।   
+
+कस्येत्याह - **यो** देवस्सवितास्माकं **धियः** कर्माणि प्रचोदयात् **प्रचोदयेत्** प्रवर्तयेत् । 
+
+यद्वा - **धियः** धर्मादिगोचराः बुद्धीः **प्रचोदयात्** प्रेरयेत् । लेट्याडागमः । 
+
+तस्य सवितुर् इति - यद्वा - **सवितुर् देवस्य तद्** अन्नादि **धीमहि** ।  
+किमित्याह - **य** इति । लिङ्गव्यत्ययः । **यद्** अस्माकं धियः **प्रचोदयात्** प्रेरयति । 
+
+यद्वा - **यो देवस् सविता** विश्वस्य प्रसवितास्माकं धर्मादिगोचराः **धियः** प्रेरयति तस्य स्वभूतं **वरेण्यं** सर्वैर्भजनीयं **भर्गः** पापानां तापनं तेजो मण्डलात्मकं **धीमहि** मनसा धारयामः । ध्यायतेरेव वा छान्दसं सम्प्रसारणम् । 
+
+एवं बोधप्रकाशाभ्यां समस्तस्य प्रपञ्चस्य उपकुर्वाणं श्रेयोर्थिभिर् भजनीयं सूर्यात्मना स्थितं पारमेश्वरं तेज उपास्यत्वेन उपदिश्यते ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+अथ सावित्री - तत्सवितुरिति ॥  
+**तच्**-छब्दश्रुतेः यच्-छब्दोभ्याहर्तव्यः । **यत्** सर्वेषां ध्येयं तद्देवस्य **सवितुः वरेण्यं** वरणीयं **भर्गः** पापानां भर्जनं तेजोमयं रूपं वयं **धीमहि** ध्यायामः । कीदृशस्य सवितुः? **यो नः** अस्माकं सर्वेषां **धियो** धर्मादिविषया वृद्धिः **प्रचोदयात्** प्रेरयेत् । 
+
+सवित्राभ्यनुज्ञातो हि सर्वोपि कर्म करोति सविता वै प्रसवानामीशे इति ब्राह्मणम् ॥
+</details>
+
 <details><summary>विद्यारण्यः</summary>
 
 अथ सर्वदेवात्मनः सर्वशक्तेः सर्वावभासक-तेजो-मयस्य परमात्मनः सर्वात्मकत्व-द्योतनार्थं सर्वात्मकत्व-प्रतिपादक-गायत्री-महा-मन्त्रस्योपासन-प्रकारः प्रकाश्यते ।  
@@ -169,6 +193,11 @@ genre M
 समान अधिकरण होने से एक रूपता है। इस तरह सब का साक्षी जीवात्मा ब्रह्म के साथ तादात्म्य होने के कारण एकत्व है। यह गायत्री मंत्र सर्वात्मक ब्रह्म का बोध कराने वाला है। तीन महाव्याहृतियों का अर्थ यों है। भूः का अर्थ सत है, भुवः सब का प्रकाशक (इस व्युत्पत्ति से चिद् रूप कहलाता है) स्वः सुव्रियते इस व्युत्पत्ति से सबसे प्रथिति सुख रूप है।
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
+</details>
+
 
 
 
@@ -215,6 +244,14 @@ May we attain that excellent glory of Savitar the God:
      So May he stimulate our prayers.
 </details>
 
+<details><summary>Keith</summary>
+
+That excellent glory of Savitr  
+The god we meditate,  
+That be may stimulate our prayers.
+</details>
+
+
 <details><summary>Geldner</summary>
 
 Dieses vorzügliche Licht des Gottes Savitri empfingen wir, der unsere Gedanken anregen soll.
@@ -231,3 +268,128 @@ Dass wir des Gottes Savitar begehrtes Licht erlangten doch, Der unsre Bitten fö
 Блеск бога Савитара,  
 Который должен поощрять наши поэтические мысли!
 </details>
+
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+## The mantra-s
+
+The Sāvitrī is the core mantra used in Savitrupāsanā. It also has other notable deployments, which will be described later. Its ṛṣi is Viśvāmitra of the clan of Gāthin, the chandas is nicṛd gāyatrī and the devatā is Savitṛ. It is from the 3_r__d_ maṇḍala of the Ṛgveda (RV 3.62.10). The meter is termed nicṛd gāyatrī because the syllable count is 23, one short of the usual 24 for a gāyatrī. This arises due to the intrinsic saṃdhi, which creates वरेण्यम् from वरेणियम् . The Sāvitrī goes thus:  
+
+> तत् स॑वि॒तुर् वरे॑ण्य॒म् भर्गो॑ दे॒वस्य॑ धीमहि । धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+
+Given the popularity of the Sāvitrī it is common to see numerous translations of the same; however, these often do not get certain aspects of the Old Vedic register of Sanskrit. It is important that one does the japa of this mantra with a proper grasp of its sense in the original language. Hence, we provide a translation of the mantra in full here.  
+
+tat= that; Savituḥ= of Savitā; vareṇyam= excellent or desirable; bhargaḥ= radiance (neuter accusative); devasya= of the god; dhīmahi= may we fix \[our mind\]/ may we focus on; dhiyaḥ= insights (plural of dhī); yaḥ= who; nas= our; pracodayāt= may he inspire.  
+
+There are a few key points to make note of: first, the verb form dhīmahi; this is the āśīr-liṅ (benedictive) 1st person plural form of the root dhā, which belongs to class 3 (juhotyādi gaṇa). We are unaware of the occurrence of other āśīr-liṅ forms of the verb dhā in the RV. It is used symmetrically with the 3rd person singular āśīr-liṅ form of the verb pra-cud i.e. pracodayāt. These forms are not commonly used outside of such mantra-s suggesting that it was an ancient usage of a verb-pair presenting a relationship between the worshipers (dhīmahi) and the god (pracodayāt). 
+
+Second, the name of the god Savitṛ is commonly combined with the word deva (god). This combination probably again has an ancient connotation, which is reflected in theonyms of other Indo-European branches like proto-Germanic *Tiwaz>Tyr. It (theos) was probably also used in this sense for the Greek Hyperion[^MT_1], the likely cognate of Savitṛ, in the Homeric language. 
+
+[MT^1]: A Titan, even as Savitṛ is also called Asura in the RV
+
+Third, the word dhiyaḥ, has been specifically chosen for alliteration with dhīmahi[^MT_2]. It means not just any thought but specifically inspired thought or insight that leads to the “seeing” of special knowledge, such as that embodied in a Vedic mantra. 
+
+[^MT_2]: Word analysis suggests that Viśvāmitra had a particular propensity for alliterative or polyptotonic usages such as the āmreḍita. See: [A note on āmreḍita-s in the Ṛgveda and issues of word distribution](https://manasataramgini.wordpress.com/2018/05/14/a-note-on-aṃreḍita-s-in-the-ṛgveda-and-issues-of-word-distribution) 
+
+Thus, we get,  
+
+May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
+
+The Sāvitrī is prefixed with the three vyāhṛti-s for the actual japa.  
+
+> भूर् भुवः सुवः ।  
+
+The three basic vyāhṛti-s are to understood as the three realms, the earth, the atmosphere and the heavens, which are pervaded by the light of the god Savitṛ. These are given above in the Yajurvedic form, which may also be followed in Atharvavedic tradition. In the Ṛgvedic tradition the internal saṃdhi is enacted and we have स्वः for सुवः. The mysteries of these vyāhṛti-s are explained, among other places, in the Taittirīya-śruti.  
+
+For the practice of prāṇāyāma, it is prefixed with the 7 vyāhṛti-s.  
+
+> ॐ भूः । ॐ भुवः । ओग्ँ सुवः । ॐ महः । ॐ जनः । ॐ तपः । ओग्ँ सत्यम् ।  
+
+These may be understood as a larger set of 7 regions of space, which are pervaded by the light of Savitṛ. The nasals preceding sa are given as per the Yajurvedic tradition. They are rendered as the usual nasals in the RV and AV traditions.  
+
+It suffixed by the incantation known as the brahmaśiras.  
+
+> ॐ आपो॒ ज्योती॒ रसो॒ ऽमृतं॒ ब्रह्म॒ भूर्-भुव॒-सुव॒रो३म् ॥  
+
+Here, āpaḥ= waters; jyotiḥ= light; rasaḥ= life fluids; amṛtaṃ= immortality; brahma= mantra-power. bhūḥ, bhuvaḥ and suvaḥ and the three main vyāhṛti-s  
+
+Then there is the four-footed form which is a mystery teaching in the śruti of the Śukla-yajurvedin-s. This is obtained by adding the below.  
+
+> प॒रो-र॑जसे॒ ऽसाव॒द् ओ३म् ॥  
+
+This technically converts it into an anuṣṭubh due the addition of 8 additional syllables. In the mystery teaching it is termed the beautiful or the vivid foot that is beyond the immediate space (rajas: see section below for details). In the same teaching it is revealed that the 4_t__h_ foot is a critical aspect of both abhicārika and vṛddhi deployments of the Sāvitrī. Indeed, combined with the teaching of Śaunaka it might be deployed along with the Sāvitrī with syllables inverted (viparīta-prayoga) for abhicārika purposes.  
+
+The Atharvan tradition gives a saṃpuṭikaraṇa of the Sāvitrī known as the Mahāsāvitrī. It goes thus:  
+
+> ॐ भूः । ॐ भुवः । ॐ स्वः । ॐ महः । ॐ जनः । ॐ तपः । ॐ स॒त्यं ।  
+> ॐ तत् स॑वि॒तुर् वरे॑ण्य॒म् भर्गो॑ दे॒वस्य॑ धीमहि ।  
+> धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+> ॐ आपो॒ ज्योती॒ रसो॒ ऽमृतं॒ ब्रह्म॒ भूर्-भुव॒-सुव॒रो३म् ॥  
+> ॐ भूर्-भुवः-सुवर्-महर्-जनस्-तपः सत्यं मधु॑ क्षरन्ति ।  
+> ॐ आपो॒ ज्योती॒ रसो॒ ऽमृतं॒ ब्रह्म॒ भूर्-भुव॒-स्वरो३म् ।  
+> ओम्॑ तद्-ब्र॒ह्म । ओम्॑ तद्-वा॒युः । ओम्॑ तद्-आ॒त्मा । ओम्॑ तत्-स॒त्यम् । ओम्॑ तत्-सर्वम्॑ । ओम्॑ तत्-पुरों॒ नमः ॥ 
+
+ 
+Some hold that deploying this form of the mantra 10× can be considered an equivalent of deploying the regular version 108×. This mantra is also seen as a combination of that of the gods Savitṛ and Vayu. These two are an ancient pair as indicated by the Mṛgāra mantra-s. Savitṛ pervades space with light, while the Vayu pervades it as the rarefied substance and the force which holds the celestial bodies together. These two thus form the foundation of existence.  
+
+The Atharvan tradition also teaches the mystery deployment, which adds the Atharvaśiras comprised of the Atharvanic high vyāhṛti-s.  
+
+> ॐ भुर्-भुवः-स्वः ।  
+> ॐ तत् स॑वि॒तुर् वरे॑ण्य॒म् भर्गो॑ दे॒वस्य॑ धीमहि ।  
+> धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+> ॐ भूर् भुवः स्वर् जनद् वृधत् करद् रुहन् महत् तच् छम् ओम् ॥  
+
+Here, the vyāhṛti-s janad, vṛdhat, karat, ruhat, mahat, tat, śam and oṃ are the special vyāhṛti-s of the Bhṛgvāṅgiras. These are part of the secret teaching of the Atharvan. The knower of the Bhṛgvāṅgirasa-śruti may use this deployment to protecting himself while attacking his enemies with the stoma-bhāga-prayoga.  
+
+The viparīta-prayoga (inverse deployment) is specified for abhicārika purposes.  
+
+> त्यादचोप्र नो यो योधि ।  
+> हिमधी यस् व दे गोर्भ ।  
+> म्यणिरेव तुर्विस त्त ॥  
+
+A variant inverse deployment involves merely inverting the three feet.  
+
+> धियो॒ यो नः॑ प्रचो॒दया॑त् । भर्गो॑ दे॒वस्य॑ धीमहि । तत् स॑वि॒तुर् वरे॑णि॒यों ॥
+
+## The mysteries
+
+The śruti of the the Vājasaneyin-s provides a mystery teaching regarding the Sāvitrī, which associates the 3 feet of the core mantra with a triad of triads, which is summarized below.
+
+- भूमिः  अन्तरिक्षम् द्यौस्
+- ऋचः यजूंषि सामानि
+- प्राणः अपानः व्यानः
+
+The one who meditates on the Sāvitrī with this knowledge is understood as penetrating 
+
+- the realms of the universe with the first triad, 
+- the realms of Veda-s with the second triad and 
+- realms of life with the the third triad. 
+  
+The fourth foot is said to blaze beyond the expanse of the visible space, the “rajas” and its knowledge confers splendor.  
+
+The Atharvan tradition holds (the teaching of Maudgalya to Glāva Maitreya) that the Sāvitrī is pervaded by the god Deva Savitṛ and his consort Sāvitrī in the form of 12 pairs of forms corresponding to each syllable (Figure [\[fig:fig1\]](#fig:fig1)). In these forms the two deities pervade the universe and the ritual. This presentation in the Atharvan tradition is consistent with the statement of Vāmadeva Gautama in the RV: आप्रा॒ रजां॑सि दि॒व्यानि॒ पार्थि॑वा॒ in RV 4.53.3, i.e. celestial and the earthly realms. The three feet of the Sāvitrī are described giving rise to three sequences of emanations that culminate in the ritual observance of the brāhmaṇa (Figure below; lower panel). The ritualist who performs the deployment of the Sāvitrī with the appropriate knowledge of the omniform manifestation of Savitṛ and his consort and the emanations of the three feet meets with success.  
+
+{{< figure src="/devaH/AryaH/hindukaH/savitA/images/sAvitrI.jpg" title="The structure and the emanations of the Sāvitrī as per the Atharvan tradition" class="thumbnail">}}
+
+The structure and the emanations of the Sāvitrī as per the Atharvan tradition
+
+## Appendices
+### The nivid-s of Savitṛ
+
+The nivid-s are ancient ritual incantations uttered in ekaśruti during the soma-ritual. They are inserted just before the concluding verse of the short sūkta-s. In the case of Savitṛ this sūkta is RV 6.71 of Bharadvāja Bārhaspatya. The give a concise summary of the many characteristics of Savitṛ  
+सविता देवस् सोमस्य पिबतु । हिरण्यपाणिस् सुजिह्वः । सुबाहुस् स्वङ्गुरिः । त्रिर् अहन् सत्य सवनः । यत् प्रासुवद् वसुधिती उभे जोष्ट्री सवीमनि। श्रेष्ठम् सावित्रम् आसुवन् । दोग्ध्रीं धेनुम् । वोळ्हारम् अनड्वाहम् । आशुम् सप्तिम् । जिष्णुम् रथेष्ठाम् । पुरन्धिम् योषाम् । सभेयम् युवानम् । परामीवाम् साविषत् पराघशंसम् । सविता देव इह श्रवद् इह सोमस्य मत्सत् । प्रेमाम् देवो देवहूतिम् अवतु देव्या धिया । प्रेदम् ब्रह्म प्रेदम् क्षत्रम् । प्रेमं सुन्वन्तं यजमानम् अवतु । चित्रश् चित्राभिर् ऊतिभिः । श्रवद् ब्रह्माण्यावसा गमत् ॥  
+May Deva Savitṛ drink the soma – golden-handed golden tongued – with good arms and good finger – thrice a day of true libations – who has impelled the the two wealth-holders – both delighters in the impelling – bringing quickly the best of Savitṛ – the milk yielding cow – the wagon-pulling bull – the swift horse – the victorious car-warrior – the fertile woman – the youth fit for the assembly. May he drive away the disease, \[drive\] away the evil. May the Deva Savitṛ hear this and delight with this soma. May the god protect the invocation of the gods with his godly wisdom. May the wonderful \[god\] protect the brāhmaṇa and the kṣatriya and the soma-pressing yajamāna with his wonderful aids. May he hear and come to the ritual with protection. (Translation following style of Scheftelowitz)
+
+* * *
+
+- A Titan, even as Savitṛ is also called Asura in the RV[↩](#fnref1)
+    
+- Word analysis suggests that Viśvāmitra had a particular propensity for alliterative or polyptotonic usages such as the āmreḍita. See: A note on āmreḍita-s in the Ṛgveda and issues of word distribution https://manasataramgini.wordpress.com/2018/05/14/a-note-on-aṃreḍita-s-in-the-ṛgveda-and-issues-of-word-distribution/[↩](#fnref2)
+    
+- These are also the mantra-s with which the Vaiśvadeva-śastra is initiated in the śrauta ritual. The Hindu freedom fighter of Rām Prasād Bismil when being executed by the English was asked for his last wish. To which he replied: “The downfall of the British Empire.” Then he invoked Savitṛ reciting these mantra-s as he was taken to the noose. They supposed to be for him to be reborn to fight the English again and the reborn Indian nation[↩](#fnref3)
+    
+- It is in this context that the famed Vijayanagaran scholiast Sāyaṇa gives a large value that may be interpreted as the speed of these rays. It notably is comparable to the modern value of _c_[↩](#fnref4)
+</details>
+
+

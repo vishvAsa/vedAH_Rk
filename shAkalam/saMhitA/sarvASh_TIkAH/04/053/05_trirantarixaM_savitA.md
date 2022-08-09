@@ -120,8 +120,18 @@ genre M
 
 <details><summary>सायण-भाष्यम्</summary>
 
-अयं **सविता** **त्रिः** त्रिभेदम् **अन्तरिक्षम्** । अन्तरा क्षान्तं भवति जगदित्यन्तरिक्षम् । **परिभूः** परिभविता सन् **महित्वना** महित्वेन **इन्वति** व्याप्नोति । वायुविद्युद्वरुणाख्यास्त्रयो लोका अन्तरिक्षभेदाः स वायुलोकं स वरुणलोकम् ' ( कौ. उ. १. ३ ) इत्यादिश्रुतेः । **त्री** **रजांसि** रञ्जनात्मकानि त्रीणि क्षित्यन्तरिक्षद्युलक्षणान् त्रीन् लोकान् इन्वति । पूर्वमन्तरिक्षस्यैवावान्तरभेद उक्तः इह तु सामान्याकारेणेत्यपुनरुक्तिः। **त्रीणि** **रोचना** रोचनानि रोचमानान् अग्निवाय्वादिस्यान् उक्तस्थानत्रयस्वामित्वेन इन्वति । पूर्वमन्तरिक्षस्यैवावान्तरभेद उक्तः । अथ द्युपृथिव्योरवान्तरभेद उच्यते । **तिस्रो** **दिवः** इन्द्रप्रजापतिसत्याख्यान् त्रीन् लोकान् इन्वति । तथा **तिस्रः** **पृथिवीः** इन्वति । क्षित्यवान्तरभेदान् लोकान् इन्वति । एवं सर्वत्र व्याप्तो देवः **त्रिभिर्व्रतैः** कर्मभिः उष्णवर्षहिमाख्यैः **नः** अस्मान् **त्मना** आत्मनैव स्वीयानुग्रहबुद्ध्यैव **अभि** **रक्षति** अभिरक्षतु । परिपालयतु ॥
+अयं **सविता** **त्रिः** त्रिभेदम् **अन्तरिक्षम्** । अन्तरा क्षान्तं भवति जगदित्यन्तरिक्षम् । **परिभूः** परिभविता सन् **महित्वना** महित्वेन **इन्वति** व्याप्नोति । वायुविद्युद्वरुणाख्यास्त्रयो लोका अन्तरिक्षभेदाः स वायुलोकं स वरुणलोकम् ' ( कौ. उ. १. ३ ) इत्यादिश्रुतेः । **त्री** **रजांसि** रञ्जनात्मकानि **त्रीणि** क्षित्यन्तरिक्षद्युलक्षणान् त्रीन् लोकान् **इन्वति** । पूर्वमन्तरिक्षस्यैवावान्तरभेद उक्तः इह तु सामान्याकारेणेत्यपुनरुक्तिः। **त्रीणि** **रोचना** रोचनानि रोचमानान् अग्निवाय्वादिस्यान् उक्तस्थानत्रयस्वामित्वेन इन्वति । पूर्वमन्तरिक्षस्यैवावान्तरभेद उक्तः । अथ द्युपृथिव्योरवान्तरभेद उच्यते । **तिस्रो** **दिवः** इन्द्रप्रजापतिसत्याख्यान् त्रीन् लोकान् इन्वति । तथा **तिस्रः** **पृथिवीः इन्वति** । क्षित्य्-अवान्तर-भेदान् लोकान् **इन्वति** । एवं सर्वत्र व्याप्तो देवः **त्रिभिर्व्रतैः** कर्मभिः उष्णवर्षहिमाख्यैः **नः** अस्मान् **त्मना** आत्मनैव स्वीयानुग्रहबुद्ध्यैव **अभि** **रक्षति** अभिरक्षतु । परिपालयतु ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Savitṛ \[encompasses\] the atmosphere thrice by his greatness;  
+he encompasses the three rajas realms and the three rocana realms.  
+He drives the three heavenly and the three earthly realms  
+\[and\] with three-fold laws he protects us by himself. 
+</details>
+
+
 
 <details><summary>Wilson</summary>
 
@@ -136,9 +146,10 @@ Three divions of the firmament: **antarikṣa** is divided between **Vāyu**, **
 
 <details><summary>Jamison Brereton</summary>
 
-Savitar (encompasses) the midspace three times in his greatness; he  encompasses the three dusky realms and the three realms of light.  
-He speeds the three heavens and the three earths. With his three  
-commandments he guards us by himself.
+Savitar (encompasses) the midspace three times in his greatness;  
+he  encompasses the three dusky realms and the three realms of light.  
+He speeds the three heavens and the three earths.  
+With his three commandments he guards us by himself.
 </details>
 
 <details><summary>Griffith</summary>
