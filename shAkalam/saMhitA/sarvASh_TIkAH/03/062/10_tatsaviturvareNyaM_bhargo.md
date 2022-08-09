@@ -272,7 +272,7 @@ Dass wir des Gottes Savitar begehrtes Licht erlangten doch, Der unsre Bitten fö
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
-## The mantra-s
+### The mantra-s
 
 The Sāvitrī is the core mantra used in Savitrupāsanā. It also has other notable deployments, which will be described later. Its ṛṣi is Viśvāmitra of the clan of Gāthin, the chandas is nicṛd gāyatrī and the devatā is Savitṛ. It is from the 3_r__d_ maṇḍala of the Ṛgveda (RV 3.62.10). The meter is termed nicṛd gāyatrī because the syllable count is 23, one short of the usual 24 for a gāyatrī. This arises due to the intrinsic saṃdhi, which creates वरेण्यम् from वरेणियम् . The Sāvitrī goes thus:  
 
@@ -296,6 +296,7 @@ Thus, we get,
 
 May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
 
+### Adjuncts
 The Sāvitrī is prefixed with the three vyāhṛti-s for the actual japa.  
 
 > भूर् भुवः सुवः ।  
@@ -352,7 +353,7 @@ A variant inverse deployment involves merely inverting the three feet.
 
 > धियो॒ यो नः॑ प्रचो॒दया॑त् । भर्गो॑ दे॒वस्य॑ धीमहि । तत् स॑वि॒तुर् वरे॑णि॒यों ॥
 
-## The mysteries
+### The mysteries
 
 The śruti of the the Vājasaneyin-s provides a mystery teaching regarding the Sāvitrī, which associates the 3 feet of the core mantra with a triad of triads, which is summarized below.
 
@@ -373,23 +374,6 @@ The Atharvan tradition holds (the teaching of Maudgalya to Glāva Maitreya) that
 {{< figure src="/devaH/AryaH/hindukaH/savitA/images/sAvitrI.jpg" title="The structure and the emanations of the Sāvitrī as per the Atharvan tradition" class="thumbnail">}}
 
 The structure and the emanations of the Sāvitrī as per the Atharvan tradition
-
-## Appendices
-### The nivid-s of Savitṛ
-
-The nivid-s are ancient ritual incantations uttered in ekaśruti during the soma-ritual. They are inserted just before the concluding verse of the short sūkta-s. In the case of Savitṛ this sūkta is RV 6.71 of Bharadvāja Bārhaspatya. The give a concise summary of the many characteristics of Savitṛ  
-सविता देवस् सोमस्य पिबतु । हिरण्यपाणिस् सुजिह्वः । सुबाहुस् स्वङ्गुरिः । त्रिर् अहन् सत्य सवनः । यत् प्रासुवद् वसुधिती उभे जोष्ट्री सवीमनि। श्रेष्ठम् सावित्रम् आसुवन् । दोग्ध्रीं धेनुम् । वोळ्हारम् अनड्वाहम् । आशुम् सप्तिम् । जिष्णुम् रथेष्ठाम् । पुरन्धिम् योषाम् । सभेयम् युवानम् । परामीवाम् साविषत् पराघशंसम् । सविता देव इह श्रवद् इह सोमस्य मत्सत् । प्रेमाम् देवो देवहूतिम् अवतु देव्या धिया । प्रेदम् ब्रह्म प्रेदम् क्षत्रम् । प्रेमं सुन्वन्तं यजमानम् अवतु । चित्रश् चित्राभिर् ऊतिभिः । श्रवद् ब्रह्माण्यावसा गमत् ॥  
-May Deva Savitṛ drink the soma – golden-handed golden tongued – with good arms and good finger – thrice a day of true libations – who has impelled the the two wealth-holders – both delighters in the impelling – bringing quickly the best of Savitṛ – the milk yielding cow – the wagon-pulling bull – the swift horse – the victorious car-warrior – the fertile woman – the youth fit for the assembly. May he drive away the disease, \[drive\] away the evil. May the Deva Savitṛ hear this and delight with this soma. May the god protect the invocation of the gods with his godly wisdom. May the wonderful \[god\] protect the brāhmaṇa and the kṣatriya and the soma-pressing yajamāna with his wonderful aids. May he hear and come to the ritual with protection. (Translation following style of Scheftelowitz)
-
-* * *
-
-- A Titan, even as Savitṛ is also called Asura in the RV[↩](#fnref1)
-    
-- Word analysis suggests that Viśvāmitra had a particular propensity for alliterative or polyptotonic usages such as the āmreḍita. See: A note on āmreḍita-s in the Ṛgveda and issues of word distribution https://manasataramgini.wordpress.com/2018/05/14/a-note-on-aṃreḍita-s-in-the-ṛgveda-and-issues-of-word-distribution/[↩](#fnref2)
-    
-- These are also the mantra-s with which the Vaiśvadeva-śastra is initiated in the śrauta ritual. The Hindu freedom fighter of Rām Prasād Bismil when being executed by the English was asked for his last wish. To which he replied: “The downfall of the British Empire.” Then he invoked Savitṛ reciting these mantra-s as he was taken to the noose. They supposed to be for him to be reborn to fight the English again and the reborn Indian nation[↩](#fnref3)
-    
-- It is in this context that the famed Vijayanagaran scholiast Sāyaṇa gives a large value that may be interpreted as the speed of these rays. It notably is comparable to the modern value of _c_[↩](#fnref4)
 </details>
 
 

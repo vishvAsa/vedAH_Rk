@@ -115,8 +115,23 @@ genre M
 
 <details><summary>सायण-भाष्यम्</summary>
 
-सवितेव सर्वस्य प्रेरकः आदित्यो थथा **बाहू** बाहुस्थानीयान् रश्मीनुद्गमयति तथायमौषसोऽग्निः स्वकीयानि तेजांसि **उद्यंयमीति** भृशमुद्यतान्यूर्ध्वाभिमुखानि करोति । तदनन्तरं **भीमः** सर्वेषां भयंकरोऽग्निः **उभे** 'सिचौ उभे द्यावापृथिव्यौ **ऋञ्जन** प्रसाधयन् स्वतेजसालंकुर्वन् **यतते** स्वव्यापारे प्रयतते । तदनन्तरं **सिमस्मात्** सर्वस्माद्भूतजातात् **शुक्रं** दीप्तम् **अत्कं** सारभूतं रसम् **उत्** **अजते** रश्मिभिरूर्ध्वमादत्ते । अपि च **मातृभ्यः** स्वमातृस्थानीयेभ्यो वृष्ट्युदकेभ्यः सकाशात् **नवा** नवानि प्रत्याग्राणि **वसना** सर्वस्य जगतः आच्छादकानि तेजांसि **जहाति** उद्गमयति ॥ यंयमीति । ‘ यम उपरमे' । अस्मात् यङ्लुकि 'नुगतोऽनुनासिकान्तस्य ' ( पा. सू. ७. ४. ८५ ) इति अभ्यासस्य नुगागमः । एतच्चानुस्वारोपलक्षणार्थम् । सिचौ । “ षिचिर् क्षरणे '। सिञ्चतः फलेन संयोजयतः इति सिचौ द्यावापृथिव्यौ । ‘ क्विप् च ' इति क्विप् । यतते ।' यती प्रयत्ने । अत्कम् । ‘ अत सातत्यगमने '। ‘ इण्भीकापाशल्यतिमर्चिभ्यः कन्' ( उ. सू. ३. ३२३) इति कन् । नित्त्वादाद्युदात्तत्वम् । सिमस्मात्। सिमशब्दः सर्वशब्दपर्यायः । नवा वसना । उभयत्र ‘शेश्छन्दसि बहुलम्' इति शेर्लोपः । जहाति । ‘ ओहाक् त्यागे' । जौहोत्यादिकः ॥
+सवितेव सर्वस्य प्रेरकः आदित्यो थथा **बाहू** बाहुस्थानीयान् रश्मीनुद्गमयति तथायमौषसोऽग्निः स्वकीयानि तेजांसि **उद्यंयमीति** भृशमुद्यतान्यूर्ध्वाभिमुखानि करोति । तदनन्तरं **भीमः** सर्वेषां भयंकरोऽग्निः **उभे** 'सिचौ उभे द्यावापृथिव्यौ **ऋञ्जन** प्रसाधयन् स्वतेजसालंकुर्वन् **यतते** स्वव्यापारे प्रयतते । तदनन्तरं **सिमस्मात्** सर्वस्माद् भूतजातात् **शुक्रं** दीप्तम् **अत्कं** सारभूतं रसम् **उत्** **अजते** रश्मिभिर् ऊर्ध्वम् आदत्ते । अपि च **मातृभ्यः** स्वमातृस्थानीयेभ्यो वृष्ट्युदकेभ्यः सकाशात् **नवा** नवानि प्रत्याग्राणि **वसना** सर्वस्य जगतः आच्छादकानि तेजांसि **जहाति** उद्गमयति ॥ यंयमीति । ‘ यम उपरमे' । अस्मात् यङ्लुकि 'नुगतोऽनुनासिकान्तस्य ' ( पा. सू. ७. ४. ८५ ) इति अभ्यासस्य नुगागमः । एतच्चानुस्वारोपलक्षणार्थम् । सिचौ । “ षिचिर् क्षरणे '। सिञ्चतः फलेन संयोजयतः इति सिचौ द्यावापृथिव्यौ । ‘ क्विप् च ' इति क्विप् । यतते ।' यती प्रयत्ने । अत्कम् । ‘ अत सातत्यगमने '। ‘ इण्भीकापाशल्यतिमर्चिभ्यः कन्' ( उ. सू. ३. ३२३) इति कन् । नित्त्वादाद्युदात्तत्वम् । सिमस्मात्। सिमशब्दः सर्वशब्दपर्यायः । नवा वसना । उभयत्र ‘शेश्छन्दसि बहुलम्' इति शेर्लोपः । जहाति । ‘ ओहाक् त्यागे' । जौहोत्यादिकः ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+He (Agni) repeatedly raises up, like Savitṛ,  
+his two arms, he stretches himself to the two horizons \[of the sky\], the fierce straight-goer.  
+He impels his shining armor from his own self;  
+he leaves new clothes for the mothers.  
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The first hemistich compares the rising Agni with the arms of Savitṛ and specifically their stretching from horizon to horizon. So what is the foundation of this shining manifestation of Savitṛ in the night sky that stretches from horizon to horizon? It is the Milky Way.+++(5)+++ Thus, this signal feature of Savitṛ, which repeatedly finds mention in ritual incantations relates this great stellar band of light of the night sky. 
+</details>
+
+
 
 <details><summary>Wilson</summary>
 
@@ -127,8 +142,10 @@ genre M
 
 <details><summary>Jamison Brereton</summary>
 
-Like Savitar, he raises up his arms again and again. He aligns himself along  the two seams (of the world?), the fearsome one charging straight on.  
-He thrusts his blazing cloak up from his very self; he leaves behind new  clothes for his mothers.
+Like Savitar, he raises up his arms again and again.  
+He aligns himself along  the two seams (of the world?), the fearsome one charging straight on.  
+He thrusts his blazing cloak up from his very self;  
+he leaves behind new  clothes for his mothers.
 </details>
 
 <details><summary>Jamison Brereton Notes</summary>
