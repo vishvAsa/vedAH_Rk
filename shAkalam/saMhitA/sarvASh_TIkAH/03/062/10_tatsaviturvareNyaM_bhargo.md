@@ -286,7 +286,7 @@ There are a few key points to make note of: first, the verb form dhīmahi; this 
 
 Second, the name of the god Savitṛ is commonly combined with the word deva (god). This combination probably again has an ancient connotation, which is reflected in theonyms of other Indo-European branches like proto-Germanic *Tiwaz>Tyr. It (theos) was probably also used in this sense for the Greek Hyperion[^MT_1], the likely cognate of Savitṛ, in the Homeric language. 
 
-[MT^1]: A Titan, even as Savitṛ is also called Asura in the RV
+[^MT_1]: A Titan, even as Savitṛ is also called Asura in the RV
 
 Third, the word dhiyaḥ, has been specifically chosen for alliteration with dhīmahi[^MT_2]. It means not just any thought but specifically inspired thought or insight that leads to the “seeing” of special knowledge, such as that embodied in a Vedic mantra. 
 
@@ -371,7 +371,7 @@ The fourth foot is said to blaze beyond the expanse of the visible space, the �
 
 The Atharvan tradition holds (the teaching of Maudgalya to Glāva Maitreya) that the Sāvitrī is pervaded by the god Deva Savitṛ and his consort Sāvitrī in the form of 12 pairs of forms corresponding to each syllable (Figure). In these forms the two deities pervade the universe and the ritual. This presentation in the Atharvan tradition is consistent with the statement of Vāmadeva Gautama in the RV: आप्रा॒ रजां॑सि दि॒व्यानि॒ पार्थि॑वा॒ in RV 4.53.3, i.e. celestial and the earthly realms. The three feet of the Sāvitrī are described giving rise to three sequences of emanations that culminate in the ritual observance of the brāhmaṇa (Figure below; lower panel). The ritualist who performs the deployment of the Sāvitrī with the appropriate knowledge of the omniform manifestation of Savitṛ and his consort and the emanations of the three feet meets with success.  
 
-{{< figure src="/devaH/AryaH/hindukaH/savitA/images/sAvitrI.jpg" title="The structure and the emanations of the Sāvitrī as per the Atharvan tradition" class="thumbnail">}}
+![/devaH/AryaH/hindukaH/savitA/images/sAvitrI.jpg](/devaH/AryaH/hindukaH/savitA/images/sAvitrI.jpg)
 
 The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </details>
