@@ -128,6 +128,15 @@ genre M;; repeated line
 हे **अग्ने** **जातः** सूर्यात्मना जातस्त्वम् **इर्यः** स्वामी प्रेरयन् वा **परिज्मा** परितो गन्ता सन् **पशून्न** **गोपाः** । यथा गवां पालकः पशून् पश्यति तद्वत् । **यत्** यदा **भुवना** भूतानि **व्यख्यः** रक्षार्थं पश्यसि तदा **ब्रह्मणे** । ब्रह्म स्तोत्रम् । तदर्थं **गातुं** गतिं फलप्राप्तिं **विन्द** । यद्वा । ब्रह्मणे ब्राह्मणार्थं गातुं विन्द । येन ब्राह्मणा उपद्रवान्निर्गच्छन्ति तं गातुं विन्देत्यर्थः । स्पष्टमन्यत् ॥ ॥ १६ ॥
 </details>
 
+
+<details><summary>भट्टभास्करटीका</summary>
+
+हे अग्ने **वैश्वानर जातो** जातमात्र **एव** भुवना भुवनानि भूतजातानि सर्वान् लोकान् **व्यख्यः** विशेषेण पश्यसि **पशुं न** पशुमिव **गोपाः** गवां पालयिता । चक्षेः छान्दसे लुङि 'अस्यतिवक्तिख्यातिभ्योङ्' इत्यङ् । **इर्यः** इराऽन्नं हविर्-आत्मकं तत्र साधुस् तद्-अर्हो वा । **परिज्मा** सर्वतो गन्ता । निपातोयं मनिन्प्रत्ययान्तः ।
+
+यद्य् अस्माद् एवं तस्मात् ब्रह्मणे हविरात्मनेन्नाय यागात्मने वा परिबृढाय कर्मणे गातुं मार्गं विन्द लभस्व हविः प्राप्तुं मार्गानाप्नुहि, पुनःपुनर्जातेष्टिं प्रवर्तयेति भावः ।   
+किञ्च - युष्माकमेवार्थे सदा नोस्मान्यूयं पात रक्षत स्वस्तिभिरविनाशैः, अविनाशान्प्रापय्यास्मान् पातेति । पूजार्थमेकस्मिन् बहुवचनम् ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -148,8 +157,17 @@ o Vaiśvānara, find a way for our formulation. – Do you protect us always  wi
 <details><summary>Griffith</summary>
 
 Agni, when, born thou lookedst on all creatures, like a brisk herdsman moving round his cattle.  
-     The path to prayer, Vaisvanara, thou foundest. Ye Gods, preserve us evermore with blessings.
+     The path to prayer, Varanasi, thou foundest. Ye Gods, preserve us evermore with blessings.
 </details>
+
+<details><summary>Keith</summary>
+
+In that, when born, O Agni, thou didst survey the worlds,  
+Like a busy herd that goeth around his flock,  
+Do thou, O Vaiśvanara, find a way for the Brahman;  
+Do ye protect us ever with your blessings.
+</details>
+
 
 <details><summary>Geldner</summary>
 
