@@ -122,6 +122,12 @@ genre M
 हे **अग्ने** **अस्माकम्** । सप्तम्यर्थे षष्टी । अस्मासु **मघवत्सु** हविर्लक्षणेन धनेन युक्तेषु **क्षत्रं** धनं **धारय** स्थापय । कीदृशम् । **अनामि** अनमनीयमनपहार्यम् **अजरं** जरारहितमनश्वरं **सुवीर्यं** शोभनवीर्योपेतम् । किंच हे **वैश्वानर** **अग्ने** **तवोतिभिः** त्वत्संबन्धिभी रक्षणैः **वयं** **शतिनं** शतसंख्यायुक्तं शतपुरुषयुक्तं वा तथा **सहस्रिणं** **वाजम्** अन्नं **जयेम** लभेमहि ।
 </details>
 
+
+<details><summary>भट्टभास्करटीका</summary>
+
+हे अग्ने वैश्वानर अस्माकं पुत्रादीन् प्रथमं तावद्धनवतः कुरु, ततो मघवत्सु धनवत्सु कृतेषु धारय स्थापय क्षत्रं बलं अनामि अनमनशीलम् । ग्रह्यादिलक्षणो णिनिः । अजरमविनाशं सुवीर्यमनभिभवनीयपुत्रादिपुरुषकर्मकम् । 'नञो जरमरमित्रमृताः' 'वीरवीर्यौ च' इत्येतयोरुत्तरपदाद्युदात्तत्वम् । किञ्च - वयं जयेम शतिनं शतपोषवन्तं सहस्रिणं सहस्रपोषवन्तं च वाजमन्नं तवोतिभिः रक्षणैः रक्षाविशेषैः तृप्तिविशेषैर्वा । क्तिन उदात्तत्वमुक्तम् । हे अग्ने अञ्जनादिगुण ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -144,6 +150,14 @@ Both Geldner and Renou take ajáram with suvī́ryam (e.g., “die unbeugsame He
 
 Do thou bestow, O Agni, on our wealthy chiefs, rule, with good heroes, undecaying, bending not.  
      So may we win for us strength. O Vaisvanara, hundredfold, thousandfold, O Agni, by thy help.
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, among our bountiful lords, preserve  
+The lordship, uninjured, unageing, rich in heroes;  
+May we win booty a hundred, a thousandfold,  
+O Vaiśvanara [2], O Agni, through thy help.
 </details>
 
 <details><summary>Geldner</summary>
