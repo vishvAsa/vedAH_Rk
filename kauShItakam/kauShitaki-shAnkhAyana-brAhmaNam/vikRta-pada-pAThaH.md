@@ -3,6 +3,14 @@ title = "पदपाठः पाश्चात्यः"
 unicode_script = "devanagari"
 +++
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Input by Muneo Tokunaga, March-April, 1995.  
+Based on the edition by E. R. Sreekrishna Sarma (Wiesbaden 1968; VOHD, Suppl. 9,1) 
+</details>
+
+
+
 अथ कौषीतकिब्राह्मणम्
 
 - १.१.१       अस्मिन्.वै.लोक.उभये.देव.मनुष्या.आसुः  ।
