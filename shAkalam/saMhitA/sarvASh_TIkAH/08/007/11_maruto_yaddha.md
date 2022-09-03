@@ -89,6 +89,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **मरुतः** **यद्ध** यदा खलु **वः** युष्मान् **सुम्नायन्तः** सुम्नं सुखमात्मन इच्छन्तो वयं **दिवः** द्युलोकात् **हवामहे** स्तुतिभिराह्वयामहे । **आ** **तु** अनन्तरमेव शीघ्रं **नः** अस्मान् **उप** **गन्तन** उपगच्छत । गमेर्लोटि ‘तप्तनप्तनथनाश्च ' इति तनबादेशः ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+हे **मरुतः यद्वो** युष्मान् **सुम्नायन्तस्** सुखमिच्छन्तः । 'देवसुम्नयोः' इत्यात्वम् । दिवो द्युलोकात् हवामहे आह्वयामः । पूर्ववत्सम्प्रसारणम् । हूयमाना नोस्मानुपगन्तन आत्मनो विशेषवत्त्वं ख्यापयन्तु । तुशब्दो विनिवर्तकः, तिष्ठन्त्वन्ये अस्मांस्तूपागच्छतेति । 'अन्येभ्योपि दृश्यते' इति सांहितिको दीर्घः, गमेर्लेटि शपो लुक्, 'तप्तनप्तनधनाश्च' इति तनादेशः । ह इति पादपूरणे निश्चये वा ॥
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -111,6 +117,14 @@ O Maruts, quickly come to us when, longing for felicity,
 
 O Maruts, pray come here to us, Whenever, seeking your good will, We call you hither from the sky.
 </details>
+
+<details><summary>Keith</summary>
+
+O Maruts, what time seeking your favour  
+We call on you from the sky,  
+Do ye come unto us [4].
+</details>
+
 
 <details><summary>Geldner</summary>
 
