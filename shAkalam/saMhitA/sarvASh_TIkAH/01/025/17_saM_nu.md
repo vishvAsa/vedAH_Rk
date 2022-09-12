@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+nú ← nú (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+vocāvahai ← √vac- (root)  
+{number:DU, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+ā́bhr̥tam ← √bhr̥- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+mádhu ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+yátas ← yátas (invariable)  
+{}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kṣádase ← √kṣad- (root)  
+{case:DAT, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +164,4 @@ Lass miteinander reden uns jetzt, da ich lieben Meth gebracht, Dass wie ein Prie
 Поскольку принесен мне сладкий напиток,  
 Чтобы (его), прекрасного, ты пробовал как хотар.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vápantā ← √vap- 2 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+vŕ̥keṇa ← vŕ̥ka- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yávam ← yáva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+duhántā ← √duh- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mánuṣāya ← mánuṣa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+bákureṇa ← bákura- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dásyum ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhámantā ← √dhamⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+ā́ryāya ← ā́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cakrathuḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Die Gerste säend, Ritter, mit dem Pfluge, und Trank dem Menschen melkend, wunde
 Сдувая дасью с помощью бакуры,  
 Вы создали широкий свет для ария.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+māmahānám ← √maṁh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+meṣā́n ← meṣá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vr̥kyè ← vr̥kī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+áśivena ← áśiva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pitrā́ ← pitár- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+práṇītam ← √nī- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+akṣī́ ← ákṣ- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+aśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+r̥jrā́śve ← r̥jrā́śva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+andhā́ya ← andhá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cakrathuḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vicákṣe ← √cakṣ- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Ihm, der der Wölfin hundert Widder schenkte, und der geblendet ward vom bösen 
 Риджрашве вы даровали глаза, о Ашвины.  
 Вы сделали так, что слепой увидел свет.
 </details>
+

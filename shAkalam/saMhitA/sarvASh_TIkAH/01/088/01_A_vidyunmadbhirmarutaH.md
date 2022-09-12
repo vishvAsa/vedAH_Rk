@@ -17,15 +17,64 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Archaic
 
-## Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+svarkaíḥ ← svarká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vidyúnmadbhiḥ ← vidyúnmant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áśvaparṇaiḥ ← áśvaparṇa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ráthebhiḥ ← rátha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥ṣṭimádbhiḥ ← r̥ṣṭimánt- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yāta ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+várṣiṣṭhayā ← várṣiṣṭha- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+paptata ← √pat- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sumāyāḥ ← sumāyá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Kommt her, o Maruts, auf blitzbeladenen, schön glänzenden, speerversehenen, mi
 С самым лучшим подкреплением,  
 Прилетайте к нам, как птицы, о благие повелители колдовской силы!
 </details>
+

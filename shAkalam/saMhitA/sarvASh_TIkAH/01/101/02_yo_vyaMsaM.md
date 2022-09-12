@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+jāhr̥ṣāṇéna ← √hr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRF, voice:MED}
+
+manyúnā ← manyú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vyàṁsam ← vyàṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áhan ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+avratám ← avratá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+píprum ← pípru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śámbaram ← śámbara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aśúṣam ← aśúṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́vr̥ṇak ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+marútvantam ← marútvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Den Indra, der Viansa schlug in trunknem Muth, den ungerechten Pipru und den Ça
 Индра, который низверг прожорливого Шушну, – (его),  
 Сопровождаемого Марутами мы зовем для дружбы!
 </details>
+

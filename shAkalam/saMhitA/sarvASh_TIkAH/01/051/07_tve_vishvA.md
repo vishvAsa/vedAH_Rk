@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hitā́ ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+sadhryàk ← sadhryàñc- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+táviṣī ← táviṣī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+harṣate ← √hr̥ṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+somapīthā́ya ← somapīthá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+bāhvóḥ ← bāhú- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+cikite ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+hitáḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+śátroḥ ← śátru- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vr̥ścá ← √vr̥śc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vŕ̥ṣṇyā ← vŕ̥ṣṇya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ In dich sind alle Kräfte insgesammt gelegt; dein holder Sinn erfreut sich an de
 Твоя ваджра проявляет себя, (будучи) вложена (тебе) в руки.  
 Обруби все мужские силы врага!
 </details>
+

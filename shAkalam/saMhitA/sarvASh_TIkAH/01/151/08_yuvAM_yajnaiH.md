@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+añjate ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+mánasaḥ ← mánas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+práyuktiṣu ← práyukti- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ŕ̥tāvānā ← ŕ̥tāvan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bháranti ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mánmanā ← mánman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+saṁyátā ← saṁyát- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ádr̥pyatā ← ádr̥pyant- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+āśāthe ← √naś- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:MED}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Durch Opfer und durch Tränke schmücken euch zuerst die frommgesinnten, wie get
 Они (приносят) вам двоим песни, (рожденные) сосредоточенной мыслью.  
 Благодаря неодолимому духу вы достигли огромной (силы).
 </details>
+

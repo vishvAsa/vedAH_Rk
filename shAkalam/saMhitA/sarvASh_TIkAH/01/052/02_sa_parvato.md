@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácyutaḥ ← ácyuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dharúṇeṣu ← dharúṇa- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+párvataḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sahásramūtiḥ ← sahásramūti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táviṣīṣu ← táviṣī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ávadhīt ← √vadhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nadīvŕ̥tam ← nadīvŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ándhasā ← ándhas- 2 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+árṇāṁsi ← árṇas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+járhr̥ṣāṇaḥ ← √hr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ubján ← √ubj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +204,4 @@ Gleich einem Berg, der fest auf seinem Grunde ruht, ward stark an Kräften er, d
 Когда убил запрудившего реки Вритру,  
 Обуздывая бурные потоки, неистовствуя от напитка (сомы).
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)
+#### Morph
+ā́gadhitā ← √gadh- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+párigadhitā ← √gadh- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+jáṅgahe ← √gaṁh- ~ gandh- (?) (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kaśīkā́ ← kaśīkā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+dádāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+yā́durī ← yā́dura- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhojyā̀ ← bhojyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yā́śūnām ← yā́śu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +182,4 @@ Die angeklammerte, die umklammerte, die wie ein Wiesel sich versteckte, die Flü
 Сладострастная дает мне  
 Сто упоительных любовных излияний.
 </details>
+

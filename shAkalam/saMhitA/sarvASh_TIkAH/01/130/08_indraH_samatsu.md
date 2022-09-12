@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,82 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ryam ← ā́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yájamānam ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ājíṣu ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+āvat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+śatámūtiḥ ← śatámūti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśveṣu ← víśva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ājíṣu ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+svàrmīḷheṣu ← svàrmīḷha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+avratā́n ← avratá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śā́sat ← √śās- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+arandhayat ← √randh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+kr̥ṣṇā́m ← kr̥ṣṇá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tvácam ← tvác- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dákṣat ← √dah- (root)  
+{case:NOM, gender:N, number:SG, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+oṣati ← √uṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tatr̥ṣāṇám ← √tr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arśasānám ← arśasāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+oṣati ← √uṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,3 +277,4 @@ In Schlachten half dem Arier, der Opfer bringt, in allen Kämpfen Indra, schütz
 Как пылающий (огонь) – все (иссушенное) жаждущего (врага),  
 Сжигает он Аршасану.
 </details>
+

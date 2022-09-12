@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+kṣétram ← kṣétra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mamuḥ ← √mā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+téjanena ← téjana- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jéhamānam ← √jeh- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:MED}
+
+pā́tram ← pā́tra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nā́dhamānāḥ ← √nādh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+upamám ← upamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úpastutāḥ ← √stu- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ámartyeṣu ← ámartya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ichámānāḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +198,4 @@ Es massen wie das Feld mit einem Rohrstab die Ribhu's aus die eine weite Schale,
 Воспетые, просящие высшей (награды),  
 Ищущие славы среди бессмертных.
 </details>
+

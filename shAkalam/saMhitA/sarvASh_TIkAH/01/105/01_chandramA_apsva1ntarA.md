@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+candrámāḥ ← candrámas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhāvate ← √dhāv- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hiraṇyanemayaḥ ← hiraṇyanemi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidyutaḥ ← vidyút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vindanti ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+vittám ← √vid- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +227,4 @@ Es läuft der Mond im Meer der Luft am Himmel schöngeflügelt hin; Niemand erre
 Златообручные, сверкающие (звезды).  
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
+

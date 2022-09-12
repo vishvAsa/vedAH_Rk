@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ghr̥távantam ← ghr̥távant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+māsi ← √mā- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tanūnapāt ← tánūnápāt- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́vataḥ ← mā́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+śaśamānásya ← √śamⁱ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Du aus dir selbst entsprossner, theilst das süsse fette Opfer aus, Von einem Pr
 Жертву у вдохновенного, вроде меня,  
 Старающегося (при обряде) почитателя!
 </details>
+

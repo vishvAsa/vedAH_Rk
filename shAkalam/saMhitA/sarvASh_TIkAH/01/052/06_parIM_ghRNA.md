@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ghr̥ṇā́ ← ghr̥ṇá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+titviṣé ← √tvíṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+aśayat ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+budhnám ← budhná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vr̥tvī́ ← √vr̥- (root)  
+{non-finite:CVB}
+
+durgŕ̥bhiśvanaḥ ← durgŕ̥bhiśvan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pravaṇé ← pravaṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vr̥trásya ← vr̥trá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hánvoḥ ← hánu- (nominal stem)  
+{case:LOC, gender:F, number:DU}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nijaghántha ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+tanyatúm ← tanyatú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +224,4 @@ Die Glut umgab dich, es erglänzte deine Kraft; gehüllt in Flut, lag jener in d
 Когда Вритру, которого трудно схватить в стремнине,  
 Ты, Индра, ударил громом по челюстям.
 </details>
+

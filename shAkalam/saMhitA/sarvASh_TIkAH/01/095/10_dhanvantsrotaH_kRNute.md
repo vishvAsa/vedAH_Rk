@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhánvan ← dhánvan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+srótaḥ ← srótas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nakṣati ← √nakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śukraíḥ ← śukrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ūrmíbhiḥ ← ūrmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhatte ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jaṭháreṣu ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+sánāni ← sána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+návāsu ← náva- 2 (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+prasū́ṣu ← prasū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +231,4 @@ Im Trocknen schafft er Strom sich, Bahn und Woge, mit hellen Wogen dringt er zu 
 Все старое он поглощает (своими) внутренностями.  
 Он входит внутрь свежих побегов.
 </details>
+

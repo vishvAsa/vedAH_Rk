@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áriṣaṇyan ← áriṣaṇyant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ájuṣṭau ← ájuṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dr̥ḷhásya ← √dr̥h- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+mártānām ← márta- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+árvate ← árvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+kā́ṣṭhāḥ ← kā́ṣṭhā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+var ← √vr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ghanā́ ← ghaná- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+śnathihi ← √śnathⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +224,7 @@ In d ghanéva contains the old instr. ghanā́. The same phrase is found in I.36
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
 
 tváṃ ha tyád provides the opening of the next four verses. Although tyád is a neut. pronoun and in 4a could function as the object of the otherwise object-less codīḥ, in the following verses it does not have pronominal function; the expression X ha tyád is a way of providing emphasis, particular of the 2nd ps. pronoun (cf., e.g., VII.19.2, VIII.96.16-18). I would now be inclined to tr. the vss. in this sequence with “It was just you who …” rather than the rather recessive “You then, …”
@@ -195,3 +256,4 @@ Der, Indra, du auch bei dem Groll des stärksten der Sterblichen doch nimmer Sch
 Открой с нашей стороны барьеры для выпущенного скакуна!  
 Словно молотом, о громовержец, раздроби недругов!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áśvāsaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+payaspā́ḥ ← payaspā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+átyāḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+divyā́saḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́taraṁhasaḥ ← vā́taraṁhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manojúvaḥ ← manojū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vītápr̥ṣṭhāḥ ← vītápr̥ṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ihá ← ihá (invariable)  
+{}
+
+svarā́jaḥ ← svarā́j- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Her mögen euch die lichten Rosse fahren, rasch wie der Wind, des Himmels muntre
 Стремительные, как мысль, быки с прямыми спинами,  
 Правящие сами собой, пусть привезут сюда Ашвинов!
 </details>
+

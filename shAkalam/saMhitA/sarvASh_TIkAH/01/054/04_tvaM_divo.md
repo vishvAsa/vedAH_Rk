@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kopayaḥ ← √kup- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+bhinat ← √bhid- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+dhr̥ṣatā́ ← √dhr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śámbaram ← śámbara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dhr̥ṣát ← √dhr̥ṣ- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+mandínā ← mandín- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+māyínaḥ ← māyín- (nominal stem)  
+{case:ACC, number:PL}
+
+vrandínaḥ ← vrandín- (nominal stem)  
+{case:ACC, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aśánim ← aśáni- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gábhastim ← gábhasti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥tanyási ← √pr̥tany- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+śitā́m ← √śā- ~ śī- (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Des hohen Himmels Gipfel hast erschüttert du, mit kühnem Sinn den Çambara her
 Когда (ты) храбро боролся под действием пьянящего (сомы)  
 С лапой поверженного колдовского (демона), острой (как) дротик.
 </details>
+

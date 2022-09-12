@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jávīyān ← jávīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánasaḥ ← mánas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yuñjāthām ← √yuj- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+tricakráḥ ← tricakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+trivandhuráḥ ← trivandhurá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+duroṇám ← duroṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sukŕ̥taḥ ← sukŕ̥t- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+upayātháḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+parṇaíḥ ← parṇá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+patathaḥ ← √pat- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tridhā́tunā ← tridhā́tu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+víḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +236,4 @@ Den schirrt euch an, der schneller als Gedanken drei Theile hat, drei Sitze und 
 На которой вы приезжаете в дом благочестивого!  
 Вы летите на трехчастной, словно птица на крыльях.
 </details>
+

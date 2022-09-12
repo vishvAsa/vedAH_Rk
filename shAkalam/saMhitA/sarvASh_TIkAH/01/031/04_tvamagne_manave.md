@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+avāśayaḥ ← √vāś- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+purūrávase ← purūrávas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sukŕ̥te ← sukŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sukŕ̥ttaraḥ ← sukŕ̥ttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+múcyase ← √muc- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+śvātréṇa ← śvātrá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+anayan ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áparam ← ápara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+pū́rvam ← pū́rva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,3 +254,4 @@ Den Himmel liessest donnern du dem Manuspross Pururavas, dem frommen du, der fro
 Когда силой роста ты освобождаешься от родителей,  
 Тебя стали отвозить на восток, (потом) снова на запад.
 </details>
+

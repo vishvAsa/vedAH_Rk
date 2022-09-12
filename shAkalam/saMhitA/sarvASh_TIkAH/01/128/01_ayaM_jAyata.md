@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,88 @@ genre M
 genre M  
 genre M;; line affected by realignment  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhárīmaṇi ← dhárīman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uśíjām ← uśíj- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yájiṣṭhaḥ ← yájiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+vratám ← vratá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sakhīyaté ← √sakhīy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+viśváśruṣṭiḥ ← viśváśruṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śravasyaté ← √śravasy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ádabdhaḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iḷáḥ ← íḍ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sadat ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+iḷáḥ ← íḍ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+párivītaḥ ← √vyā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,3 +316,4 @@ Erzeugt ward dieser nach des Menschen altem Recht, der beste Opfrer nach dem Bra
 Хотар, не допускающий ошибок, он садится на место Иды,  
 Окруженный на месте Иды.
 </details>
+

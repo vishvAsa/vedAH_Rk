@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+prácetase ← prácetas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rudrā́ya ← rudrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mīḷhúṣṭamāya ← mīḷhúṣṭama- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+távyase ← távyaṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hr̥dé ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śáṁtamam ← śáṁtama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vocéma ← √vac- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +145,4 @@ Was sagen wir dem gnädigsten, dem weisen, starken Rudra nun, Was für sein Herz
 Прозорливцу, самому щедрому, сильнейшему, –  
 Самого радостного для (его) сердца?
 </details>
+

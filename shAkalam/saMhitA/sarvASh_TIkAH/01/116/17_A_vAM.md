@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+árvatā ← árvant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+atiṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+jáyantī ← √ji- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+kā́rṣma ← kā́rṣman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+amanyanta ← √man- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hr̥dbhíḥ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sacethe ← √sac- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+śriyā́ ← śrī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Auf euern Wagen stieg der Sonne Tochter, als wie des Wettlaufs Ziel zu Ross ersi
 Все боги одобрили (это) чистосердечно.  
 О Насатьи, вы соединились с красотой!
 </details>
+

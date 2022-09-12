@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+mādayethām ← √mad- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hatam ← √han- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mádantā ← √mad- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+paṇī́n ← paṇí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ūrmyā́ ← ūrmí- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+áchoktibhiḥ ← áchokti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śrutám ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+éṣṭā ← √yaj- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+kárṇaiḥ ← kárṇa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nícetārā ← nícetar- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Bei uns, ihr Stiere, ja bei uns berauscht euch, den Kargen schlagt; der Somaflut
 Услышьте меня, о два мужа, привлеченные  
 Приглашениями (моих) молитв! Внемлите ушами!
 </details>
+

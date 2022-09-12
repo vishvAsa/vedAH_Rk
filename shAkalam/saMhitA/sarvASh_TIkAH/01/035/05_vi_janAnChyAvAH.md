@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+akhyan ← √khyā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śitipā́daḥ ← śitipád- (nominal stem)  
+{case:NOM, number:PL}
+
+śyāvā́ḥ ← śyāvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+híraṇyapra:ugam ← híraṇyapra:uga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váhantaḥ ← √vah- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+daívyasya ← daívya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tasthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Weissfüss'ge Braune, die den Wagen ziehen, dess Deichsel golden, bringen Licht 
 Постоянно пребывают племена (людские)  
 В божественном лоне Савитара (и) все миры.
 </details>
+

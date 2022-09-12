@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,85 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+āśrāváyantaḥ ← √śru- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+ślókam ← ślóka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ádhi ← ádhi (invariable)  
+{}
+
+śríyaḥ ← śrī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+pŕ̥kṣaḥ ← pŕ̥kṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+viśvavedasā ← viśvávedas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hiraṇyáye ← hiraṇyáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+paváyaḥ ← paví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pruṣāyánte ← √pruṣⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hiraṇyáye ← hiraṇyáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,3 +293,4 @@ Euch Ritter laden durch Gesang die Frommen ein, euch hören lassend Preisgesang,
 Сочатся (медом) ободья вашей золотой  
 Колесницы, о удивительные, вашей золотой.
 </details>
+

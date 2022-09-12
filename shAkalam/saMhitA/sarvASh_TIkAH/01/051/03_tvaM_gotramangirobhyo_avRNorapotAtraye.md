@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṅgirobhyaḥ ← áṅgiras- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+avr̥ṇoḥ ← √vr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+gotrám ← gotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+átraye ← átri- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gātuvít ← gātuvíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatádureṣu ← śatádura- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+avahaḥ ← √vah- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+saséna ← sasá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vimadā́ya ← vimadá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nartáyan ← √nr̥t- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vāvasānásya ← √vas- 2 (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +227,4 @@ Den Angiras hast du den Kuhstall aufgethan dem Atri auch, durch hundert Thüren 
 Добро даже с урожаем ты привез Вимаде,  
 В сражении заставив плясать скалу (укрытие врага,) окружившего себя (награбленным добром).
 </details>
+

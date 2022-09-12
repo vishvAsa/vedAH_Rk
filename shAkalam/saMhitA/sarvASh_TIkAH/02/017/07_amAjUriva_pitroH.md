@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amājū́ḥ ← amājúr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+sácā ← sácā (invariable)  
+{}
+
+satī́ ← √as- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iye ← √yā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sádasaḥ ← sádas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+samānā́t ← samāná- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kr̥dhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+māsi ← √mā- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+praketám ← praketá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+daddhí ← √dā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+māmáhaḥ ← √maṁh- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +254,4 @@ Wie eine Maid, die unvermählt beim Vater weilt, geh' ich dich an von gleichem S
 Дай знак, отмеряй, принеси,  
 Положи долю мне самому- (ту,) которой осчастливишь (меня)!
 </details>
+

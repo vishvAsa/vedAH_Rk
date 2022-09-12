@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvāvatīḥ ← áśvāvant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gómatīḥ ← gómant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+viśvasuvídaḥ ← viśvasuvíd- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cyavanta ← √cyu- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+vástave ← vástu- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+īraya ← √īr- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+sūnŕ̥tāḥ ← sūnŕ̥ta- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+út ← út (invariable)  
+{}
+
+códa ← √cud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +208,4 @@ An Rossen reich und Rindern, spendend alles Gut sind oft zum Leuchten sie genaht
 Приведи в движение ко мне богатые дары, о Ушас,  
 Возбуди у щедрых дарителей готовность давать!
 </details>
+

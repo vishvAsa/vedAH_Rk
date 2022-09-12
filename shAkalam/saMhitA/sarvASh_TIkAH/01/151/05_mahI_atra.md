@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átra ← átra (invariable)  
+{}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+r̥ṇvathaḥ ← √r̥- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vā́ram ← vā́ra- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+areṇávaḥ ← areṇú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sádman ← sádman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tújaḥ ← túj- 1 (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sváranti ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+uparátāti ← uparátāt- (nominal stem)  
+{gender:F}
+
+ā́ ← ā́ (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+nimrúcaḥ ← nimrúc- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+takvavī́ḥ ← takvavī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Auf diese Erde sendet Gut in Fülle ihr; staublose, tücht'ge Kühe stehen in de
 Они шумят, когда солнце в зените,  
 На закате, на заре, словно преследователь воров.
 </details>
+

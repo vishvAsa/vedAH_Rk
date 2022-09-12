@@ -16,14 +16,90 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dadharṣīt ← √dhr̥ṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vŕ̥kaḥ ← vŕ̥ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥kī́ḥ ← vr̥kī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+dhaktam ← √dagh- (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+varktam ← √vr̥j- 1 (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhāgáḥ ← bhāgá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+níhitaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dásrau ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mádhūnām ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+nidháyaḥ ← nidhí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +262,4 @@ Nicht möge Wolf noch Wölfin euch verletzen, nicht weichet aus, nicht geht an m
 Вот поднесенная вам доля, вот песня.  
 О чудесные, вот вам подношения медовых напитков.
 </details>
+

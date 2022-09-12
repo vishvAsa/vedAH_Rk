@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ha ← ha (invariable)  
+{}
+
+perúḥ ← perú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+taugryā́ya ← taugryá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuktáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+árṇasaḥ ← árṇas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhā́yi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pajráḥ ← pajrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gameyam ← √gam- (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+śaraṇám ← śaraṇá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ájma ← ájman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+patáyadbhiḥ ← √pat- 1 (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +239,4 @@ Wie ihr dem Sohn des Tugra in der Meerflut das feste Fahrzeug, das bespannte, sc
 Я хотел бы устремиться к вашей помощи как к защите,  
 Словно герой – в путь на летящих конях.
 </details>
+

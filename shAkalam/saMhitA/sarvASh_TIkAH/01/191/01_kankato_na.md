@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+káṅkataḥ ← káṅkata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káṅkataḥ ← káṅkata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+satīnákaṅkataḥ ← satīnákaṅkata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+dvaú ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+íti ← íti (invariable)  
+{}
+
+íti ← íti (invariable)  
+{}
+
+plúṣī ← plúṣi- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+adŕ̥ṣṭāḥ ← adŕ̥ṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+alipsata ← √lip- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +182,4 @@ Der Kankata-wurm ist nicht ein Kankata geblieben (?) und ebenso der Satīna-kank
 Двое (их считается), (зовут их) плуши-  
 (Эти) двое невидимых замазаны.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ástāvi ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+śímīvadbhiḥ ← śímīvant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+pratarám ← pratarám (invariable)  
+{}
+
+sā́mrājyāya ← sā́mrājya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+amī́ ← asaú (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+maghávānaḥ ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+áti ← áti (invariable)  
+{}
+
+míham ← míh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tatanyuḥ ← √tan- (root)  
+{number:PL, person:3, mood:OPT, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Gelobt ist Agni mit gewalt'gen Liedern, der ferner auch zu höchster Macht geset
 Те, что щедрые покровители, и мы (сами)  
 Да (пройдем мы сквозь опасности,) как солнце пробивается сквозь туман!
 </details>
+

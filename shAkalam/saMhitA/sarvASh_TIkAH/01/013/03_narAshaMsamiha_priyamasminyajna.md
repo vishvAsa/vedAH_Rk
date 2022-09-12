@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ihá ← ihá (invariable)  
+{}
+
+nárāśáṁsam ← nárāśáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+hvaye ← √hvā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+haviṣkŕ̥tam ← haviṣkŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádhujihvam ← mádhujihva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +152,4 @@ Den Preis der Männer ruf ich an, den lieben bei dem Opfer hier, Der honigzungig
 На эту жертву, я приглашаю,  
 Приготовителя жертвы, с медовым языком.
 </details>
+

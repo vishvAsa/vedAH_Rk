@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+gnā́ḥ ← gnā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+bhā́ratīm ← bhā́ratī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+hótrām ← hótrā- 2 (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhiṣáṇām ← dhiṣáṇā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+várūtrīm ← várūtrī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ O jüngster Agni, fahre her die Frauen Hotra, Bharati, Zur Huld Varutri, Dhischa
 Для помощи: Хотру, Бхарати,  
 Варутри, Дхишану, о юнейший!
 </details>
+

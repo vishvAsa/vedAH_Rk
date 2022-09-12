@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+árāsata ← √rā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ū́māsaḥ ← ū́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dadāśúṣe ← √dāś- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+póṣam ← póṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+hitā́ḥ ← √hi- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukṣánti ← √ukṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mayobhúvaḥ ← mayobhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Wem Gut und Nahrung schenkten die unsterblichen Genossen, wenn mit Opfertrank er
 Маруты для него как добрые (друзья) орошают  
 Молоком многие (пространства), (эти) благодатные (боги).
 </details>
+

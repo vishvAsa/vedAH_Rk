@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+mahā́ntā ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sádaspátī ← sádaspáti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ubjatam ← √ubj- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áprajāḥ ← áprajā- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+atríṇaḥ ← atrín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ O Indra, Agni, Wohnungsherrn, ihr grossen, beugt die Geisterschar, Die Fresser s
 О Индра-Агни, придавите ракшаса!  
 Да будут бездетными атрины!
 </details>
+

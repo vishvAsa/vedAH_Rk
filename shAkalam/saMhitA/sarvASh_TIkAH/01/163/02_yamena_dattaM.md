@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āyunak ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dattám ← √dā- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tritáḥ ← tritá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yaména ← yamá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+atiṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agr̥bhṇāt ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+gandharváḥ ← gandharvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+raśanā́m ← raśanā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ataṣṭa ← √takṣ- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+sū́rāt ← sū́ra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +240,4 @@ Diesen von Jama geschenkten hat Trita angeschirrt, Indra zuerst bestiegen; der G
 Гандхарва схватил его поводья.  
 Из солнца вытесали вы коня, о боги.
 </details>
+

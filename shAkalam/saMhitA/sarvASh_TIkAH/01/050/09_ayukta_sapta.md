@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áyukta ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śundhyúvaḥ ← śundhyú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naptyàḥ ← naptī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sváyuktibhiḥ ← sváyukti- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +140,7 @@ sū́raḥ: Although most take this as nom. sg. (Grassmann, Geldner, Thieme, Lü
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/050/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/050/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 I assume that the seven mares of vs. 8 are the same as the sleek daughters (śundhyúvaḥ … naptyàḥ) (or granddaughters) of the chariot, but I do not know why the rare word naptī́- is used of them. Thieme (KlSch: 220), on the basis of śundhyúvaḥ, thinks they are wild geese (“…hat sich sieben Wildgänse als Tochter des Wagens angeschirrt”), but this seems to introduce an unnecessary complication since śundhyú- can be taken in its literal meaning.
@@ -148,3 +176,4 @@ Die Sonn' hat sieben glänzende, des Wagens Töchter sich geschirrt, Mit selbst 
 Дочерей колесницы солнца.  
 На них, самозапрягающихся, ездит он.
 </details>
+

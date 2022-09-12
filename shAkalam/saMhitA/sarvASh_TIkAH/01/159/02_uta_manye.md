@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adrúhaḥ ← adrúh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+manye ← √man- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+hávīmabhiḥ ← hávīman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+máhi ← máh- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+svátavaḥ ← svátavas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cakratuḥ ← √kr̥- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pitárā ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+surétasā ← surétas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prajā́yāḥ ← prajā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+várīmabhiḥ ← várīman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +235,4 @@ Und mit Gebeten denk' ich an des Vaters Geist, des gütigen und an der Mutter gr
 Двое родителей о прекрасным семенем создали для потомства  
 Землю, широкую, бессмертную, с далекими просторами.
 </details>
+

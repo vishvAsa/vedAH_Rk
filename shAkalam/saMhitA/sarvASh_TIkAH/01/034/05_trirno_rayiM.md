@@ -16,14 +16,87 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+trís ← trís (invariable)  
+{}
+
+vahatam ← √vah- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+avatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devátātā ← devátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+trís ← trís (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+saubhagatvám ← saubhagatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrávāṁsi ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+trís ← trís (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ruhat ← √ruh- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sū́re ← svàr- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+triṣṭhám ← triṣṭhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +232,7 @@ standing places.
 
 <details><summary>Jamison Brereton Notes</summary>
 
-sū́re duhitā́“daughter of the Sun” preserves, by most accounts, the archaic sandhi of final -as > -e before initial dental. For further disc., see Jamison 2010 (Fs. Melchert). The myth on which this pāda is based, Sūryā’s marriage, is not otherwise mentioned in this hymn. On the formulaic representation of the myth in the RV see Jamison 2001 (Fs. Parpola).
+sū́re duhitā́“daughter of the Sun” preserves, by most accounts, the archaic sandhi of final -as &gt; -e before initial dental. For further disc., see Jamison 2010 (Fs. Melchert). The myth on which this pāda is based, Sūryā’s marriage, is not otherwise mentioned in this hymn. On the formulaic representation of the myth in the RV see Jamison 2001 (Fs. Parpola).
 </details>
 
 <details><summary>Griffith</summary>
@@ -185,3 +258,4 @@ Dreimal, o Açvinen, fahrt uns Reichthum her, dreimal beim Gottesdienste, und dr
 Трижды счастье и трижды славу нам (принесите)!  
 На трехместную вашу колесницу поднимается дочь Солнца.
 </details>
+

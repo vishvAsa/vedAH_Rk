@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhūṣan ← √bhūṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+jánma ← jánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kṣitáyaḥ ← kṣití- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ródasyoḥ ← ródasī- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dákṣase ← dákṣas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+pravā́cyam ← pravā́cya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+árvate ← árvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhárathaḥ ← √bhr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+r̥tā́ya ← r̥tá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótrayā ← hótrā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śímyā ← śímī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vīthaḥ ← √vī- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +239,4 @@ Euch Helden beide rüsteten zu grosser Kraft der beiden Welten preisenswerthe St
 Потому что обряду вы приносите (награду), потому что - коню (на скачках).  
 Благодаря жертвенному возлиянию (и) труду вы продвигаете вперед жертвоприношение.
 </details>
+

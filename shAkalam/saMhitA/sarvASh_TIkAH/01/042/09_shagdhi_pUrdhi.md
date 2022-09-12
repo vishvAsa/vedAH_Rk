@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ca ← ca (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pūrdhí ← √pr̥̄- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śagdhí ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+yaṁsi ← √yam- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+prā́si ← √prā- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+śiśīhí ← √śā- ~ śī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+udáram ← udára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pū́ṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vidaḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ O schenke, fülle, spende uns und stärke, mache voll den Leib, Gib hier uns, Pu
 Воспламени (нас,) наполни живот!  
 О Пушан, найди нам здесь силу духа!
 </details>
+

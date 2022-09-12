@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iṣā́m ← íṣ- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+préṣṭhau ← préṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU, mood:OPT}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+adhvaryántā ← √adhvary- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+unninītháḥ ← √nī- (root)  
+{number:DU, person:2, mood:INJ, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+akr̥ta ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+práśastim ← práśasti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávitārā ← avitár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+janānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vásudhitī ← vásudhiti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Was ist's, o liebste, was ihr aus den Wassern an Trunk und Reichthum dienstbefli
 Эта жертва создала вам славу,  
 О два обладателя богатств, о помощники людей.
 </details>
+

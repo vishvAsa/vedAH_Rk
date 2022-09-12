@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakrathuḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+plavám ← plavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+síndhuṣu ← síndhu- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ātmanvántam ← ātmanvánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+pakṣíṇam ← pakṣín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+taugryā́ya ← taugryá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nirūháthuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+kṣódasaḥ ← kṣódas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+petathuḥ ← √pat- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+supaptaní ← supaptaní- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Dem Tugrasohne habt ihr das beflügelte beseelte Boot bereitet in des Meeres Flu
 На котором вы с божественным разумом вывезли (его).  
 Вы улетели, легко летя, из великого потока.
 </details>
+

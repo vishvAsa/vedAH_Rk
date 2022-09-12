@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nārmarám ← nārmará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+níhantave ← √han- (root)  
+{case:DAT, number:SG}
+
+sahávasum ← sahávasu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ávahaḥ ← √vah- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dāsáveśāya ← dāsáveśa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pr̥kṣā́ya ← pr̥kṣá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ápariviṣṭam ← ápariviṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsyàm ← āsyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūrjáyantyāḥ ← √ūrjay- (root)  
+{case:ABL, gender:F, number:SG, tense:PRS, voice:ACT}
+
+adyá ← adyá (invariable)  
+{}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+purukr̥t ← purukŕ̥t- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ukthyàḥ ← ukthyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Der du für Prikscha und für Dasaveca auch, zu tilgen auszogst Narmara mit sein
 К неосажденному входу в Урджаянти, –  
 Вот также и сегодня совершая много (подвигов), ты достоин гимна.
 </details>
+

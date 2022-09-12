@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aghā́ya ← aghá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sr̥jaḥ ← √sr̥j- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+aviṣyáve ← aviṣyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+duchúnāyai ← duchúnā- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ripáve ← ripú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+adáte ← adánt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dáśate ← √daṁś- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+datváte ← datvánt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+párā ← párā (invariable)  
+{}
+
+rī́ṣate ← √riṣ- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
+sahasāvan ← sahasāvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Nicht gib uns preis, o Agni, schlimmem Unheil, dem gier'gen Feinde, noch dem Ung
 Не выдай нас ни клыкастому, (ни) жалящему,  
 Ни пожирающему, ни вредящему, о обладатель силы!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+priyádhāmāya ← priyádhāma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sudyúte ← sudyút- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vediṣáde ← vediṣád- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhāsím ← dhāsí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mánmanā ← mánman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śúcim ← śúci- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāsaya ← √vas- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vástreṇa ← vástra- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jyotī́ratham ← jyotī́ratha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śukrávarṇam ← śukrávarṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tamohánam ← tamohán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +231,4 @@ Der am Altar auf lieber Stätte schön erglänzt, dem Agni richt' ich zu den Sch
 Словно покровом, покрой чистого молитвой,  
 (Его,) чья колесница – свет, чей цвет прозрачен, кто убивает мрак!
 </details>
+

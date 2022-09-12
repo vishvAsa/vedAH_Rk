@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṣatarā ← áṣatara- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+karma ← √kr̥- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+bharante ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+cyautnā́ni ← cyautná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+dasmávarcāḥ ← dasmávarcas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jújoṣat ← √juṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ratheṣṭhā́ḥ ← ratheṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+súgmyaḥ ← súgmya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +180,7 @@ He will enjoy them—Indra of wondrous luster, coming easily like the  Nāsatyas
 
 <details><summary>Jamison Brereton Notes</summary>
 
-Oldenberg begins his n. on this verse with the cheerful comment “Wohl hoffnungslos,” and it is well to bear this in mind. The difficulties are located in the first pāda, which is seriously deficient in syllables (at best 9, probably 8), has a bad cadence, and contains a hapax á/ā́ṣatarā at which all tr. and comm. throw up their hands. The line is probably corrupt, and my attempts to fix it should be read with skepticism. The meter can be ameliorated by assuming a haplology of acc. pl. kárma adjacent to the identical verb, 1st pl. karma: tā́←kárma> karma (or tā́karma ←kárma>). [I now see that a similar haplology is proposed by Witzel Gotō in the n. to this passage.] (For a less dramatic proposed haplology in Agastya’s oeuvre, see comm. ad I.180.3.) If we detach á/ā́ṣatarā from sandhi with the preceding word (contra Holland & van Nooten Rig Veda edition’s karmā́ṣatarā), the line would have eleven syllables, though it still would have an irreparably bad cadence.
+Oldenberg begins his n. on this verse with the cheerful comment “Wohl hoffnungslos,” and it is well to bear this in mind. The difficulties are located in the first pāda, which is seriously deficient in syllables (at best 9, probably 8), has a bad cadence, and contains a hapax á/ā́ṣatarā at which all tr. and comm. throw up their hands. The line is probably corrupt, and my attempts to fix it should be read with skepticism. The meter can be ameliorated by assuming a haplology of acc. pl. kárma adjacent to the identical verb, 1st pl. karma: tā́←kárma&gt; karma (or tā́karma ←kárma&gt;). [I now see that a similar haplology is proposed by Witzel Gotō in the n. to this passage.] (For a less dramatic proposed haplology in Agastya’s oeuvre, see comm. ad I.180.3.) If we detach á/ā́ṣatarā from sandhi with the preceding word (contra Holland & van Nooten Rig Veda edition’s karmā́ṣatarā), the line would have eleven syllables, though it still would have an irreparably bad cadence.
 
 As for á/ā́ṣatarā, the only (more or less) clear thing about it is that it is a comparative in -tara-, probably agreeing with tā́. Geldner [/Witzel Gotō] refuses to tr. it -- though in their n. Witzel Gotō render the passage tentatively as “Diese (Opfer)werke haben wir für ihn (gerade) zu den gesprenkelteren (bunter) gemacht.” I do not understand what they are doing with áṣatarā, though the rest of the tr. reflects the haplology proposal above. Renou tr. “plus forts,” but without a note his reasons for this are lost; in his introduction to AiG I (p. 59) he comments that the word is “sans doute corrompu.” AiG I.239 tr. ‘annehmbarer’ without further explanation and floats the possibility of “nicht rein ai. Ursprungs,” a suggestion that Kuiper takes as fact (Aryans, 25).
 
@@ -144,7 +190,7 @@ If this gossamer suggestion is correct, then the first two pādas outline a twos
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/173/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/173/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 The -at injunctive pattern noted above comes to a climax in vs. 3, with 5 such verbs. The next -at form, jújoṣat, pāda-initial in 4c, is a subjunctive. The change in mood, while keeping the formal expression -at the same, is surely deliberate.
@@ -176,3 +222,4 @@ Zu Indra lasst uns diese Gaben fördern, die Frommen bringen ihm die Kraftgesän
 Пусть возрадуется (им) Индра, обладающий чудесным блеском,  
 Словно Насатьи, стоящий на колеснице, (бог,) чей выезд приносит счастье!
 </details>
+

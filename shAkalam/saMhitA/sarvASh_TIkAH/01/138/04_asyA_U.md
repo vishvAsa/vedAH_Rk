@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,94 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+bhuvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+áheḷamānaḥ ← áheḷamāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajāśva ← ajā́śva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rarivā́n ← √rā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ajāśva ← ajā́śva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śravasyatā́m ← √śravasy- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+vavr̥tīmahi ← √vr̥t- (root)  
+{number:PL, person:1, mood:OPT, tense:PRF, voice:MED}
+
+dasma ← dasmá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sādhúbhiḥ ← sādhú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+āghr̥ṇe ← ā́ghr̥ṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+atimánye ← √man- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+nahí ← nahí (invariable)  
+{}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+apahnuvé ← √hnu- (root)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,3 +306,4 @@ Dies zu empfangen sei uns schnell mit Hülfe nah, nicht zürnend, spendend, o de
 Ведь я не пренебрегаю тобой, о Пушан жгучий,  
 Не отклоняю твоей дружбы.
 </details>
+

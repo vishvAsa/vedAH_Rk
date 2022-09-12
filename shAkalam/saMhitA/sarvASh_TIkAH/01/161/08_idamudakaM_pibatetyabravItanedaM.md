@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abravītana ← √brū- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+pibata ← √pā- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+udakám ← udaká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+muñjanéjanam ← muñjanéjana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pibata ← √pā- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+háryatha ← √hr̥- 2 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+saúdhanvanāḥ ← saudhanvaná- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+gha ← gha (invariable)  
+{}
+
+mādayādhvai ← √mad- (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tr̥tī́ye ← tr̥tī́ya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Trinket ihr dies Wasser", so sprachet ihr, "oder trinket diese Schliffschlempe!"
 О сыновья Судханвана, если это вам так не нравится,  
 Опьяняйтесь (сомой) третьей выжимки!
 </details>
+

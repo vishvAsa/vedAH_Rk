@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+paripanthínam ← paripanthín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+huraścítam ← huraścít- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+muṣīvā́ṇam ← muṣīván- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+aja ← √aj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dūrám ← dūrá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+srutéḥ ← srutí- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Den Wegelagerer, den Dieb, der Frevel sinnt, den jage du Von unserm Steige weit 
 Грабителя, замышляющего засады,  
 Прогони далеко прочь с тропинки!
 </details>
+

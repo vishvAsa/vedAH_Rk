@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Popular for non-linguistic reasons
 
-## Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+etā́ni ← eṣá (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+rocanā́ni ← rocaná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+adhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+sákratū ← sákratu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+abhíśasteḥ ← abhíśasti- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+avadyā́t ← avadyá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ágnīṣomau ← agnī́-ṣóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ámuñcatam ← √muc- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+gr̥bhītā́n ← √gr̥bhⁱ- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Schönwirkend setztet Agni ihr und Soma dort an den Himmel diese hellen Sterne; 
 Вы реки захваченные, о Агни и Сома,  
 Освободили от проклятья, от позора.
 </details>
+

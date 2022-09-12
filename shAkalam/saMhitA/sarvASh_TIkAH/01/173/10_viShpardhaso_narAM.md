@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ná ← ná (invariable)  
+{}
+
+narā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śáṁsaiḥ ← śáṁsa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+víṣpardhasaḥ ← víṣpardhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+asmā́ka ← ahám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájrahastaḥ ← vájrahasta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitrāyúvaḥ ← mitrāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pū́rpatim ← pū́rpati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+súśiṣṭau ← súśiṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+madhyāyúvaḥ ← madhyāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śikṣanti ← √śak- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+úpa ← úpa (invariable)  
+{}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +215,4 @@ So sei bei uns der blitzbewehrte Indra, wie Männer, die mit Wettgesängen strei
 Как (люди,) ищущие союзника, (идут) за добрым советом к господину крепости,  
 (Так – жрецы,) ищущие посредника, пытаются (привлечь Индру) жертвами.
 </details>
+

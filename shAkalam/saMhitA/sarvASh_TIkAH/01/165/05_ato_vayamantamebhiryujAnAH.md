@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+antamébhiḥ ← antamá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+átas ← átas (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yujānā́ḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+śúmbhamānāḥ ← √śubh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+svákṣatrebhiḥ ← svákṣatra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+étān ← éta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+máhobhiḥ ← máhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+yujmahe ← √yuj- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+babhū́tha ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svadhā́m ← svadhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +207,7 @@ yujmahe is a famous crux: though it should belong to the well-attested root aor.
 plausible foundation (as opposed to Geldner’s motiveless non-redupl. pf.), the coexistence of yujmahe with yujāná- in the same verse, and the general trickiness of Agastya’s poetry, incline me to a nonce, contextual explanation. The oddly placed nú ‘now’ (though see 9a) immediately following the verb form and ending the pāda seems Agastya’s signal that he’s twisted and tweaked the aorist to his own ends -- a temporary present. Thanks to Jesse Lundquist for assembling the relevant lit. and for illuminating disc.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 Indra seizes the Maruts’ assertion of independent power (svadhā́- 5d) by taxing them with the absence of (their exercise of) that power (6a) at a crucial moment. Another skirmish in the battle of the lexicon.
@@ -185,3 +240,4 @@ Aus diesem Grunde haben wir mit den selbstherrlichen Rossen als den nächsten Ge
 О Индра, ты ведь (всегда) считался с нашей природой!  
 Индра:
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+óṣadhīnām ← óṣadhī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āriśā́mahe ← √riś- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+pariṁśám ← pariṁśá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+pī́vaḥ ← pī́vas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́tāpe ← vātāpi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +152,4 @@ Wenn wir der Kräuter schönsten Theil und der Gewässer an uns ziehn, Dann werd
 (Что есть) у вод, у растений,  
 Превратись в жир (для нас), о друг Ваты (?)!
 </details>
+

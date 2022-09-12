@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+ādityáḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+sahá ← sahá (invariable)  
+{}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+víśvena ← víśva- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dviṣántam ← √dviṣ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+randháyan ← √randh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dviṣaté ← √dviṣ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+radham ← √randh- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +186,4 @@ Dieser Aditja ist aufgegangen mit aller seiner überwältigenden Macht, den Hass
 Отдавая мне во власть ненавистника.  
 Да не попаду я под власть ненавистнику!
 </details>
+

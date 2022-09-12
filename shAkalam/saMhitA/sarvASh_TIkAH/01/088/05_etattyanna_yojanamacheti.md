@@ -16,14 +16,63 @@ ChandaH = "विराड्रूपा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-## Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+aceti ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yójanam ← yójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gótamaḥ ← gótama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sasvár ← sasvár (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+híraṇyacakrān ← híraṇyacakra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+páśyan ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+áyodaṁṣṭrān ← áyodaṁṣṭra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+varā́hūn ← varā́hu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vidhā́vataḥ ← √dhāv- 1 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Nie hat ein Lied-gespann sich wie dies erwiesen, was euch, o Maruts, Gotama sang
 Видя убегающих кабанов  
 С золотыми колесами, с железными клыками.
 </details>
+

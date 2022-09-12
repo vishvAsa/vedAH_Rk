@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tanyatā́ ← tanyatā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vépasā ← vépas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bībhayat ← √bhī- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vr̥tráḥ ← vr̥trá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+āyasáḥ ← āyasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āyata ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+sahásrabhr̥ṣṭiḥ ← sahásrabhr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+árcan ← √r̥c- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+svarā́jyam ← svarā́jya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Durch Raschheit nicht, durch Donnern nicht, erschreckt den Indra Vritra je; Auf 
 Ваджра с тысячей зубцов.  
 Да воспоют они (твое) собственное царство!
 </details>
+

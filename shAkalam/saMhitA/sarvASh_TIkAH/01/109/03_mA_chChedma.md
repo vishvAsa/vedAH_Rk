@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+chedma ← √chid- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+nā́dhamānāḥ ← √nādh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+raśmī́n ← raśmí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+anuyáchamānāḥ ← √yam- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+pitr̥̄ṇā́m ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śaktī́ḥ ← śaktí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+indrāgníbhyām ← indrāgní- (nominal stem)  
+{case:DAT, gender:M, number:DU}
+
+kám ← kám (invariable)  
+{}
+
+madanti ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádrī ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dhiṣáṇāyāḥ ← dhiṣáṇā- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Daß wir die Zügel nicht zerreißen", also flehend und der Väter Leistungen ei
 Быки опьяняются для Индры и Агни:  
 Ведь те – два давильных камня в лоне Дхишаны.
 </details>
+

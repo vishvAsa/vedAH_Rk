@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+juguryāḥ ← √gr̥̄- 1 (root)  
+{number:SG, person:2, mood:OPT, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ukthám ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dyā́vākṣā́mā ← dyā́vā-kṣā́mā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svágūrtāḥ ← svágūrta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dīrghā́ ← dīrghá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gávyam ← gávya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yántaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yávyam ← yávya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aruṇyàḥ ← aruṇá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+varanta ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Du nimm, o Agni, freundlich unser Lied an, und Erd' und Himmel und erfreut die S
 Красноватые (утренние зори), идя (ради нас), пусть выберут (нам) этот дар:  
 Богатство из коров, из злаков, долгие дни (жизни), жертвенную усладу!
 </details>
+

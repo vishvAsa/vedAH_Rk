@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+puṣṭivárdhanaḥ ← puṣṭivárdhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhavasi ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+śravā́yyaḥ ← śravā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+údyatasruce ← údyatasruc- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ā́hutim ← ā́huti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+váṣaṭkr̥tim ← váṣaṭkr̥ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āvívāsasi ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+ékāyuḥ ← ékāyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +235,4 @@ Ein Stier bist du, o Agni, mehrst die Nahrung uns, bist anzurufen dem, der dir d
 (Ты тот,) кто знает точно жертвенное возлияние (и) провозглашение Вашат!  
 (Бог,) принадлежащий одному Аю, с (самого) начала ты стремишься покорить племена.
 </details>
+

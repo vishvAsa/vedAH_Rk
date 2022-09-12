@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásāmi ← ásāmi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bibhr̥tha ← √bhr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sudānavaḥ ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ásāmi ← ásāmi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dhūtayaḥ ← dhū́ti- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+parimanyáve ← parimanyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥ṣidvíṣe ← r̥ṣidvíṣ- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dvíṣam ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+íṣum ← íṣu- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sr̥jata ← √sr̥j- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Denn ganz, o Spender, ist die Kraft, die ihr besitzt, und ganz die Macht, o stü
 В злобного ненавистника риши, о Маруты,  
 Метните ненависть, как стрелу!
 </details>
+

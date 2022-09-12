@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+svápnasya ← svápna- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vide ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ábhuñjataḥ ← ábhuñjant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+revátaḥ ← revánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+básri ← básri (invariable)  
+{}
+
+naśyataḥ ← √naś- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +153,4 @@ Er hat nichts zu schaffen mit dem Schlafe und mit dem Reichen, der nichts mitthe
 И скупого богача.  
 Оба они пропадают рано утром.
 </details>
+

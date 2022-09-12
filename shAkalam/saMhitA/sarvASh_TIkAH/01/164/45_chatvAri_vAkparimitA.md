@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+catvā́ri ← catúr- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+padā́ni ← padá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+párimitā ← √mā- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+vā́k ← vā́c- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+brāhmaṇā́ḥ ← brāhmaṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manīṣíṇaḥ ← manīṣín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+viduḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+gúhā ← gúhā (invariable)  
+{}
+
+iṅgayanti ← √iṅg- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+níhitā ← √dhā- 1 (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+manuṣyā̀ḥ ← manuṣyà- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+turī́yam ← turī́ya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vadanti ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 Три тайно сложенные (четверти) они не пускают в ход.  
 На четвертой (четверти) речи говорят люди.
 </details>
+

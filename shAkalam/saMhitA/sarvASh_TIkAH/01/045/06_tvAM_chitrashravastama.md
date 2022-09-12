@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citraśravastama ← citráśravastama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+hávante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+jantávaḥ ← jantú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+purupriya ← purupriyá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śocíṣkeśam ← śocíṣkeśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havyā́ya ← havyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vóḷhave ← √vah- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Dich rufen, hochberühmtester, die Menschen in den Häusern an, Dass, flammenhaa
 (Тебя,) пламенновласого, о многолюбимый  
 Агни, чтобы ты увез жертву.
 </details>
+

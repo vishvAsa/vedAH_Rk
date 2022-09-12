@@ -19,10 +19,10 @@ ChandaH = "अष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -30,6 +30,91 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sridháḥ ← srídh- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+suṣṭuta ← súṣṭuta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+avayātā́ ← avayātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+durmatīnā́m ← durmatí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+sádam ← sádam (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+durmatīnā́m ← durmatí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hantā́ ← hantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāpásya ← pāpá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mā́vataḥ ← mā́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+trātā́ ← trātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+janitā́ ← janitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jī́janat ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jī́janat ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+rakṣoháṇam ← rakṣohán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,3 +304,4 @@ O hochgelobter Indra, schütz uns vor dem Feind; die bösen Hasser wende immer a
 Ведь так вот породил тебя родитель, о Васу,  
 Убийцей ракшасов породил от тебя, о Васу.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṣāḷham ← áṣāḷha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+páprim ← pápri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yutsú ← yúdh- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+apsā́m ← apsā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gopā́m ← gopā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svarṣā́m ← svarṣā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥jánasya ← vr̥jána- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bhareṣujā́m ← bhareṣujā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sukṣitím ← sukṣití- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suśrávasam ← suśrávas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+jáyantam ← √ji- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+madema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Dich der du beistehst unbesiegt in Schlachten, verschaffend Glanz und Wasser, Wo
 Рожденного в боях, с прекрасными поселениями, прекрасной славой,  
 Побеждающего – тебя мы хотим приветствовать, о Сома!
 </details>
+

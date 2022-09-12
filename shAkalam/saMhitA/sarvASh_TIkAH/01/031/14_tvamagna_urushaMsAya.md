@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+uruśáṁsāya ← uruśáṁsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vāgháte ← vāghát- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+paramám ← paramá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rékṇaḥ ← rékṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+spārhám ← spārhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vanóṣi ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ādhrásya ← ādhrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prámatiḥ ← prámati- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ucyase ← √vac- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+díśaḥ ← díś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pā́kam ← pā́ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+śā́ssi ← √śās- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vidúṣṭaraḥ ← vidúṣṭara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +252,4 @@ Du, Agni, schenkst dem Beter, welcher laut dich ruft,den besten Reichthum, der v
 Ты зовешься заступничеством даже для несчастного, отцом (его).  
 Ты наставляешь простака, на(зываешь ему) направления как более сведущий.
 </details>
+

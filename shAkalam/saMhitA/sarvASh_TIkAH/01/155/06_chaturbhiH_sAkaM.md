@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+catúrbhiḥ ← catúr- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+nā́mabhiḥ ← nā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+navatím ← navatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+avīvipat ← √vip- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vr̥ttám ← √vr̥t- (root)  
+{case:NOM, gender:N, number:SG, voice:PASS}
+
+vyátīn ← vyáti- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+br̥háccharīraḥ ← br̥háccharīra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vimímānaḥ ← √mā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+āhavám ← āhavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ákumāraḥ ← ákumāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +231,4 @@ Durch vier der Zeiten hat je neunzig Renner er gleich rundem Rad zugleich in sch
 Высокотелый, соразмеряя себя с певцами,  
 Юноша, не мальчик, идет навстречу вызову.
 </details>
+

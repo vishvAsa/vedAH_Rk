@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágmata ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+mithás ← mithás (invariable)  
+{}
+
+paspr̥dhānā́saḥ ← √spr̥dh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ámitāḥ ← ámita- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jāyávaḥ ← jāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+makhā́ḥ ← makhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ráṇe ← ráṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+cekite ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pravaṇé ← pravaṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sūrím ← sūrí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váhathaḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +228,4 @@ Wenn Helden unermesslich, siegreich in der Schlacht zum Glanze eilen um die Wett
 Показалась движущаяся под уклон ваша колесница,  
 Когда, о Ашвины, вы катаете госпожу для развлечения.
 </details>
+

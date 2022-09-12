@@ -14,12 +14,49 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+kṣitíḥ ← kṣití- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pr̥thvī́ ← pr̥thú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+puṣṭíḥ ← puṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+raṇvā́ ← raṇvá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhújma ← bhújman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+giríḥ ← girí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣódaḥ ← kṣódas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+śambhú ← śambhú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +168,4 @@ Wie schöne Nahrung, – wie weiter Wohnsitz, wie Berge thalreich, – wie Strö
 
 -ru-
 </details>
+

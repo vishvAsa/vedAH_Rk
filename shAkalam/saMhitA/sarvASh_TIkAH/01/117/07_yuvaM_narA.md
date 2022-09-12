@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+kr̥ṣṇiyā́ya ← kr̥ṣṇiyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+dadathuḥ ← √dā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+viṣṇāpvàm ← viṣṇāpū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśvakāya ← víśvaka- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ghóṣāyai ← ghóṣā- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+pitr̥ṣáde ← pitr̥ṣád- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+adattam ← √dā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+aśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+jū́ryantyai ← √jr̥̄- ~ jūr- (root)  
+{case:DAT, gender:F, number:SG, tense:PRS, voice:ACT}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ Dem Viçvaka, dem Krischnaspross, o Männer, dem Sänger habt Vischnapu ihr gege
 И Гхоше, оставшейся сидеть в доме родителей,  
 Стареющей, вы дали мужа, о Ашвины.
 </details>
+

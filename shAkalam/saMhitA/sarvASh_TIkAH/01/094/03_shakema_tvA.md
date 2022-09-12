@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sādháya ← √sādh- ~ sidh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+śakéma ← √śak- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+samídham ← samídh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+adanti ← √ad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́hutam ← √hu- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ādityā́n ← ādityá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+uśmási ← √vaś- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+riṣāma ← √riṣ- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +256,4 @@ Gib Kraft dich zu entzünden, segne das Gebet; in dir geniesst die Götterschar 
 Ты Адитьев привези! Это их мы желаем.  
 О Агни, дружа с тобой, да не потерпим мы вреда!
 </details>
+

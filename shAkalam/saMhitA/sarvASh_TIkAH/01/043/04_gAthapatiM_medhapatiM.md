@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gāthápatim ← gāthápati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+medhápatim ← medhápati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jálāṣabheṣajam ← jálāṣabheṣaja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rudrám ← rudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+śaṁyós ← śaṁyós (invariable)  
+{gender:N}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +160,4 @@ Den Sangesherrn, den Opferherrn, Rudra mit linder Arzenei, Den flehn um Heil und
 Рудру с успокаивающим целебным средством  
 Мы просим об этой милости для блага и счастья,
 </details>
+

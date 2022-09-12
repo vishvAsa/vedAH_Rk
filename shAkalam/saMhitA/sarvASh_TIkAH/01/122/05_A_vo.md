@@ -16,14 +16,72 @@ ChandaH = "विराड्रूपा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+auśijáḥ ← auśijá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+huvádhyai ← √hū- (root)  
+{case:DAT, number:SG, tense:AOR}
+
+ruvaṇyúm ← ruvaṇyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+árjunasya ← árjuna- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ghóṣā ← ghóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+náṁśe ← náṁśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pūṣṇé ← pūṣán- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vasútātim ← vasútāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+voceya ← √vac- (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +245,4 @@ Der Uçidsch Sohn soll lautes Lob euch singen, wie Ghoscha bei des Ardschuna Erl
 (Поставьте) впереди вашего (восхваления) Пушана, чтобы он дал!  
 Речью я хочу достигнуть божественной сути Агни.
 </details>
+

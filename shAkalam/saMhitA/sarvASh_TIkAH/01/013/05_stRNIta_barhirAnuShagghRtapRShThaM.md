@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+str̥ṇītá ← √str̥̄- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ghr̥tápr̥ṣṭham ← ghr̥tápr̥ṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+manīṣiṇaḥ ← manīṣín- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+cákṣaṇam ← cákṣaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +152,4 @@ Das Lager streut, o kundige, das fettbedeckte nach dem Brauch, Wo der unsterblic
 Жирноспинную, о умелые,  
 Где возникает мир бессмертных!
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+kuvít ← kuvít (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ucáthasya ← ucátha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vī́ḥ ← vī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āvárat ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kuvít ← kuvít (invariable)  
+{}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vásuḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+codáḥ ← codá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kuvít ← kuvít (invariable)  
+{}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+tutujyā́t ← √tuj- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gr̥ṇe ← √gr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+śúcipratīkam ← śúcipratīka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +254,4 @@ Ob Agni wol an unserm Spruch Gefallen hat? ob unsern Durst nach Gütern wol der 
 Будет ли стрекало погонять (наши) поэтические мысли к цели?  
 Его, имеющего светлый облик, я воспеваю в этой молитве.
 </details>
+

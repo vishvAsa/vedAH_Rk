@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prācī́nam ← prācī́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+astr̥ṇan ← √str̥̄- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sahásravīram ← sahásravīra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ādityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+virā́jatha ← √rāj- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +141,4 @@ Den Sitz im Osten streuten sie, der tausend Männer fasst mit Kraft, Auf dem, Ad
 , достаточную для тысячи мужей,  
 Где вы, о Адитьи, царите.
 </details>
+

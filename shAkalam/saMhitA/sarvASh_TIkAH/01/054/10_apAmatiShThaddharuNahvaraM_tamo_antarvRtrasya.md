@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+atiṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dharúṇahvaram ← dharúṇahvara- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+jaṭháreṣu ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+párvataḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trásya ← vr̥trá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+hitā́ḥ ← √dhā- 1 (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+īm ← īm (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vavríṇā ← vavrí- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+anuṣṭhā́ḥ ← anuṣṭhā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jighnate ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pravaṇéṣu ← pravaṇá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Der Wasser Grund umhüllend stand die Finsterniss, der Wolkenberg in Vritra's B�
 Все, что было устроено запрудителем рек  
 В стремнине, Индра разбивает одно за другим.
 </details>
+

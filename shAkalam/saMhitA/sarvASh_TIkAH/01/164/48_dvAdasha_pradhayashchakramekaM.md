@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dvā́daśa ← dvā́daśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pradháyaḥ ← pradhí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ciketa ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nábhyāni ← nábhya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+u ← u (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sākám ← sākám (invariable)  
+{}
+
+śaṅkávaḥ ← śaṅkú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+triśatā́ ← triśatá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+arpitā́ḥ ← √r̥- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+calācalā́saḥ ← calācalá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ṣaṣṭíḥ ← ṣaṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Zwölf Felgen [die Monate] sind an dem einen Rade [des Jahres] und drei Naben, w
 В нем укреплены вместе колышки,  
 Словно триста шестьдесят подвижных и (одновременно) неподвижных.
 </details>
+

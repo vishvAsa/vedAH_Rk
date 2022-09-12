@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+catvā́raḥ ← catúr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+maśarśā́rasya ← maśarśā́ra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śíśvaḥ ← śíśu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́yavasasya ← ā́yavasa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jiṣṇóḥ ← jiṣṇú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rā́jñaḥ ← rā́jan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dīrghā́psāḥ ← dīrghā́psas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+adyaut ← √dyut- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syū́magabhastiḥ ← syū́magabhasti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Mich [fahren (vgl. 534, 23 und 683, 14)] vier vom Sohne des Maçarçāra geschen
 Ваша колесница, о Митра и Варуна с длинной  
 Передней частью, с ремнями-лучами засверкала, как солнце.
 </details>
+

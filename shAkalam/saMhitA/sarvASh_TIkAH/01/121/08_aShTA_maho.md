@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+adaḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+aṣṭā́ ← aṣṭár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ihá ← ihá (invariable)  
+{}
+
+maháḥ ← máh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+dyumnāsā́ham ← dyumnāsáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yodhānáḥ ← √yudh- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:ACT}
+
+dukṣán ← √duh- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+hárim ← hári- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mandínam ← mandín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+górabhasam ← górabhasa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vātā́pyam ← vātā́pya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Vom hohen Himmel nahmst du dir die Rosse, erkämpftest hier den Kraft verleihnde
 Когда (боги) доили опьяняющего буланого (сому), чтобы усилить тебя,  
 (Доили) давильными камнями сок, крепчающий от (молока) коров, дружащий с ветром.
 </details>
+

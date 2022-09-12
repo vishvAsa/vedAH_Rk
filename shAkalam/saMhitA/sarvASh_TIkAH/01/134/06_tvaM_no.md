@@ -19,10 +19,10 @@ ChandaH = "अष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,85 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+ápūrvyaḥ ← ápūrvya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arhasi ← √arh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pītím ← pītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómānām ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+arhasi ← √arh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pītím ← pītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sutā́nām ← √su- (root)  
+{case:GEN, gender:M, number:PL, non-finite:PPP}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+vihútmatīnām ← vihútmant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vavarjúṣīṇām ← √vr̥j- 1 (root)  
+{case:GEN, gender:F, number:PL, tense:PRF, voice:ACT}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+āśíram ← āśír- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+duhre ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+āśíram ← āśír- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+duhrate ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +259,7 @@ For abc as a “repair” of pāsi in 5fg, see disc. there.
 Most supply barhis as the obj. of the perf. part. vavarjúṣīṇām, and this is quite possibly correct. By contrast I take it in the metaphorical sense “twist s.o. towards oneself,” that is, attract to the sacrifice -- though we might prefer a medial form in that sense. And the mention of barhis at the beginning of the next hymn (I.135.1a) may support that standard view. As Kümmel points out (461 and n. 873), there’s no obvious explanation for the full-grade stem (expect *vavṛjúṣ-).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Fronted forms of the 2nd sg. pronoun begin most of the metrically significant sections in this sequence of vss. (4a, d, 5a, d, 6a).
@@ -216,3 +295,4 @@ Vor allen andern dir zuerst gebührt der Trunk, o Vaju, dieser unsrer Somatränk
 Все до одной коровы доятся для тебя молоком для обряда,  
 Жиром доятся, молоком для обряда.
 </details>
+

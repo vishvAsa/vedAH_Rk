@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+citrábhānuḥ ← citrábhānu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śrūyā́ḥ ← √śru- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+amŕ̥taḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vícetāḥ ← vícetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvābhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+róhitā ← róhita- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śyāvā́ ← śyāvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vā ← vā (invariable)  
+{}
+
+vahataḥ ← √vah- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áha ← áha (invariable)  
+{}
+
+aruṣā́ ← aruṣá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
+víbhr̥traḥ ← víbhr̥tra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Der hellentflammte Agni hör mein Rufen bei allen Liedern, er, der ew'ge, weise;
 Двое гнедых везут (его) колесницу, двое рыжих,  
 Или также он сделал себе (упряжными) двоих алых, (этот бог,) развозимый по разным местам.
 </details>
+

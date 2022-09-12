@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+mahitvám ← mahitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ririce ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+antárikṣāt ← antárikṣa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svarā́ṭ ← svarā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvágūrtaḥ ← viśvágūrta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámatraḥ ← ámatra- adj. (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráṇāya ← ráṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svaríḥ ← svarí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vavakṣe ← √vakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Es überragte wahrlich seine Grösse die weite Luft, den Himmel und die Erde; Se
 Индра-самодержец в доме (своем), всеми воспетый,  
 Прекрасный (убийца) врагов, неистовый, он усилился для битвы.
 </details>
+

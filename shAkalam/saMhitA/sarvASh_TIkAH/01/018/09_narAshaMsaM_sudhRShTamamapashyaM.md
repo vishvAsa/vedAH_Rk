@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+nárāśáṁsam ← nárāśáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudhŕ̥ṣṭamam ← sudhŕ̥ṣṭama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+sapráthastamam ← sapráthastama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sádmamakhasam ← sádmamakhas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +132,4 @@ Den umfangsreichsten Männerpreis, den kühnsten Agni schaute ich, Der gleichsam
 Я увидел, самого широкого,  
 Щедро дарующего сиденье, как у неба.
 </details>
+

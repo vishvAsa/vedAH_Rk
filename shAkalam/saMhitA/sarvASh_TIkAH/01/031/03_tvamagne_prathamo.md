@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mātaríśvane ← mātaríśvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+āvís ← āvís (invariable)  
+{}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sukratūyā́ ← sukratūyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vivásvate ← vivásvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+árejetām ← √rej- (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:MED}
+
+hotr̥vū́rye ← hotr̥vū́rya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ásaghnoḥ ← √sagh- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+áyajaḥ ← √yaj- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+bhārám ← bhārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, number:PL}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +216,4 @@ Du hast zuerst dem Matariçvan dich gezeigt, und dem Vivasvat, Agni, durch dein 
 Два мира сотрясались при выборе (Агни) хотаром:  
 Ты смог взвалить (на себя) это бремя. Ты почтил великих (богов), о Васу.
 </details>
+

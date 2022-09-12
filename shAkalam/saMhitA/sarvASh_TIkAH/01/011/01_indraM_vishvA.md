@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avīvr̥dhan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+samudrávyacasam ← samudrávyacas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rathī́nām ← rathī́- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rathī́tamam ← rathī́tama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sátpatim ← sátpati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jānām ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +168,4 @@ Den Indra feiert jedes Lied, ihn, der sich ausdehnt wie ein Meer, Den stärksten
 Лучшего из возниц,  
 Господина наград, господина (всего) сущего.
 </details>
+

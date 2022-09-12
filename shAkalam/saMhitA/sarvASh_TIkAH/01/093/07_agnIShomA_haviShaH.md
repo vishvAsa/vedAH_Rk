@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Popular for non-linguistic reasons
 
-## Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ágnīṣomā ← agnī́-ṣóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+havíṣaḥ ← havís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+prásthitasya ← √sthā- (root)  
+{case:GEN, gender:N, number:SG, non-finite:PPP}
+
+háryatam ← √hr̥- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+juṣéthām ← √juṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:MED}
+
+vītám ← √vī- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bhūtám ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+suśármāṇā ← suśárman- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+svávasā ← svávas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+átha ← átha (invariable)  
+{}
+
+dhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śám ← śám (invariable)  
+{}
+
+yájamānāya ← √yaj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+yós ← yós (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +215,4 @@ Vom dargereichten Trank geniesst, o Stiere, o Agni-Soma, nehmt ihn an, erquickt 
 Ведь у вас хорошая защита, хорошая помощь:  
 Так даруйте же жертвователю счастье и благо!
 </details>
+

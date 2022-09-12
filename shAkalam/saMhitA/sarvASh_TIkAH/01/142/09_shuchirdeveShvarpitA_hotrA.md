@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+árpitā ← √r̥- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhā́ratī ← bhā́ratī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hótrā ← hótrā- 2 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+marútsu ← marút- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+íḷā ← íḷā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sīdantu ← √sad- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yajñíyāḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +176,4 @@ Die reine Hotra, Bharati, den Göttern und den Maruts lieb, Ida, Sarasvati, Mahi
 богини  
 Пусть сядут на жертвенную солому, достойные жертв!
 </details>
+

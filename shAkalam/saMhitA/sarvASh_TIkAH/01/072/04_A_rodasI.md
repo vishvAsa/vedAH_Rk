@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+vévidānāḥ ← √vid- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+jabhrire ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+rudríyā ← rudríya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nemádhitā ← nemádhiti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tasthivā́ṁsam ← √sthā- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,3 +245,4 @@ Erreichend beide hocherhabne Welten beeilten sich die hehren Rudrasöhne, Aufmer
 Смертный, разбирающийся в меняющемся положении, нашел  
 Агни, находящегося в высшем месте.
 </details>
+

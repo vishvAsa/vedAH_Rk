@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+híraṇyahastam ← híraṇyahasta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rárāṇā ← √rā- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+adattam ← √dā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vadhrimatyā́ḥ ← vadhrimatī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ha ← ha (invariable)  
+{}
+
+śyā́vam ← śyā́va- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+trídhā ← trídhā (invariable)  
+{}
+
+víkastam ← √kas- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+airayatam ← √īr- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+sudānū ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Hiranjahasta gabt der Vadhrimati als Sohn ihr, Ritter, Helden, Huld gewährend; 
 Разрезанного на целых три части Шьяву, о Ашвины,  
 Вы, о щедро дарящие, подняли к жизни.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+apagohám ← apagohá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kanī́nām ← kanyā̀- ~ kanī́n- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+atiṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+āvís ← āvís (invariable)  
+{}
+
+bhávan ← √bhū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+parāvŕ̥k ← parāvŕ̥j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+acaṣṭa ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+anák ← anákṣ- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+śroṇáḥ ← śroṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sthāt ← √sthā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Der Krüppel, kennend den Versteck der Mädchen, erhob von dort sich, offenbar s
 Расслабленный крепко встал (на свои ноги), слепой прозрел.  
 В опьянении сомой Индра совершил эти (подвиги).
 </details>
+

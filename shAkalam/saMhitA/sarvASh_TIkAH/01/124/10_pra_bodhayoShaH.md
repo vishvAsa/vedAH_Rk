@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bodhaya ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maghoni ← maghávan- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pr̥ṇatáḥ ← √pr̥̄- 1 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+uṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ábudhyamānāḥ ← ábudhyamāna- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+paṇáyaḥ ← paṇí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sasantu ← √sas- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+maghávadbhyaḥ ← maghávan- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+maghoni ← maghávan- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ucha ← √vas- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jāráyantī ← √gr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stotré ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sūnr̥te ← sūnŕ̥ta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +197,4 @@ Erweck die Spender, reiche Morgenröthe, die Geiz'gen mögen schlafen ohn' Erwac
 Воссвети щедрым богатство, о щедрая,  
 Богатство – певцу, (ты,) великодушная (и) пробуждающая!
 </details>
+

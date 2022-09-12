@@ -18,16 +18,104 @@ ChandaH = "अष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áha ← áha (invariable)  
+{}
+
+ā́hutim ← ā́huti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vahethe ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+aśvatthám ← aśvatthá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jāyávaḥ ← jāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+upatíṣṭhanta ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+jāyávaḥ ← jāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pácyate ← √pac- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sākám ← sākám (invariable)  
+{}
+
+súvate ← √sū- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yávaḥ ← yáva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dasyanti ← √das- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+dasyanti ← √das- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,3 +310,4 @@ Ihr fahrt ja hin zu dieses Opfertranks Erguss zum Feigenholz, in dem die Tränke
 Не истощаются, о Ваю, твои дойные коровы,  
 Не истощаются дойные коровы!
 </details>
+

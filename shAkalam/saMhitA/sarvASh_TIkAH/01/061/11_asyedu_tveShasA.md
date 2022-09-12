@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ranta ← √rā- 3 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tveṣásā ← tveṣás- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+áyachat ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+sīm ← sīm (invariable)  
+{}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+daśasyán ← √daśasy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+īśānakŕ̥t ← īśānakŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gādhám ← gādhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+turváṇiḥ ← turváṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+turvī́taye ← turvī́ti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +237,4 @@ Auf seinen Antrieb rannen hin die Ströme, als er auf Vritra mit dem Blitz gezie
 Делая властелином, радуя почитателя,  
 Спаситель создал брод для Турвити.
 </details>
+

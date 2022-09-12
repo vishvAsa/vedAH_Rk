@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+tavástaram ← tavástara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yóge-yoge ← yóga- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+vā́je-vāje ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +142,4 @@ In jeder Arbeit, jedem Kampf, o Freunde, rufen Indra wir, Den kräftigsten zur H
 Индру мы призываем  
 Как друзья – на помощь.
 </details>
+

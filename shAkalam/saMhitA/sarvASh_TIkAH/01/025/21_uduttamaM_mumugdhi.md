@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+mumugdhi ← √muc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+út ← út (invariable)  
+{}
+
+uttamám ← uttamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cr̥ta ← √cr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+madhyamám ← madhyamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pā́śam ← pā́śa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+adhamā́ni ← adhamá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Lös' ab von uns das höchste Band, reiss mitten durch das mittelste, Zum Leben 
 Посреди среднюю петлю расслабь,  
 Вниз – нижние, чтобы мы жили!
 </details>
+

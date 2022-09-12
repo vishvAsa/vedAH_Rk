@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áruhat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sā́noḥ ← sā́nu- ~ snú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sā́num ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áspaṣṭa ← √spaś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kártvam ← kártva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ártham ← ártha- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cetati ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ejati ← √ej- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥ṣṇíḥ ← vr̥ṣṇí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yūthéna ← yūthá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +202,4 @@ Als er von Berg zu Berge stieg, hat viele Arbeit er geschaut, Und Indra nimmt de
 Тогда Индра замечает (его) цель.  
 Как баран (вожак) он приходит в движение вместе со стадом.
 </details>
+

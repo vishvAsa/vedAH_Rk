@@ -14,12 +14,46 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M
+#### Morph
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+saparyan ← √sapary- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+bharanta ← √bhr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+jívreḥ ← jívri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+védaḥ ← védas- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -99,7 +133,7 @@ Neither of these hemistichs produces two proper Dvipadā Virāj pādas. The firs
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/09-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 See Proferes (pp. 48-49) on these contrastive verses. Note the complementary bháranta / bharanta beginning 9c and ending 10d respectively. Their relationship and their semantic contrast is emphasized by the vi(…)s: bháranta ví(śve)… ví … bharanta.
@@ -132,3 +166,4 @@ Was herrlich, legst du – in Küh' und Bäume; sie bringen alle – Geschenk zu
 
 -ru-
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ántaraḥ ← ántara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāyúḥ ← pāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yájyave ← yájyu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+aniṣaṅgā́ya ← aniṣaṅgá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+caturakṣáḥ ← caturakṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+idhyase ← √idh- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+avr̥kā́ya ← avr̥ká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dhā́yase ← dhā́yas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+rātáhavyaḥ ← rātáhavya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kīréḥ ← kīrí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mántram ← mántra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vanóṣi ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +236,4 @@ Dem Frommen bist der nächste Hüter, Agni, du, vieräugig wirst dem unbewehrten
 Кто принес жертву, чтоб обеспечить безопасность,  
 Тот стих (его) – даже если он слаб – ты возлюбишь сердцем.
 </details>
+

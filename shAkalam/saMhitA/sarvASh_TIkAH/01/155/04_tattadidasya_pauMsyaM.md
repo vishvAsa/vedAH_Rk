@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+gr̥ṇīmasi ← √gr̥̄- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+paúṁsyam ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát-tat ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+avr̥kásya ← avr̥ká- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+inásya ← iná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mīḷhúṣaḥ ← mīḍhváṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+trātúḥ ← trātár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+pā́rthivāni ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tribhíḥ ← trí- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vígāmabhiḥ ← vígāman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+krámiṣṭa ← √kramⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+urú ← urú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+urugāyā́ya ← urugāyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Wir preisen diese, diese seine Manneskraft des starken Schützers, der nicht str
 (Того,) кто широко перешагнул через земные (просторы)  
 Всего лишь тремя шагами, чтобы (человечеству) идти далеко, чтобы (ему) жить.
 </details>
+

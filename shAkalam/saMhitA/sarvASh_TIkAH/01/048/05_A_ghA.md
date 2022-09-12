@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gha ← gha (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+sūnárī ← sūnára- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+prabhuñjatī́ ← √bhuj- 2 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jaráyantī ← √gr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+padvát ← padvánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vŕ̥janam ← vŕ̥jana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pakṣíṇaḥ ← pakṣín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pātayati ← √pat- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +185,4 @@ Erfreuend kommt das Morgenroth, wie eine jugendliche Maid; Was Füsse hat, zum W
 Она идет, пробуждая род двуногих,  
 По ее велению взлетают птицы.
 </details>
+

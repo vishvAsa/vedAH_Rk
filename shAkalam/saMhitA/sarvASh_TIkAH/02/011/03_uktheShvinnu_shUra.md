@@ -16,14 +16,75 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
+#### Morph
+cākán ← √kanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ukthéṣu ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rudríyeṣu ← rudríya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+stómeṣu ← stóma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+etā́ḥ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+mandasānáḥ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+túbhya ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́su ← yá- (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sisrate ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śubhrā́ḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vāyáve ← vāyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +244,4 @@ Die Sprüch', an denen recht, o Held, du Lust hast, und Lieder, Indra, die den M
 Для тебя ведь (текут) эти (струи сомы), которыми ты опьяняешься,  
 Как текут вперед сверкающие (струи) для Ваю.
 </details>
+

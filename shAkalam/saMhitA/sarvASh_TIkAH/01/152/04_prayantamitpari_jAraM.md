@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+jārám ← jārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kanī́nām ← kanyā̀- ~ kanī́n- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+prayántam ← √i- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+páśyāmasi ← √paś- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+upanipádyamānam ← √pad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ánavapr̥gṇā ← ánavapr̥gṇa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vásānam ← √vas- 2 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+
+vítatā ← √tan- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +201,4 @@ Wir sehn den Buhlen zu den Jungfraun eilen, doch nimmer ruhet er an ihrer Seite;
 (Мы видим,) как он одевается в бескрайние протянувшиеся (одежды).  
 (Вот) любимое установление Митры (и) Варуны.
 </details>
+

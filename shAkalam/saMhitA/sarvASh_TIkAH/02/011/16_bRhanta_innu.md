@@ -16,14 +16,69 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
+#### Morph
+br̥hántaḥ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+tarutra ← tárutra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+āvívāsān ← √vanⁱ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT, mood:DES}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ukthébhiḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pastyā̀vat ← pastyā̀vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+str̥ṇānā́saḥ ← √str̥̄- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+tvótāḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Die edlen Männer, welche jetzt, o Retter, durch Andachtssprüche deine Gunst ge
 (Или) расстилая жертвенную солому хозяина дома.  
 Это с твоей помощью, о Индра, они пришли к награде.
 </details>
+

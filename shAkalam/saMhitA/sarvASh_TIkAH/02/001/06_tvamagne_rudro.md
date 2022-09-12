@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rudráḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+īśiṣe ← √īś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥kṣáḥ ← pŕ̥kṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+aruṇaíḥ ← aruṇá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śaṁgayáḥ ← śaṁgayá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vā́taiḥ ← vā́ta- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yāsi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+pāsi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vidhatáḥ ← √vidh- (root)  
+{case:ACC, gender:M, number:PL, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +219,6 @@ genre M
 हे **अग्ने** रुद्ररूप एवंगुणविशिष्टस् त्वं रुद्रतुल्यपराक्रमो भूत्वा अनया घोरया तन्वा अस्माकं शत्रून् मारयेति भावः । 'एषा वा अस्य घोरा तनूर्यद्र्द्रः' इत्यादि ब्राह्मणम् ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -193,7 +259,6 @@ Thou farest with ruddy winds, blessing the household;
 Thou, as Pusan dost, protectest thy worshippers with thyself.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Du, Agni, bist Rudra, der Asura des großen Himmels; als Marutheer verfügst du über die Stärke. Du fährst mit den rötlichen Windrossen, dem Hausstand heilbringend; du schützest als Pusan in eigener Person die Verehrer.
@@ -211,3 +276,4 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 Ты взмываешь алыми ветрами, (неся) благословение домашнему очагу.  
 Ты, (как) Пушан, защищаешь самим собой почитающих (тебя).
 </details>
+

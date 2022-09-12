@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́vaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+śámam ← śáma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+túgryāsu ← túgrya- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣetrajeṣé ← kṣetrajeṣá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śvítryam ← śvítrya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+akran ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+jyók ← jyók (invariable)  
+{}
+
+tasthivā́ṁsaḥ ← √sthā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+ádharā ← ádhara- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+akar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+śatrūyatā́m ← √śatrūy- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+védanā ← védana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +222,4 @@ Du halfst dem starken Stier bei Tugra's Mannen, beim Kampf um Land dem Çvitrasp
 Долго уж они медлили, находясь там.  
 Владения враждовавших ты подчинил себе.
 </details>
+

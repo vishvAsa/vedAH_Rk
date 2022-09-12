@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhā́svatī ← bhā́svant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+netrī́ ← netrī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sūnŕ̥tānām ← sūnŕ̥ta- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+gótamebhiḥ ← gótama- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+stave ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+áśvabudhyān ← áśvabudhya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+nr̥vátaḥ ← nr̥vánt- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prajā́vataḥ ← prajā́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+góagrān ← góagra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+māsi ← √mā- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +175,7 @@ O Dawn, mete out prizes rich in offspring, rich in men, founded on  horses, tipp
 Note the etymological, though no longer semantic, relationship between sūnṛ́tānām (a) and nṛvátaḥ (c).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/092/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/092/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 Contra Grassmann, áśva-budhya- cannot mean ‘durch Rosse bemerkenswerth’ with a gerundive to √budh, among other things because of the bahuvrīhi accent. Rather it belongs with áśva-budhna- ‘having a foundation of horses’, by way of *-budhnya-, an analysis that goes back to Aufrecht. All 3 occurrences of this stem (I.92.7-8, 121.14) qualify wealth or prizes. On the related hapax áśva-budhna- see comm. ad X.8.3.
@@ -166,3 +212,4 @@ Gepriesen wird die helle Freudenbotin, des Himmels Tochter, von den Gotamiden; O
 О Ушас, отмерь нам награды, состоящие из потомства,  
 Из мужей, с конями в конце, с коровами во главе!
 </details>
+

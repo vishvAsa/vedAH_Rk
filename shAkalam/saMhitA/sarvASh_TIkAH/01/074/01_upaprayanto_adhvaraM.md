@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+upaprayántaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mántram ← mántra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vocema ← √vac- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+āré ← āré (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:LOC, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+śr̥ṇvaté ← √śru- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -80,12 +108,10 @@ genre M
 **अध्वरं** हिंसाप्रत्यवायरहितमग्निष्टोमादियज्ञम् **उपप्रयन्तः** उपेत्य प्रकर्षेण यन्तो गच्छन्तः प्राप्त्यविच्छेदेन सम्यगनुतिष्ठन्तः इत्यर्थः । तादृशा वयम् **अग्नये** अङ्गनादिगुणयुक्ताय देवाय **मन्त्रं** मननसाधनमेतत्सूक्तरूपं स्तोत्रं **वोचेम** । वक्तारो भूयास्मेत्याशास्यते । कीदृशायाग्नये । **आरे** **अस्मे** **च** **शृण्वते** । चशब्दः अप्यर्थे आरेशब्दात्परो द्रष्टव्यः । आरे च दूरेऽपि स्थित्वास्माकं स्तुतीः शृण्वते । अस्मासु प्रीत्यतिशयेन सर्वत्र प्रवर्तमानोऽग्निरस्मदीयमेव स्तोत्रं शृणोतीति भावः ॥ वोचेम । ‘ ब्रुवो वचिः । ‘ लिङयाशिष्यङ्'। ‘वच उम्' इति उमागमः । शृण्वते । ‘शतुरनुमः' इति । विभक्तेरुदात्तत्वम् ॥
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 उपप्रयन्तः उपेत्य प्रकर्षेण गच्छन्तः अध्वरं यज्ञं अविच्छेदेन गच्छन्तः कुर्वन्तो वयं मन्त्रं वोचेमेत्याशास्यते, उपस्थानमन्त्रस्य वक्तारो भूयास्मेति । वचेराशिषि लिञ् 'लियङाशिष्यङ्' ' वच उम्' । अग्नये अग्न्यर्थम् । कीदृशायाग्नये आरे दूरे च अस्मे अस्माकं शृण्वते श्रुत्वा वचनार्थं कुर्वते सर्वदा तं मन्त्रं वोचेम उच्यास्मेत्यविच्छेदेन आशास्यते ॥
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -118,7 +144,6 @@ Let us utter a hymn to Agni,
 Who heareth us, even from afar.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Zum Opferdienst antretend wollen wir dem Agni ein Dichterwort aufsagen, der auch in der Ferne auf uns hört;
@@ -135,3 +160,4 @@ Zum Opfer schreitend wollen wir dem Agni sprechen ein Gebet, Der uns auch aus de
 Мы хотим произнести молитву Агни –  
 Ведь он слышит нас и издалека,
 </details>
+

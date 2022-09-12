@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+asanam ← √sanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+aśvínoḥ ← aśvín- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anaśvám ← anaśvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājínīvatoḥ ← vājínīvant- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cākana ← √kanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +144,4 @@ Von den an Gütern reichen Açvinen habe ich den rosselosen Wagen empfangen, an 
 Получил я колесницу без коня.  
 Очень я этому рад!
 </details>
+

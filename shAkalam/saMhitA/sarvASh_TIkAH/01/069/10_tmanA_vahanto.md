@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥ṇvan ← √r̥- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+váhantaḥ ← √vah- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+dŕ̥śīke ← dŕ̥śīka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+návanta ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:INJ, tense:IPRF, voice:MED}
+
+svàr ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +149,4 @@ Als lichter Buhle – der Morgenröthe, von gleicher Farbe – erschein er diese
 
 -ru-
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vásunaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vibhāgé ← vibhāgá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+śuśrava ← √śru- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+tavástamā ← tavástama- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vr̥trahátye ← vr̥trahátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āsádya ← √sad- (root)  
+{non-finite:CVB}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+taú ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+carṣaṇī ← carṣaṇí- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mādayethām ← √mad- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Ihr seid, so hör' ich, bei des Guts Vertheilung, im Feindeskampf die stärksten
 Вы двое, усевшись на жертвенной соломе во время этой жертвы,  
 Наслаждайтесь выжатым (сомой), о вы двое, (стоящие) впереди народов!
 </details>
+

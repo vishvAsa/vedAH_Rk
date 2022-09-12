@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ABL, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+índrāt ← índra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+r̥té ← r̥té (invariable)  
+{}
+
+yásmāt ← yá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+sámbhr̥tā ← √bhr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+vīryā̀ ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jaṭháre ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+máhaḥ ← máhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tanvì ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+bhárati ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śīrṣáṇi ← śíras- ~ śīrṣán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +235,4 @@ Ohn' den nichts ist, in Indra, dem gewaltigen, da sind vereint die Heldenkräfte
 В брюхе он несет сому, в теле – силу, мощь,  
 В руке – дубину грома, в голове – силу духа.
 </details>
+

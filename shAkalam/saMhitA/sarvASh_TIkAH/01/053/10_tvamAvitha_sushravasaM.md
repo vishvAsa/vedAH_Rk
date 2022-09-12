@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āvitha ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+suśrávasam ← suśrávas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+trā́mabhiḥ ← trā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+tū́rvayāṇam ← tū́rvayāṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+atithigvám ← atithigvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyúm ← āyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kútsam ← kútsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+arandhanāyaḥ ← √randhanāy- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rā́jñe ← rā́jan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yū́ne ← yúvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +203,4 @@ Du halfst dem Suçravas mit deinen Hülfen, Indra, mit deinem Schutz dem Turvaja
 Кутсу, Атитхигву, Аю ты этому  
 Великому юному царю отдал во власть.
 </details>
+

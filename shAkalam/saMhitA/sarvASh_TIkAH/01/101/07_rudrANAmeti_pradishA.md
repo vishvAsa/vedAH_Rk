@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Cretic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pradíśā ← pradíś- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rudrā́ṇām ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jráyaḥ ← jráyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thú ← pr̥thú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+rudrébhiḥ ← rudrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tanute ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+arcati ← √r̥c- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śrutám ← √śru- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+marútvantam ← marútvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Weitblickend schreitet nach der Rudra's Weisung er, wenn mit den Rudra's weit si
 Индру, знаменитого, воспевает поэтическая мысль, - (его,)  
 Сопровождаемого Марутами мы зовем для дружбы.
 </details>
+

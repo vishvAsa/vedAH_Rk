@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhenum ← ádhenu- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+staryàm ← starī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víṣaktām ← √sac- 2 (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+ápinvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śayáve ← śayú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jāyā́m ← jāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vimadā́ya ← vimadá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ní ← ní (invariable)  
+{}
+
+purumitrásya ← purumitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yóṣām ← yóṣā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Die Kuh, die milchlos, unfruchtbar und gelt war, habt, Ritter, ihr mit Milch gef
 (Своими) силами Вимаде вы привезли  
 Жену, девицу Пурумитры.
 </details>
+

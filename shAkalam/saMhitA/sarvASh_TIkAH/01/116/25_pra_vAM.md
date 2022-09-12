@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+avocam ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+dáṁsāṁsi ← dáṁsas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sugávaḥ ← sugáva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvī́raḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syām ← √as- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+aśnuván ← √naś- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+páśyan ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+ástam ← ásta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+jagamyām ← √gam- (root)  
+{number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+jarimā́ṇam ← jarimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Ich hab verkündet, Ritter, eure Thaten, drum sei ich Gutsherr reich an Rind und
 А также (хорошо) видящим (и) исполнившим долгий срок жизни!  
 Пусть войду я в старость, как в свой собственный дом!
 </details>
+

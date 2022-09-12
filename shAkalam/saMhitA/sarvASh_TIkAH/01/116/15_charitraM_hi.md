@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áchedi ← √chid- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+carítram ← carítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+parṇám ← parṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+véḥ ← ví- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ājā́ ← ājí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+khelásya ← khelá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+páritakmyāyām ← páritakmya- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ā́yasīm ← āyasá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jáṅghām ← jáṅghā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
+viśpálāyai ← viśpálā- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+adhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dháne ← dhána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hité ← √dhā- 1 (root)  
+{case:LOC, gender:N, number:SG, non-finite:PPP}
+
+práti ← práti (invariable)  
+{}
+
+sártave ← √sr̥- 1 (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Im harten Kampf des Khela war der Fuss ihr, wie eines Vogels Fittig, abgeschnitt
 Вы тут же приделали Вишпале  
 Железную ногу, чтоб она мчалась к назначенной награде.
 </details>
+

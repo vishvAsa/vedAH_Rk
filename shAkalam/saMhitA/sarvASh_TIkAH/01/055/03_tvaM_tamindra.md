@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhójase ← √bhuj- 2 (root)  
+{case:DAT, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+párvatam ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dhármaṇām ← dhárman- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+irajyasi ← √irajy- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+nr̥mṇásya ← nr̥mṇá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+cekite ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+devátā ← devátā (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vīryèṇa ← vīryà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kármaṇe ← kárman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+puróhitaḥ ← puróhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmai ← víśva- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Um auszubeuten, Indra, diesen Wolkenberg, verfügest über grosse Kraft und Opfe
 Он бросается в глаза среди богов благодаря героической силе,  
 Грозный (бог,) поставленный во главе любого дела.
 </details>
+

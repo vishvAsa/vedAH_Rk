@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+mātŕ̥mr̥ṣṭā ← mātŕ̥mr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+susaṁkāśā́ ← susaṁkāśá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āvís ← āvís (invariable)  
+{}
+
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+kr̥ṇuṣe ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ucha ← √vas- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+uṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vitarám ← vitarám (invariable)  
+{}
+
+anyā́ḥ ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+naśanta ← √naś- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +253,4 @@ Wie eine Maid geschmückt von ihrer Mutter, lässt, liebliche, du deinen Leib er
 О Ушас, воссвети ты далеко, неся счастье!  
 Другие зори не сравнятся в этом с тобой.
 </details>
+

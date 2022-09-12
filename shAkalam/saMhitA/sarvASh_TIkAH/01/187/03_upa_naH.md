@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+cara ← √carⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pito ← pitú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+śivā́bhiḥ ← śivá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śiváḥ ← śivá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+adviṣeṇyáḥ ← adviṣeṇyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mayobhúḥ ← mayobhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádvayāḥ ← ádvayas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśévaḥ ← suśéva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +178,4 @@ Komm her zu uns, o Opfertrank, mit holden Hülfen, holder du, Erquickung bringen
 Радующий, чуждый предательства  
 Друг, очень добрый, не обманчивый!
 </details>
+

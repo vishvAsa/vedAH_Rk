@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+brūhi ← √brū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pūrvyā́ṇi ← pūrvyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+u ← u (invariable)  
+{}
+
+kármāṇi ← kárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+návyaḥ ← návyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+turásya ← turá- 1 (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ā́yudhāni ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+iṣṇānáḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yudhé ← yúdh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+niriṇā́ti ← √rī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+r̥ghāyámāṇaḥ ← √r̥ghāy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Des starken Indra alte Heldenthaten verkünde nun aufs neue durch Gesänge, Wie 
 Чтобы возбуждая оружие для боя,  
 Буйствуя, он разогнал врагов.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pī́parat ← √pr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+jyótiṣmatī ← jyótiṣmant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rāsāthām ← √rā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:MED}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +159,4 @@ O schenket solche Labung uns, o Ritter, welche glanzbegabt, Uns führet durch di
 О Ашвины, через мрак, –  
 Дайте нам ее – (эту) питательную силу!
 </details>
+

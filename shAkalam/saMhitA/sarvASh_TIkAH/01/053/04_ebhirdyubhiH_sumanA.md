@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyúbhiḥ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ebhíḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+ebhíḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+índubhiḥ ← índu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámatim ← ámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nirundhānáḥ ← √rudh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+daráyantaḥ ← √dr̥- ~ dr̥̄- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+dásyum ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+índubhiḥ ← índu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rabhemahi ← √rabh- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+yutádveṣasaḥ ← yutádveṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Durch diese Flammen, diese Tränke holdgestimmt, hilf ab dem Mangel durch Besitz
 Силой Индры (и) капель (сомы) разнося дасью,  
 Да получим мы жертвенный напиток, отстранив враждебность!
 </details>
+

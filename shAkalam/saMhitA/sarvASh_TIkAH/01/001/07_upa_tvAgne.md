@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dóṣāvastar ← doṣāvastar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhárantaḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+imasi ← √i- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -95,7 +129,6 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** वयं **दिवेदिवे** यत् दिनेदिने **धिया** प्रज्ञया कर्मणा वा त्वामुपेमसि उपेम उपगच्छामः 'इदन्तो मसि' । किं कुर्वन्त इत्याह - **दोषवस्तः** रात्रावह्नि च सायं प्रातश्च **नमो भरन्तः** नमस्कारमाभरन्तः आहरन्तः नमस्कुर्वन्तः **त्वाम् उपेम** इति । त्वं चास्माकमुपकुर्विति शेषः । 'हृग्रहोर्भः' । भरतिर्वा भौवादिकः भृञ भरणे इति । 'सुपाम् सुलुक्' इति दिवसवाचिनो दिव्शब्दात्परस्य सप्तम्येकवचनस्य शे आदेशः । प्रगृह्यत्वं तु स्यात् । व्यत्ययेन वा चतुर्थी । 'ऊडिदम्' इति विभक्तेरुदात्तत्वम् । 'अनुदात्तं च' इति द्वितीयं निहन्यते । दोषावस्तरिति कार्तकौजपादिषु द्रष्टव्यः । 'सावेकाचः' इति धियो विभक्तिरुदात्ता ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -132,7 +165,6 @@ That shinest in the darkness, with our devotion,
 We come bearing honour.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Dir, Agni, nahen wir Tag für Tag, du Dunkel-Erheller, mit Andacht, Huldigung darbringend.
@@ -149,3 +181,4 @@ Dir, Agni, nahn wir Tag für Tag, o Nachterheller, mit Gebet Und bringen dir Ver
 О озаряющий тьму, мы приходим  
 С молитвой, неся поклонение –
 </details>
+

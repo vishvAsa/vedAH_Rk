@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+asadan ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+goṣṭhé ← goṣṭhá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+avikṣata ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+mr̥gā́saḥ ← mr̥gá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ketávaḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+adŕ̥ṣṭāḥ ← adŕ̥ṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+alipsata ← √lip- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +185,4 @@ Die Kühe haben sich in ihrem Stall niedergelassen, die Waldthiere sind eingekeh
 За (гасили) огни люди.  
 Замазаны невидимые.
 </details>
+

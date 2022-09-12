@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gr̥bhāyati ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+saṁstíraḥ ← saṁstír- (nominal stem)  
+{}
+
+viṣṭíraḥ ← viṣṭír- (nominal stem)  
+{case:ACC, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+jānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jānatī́ḥ ← √jñā- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+nítyaḥ ← nítya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śaye ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ápi ← ápi (invariable)  
+{}
+
+devyàm ← devyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+vardhante ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇvate ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+sácā ← sácā (invariable)  
+{}
+
+várpaḥ ← várpas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +229,7 @@ The final pāda is variously interpreted. I take the plants still to be the subj
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 This trio of verses treats the union (by burning) of the hyper-masculine Agni/fire and the plants (feminine). This must be the “der erotische Grundton” of the hymn that Geldner mentions in his introduction. This sexual union leads to the death of the plants (8b) and their regrowth and transformation into a different form (7cd, 8). Or so is my interpr.; acdg. to some, the flames are sometimes the referents, rather than the plants.
@@ -204,3 +268,4 @@ Die sich vereinen und zerstreuen, hält er fest, vertraut auf die vertrauten leg
 Они снова растут (и) соединяются в божественной сути.  
 У родителей они создают себе иную личину.
 </details>
+

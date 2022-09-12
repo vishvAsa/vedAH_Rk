@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+vŕ̥ddhayaḥ ← vŕ̥ddhi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vr̥ddhā́yum ← vr̥ddhā́yu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+júṣṭāḥ ← júṣṭa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+júṣṭayaḥ ← júṣṭi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Es mögen diese Lieder dich umfangen rings, o Liederfreund, Liebreiche Liebe str
 Да будут они (ему), крепкому жизненной силой, как подкрепления!  
 Да порадуют радостями!
 </details>
+

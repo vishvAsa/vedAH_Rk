@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apásaḥ ← apás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+árcanti ← √r̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+nā́rīḥ ← nā́rī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+viṣṭíbhiḥ ← viṣṭí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+samānéna ← samāná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yójanena ← yójana- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sudā́nave ← sudā́nu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sukŕ̥te ← sukŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+váhantīḥ ← √vah- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+áha ← áha (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yájamānāya ← √yaj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Wie Frauen, fleissig bei der Arbeit, strahlen sie, auf gleichem Wege ziehend aus
 Везя подкрепление для благочестивого, щедрого,  
 Для жертвователя, выжимающего (сому) день за днем.
 </details>
+

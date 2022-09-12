@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áprakṣitam ← áprakṣita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bibharṣi ← √bhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hástayoḥ ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+vásu ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áṣāḷham ← áṣāḷha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrutáḥ ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tanvì ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+avatā́saḥ ← avatá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́vr̥tāsaḥ ← √vr̥- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+kartŕ̥bhiḥ ← kartár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+bhū́rayaḥ ← bhū́ri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+krátavaḥ ← krátu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +228,4 @@ In deinen Händen trägst du unvertilgbar Gut, legst an den Leib, berühmter, un
 Как в колодцах, прикрытых теми, кто их сделал,  
 В телах твоих, о Индра, – богатые силы духа.
 </details>
+

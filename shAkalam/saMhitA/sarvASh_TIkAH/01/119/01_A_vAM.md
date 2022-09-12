@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+manojúvam ← manojū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purumāyám ← purumāyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+jīrā́śvam ← jīrā́śva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+yajñíyam ← yajñíya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahásraketum ← sahásraketu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatádvasum ← śatádvasu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vanínam ← vanín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+práyaḥ ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śruṣṭīvā́nam ← śruṣṭīván- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+varivodhā́m ← varivodhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Zum Heile ruf' ich euern heil'gen Wagen her, dess Rosse rasch, der zauberreich, 
 С тысячью знамен, щедрую (?), несущую сотню благ,  
 Послушную, дающую простор, – для жертвенной пищи.
 </details>
+

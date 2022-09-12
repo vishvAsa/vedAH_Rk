@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+duváse ← duvás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+duvasyā́t ← √duvasy- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+kārúḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+cakré ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+mānyásya ← mānyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+medhā́ ← medhā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vartta ← √vr̥t- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vípram ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arcat ← √r̥c- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+jaritā́ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +251,4 @@ Wenn wie zur Spende euch der Dichter herlockt, und der Gesang des weisen uns her
 Эти молитвы певец исполняет для вас.  
 Рассказчик:
 </details>
+

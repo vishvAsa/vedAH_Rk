@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+márutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vīḷupāṇíbhiḥ ← vīḷúpāṇi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+citrā́ḥ ← citrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ródhasvatīḥ ← ródhasvant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ákhidrayāmabhiḥ ← ákhidrayāman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+yātá ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +144,4 @@ O Maruts mit nicht rastenden, starkhuf'gen Rossen eilet nach Der hellen eingespe
 Не устающими в пути, мчитесь вслед за  
 Яркопереливающимися (реками) с крутыми берегами!
 </details>
+

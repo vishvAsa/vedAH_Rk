@@ -17,15 +17,73 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+adhīmási ← √i- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+nahí ← nahí (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+yā́t ← yā́t (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+vīryā̀ ← vīryà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nr̥mṇám ← nr̥mṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+dadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ójāṁsi ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+árcan ← √r̥c- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+svarā́jyam ← svarā́jya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ Denn keiner kommt, so weit uns kund, dem Indra gleich an Heldenkraft. Die Götte
 Соединили в нем боги.  
 Да воспоют они (твое) собственное царство!
 </details>
+

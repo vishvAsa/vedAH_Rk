@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áramayaḥ ← √ram- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+kám ← kám (invariable)  
+{}
+
+sárapasaḥ ← sárapas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tárāya ← tára- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+srutím ← srutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+turvī́taye ← turvī́ti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vayyā̀ya ← vayyà- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+anayaḥ ← √nī- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+nīcā́ ← nyàñc- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+parāvŕ̥jam ← parāvŕ̥j- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+andhám ← andhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śraváyan ← √śru- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śroṇám ← śroṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthyàḥ ← ukthyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +234,4 @@ Du sänftigest dem Vajia zum Uebergang des schnellen Wassers Strömung dem Turvi
 Ты вытащил отверженного (ребенка), находившегося внизу,  
 Продвигая к славе слепого, расслабленного – ты достоин гимна.
 </details>
+

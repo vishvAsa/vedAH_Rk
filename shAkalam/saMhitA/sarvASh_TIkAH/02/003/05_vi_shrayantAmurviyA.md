@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hūyámānāḥ ← √hū- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:PASS}
+
+śrayantām ← √śri- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dvā́raḥ ← dvā́r- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+suprāyaṇā́ḥ ← suprāyaṇá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ajuryā́ḥ ← ajuryá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prathantām ← √prathⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+vyácasvatīḥ ← vyácasvant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+punānā́ḥ ← √pū- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+suvī́ram ← suvī́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+várṇam ← várṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yaśásam ← yaśás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Die Götterthore mögen weit sich aufthun, die angerufnen, schön bewegt durch A
 Да расступятся, (чтобы быть) просторными, нестареющие (врата),  
 Очищая славную варну, богатую прекрасными мужами!
 </details>
+

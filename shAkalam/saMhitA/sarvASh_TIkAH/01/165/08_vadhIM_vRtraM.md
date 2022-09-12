@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indriyéṇa ← indriyá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vádhīm ← √vadhⁱ- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+babhūvā́n ← √bhū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+bhā́mena ← bhā́ma- 2 (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+svéna ← svá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+taviṣáḥ ← taviṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+etā́ḥ ← eṣá (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+viśváścandrāḥ ← viśváścandra- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cakara ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+sugā́ḥ ← sugá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vájrabāhuḥ ← vájrabāhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +228,4 @@ Ich erschlug den Vritra, ihr Marut, mit der Indrakraft, durch meinen eigenen Gri
 Воды текущими по хорошим путям, (я) с ваджрой в руке.  
 Маруты:
 </details>
+

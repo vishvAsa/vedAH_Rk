@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhúnayaḥ ← dhúni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īśānakŕ̥taḥ ← īśānakŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+riśā́dasaḥ ← riśā́das- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+akrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+táviṣībhiḥ ← táviṣī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vā́tān ← vā́ta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vidyútaḥ ← vidyút- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dhū́tayaḥ ← dhū́ti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+divyā́ni ← divyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+duhánti ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+párijrayaḥ ← párijri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pinvanti ← √pinv- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +209,4 @@ Die Macht gebrauchend, stürmend, tilgend jeden Feind, erzeugen Winde, Blitze si
 Сотрясатели доят небесное вымя.  
 Носящиеся вокруг делают землю набухшей от молока.
 </details>
+

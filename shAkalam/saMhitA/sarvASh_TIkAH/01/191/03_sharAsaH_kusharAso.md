@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+kúśarāsaḥ ← kúśara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śarā́saḥ ← śará- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+darbhā́saḥ ← darbhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sairyā́ḥ ← sairyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+adŕ̥ṣṭāḥ ← adŕ̥ṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mauñjā́ḥ ← mauñjá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vairiṇā́ḥ ← vairiṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+alipsata ← √lip- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+sākám ← sākám (invariable)  
+{}
+
+sárve ← sárva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +173,4 @@ Das unbemerkte Gewürm, was auf Schilf und Schilfgestrüpp, auf Gräsern und Bin
 Невидимые, связанные с (травой) мунджа, вирина –  
 Все они вместе замазаны.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avánīḥ ← aváni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+avātā́ḥ ← avātá- 2 (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
+sánīḷāḥ ← sánīḷa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rakṣante ← √rakṣⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sáhobhiḥ ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vratā́ ← vratá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jánayaḥ ← jáni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pátnīḥ ← pátnī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+purú ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+áhrayāṇam ← áhrayāṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+duvasyánti ← √duvasy- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Die Götter wahren stets die heil'ge Ordnung, mit Kraft die ew'gen Ströme, die 
 Много тысяч сестер, словно замужние женщины,  
 Задаривают неробкого (мужчину).
 </details>
+

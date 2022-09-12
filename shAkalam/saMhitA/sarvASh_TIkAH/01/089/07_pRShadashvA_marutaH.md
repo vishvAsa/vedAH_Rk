@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pŕ̥ṣadaśvāḥ ← pŕ̥ṣadaśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pŕ̥śnimātaraḥ ← pŕ̥śnimātar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jágmayaḥ ← jágmi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śubhaṁyā́vānaḥ ← śubhaṁyā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+agnijihvā́ḥ ← agnijihvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mánavaḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sū́racakṣasaḥ ← sū́racakṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gaman ← √gam- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +212,4 @@ Mit Hirschen fahrend, Priçni's Stamm, die Marutschar, zum Prunke eilend, die zu
 (Эти) люди с Агни-языком, солнцем-глазом,  
 Все-Боги да придут сюда нам на помощь!
 </details>
+

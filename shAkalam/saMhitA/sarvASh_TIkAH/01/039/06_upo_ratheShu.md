@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayugdhvam ← √yuj- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:MED}
+
+pŕ̥ṣatīḥ ← pŕ̥ṣant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+práṣṭiḥ ← práṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+róhitaḥ ← róhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vahati ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśrot ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yā́māya ← yā́ma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ábībhayanta ← √bhī- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+mā́nuṣāḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Gazellen habt ihr an die Wagen euch geschirrt, zur Seite fährt ein rothes Ross,
 Сама земля прислушалась к вашему выезду,  
 Люди перепутались.
 </details>
+

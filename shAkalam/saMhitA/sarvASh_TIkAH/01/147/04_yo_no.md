@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aghāyúḥ ← aghāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+árarivān ← árarivaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+arātīvā́ ← arātīván- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvayéna ← dvayá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+marcáyati ← √mr̥c- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+gurúḥ ← gurú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mántraḥ ← mántra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+duruktaíḥ ← duruktá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mr̥kṣīṣṭa ← √mr̥c- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Wer uns, o Agni, Schaden thut durch Falschheit, der feindgesinnte, tückisch, vo
 Да падет тяжело на него это заклинание, (вернувшись) назад!  
 Да уязвит он себя (своими) дурными словами!
 </details>
+

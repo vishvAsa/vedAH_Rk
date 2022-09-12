@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dā́ḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+dā́ḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sahasríṇaḥ ← sahasrín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+duráḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śrútyai ← √śru- (root)  
+{case:DAT, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥dhi ← √vr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+prā́cī ← prā́ñc- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+didyutaḥ ← √dyut- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +240,7 @@ The simile in d svàr ṇá “like the sun” is perfectly ambiguous. It can be
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/002/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/002/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 6c and 7c are paraphrases of each other. Each contains a dual referring to the two worlds, an impv. of √kṛ, and an indication of directionality.
@@ -210,3 +277,4 @@ Uns gieb, o Agni, vieles, tausendfaches Gut, wie Thüren schliesse Schätze uns 
 Молитвой склони в нашу сторону небо и землю!  
 Так сверкай же ярко при (всех) звездах, словно ясное солнце!
 </details>
+

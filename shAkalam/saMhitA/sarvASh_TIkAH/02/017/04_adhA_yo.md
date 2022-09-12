@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+majmánā ← majmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ávardhata ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+īśānakŕ̥t ← īśānakŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+právayāḥ ← právayas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+atanot ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avyayat ← √vyā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dúdhitā ← dúdhita- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+sī́vyan ← √sīv- ~ syū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+támāṁsi ← támas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +230,4 @@ Da als an Macht er über alle Wesen wuchs, der jugendkräft'ge, unumschränkte H
 (Этот) возница протянул тут свет через оба мира!  
 Он свергнул мрак, зашивая его.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+ahanā́ ← ahaná- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+gr̥háṁ-gr̥ham ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dádhānā ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dyotanā́ ← dyótana- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+síṣāsantī ← √sanⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+ágram-agram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhajate ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Die tageshelle kommt zu jedem Hause und jedem Tage gibt sie ihren Namen; Zu spen
 Стремясь захватить (добычу), она приходит постоянно.  
 Она владеет самым лучшим из (всех).
 </details>
+

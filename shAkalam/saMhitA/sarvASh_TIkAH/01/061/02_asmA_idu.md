@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
+#### Morph
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+práyaḥ ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+yaṁsi ← √yam- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
+āṅgūṣám ← āṅgūṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bā́dhe ← bā́dh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhárāmi ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+suvr̥ktí ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+marjayanta ← √mr̥j- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+pátye ← páti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pratnā́ya ← pratná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Wie Labetrunk reich' ich ihm dar und bring' ihm den Lobgesang, mit Liedern ihn b
 Индре – сердцем, духом, мыслью,  
 (Как) древнему мужу, они начищают молитвы (, как коня).
 </details>
+

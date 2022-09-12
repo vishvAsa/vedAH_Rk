@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hvaye ← √hvā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+píbanti ← √pā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kártvam ← kártva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síndhubhyaḥ ← síndhu- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +165,4 @@ Die Wasser, unsrer Kühe Trunk, ruf' ich herbei, die Göttinnen, Den Strömen wi
 Где пьют наши коровы.  
 Рекам надо сделать жертвенное возлияние.
 </details>
+

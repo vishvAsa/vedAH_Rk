@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átriḥ ← átri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gótamaḥ ← gótama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purumīḷháḥ ← purumīḷhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dásrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hávate ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+havíṣmān ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+díśam ← díś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+diṣṭā́m ← √diś- (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+r̥jūyā́ ← r̥jūyā́- (invariable)  
+{}
+
+yántā ← √i- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Wie Gotama, wie Purumidha, Atri, ruft, mächt'ge, euch der Opferer zu Hülfe, Ge
 Словно двое идущих прямо в указанную сторону,  
 Придите, о Насатьи, на мой зов!
 </details>
+

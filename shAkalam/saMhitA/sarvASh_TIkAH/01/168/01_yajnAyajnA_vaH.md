@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M  
 genre M
+#### Morph
+samanā́ ← samanā́ (invariable)  
+{}
+
+tuturváṇiḥ ← tuturváṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yajñā́-yajñā ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dadhidhve ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:MED}
+
+devayā́ḥ ← devayā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dhíyaṁ-dhiyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́caḥ ← arvā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ródasyoḥ ← ródasī- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vavr̥tyām ← √vr̥t- (root)  
+{number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +238,4 @@ Durch stetes Opfer möcht' ich euch gewinnen recht, Gebet, das zu euch Göttern 
 Гимнами я хотел бы обратить вас сюда,  
 На благо двух миров, на великую помощь!
 </details>
+

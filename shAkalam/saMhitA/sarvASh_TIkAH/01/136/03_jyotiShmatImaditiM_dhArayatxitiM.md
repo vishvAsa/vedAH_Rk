@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,70 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhārayátkṣitim ← dhārayátkṣiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jyótiṣmatīm ← jyótiṣmant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sacete ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+svàrvatīm ← svàrvant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jāgr̥vā́ṁsā ← √gr̥- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:ACT}
+
+āśāte ← √naś- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+jyótiṣmat ← jyótiṣmant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ādityā́ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dā́nunaḥ ← dā́nu- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátī ← páti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táyoḥ ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yātayájjanaḥ ← yātayájjana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yātayájjanaḥ ← yātayájjana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,3 +274,4 @@ Der Aditi, die glanzbegabt die Völker schützt, der himmlischen gehn sie zur Se
 Митра из них двоих, Варуна объединяет людей,  
 Арьяман объединяет людей.
 </details>
+

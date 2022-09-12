@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jāhuṣám ← jāhuṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+páriviṣṭam ← √viṣ- 2 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+sīm ← sīm (invariable)  
+{}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rájobhiḥ ← rájas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sugébhiḥ ← sugá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vibhindúnā ← vibhindú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ajarayū́ ← ajarayú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ayātam ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+párvatān ← párvata- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +186,4 @@ Den Dschahuscha, als rings er war umschlossen, ihn fuhret Nachts ihr durch die f
 На сокрушительной колеснице, о Насатьи,  
 Вы, нестареющие проехали через горы.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhrātā́ ← abhrātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pratīcī́ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+puṁsáḥ ← púmaṁs- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dhánānām ← dhána- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+gartārúk ← gartārúh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sanáye ← saní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jāyā́ ← jāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pátye ← páti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suvā́sāḥ ← suvā́sas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uśatī́ ← √vaś- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ápsaḥ ← ápsas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hasrā́ ← hasrā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+riṇīte ← √rī- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +208,7 @@ Like an eager wife, richly dressed, for her husband, Dawn, like a wanton,  lets 
 On the female figures here, see published introduction. Though most interpr. (see recently Scarlatta [463], Witzel Gotō) see only a male figure in the simile in b (a charioteer seeking prizes), I find it unlikely that the middle simile of three, the two outer of which depict striking female types, would compare Dawn only to a male. As indicated in the published introduction, I think it is a double entendre, with not only the prizeseeking male competitor on his chariot seat but also a prostitute displaying herself on a platform or stage for money (or whatever counted for money in that period).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 suvā́śā(ḥ) in 7c is neatly echoed by svásā opening 8a.
@@ -179,3 +240,4 @@ Wie bruderlos gesellt sie sich den Männern, besteigt des Wagens Sitz wie zur Er
 Она – как нарядная жена, жаждущая мужа.  
 Ушас, как любовница, выставляет (свою) грудь.
 </details>
+

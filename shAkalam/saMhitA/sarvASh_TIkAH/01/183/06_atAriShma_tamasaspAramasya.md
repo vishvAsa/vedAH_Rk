@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+átāriṣma ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+pārám ← pārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+támasaḥ ← támas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+adhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+aśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+práti ← práti (invariable)  
+{}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devayā́naiḥ ← devayā́na- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iṣám ← iṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jīrádānum ← jīrádānu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidyā́ma ← √vid- 2 (root)  
+{number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+vr̥jánam ← vr̥jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Durch dieses Dunkel sind wir durchgedrungen und haben Loblied euch gebracht, o R
 Приезжайте сюда по путям, изьезженным богами!  
 Мы хотим найти щедрую общину, легко дарящую!
 </details>
+

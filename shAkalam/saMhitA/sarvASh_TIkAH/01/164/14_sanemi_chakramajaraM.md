@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ajáram ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sánemi ← sánemi- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vāvr̥te ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uttānā́yām ← uttāná- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vahanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yuktā́ḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ā́vr̥tam ← √vr̥- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rájasā ← rájas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́rpitā ← √r̥- 1 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ Das mit Radkranz versehene, nicht morsch werdende Rad dreht sich herum, an der a
 Глаз солнца движется, (даже) окутанный дымкой.  
 На нем помещены все существа.
 </details>
+

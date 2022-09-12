@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ádbhutā ← ádbhuta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+átas ← átas (invariable)  
+{}
+
+víśvāni ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+paśyati ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+kártvā ← kártva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +163,4 @@ Von dort aus blickt er achtsam hin auf alles, was verborgen ist, Was schon getha
 Наблюдает внимательный,  
 Сотворенное и что будет сотворено.
 </details>
+

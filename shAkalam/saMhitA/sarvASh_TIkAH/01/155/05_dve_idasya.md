@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dvé ← dvá- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+ít ← ít (invariable)  
+{}
+
+krámaṇe ← krámaṇa- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+svardŕ̥śaḥ ← svardŕ̥ś- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+abhikhyā́ya ← √khyā- (root)  
+{non-finite:CVB}
+
+bhuraṇyati ← √bhuraṇy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dadharṣati ← √dhr̥ṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+tr̥tī́yam ← tr̥tī́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+patatríṇaḥ ← patatrín- (nominal stem)  
+{case:NOM, number:PL}
+
+patáyantaḥ ← √pat- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Wenn nur zwei Schritte dieses himmlisch blickenden der Sterbliche beschaut hat, 
 На его третий никто не отважится (взглянуть),  
 Даже крылатые птицы в полете.
 </details>
+

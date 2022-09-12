@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
+#### Morph
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+tū́tujānaḥ ← √tuj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+u ← u (invariable)  
+{}
+
+ī́śānaḥ ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+kiyedhā́ḥ ← kiyedhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥trā́ya ← vr̥trá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+párva ← párvan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+rada ← √rad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tiraścā́ ← tiraścā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+árṇāṁsi ← árṇas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+carádhyai ← √carⁱ- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+íṣyan ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Auf diesen Vritra schleudre heftig stürmend den Blitz, als Herrscher vieles Gut
 Как быка – по суставу, раздели его наискось,  
 Посылая струиться бурные потоки вод!
 </details>
+

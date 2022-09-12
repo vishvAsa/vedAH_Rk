@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+īratām ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+púraṁdhīḥ ← púraṁdhi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sūnŕ̥tāḥ ← sūnŕ̥ta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+śuśucānā́saḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+út ← út (invariable)  
+{}
+
+ápagūḷhā ← √guh- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+spārhā́ ← spārhá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+támasā ← támas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+āvís ← āvís (invariable)  
+{}
+
+kr̥ṇvanti ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vibhātī́ḥ ← √bhā- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +197,4 @@ Es möge sich erheben Lied und Opfer, schon stiegen auf die Feuer hell erstrahle
 Желанные блага, сокрытые мраком, –  
 Сверкающие зори делают их видимыми.
 </details>
+

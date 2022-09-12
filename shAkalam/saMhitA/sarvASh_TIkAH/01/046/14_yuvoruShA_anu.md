@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+śríyam ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+párijmanoḥ ← párijman- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+upā́carat ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+aktúbhiḥ ← aktú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥tā́ ← r̥tá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vanathaḥ ← √vanⁱ- (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +140,4 @@ Es folget eurer Schönheit nach, umwandernde, das Morgenroth; Wenn's hell wird, 
 Потянулась, когда вы странствовали вокруг.  
 Вы любите жертвенные возлияния по ночам.
 </details>
+

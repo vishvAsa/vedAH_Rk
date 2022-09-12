@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svapatyā́ya ← svapatyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vr̥jyáte ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āghóṣate ← √ghuṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+arkáḥ ← arká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ślókam ← ślóka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+grā́vā ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kārúḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthyàḥ ← ukthyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vádati ← √vadⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+abhipitvéṣu ← abhipitvá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+raṇyati ← √ranⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Wo man die Streu, um Kinder zu erlangen, schmückt, der Dichter Lieder auf zum H
 (Там,) где говорит давильный камень, певец прославляющий, -  
 У того (жертвователя) и тешится Индра, при возвращениях (к нему).
 </details>
+

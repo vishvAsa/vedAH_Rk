@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+arcata ← √r̥c- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+stobhata ← √stubh- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+viṁśatíḥ ← viṁśatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+anonavuḥ ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+śatā́ ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+údyatam ← √yam- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+ánu ← ánu (invariable)  
+{}
+
+árcan ← √r̥c- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+svarā́jyam ← svarā́jya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Auf, preiset zwanzig Sänger ihn, und rühmt ihn tausend auf einmal; Ihm haben h
 Для Индры вознесена молитва.  
 Да воспоют они (твое) собственное царство!
 </details>
+

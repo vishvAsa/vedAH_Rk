@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āyóḥ ← āyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nā́bhiḥ ← nā́bhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+úparasya ← úpara- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yuyópa ← √yup- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+pū́rvābhiḥ ← pū́rva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+rā́ṣṭi ← √rāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tirate ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+añjasī́ ← añjasī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kuliśī́ ← kuliśín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīrápatnī ← vīrápatnī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bharante ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+hinvānā́ḥ ← √hi- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+udábhiḥ ← udán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Im Dunkel liegt der spätern Stämme Nabel, der Held dringt vor und glänzet mit
 Анджаси, Кулиши, Вирапатни,  
 Вдохновляясь, несут молоко вместе с водами.
 </details>
+

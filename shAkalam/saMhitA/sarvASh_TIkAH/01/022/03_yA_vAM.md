@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+káśā ← káśā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mádhumatī ← mádhumant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sūnŕ̥tāvatī ← sūnŕ̥tāvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mimikṣatam ← √myakṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+táyā ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -84,7 +112,6 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इर्दृशी **या वां** युवयोः, **कशा** वाक्-प्रवृत्ति-सूक्ति-लक्षणा युष्मद्-विषया ऽस्माभिः क्रियमाणा, तया हेतुभूतया तां श्रोतुं **यज्ञम्** इमं **मिमिक्षतम्** आगत्योत्पादयितुम् इच्छतम् । मिहेस् सनि ढत्वे 'षढोः कस्सि' इति कत्वम् । तया वा करणभूतया यज्ञं निर्वर्तयतम् ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -114,7 +141,6 @@ And full of mercy, O Aśvins,
 With that touch the sacrifice.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Eure honighaltige, glückbringende Peitsche, ihr Asvin, mit der würzet das Opfer!
@@ -131,3 +157,4 @@ Die Peitsche, die von Honig trieft, o Ritter, reich an Gaben ist, Mit der benetz
 О Ашвины, что дает благо –  
 Окропите им жертву!
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)
+#### Morph
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+mr̥śa ← √mr̥ś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+párā ← párā (invariable)  
+{}
+
+úpopa ← úpa (invariable)  
+{}
+
+dabhrā́ṇi ← dabhrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+manyathāḥ ← √man- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+romaśā́ ← romaśá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sárvā ← sárva- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+avikā́ ← avikā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+gandhā́rīṇām ← gandhā́ri- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +210,4 @@ Faß mich doch daran, glaub nicht, daß ich nur wenige Haare habe. Ich bin ganz 
 Я вся покрыта волосками,  
 Как овечка у Гандхари!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+návaḥ ← náva- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prātár ← prātár (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sásniḥ ← sásni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yoji ← √yuj- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+cáturyugaḥ ← cáturyuga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saptáraśmiḥ ← saptáraśmi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+trikaśáḥ ← trikaśá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dáśāritraḥ ← dáśāritra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manuṣyàḥ ← manuṣyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svarṣā́ḥ ← svarṣā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+iṣṭíbhiḥ ← iṣṭí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ráṁhyaḥ ← ráṁhya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +222,4 @@ Früh ward geschirrt der neue, reiche Wagen, dess Joche vier, sechs Peitschen, s
 Десятью веслами, созданная для человека, завоевывающая небо.  
 Да поторопят ее наши желания (и) молитвы!
 </details>
+

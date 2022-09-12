@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+adhvaryúḥ ← adhvaryú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agnimindháḥ ← agnimindhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́vayāḥ ← ā́vayā(s)- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+grāvagrābháḥ ← grāvagrābhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śáṁstā ← śáṁstar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+súvipraḥ ← súvipra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+svàraṁkr̥tena ← svàraṁkr̥ta- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+yajñéna ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pr̥ṇadhvam ← √pr̥̄- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+svìṣṭena ← svìṣṭa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vakṣáṇāḥ ← vakṣáṇā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +219,4 @@ Der Priester, der Opferdiener, der Vertheiler des Opfers, der Feuerentzünder, d
 Наполните животы этой жертвой,  
 Прекрасно приготовленной, прекрасно пожертвованной!
 </details>
+

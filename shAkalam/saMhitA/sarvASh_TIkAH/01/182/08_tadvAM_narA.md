@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nāsatyau ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+syāt ← √as- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ávocan ← √vac- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mā́nāsaḥ ← mā́na- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ucátham ← ucátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+asmā́t ← ayám (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+sádasaḥ ← sádas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+somyā́t ← somyá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+iṣám ← iṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jīrádānum ← jīrádānu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidyā́ma ← √vid- 2 (root)  
+{number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+vr̥jánam ← vr̥jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Das Lied, das euch die Mana-söhne sangen, o treue Männer, möge euch erreichen
 Сегодня с этого сиденья, богатого сомой!  
 Мы хотим найти щедрую общину, легко дарящую!
 </details>
+

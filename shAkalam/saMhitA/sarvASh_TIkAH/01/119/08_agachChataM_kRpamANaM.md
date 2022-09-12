@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágachatam ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+kŕ̥pamāṇam ← kŕ̥pamāṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+parāváti ← parāvát- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+níbādhitam ← √bādhⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svásya ← svá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+tyájasā ← tyájas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+itás ← itás (invariable)  
+{}
+
+svàrvatīḥ ← svàrvant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtī́ḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+abhavan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+abhíṣṭayaḥ ← abhíṣṭi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+citrā́ḥ ← citrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Ihr gingt zu dem, der in der Ferne jammerte, bedrängt durch seines eignen Vater
 Ведь сейчас ваша помощь полна света.  
 Яркими были в нужный момент (ваши) поддержки.
 </details>
+

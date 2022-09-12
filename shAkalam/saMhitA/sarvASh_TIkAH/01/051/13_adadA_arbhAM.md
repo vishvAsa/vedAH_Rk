@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádadāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+árbhām ← árbha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mahaté ← mahā́nt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vacasyáve ← vacasyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kakṣī́vate ← kakṣī́vant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥cayā́m ← vr̥cayā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+abhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ménā ← ménā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sukrato ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥ṣaṇaśvásya ← vr̥ṣaṇaśvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+pravā́cyā ← pravā́cya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sávaneṣu ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ Dem grossen, frommen Dichter, dem Kakschivat, gabst zum Weib, o Indra, du die ju
 Ты превратился в жену Вришанашвы, о многоумный.  
 И все эти твои (подвиги) надо провозгласить на выжиманиях (сомы)!
 </details>
+

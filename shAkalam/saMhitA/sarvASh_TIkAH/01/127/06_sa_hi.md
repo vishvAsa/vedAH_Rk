@@ -20,10 +20,10 @@ ChandaH = "अतिधृतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -32,6 +32,97 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+hí ← hí (invariable)  
+{}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tuviṣváṇiḥ ← tuviṣváṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápnasvatīṣu ← ápnasvant- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+iṣṭániḥ ← iṣṭáni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urvárāsu ← urvárā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ā́rtanāsu ← ā́rtanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+iṣṭániḥ ← iṣṭáni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ādadíḥ ← ādadí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adat ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+arháṇā ← arháṇā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+hárṣataḥ ← √hr̥ṣ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hŕ̥ṣīvataḥ ← hŕ̥ṣīvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+juṣanta ← √juṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,3 +325,4 @@ Denn er ist mächtig, rauschend wie die Marutschar, auf wohlbebauten Ackerfelder
 Все радуются его пути,  
 Как мужи (радуются) пути к великолепию.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+sr̥jata ← √sr̥j- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mandím ← mandí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mandíne ← mandín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cákraye ← cákri- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cákrim ← cákri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +159,4 @@ Beim Feste giesst dem Indra zu den wirkenden, erfreuenden, Dem freudigen, der al
 (Лейте) пьянящего опьяняющемуся Индре,  
 Действенного – деятельному во всем!
 </details>
+

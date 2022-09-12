@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṇī́ḥ ← aruṇá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nákṣat ← √nakṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rā́ṭ ← rā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áṅgirasām ← áṅgiras- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+turáḥ ← turá- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+níyutam ← √yu- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tákṣat ← √takṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+tastámbhat ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cátuṣpade ← cátuṣpad- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dvipā́de ← dvipád- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+náryāya ← nárya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Es vernahm das Gebrüll der röthlichen [? im Gewölk eingeschlossenen] Kuh der 
 (Тваштар) выточил отданную в его власть ваджру.  
 (Индра) укрепил небо для четвероногого, для человека, для двуногого.
 </details>
+

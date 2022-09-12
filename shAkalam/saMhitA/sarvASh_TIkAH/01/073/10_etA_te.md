@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+etā́ ← eṣá (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ucáthāni ← ucátha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vedhaḥ ← vedhás- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+hr̥dé ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+júṣṭāni ← júṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mánase ← mánas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{}
+
+śakéma ← √śak- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+sudhúraḥ ← sudhúr- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yámam ← yáma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+devábhaktam ← devábhakta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +240,4 @@ O Agni, Ordner, diese Sprüche mögen willkommen deinem Sinne sein und Herzen; L
 Пусть сможем мы править хорошо запряженными (конями) богатства,  
 Приобретая славу, данную богами!
 </details>
+

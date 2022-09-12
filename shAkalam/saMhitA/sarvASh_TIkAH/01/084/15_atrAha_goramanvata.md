@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áha ← áha (invariable)  
+{}
+
+amanvata ← √man- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+átra ← átra (invariable)  
+{}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+apīcyàm ← apīcyà- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tváṣṭuḥ ← tváṣṭar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+candrámasaḥ ← candrámas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 Тайное имя коровы Тваштара,  
 (Которая находилась) как раз в доме луны.
 </details>
+

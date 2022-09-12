@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+akr̥ṇoḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vīryàm ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+aírayaḥ ← √īr- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+háryaśvena ← háryaśva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ratheṣṭhéna ← ratheṣṭhá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vícyutāḥ ← √cyu- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+jīráyaḥ ← jīrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pŕ̥thak ← pŕ̥thak (invariable)  
+{}
+
+sadhryàk ← sadhryàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sisrate ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Da thatest du die erste grosse Heldenthat, als im Beginn begeistert du den Muth 
 Освобожденные (Индрой,) стоящим на колеснице, правящим булаными конями,  
 Мчатся вперед живые (реки) к общей цели, (но) по отдельности.
 </details>
+

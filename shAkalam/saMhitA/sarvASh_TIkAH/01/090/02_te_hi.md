@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+hí ← hí (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vásavānāḥ ← vásavāna- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ápramūrāḥ ← ápramūra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máhobhiḥ ← máhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+rakṣante ← √rakṣⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+viśvā́hā ← viśvā́hā (invariable)  
+{}
+
+vratā́ ← vratá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Sie ja alles Guts Besitzer, unbethört, voll Macht und Grösse, Schützen ewig d
 Эти неодолимые благодаря (своим) силам (боги)  
 Все дни охраняют заветы.
 </details>
+

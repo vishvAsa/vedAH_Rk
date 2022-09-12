@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhī́vr̥tā ← √vr̥- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śiṅkte ← √śiñj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dhvasánau ← dhvasáni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+māyúm ← māyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mímāti ← √mā- 2 ~ mī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śritā́ ← √śri- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cittíbhiḥ ← cittí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+auhata ← √ūh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+bhávantī ← √bhū- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+vavrím ← vavrí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidyút ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +248,4 @@ Es schnaubt der Stier [wohl Pardschanja] von dem die Kuh [die Wolke] belegt ist,
 Она (своим) треском пригнула смертного.  
 Превращаясь в молнию, она сбросила покров.
 </details>
+

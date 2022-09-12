@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+amīvahā́ ← amīvahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gayasphā́naḥ ← gayasphā́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puṣṭivárdhanaḥ ← puṣṭivárdhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vasuvít ← vasuvíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sumitráḥ ← sumitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

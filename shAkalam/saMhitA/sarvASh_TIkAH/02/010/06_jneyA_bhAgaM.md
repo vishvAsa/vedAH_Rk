@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jñeyā́ḥ ← √jñā- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+sahasānáḥ ← sahasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váreṇa ← vára- 1 (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+manuvát ← manuvát (invariable)  
+{}
+
+tvā́dūtāsaḥ ← tvā́dūta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vadema ← √vadⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánūnam ← ánūna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+juhvā̀ ← juhū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vacasyā́ ← vacasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dhanasā́ḥ ← dhanasā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+johavīmi ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+madhupŕ̥cam ← madhupŕ̥c- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +202,4 @@ Nimm wahr die Spende, stark gemacht durch Gaben, wir preisen dich, den Boten fü
 Агни, не уступающего (никакому богу), пронизывающего собой (возлияние) меда,  
 Я громко зову языком, красноречием, (я), стремящийся добыть богатство.
 </details>
+

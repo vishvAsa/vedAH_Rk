@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; line affected by realignment;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+kṣapáḥ ← kṣáp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+várdhān ← √vr̥dh- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vírūpāḥ ← vírūpa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+carátham ← carátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tápravītam ← r̥tápravīta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sthātúḥ ← sthātár- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +150,4 @@ Den vieler Nächte – Erscheinen nähre, den Sohn der Opfer, – was steht und 
 
 -ru-
 </details>
+

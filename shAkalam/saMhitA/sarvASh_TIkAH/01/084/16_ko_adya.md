@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+dhurí ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yuṅkte ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+bhāmínaḥ ← bhāmín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+durhr̥ṇāyū́n ← durhr̥ṇāyú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śímīvataḥ ← śímīvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+āsánniṣūn ← āsánniṣu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hr̥tsvásaḥ ← hr̥tsvás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mayobhū́n ← mayobhú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bhr̥tyā́m ← bhr̥tí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+jīvāt ← √jīv- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+r̥ṇádhat ← √r̥dh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Wer schirrt ans Joch des Opfers heut die Stiere, die kräftig sind, voll regen E
 Со стрелами в пасти, пронзающих сердца, (и тем не менее) благодатных?  
 Кто удачно будет им служить, тот будет жить.
 </details>
+

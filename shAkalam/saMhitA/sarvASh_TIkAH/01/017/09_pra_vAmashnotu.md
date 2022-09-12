@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+aśnotu ← √naś- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+suṣṭutíḥ ← suṣṭutí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+índrāvaruṇā = ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yā́m ← yá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+r̥dhā́the ← √r̥dh- (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:MED}
+
+sadhástutim ← sadhástuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yā́m ← yá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +148,4 @@ Das Loblied, das ich singe nun, erreich' euch, Indra-Varuna, Das Chorlied, dem G
 О Индра-Варуна, с которым я взываю,  
 Общее восхваление, которое вы сделаете успешным!
 </details>
+

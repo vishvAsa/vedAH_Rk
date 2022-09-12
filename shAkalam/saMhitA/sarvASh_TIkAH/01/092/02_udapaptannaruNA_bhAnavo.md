@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apaptan ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+aruṇā́ḥ ← aruṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhānávaḥ ← bhānú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+áruṣīḥ ← áruṣī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ayukṣata ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svāyújaḥ ← svāyúj- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ákran ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pūrváthā ← pūrváthā (invariable)  
+{}
+
+uṣā́saḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vayúnāni ← vayúna- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+áruṣīḥ ← áruṣī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aśiśrayuḥ ← √śri- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhānúm ← bhānú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rúśantam ← rúśant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Es flogen ihre goldnen Strahlen spielend auf, und fügsam schirrten sich die rot
 Зори создали (свои) знаки, как прежде,  
 Алые, они направили сверкающий свет.
 </details>
+

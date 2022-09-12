@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́naṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+iṣé ← íṣ- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+nr̥pátim ← nr̥páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+téjaḥ ← téjas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+níṣiktam ← √sic- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śúci ← śúci- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anavadyám ← anavadyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śárdham ← śárdha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+janayat ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+sūdáyat ← √sūd- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+svādhyàm ← svādhī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,8 +199,6 @@ genre M
 केचिदाहुः - यदिति लिङ्गव्यत्ययः, यमग्निं शर्धमनवद्यं युवानं स्वाधियं नृपतिं वृष्टमुदकमानट् सोग्निर्दीप्यमानः क्षिप्रमेव यजमानस्य तेजो जनयतु तेजोविरोधि च सूदयतु इति । 'चादिषु च' इति द्वितीयस्य तिङो निघातप्रतिषेधः, तिङः परत्वात् ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -190,7 +246,6 @@ Agni begot the host, the blameless, the youthful,
 The worshipping, and gave it impulse.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Als dem Männerherrn die Brunst ankam zum Genusse, da hat der Himmel den bei der Liebesbegegnung vergossenen reinen Samen zurückgelassen. Agni brachte die tadellose jugendliche Schar, die wohlgesinnte, zur Geburt und machte sie zu Meistern.
@@ -208,3 +263,4 @@ Wenn ihn, den Herrn, zur Labung Glanz erfüllt hat, dann strömt vom Himmel nied
 Агни породил безупречную юную благосклонную  
 Толпу (Ангирасов) и сделал (их) прекрасными.
 </details>
+

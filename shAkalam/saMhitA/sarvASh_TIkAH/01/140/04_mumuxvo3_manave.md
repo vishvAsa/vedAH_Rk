@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mānavasyaté ← √mānavasy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mumukṣvàḥ ← mumukṣú- (nominal stem)  
+{case:NOM, gender:M, number:PL, mood:DES}
+
+júvaḥ ← jū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kr̥ṣṇásītāsaḥ ← kr̥ṣṇásīta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+raghudrúvaḥ ← raghudrú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+ajirā́saḥ ← ajirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asamanā́ḥ ← asamaná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+raghuṣyádaḥ ← raghuṣyád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+vā́tajūtāḥ ← vā́tajūta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yujyante ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:PASS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +203,4 @@ Dem menschengleichen Gotte werden angeschirrt die flücht'gen Renner, die nach F
 Торопливые, разбегающиеся в разные стороны, стремительные,  
 Быстро мчащиеся, поторапливаемые ветром кони.
 </details>
+

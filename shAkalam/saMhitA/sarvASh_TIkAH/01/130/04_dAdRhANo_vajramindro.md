@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,91 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+dādr̥hāṇáḥ ← √dr̥h- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ásanāya ← ásana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kṣádma ← kṣádman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+śyat ← √śā- ~ śī- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+tigmám ← tigmá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ahihátyāya ← ahihátya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+śyat ← √śā- ~ śī- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+saṁvivyānáḥ ← √vyā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+majmánā ← majmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śávobhiḥ ← śávas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+táṣṭā ← táṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanínaḥ ← vanín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vr̥kṣám ← vr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ścasi ← √vr̥śc- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+paraśvā́ ← paraśú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vr̥ścasi ← √vr̥śc- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,3 +301,4 @@ In beiden Armen Indra haltend seinen Blitz macht' er ihn wie ein Messer sich zum
 Как плотник – дерево, срубаешь ты нападающих (врагов),  
 Как топором срубаешь.
 </details>
+

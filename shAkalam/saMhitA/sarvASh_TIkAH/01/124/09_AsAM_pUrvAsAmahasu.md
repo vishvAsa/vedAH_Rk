@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhasu ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+āsā́m ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+pū́rvāsām ← pū́rva- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+svásr̥̄ṇām ← svásar- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+áparā ← ápara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+paścā́t ← paścā́t (invariable)  
+{}
+
+pū́rvām ← pū́rva- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+návyasīḥ ← návyas- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+pratnavát ← pratnavát (invariable)  
+{}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sudínāḥ ← sudína- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+uchantu ← √vas- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+uṣā́saḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Von allen diesen Schwestern folgt von jeher die spätere dem Lauf der frühern t
 Пусть эти новые утренние зори сейчас, как раньше,  
 Воссияют нам богатство и хорошие дни!
 </details>
+

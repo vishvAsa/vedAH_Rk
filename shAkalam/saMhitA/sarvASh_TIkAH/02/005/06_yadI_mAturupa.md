@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+svásā ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+ásthita ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+bhárantī ← √bhr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+adhvaryúḥ ← adhvaryú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́gatau ← ā́gati- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+tā́sām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+modate ← √mud- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vr̥ṣṭī́ ← vr̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yávaḥ ← yáva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +195,4 @@ Wenn von der eignen Mutter her die Schwester Butter bringend kam, Dann freut bei
 Как адхварью он радуется приходу  
 Этих (сестер), словно ячмень – дождю.
 </details>
+

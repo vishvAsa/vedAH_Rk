@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bódha ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vácasaḥ ← vácas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+máṁhiṣṭhasya ← máṁhiṣṭha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+prábhr̥tasya ← √bhr̥- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+svadhāvaḥ ← svadhā́vant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+gr̥ṇāti ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pī́yati ← √pī- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvaḥ ← tva- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvaḥ ← tva- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vandā́ruḥ ← vandā́ru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vande ← √vandⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Auf diese meine Rede acht' o jüngster, die sehr erfreut, o Herr, die vorgetragn
 Хулит один, одобряет другой.  
 Твой восхвалитель, я восхваляю самого себя, о Агни.
 </details>
+

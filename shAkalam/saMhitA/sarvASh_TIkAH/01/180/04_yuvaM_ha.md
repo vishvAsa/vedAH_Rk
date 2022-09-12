@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átraye ← átri- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gharmám ← gharmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+apáḥ ← áp- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+avr̥ṇītam ← √vr̥- ~ vr̥̄- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+eṣé ← eṣá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kṣódaḥ ← kṣódas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+narau ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+páśva: iṣṭiḥ ← páśva: iṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+cakrā́ ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+ráthyā ← ráthya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +241,4 @@ Dem Atri habt ihr euren süssen Milchtrank auf seinen Wunsch gewährt, wie Wasse
 О двоица мужей Ашвинов, это ваши поиски коров:  
 (Они повторяются,) словно медовые колеса колесницы возвращаются назад.
 </details>
+

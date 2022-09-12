@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ha ← ha (invariable)  
+{}
+
+hathá ← √han- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+párā ← párā (invariable)  
+{}
+
+sthirám ← sthirá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gurú ← gurú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vartáyatha ← √vr̥t- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vanínaḥ ← vanín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yāthana ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ā́śāḥ ← ā́śā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+párvatānām ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Wenn ihr hinweg das Feste schlagt, das Wuchtige im Wirbel dreht, Durchfahrt ihr 
 Вы едете по деревьям на земле,  
 Через горные края.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gā́yat ← √gā(y)- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+nabhanyàm ← nabhanyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sā́ma ← sā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+véḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+árcāma ← √r̥c- (root)  
+{number:PL, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+svàrvat ← svàrvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vāvr̥dhānám ← √vr̥dh- (root)  
+{case:NOM, gender:N, number:SG, tense:PRF, voice:MED}
+
+ádabdhāḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+divyám ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sadmā́nam ← sadmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vívāsān ← √vanⁱ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT, mood:DES}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Gesang erschalle wie ein Vogel steigend, lasst singen uns das starke Lied, das l
 Дойные коровы, которых не обмануть, (находятся) на жертвенной соломе,  
 Чтобы попытаться привлечь (Индру,) пребывающего на небе.
 </details>
+

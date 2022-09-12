@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+návyaḥ ← návyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pāraya ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+durgā́ṇi ← durgá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bahulā́ ← bahulá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thvī́ ← pr̥thú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pū́ḥ ← púr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śám ← śám (invariable)  
+{}
+
+tánayāya ← tánaya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yós ← yós (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +242,6 @@ Be a broad, thick, wide fortress for us,
 Health and wealth for our children and descendants. 
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Agni, geleit uns aufs neue glücklich über alle Fährlichkeiten! Sei du uns eine breite, umfangreiche, weite Burg, sei für den leiblichen Samen zum Wohl und Heil!
@@ -199,3 +259,4 @@ O führ aufs neue Agni uns hinüber durch deinen Segen über alle Leiden; Sei ei
 И стань для нас широкой, прочной, просторной  
 Крепостью! (Будь) на благо (нашим) детям и внукам!
 </details>
+

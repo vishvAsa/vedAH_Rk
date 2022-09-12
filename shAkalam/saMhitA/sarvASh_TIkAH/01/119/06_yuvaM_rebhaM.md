@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+páriṣūteḥ ← páriṣūti- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+rebhám ← rebhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uruṣyathaḥ ← √uruṣy- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+átraye ← átri- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gharmám ← gharmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hiména ← himá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+páritaptam ← √tap- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+avasám ← avasá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gávi ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pipyathuḥ ← √pī- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+śayóḥ ← śayú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ā́yuṣā ← ā́yus- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dīrghéṇa ← dīrghá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tāri ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+vándanaḥ ← vándana- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +204,4 @@ Dem Rebha halft ihr aus Bedrängniss, lindertet durch Kühlung rings dem Atri di
 В корове Шаю вы делаете набухшим питание.  
 Вандана был наделен долгим сроком жизни.
 </details>
+

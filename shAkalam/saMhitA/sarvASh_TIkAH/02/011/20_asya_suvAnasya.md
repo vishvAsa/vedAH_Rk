@@ -16,14 +16,63 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mandínaḥ ← mandín- (nominal stem)  
+{case:GEN, number:SG}
+
+suvānásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, tense:AOR, voice:MED}
+
+tritásya ← tritá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+árbudam ← árbuda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+astar ← √str̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ávartayat ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áṅgirasvān ← áṅgirasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhinát ← √bhid- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+valám ← valá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Durch dieses Trita Somatrunk erheitert, warf er herab den Arbuda gekräftigt. Ih
 Он покатил (его), как солнце- (свое) колесо.  
 Индра с Ангирасами пробил пещеру.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+āré ← āré (invariable)  
+{}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sudānavaḥ ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+márutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+r̥ñjatī́ ← √r̥j- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+śáruḥ ← śáru- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āré ← āré (invariable)  
+{}
+
+áśmā ← áśman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásyatha ← √as- 2 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +153,4 @@ Fern sei von uns, o spendende, o Maruts, eur gezielter Pfeil, Und fern der Stein
 Маруты, эта ваша разящая стрела,  
 Далеко – камень, что вы швыряете!
 </details>
+

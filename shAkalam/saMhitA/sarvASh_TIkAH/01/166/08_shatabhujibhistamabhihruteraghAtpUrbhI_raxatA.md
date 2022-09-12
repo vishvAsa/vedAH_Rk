@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhíhruteḥ ← abhíhruti- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+aghā́t ← aghá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+śatábhujibhiḥ ← śatábhuji- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ā́vata ← √avⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pūrbhíḥ ← púr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+rakṣata ← √rakṣⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tavasaḥ ← tavás- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ugrāḥ ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+virapśinaḥ ← virapśín- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pāthána ← √pā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+puṣṭíṣu ← puṣṭí- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śáṁsāt ← śáṁsa- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tánayasya ← tánaya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Mit hunderfach umschanzten Burgen schirmt den Mann, vor Leid und Noth, o Maruts,
 Человека, которому (вы помогаете), о грозные, сильные, пышущие мощью,  
 Охраните от (злого) слова, чтобы процветало (его) потомство!
 </details>
+

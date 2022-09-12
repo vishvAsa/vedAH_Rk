@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dádhan ← √dhā- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+dhanáyan ← √dhanⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+dhītím ← dhītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́t ← ā́t (invariable)  
+{}
+
+didhiṣváḥ ← didhiṣú- (nominal stem)  
+{case:NOM, gender:F, number:PL, mood:DES}
+
+ít ← ít (invariable)  
+{}
+
+víbhr̥trāḥ ← víbhr̥tra- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+apásaḥ ← apás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+átr̥ṣyantīḥ ← átr̥ṣyant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jánma ← jánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+práyasā ← práyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vardháyantīḥ ← √vr̥dh- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +235,4 @@ Sie schufen Opfer, regten sein Gebet an; und Lieder, buhlend, strebend, sich ver
 Деятельные, (но) не жадные, они направляются к  
 Богам, усиливая (их) род подкрепляющим питьем.
 </details>
+

@@ -17,15 +17,61 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+dódhataḥ ← dódhat- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trásya ← vr̥trá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hīḷitáḥ ← √hīḍ- ~ √hīḷ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sā́num ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+abhikrámya ← √kramⁱ- (root)  
+{non-finite:CVB}
+
+áva ← áva (invariable)  
+{}
+
+jighnate ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+codáyan ← √cud- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sármāya ← sárma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+árcan ← √r̥c- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+svarā́jyam ← svarā́jya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

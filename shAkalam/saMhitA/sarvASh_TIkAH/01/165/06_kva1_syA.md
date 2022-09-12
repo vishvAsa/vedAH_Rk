@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+kvà ← kvà (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+svadhā́ ← svadhā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+syā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ahihátye ← ahihátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+samádhatta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+taviṣáḥ ← taviṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+túviṣmān ← túviṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánamam ← √nam- 1 (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+śátroḥ ← śátru- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vadhasnaíḥ ← vadhasná- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +214,7 @@ Indra adroitly manipulates the wording here to contrast his own solitary state w
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 Indra seizes the Maruts’ assertion of independent power (svadhā́- 5d) by taxing them with the absence of (their exercise of) that power (6a) at a crucial moment. Another skirmish in the battle of the lexicon.
@@ -186,3 +247,4 @@ Wo war denn diese eure Selbständigkeit, ihr Marut, als ihr mich im Drachenkampf
 Сгибал (смертельное оружие) любого врага (своим) смертельным оружием.  
 Маруты:
 </details>
+

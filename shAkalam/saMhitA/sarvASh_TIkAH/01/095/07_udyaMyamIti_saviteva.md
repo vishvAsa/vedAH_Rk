@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bāhū́ ← bāhú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+yaṁyamīti ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhīmáḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ñján ← √r̥j- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sícau ← síc- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+yatate ← √yat- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ajate ← √aj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+átkam ← átka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+simásmāt ← simá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+śukrám ← śukrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+jahāti ← √hā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mātŕ̥bhyaḥ ← mātár- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+návā ← náva- 2 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vásanā ← vásana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,8 +189,6 @@ he leaves new clothes for the mothers.
 The first hemistich compares the rising Agni with the arms of Savitṛ and specifically their stretching from horizon to horizon. So what is the foundation of this shining manifestation of Savitṛ in the night sky that stretches from horizon to horizon? It is the Milky Way.+++(5)+++ Thus, this signal feature of Savitṛ, which repeatedly finds mention in ritual incantations relates this great stellar band of light of the night sky. 
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -183,3 +239,4 @@ Er streckt empor wie Savitar die Arme, nach beiden Rändern dringt der hehre str
 Из себя самого извлекает он прозрачное покрывало.  
 Новую одежду он оставляет родителям.
 </details>
+

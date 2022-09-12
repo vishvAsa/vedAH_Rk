@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+krátavaḥ ← krátu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ádabdhāsaḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áparītāsaḥ ← áparīta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+udbhídaḥ ← udbhíd- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ásan ← √as- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sádam ← sádam (invariable)  
+{}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+áprāyuvaḥ ← áprāyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rakṣitā́raḥ ← rakṣitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Uns mögen heilvoll Kräfte nahn von jedem Ort, vorsprudelnd, unversehrt und ung
 Чтобы боги всегда помогали нам возрастать,  
 (Чтоб были) защитниками изо дня в день!
 </details>
+

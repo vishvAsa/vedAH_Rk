@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,82 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+ápi ← ápi (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vātayāmasi ← √vat- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+yajñasā́dham ← yajñasā́dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havíṣmatā ← havíṣmant- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devátātā ← devátāt- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+havíṣmatā ← havíṣmant- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+upā́bhr̥tī ← upā́bhr̥ti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ūrjā́m ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+jūryati ← √jr̥̄- ~ jūr- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kr̥pā́ ← kŕ̥p- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mātaríśvā ← mātaríśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+bhā́r ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+devám ← devá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,3 +286,4 @@ Wir regen an den Opfersegner auf dem Pfad des heil'gen Werks mit opferreicher Hu
 Который Матаришван для человека (принес) издалека,  
 Бога, которого (Матаришван) принес издалека.
 </details>
+

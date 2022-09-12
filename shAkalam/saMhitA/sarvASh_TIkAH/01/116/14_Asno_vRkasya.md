@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āsnáḥ ← āsán- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vártikām ← vártikā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vŕ̥kasya ← vŕ̥ka- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+amumuktam ← √muc- (root)  
+{number:DU, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ha ← ha (invariable)  
+{}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purubhujā ← purubhuj- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+akr̥ṇutam ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+kŕ̥pamāṇam ← kŕ̥pamāṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vicákṣe ← √cakṣ- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Ihr beide habt, o treugesinnte Männer, erlöst die Wachtel aus des Wolfes Rache
 А еще вы сделали, о многополезные, (так,)  
 Что горюющий певец стал (снова) хорошо видеть.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anarvā́ṇam ← anarván- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mandrájihvam ← mandrájihva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návyam ← návya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vardhaya ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gāthānyàḥ ← gāthānī́- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+surúcaḥ ← surúc- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+āśr̥ṇvánti ← √śru- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mártāḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+návamānasya ← √nu- ~ nū- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +194,4 @@ Den unnahbaren Mann, der lieblich redet, Brihaspati erhebe neu mit Liedern, Den 
 (Того, кто) ведет песню, ярко сверкает, к кому боги  
 (И) смертные прислушиваются, когда он поднимает голос.
 </details>
+

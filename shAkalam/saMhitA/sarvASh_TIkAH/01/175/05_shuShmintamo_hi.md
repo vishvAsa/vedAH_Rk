@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śuṣmíntamaḥ ← śuṣmíntama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dyumníntamaḥ ← dyumníntama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+krátuḥ ← krátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+varivovídā ← varivovíd- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vr̥traghnā́ ← vr̥trahán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+aśvasā́tamaḥ ← aśvasā́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maṁsīṣṭhā́ḥ ← √man- 1 (root)  
+{number:SG, person:2, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +172,4 @@ Dein Rausch ist ja der kräftigste, dein Wille der gewaltigste, Der Feinde tilgt
 Благодаря (этому опьянению), сметающему преграды, создающему широкий простор,  
 Ты можешь считаться лучше всех добывающим коней.
 </details>
+

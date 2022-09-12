@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abudhné ← abudhná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánasya ← vána- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadate ← √dad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pūtádakṣaḥ ← pūtádakṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stū́pam ← stū́pa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrdhvám ← ūrdhvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+budhnáḥ ← budhná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+nīcī́nāḥ ← nīcī́na- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+upári ← upári (invariable)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:LOC, number:PL}
+
+ketávaḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+níhitāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+syuḥ ← √as- 1 (root)  
+{number:PL, person:3, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Der heil'ge König Varuna hält aufrecht, des Baumes Schopf im bodenlosen Raume;
 (Ветви) направлены вниз. Их основание – наверху.  
 Да укоренятся в нас лучи!
 </details>
+

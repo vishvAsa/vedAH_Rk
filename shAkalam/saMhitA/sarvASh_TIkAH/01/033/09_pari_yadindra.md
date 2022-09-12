@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ábubhojīḥ ← √bhuj- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sīm ← sīm (invariable)  
+{}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+ámanyamānān ← ámanyamāna- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mányamānaiḥ ← √man- 1 (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:MED}
+
+adhamaḥ ← √dhamⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+brahmábhiḥ ← brahmán- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dásyum ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Als, Indra, du den Himmel und die Erde mit deiner Grösse allerseits umspanntest
 Ты о(держал верх) над неразумными с помощью разумных:  
 Заклинаниями ты сдул дасью, о Индра.
 </details>
+

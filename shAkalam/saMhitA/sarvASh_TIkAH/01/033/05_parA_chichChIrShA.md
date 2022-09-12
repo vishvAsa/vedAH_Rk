@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+śīrṣā́ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vavr̥juḥ ← √vr̥j- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+áyajvānaḥ ← áyajvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+spárdhamānāḥ ← √spr̥dh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+yájvabhiḥ ← yájvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sthātar ← sthā́tar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adhamaḥ ← √dhamⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+avratā́n ← avratá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+nís ← nís (invariable)  
+{}
+
+ródasyoḥ ← ródasī- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Die Opferhasser mit den Frommen kämpfend, entflohn vor dir kopfüber alle, Indr
 Когда ты (кинулся) с неба, о повелитель буланых коней, о возница, о грозный,  
 Ты из двух миров сдул (врагов,) лишенных обета.
 </details>
+

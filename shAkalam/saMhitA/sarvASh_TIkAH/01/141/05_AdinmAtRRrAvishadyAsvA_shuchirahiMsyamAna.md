@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+aviśat ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+mātr̥̄́ḥ ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́su ← yá- (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+áhiṁsyamānaḥ ← áhiṁsyamāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+áruhat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pū́rvāḥ ← pū́rva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sanājúvaḥ ← sanājū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávarāsu ← ávara- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dhāvate ← √dhāv- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+návyasīṣu ← návyas- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,3 +257,4 @@ Da ging er in die Mütter ein, in welchen er, der helle, unversehrte in die Brei
 Когда он возрос вслед за прежними, старыми (растениями),  
 Он бросается на более новые, последующие.
 </details>
+

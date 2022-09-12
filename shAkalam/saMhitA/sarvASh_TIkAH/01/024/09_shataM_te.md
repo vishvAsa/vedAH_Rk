@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bhiṣájaḥ ← bhiṣáj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+gabhīrā́ ← gabhīrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bā́dhasva ← √bādhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dūré ← dūrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nírr̥tim ← nírr̥ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+parācaís ← parācaís (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mumugdhi ← √muc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,12 +193,12 @@ popular
 
 हे राजन् वरुण **ते** तव **शतं** **भिषजः** बन्धनिवारकाणि शतसंख्याकानि औषधानि वैद्या वा सन्ति । **ते** तव **सुमतिः** अस्मदनुग्रहबुद्धिः **उर्वी** विस्तीर्णा **गभीरा** गाम्भीर्योपेता स्थिर **अस्तु** । **निर्ऋतिम्** अस्मदनिष्टकारिणीं निर्ऋतिं पापदेवतां 'पराचैः पराङ्मुखां कृत्वा **दूरे** अस्मत्तो व्यवहिते देशे स्थापयित्वा तां **बाधस्व** । **कृतं** **चित्** अस्माभिरनुष्ठितमपि **एनः** पापम् **अस्मत्** **प्र** **मुमुग्धि** प्रकर्षेण मुक्तं नष्टं कुरु ॥ सुमतिः । ‘तादौ च ' इति पूर्वपदप्रकृतिस्वरत्वे प्राप्ते ' मन्क्तिन' इत्यादिनोत्तरपदान्तोदात्तत्वम् । संहितायां विसर्जनीयसकारस्य । युष्मत्तत्ततक्षुःष्वन्तःपादम् ' ( पा. सू. ८. ३. १०३ ) इति षत्वम् । बाधस्व । ‘बाधृ विलोडने '। शपः पित्त्वादनुदात्तत्वम् । तिङ्श्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते । निर्ऋतिम् । तादौ च ' इति गतेः प्रकृतिस्वरत्वम् । मुमुग्धि । 'मुच्लृ मोक्षणे ' ।' बहुलं छन्दसि ' इति श्लुः । ‘हुझल्भ्यो हेर्धिः' (पा. सू. ६. ४. १०१ )। तस्य अपित्त्वेन ङित्त्वाद्गुणाभावः। ‘चोः कुः' (पा. सू. ८. २. ३०) इति कुत्वम्॥
 </details>
+
 <details><summary>भट्टभास्करटीका</summary>
 
 हे राजन् वरुण अपामधिष्टातः शतं बहवस्सहस्रं बहुतमाश्च ते तव भिषजः पापस्य शमनहेतवस्सन्ति, तस्मात्त्वत्प्रसादात् अस्मत्पापमपि ते शमयन्त्विति शेषः । किञ्च - उर्वी महती गम्भीरा दुरवगाहा च ते सुमतिः कल्याणी मतिरस्तु अस्मदनुग्रहपरैव सर्वदा भूयात् । 'युष्मत्तत्ततक्षुषु' इति संहितायां षत्वम् ।  
 किञ्च - बाधस्व विनाशय द्वेषः द्वेष्टॄन् । विजन्ताछस् । जातौ वा एकवचनम् । द्वेषांसि रक्षःप्रभृतीनीत्यर्थः । निरृतिं च बाधस्व पराचैः पराङ्मुखीभूताम् । उच्चैरादिवदव्ययं द्रष्टव्यम् । निरृतिमिति प्रादिसमासेव्ययपूर्वपदप्रकृतिस्वरत्वम् । गतिसमासे 'तादौ च' इति गतेः प्रकतिस्वरत्वम् । किञ्च - चेदर्थे चिच्छब्दः । कृतं चिदेनः पापं अस्मत्तः प्रमुमुग्धि प्रकर्षेण मोचय । व्यत्ययेन शपश्श्लुः ॥
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -170,7 +231,6 @@ Overcome the enmity, the hostility;
 Remove from us whatever sin hath been committed.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Du hast, o König, hundert, tausend Ärzte. Weit, unergründlich soll deine Gnade sein. Jage weit in die Ferne die Todesgöttin ! Auch die getane Sünde nimm von uns !
@@ -188,3 +248,4 @@ Du hast an hundert, tausend Arzeneien, o König, weit und tief ist deine Güte; 
 Прогони далеко прочь Гибель!  
 Даже содеянный грех сними с нас!
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+pito ← pitú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rásāḥ ← rása- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víṣṭhitāḥ ← √sthā- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+śritā́ḥ ← √śri- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vā́tāḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +157,4 @@ Ja deine Säfte, Opfertrank, sind durch die Räume rings vertheilt, Zum Himmel W
 Распространились через пространства  
 Они достигли неба, словно ветры.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+kṣaranti ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+samudrā́ḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tásyāḥ ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+cátasraḥ ← catúr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jīvanti ← √jīv- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pradíśaḥ ← pradíś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+akṣáram ← akṣára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kṣarati ← √kṣar- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tátas ← tátas (invariable)  
+{}
+
+jīvati ← √jīv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Von ihr strömen die Meere aus, davon leben die vier Erdräume; von dort ergiess
 Оттуда вытекает непреходящее.  
 Им живет все.
 </details>
+

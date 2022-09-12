@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
+#### Morph
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+sáptim ← sápti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śravasyā́ ← śravasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+añje ← √añj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+juhvā̀ ← juhū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+dānaúkasam ← dānaúkas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vandádhyai ← √vandⁱ- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+darmā́ṇam ← darmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gūrtáśravasam ← gūrtáśravas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purā́m ← púr- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Ihm schmücke ich voll Schatzbegier das Preislied, mit meiner Zung' dem Indra wi
 Чтобы почтить героя, любящего одарять,  
 Взламывателя крепостей, (бога), чья слава воспета.
 </details>
+

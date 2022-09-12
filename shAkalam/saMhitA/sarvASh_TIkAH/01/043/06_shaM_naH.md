@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+árvate ← árvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+karati ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+meṣā́ya ← meṣá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+meṣyè ← meṣī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sugám ← sugá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gáve ← gáv- ~ gó- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nā́ribhyaḥ ← nā́ri- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+nŕ̥bhyaḥ ← nár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Er schaffe unsern Rossen Heil und Glück dem Widder und dem Schaf, Den Männern,
 Хороший путь барану (и) овце,  
 Мужам, женам, рогатому скоту!
 </details>
+

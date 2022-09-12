@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+vartaním ← vartaní- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+r̥ṣvásya ← r̥ṣvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+uróḥ ← urú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+adhyā́sate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +142,4 @@ Er, der die Bahn des Windes kennt, des weiten, hohen, mächtigen, Und die darüb
 Широкого, высокого, сильного.  
 Он знает тех, кто восседает.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyaut ← √dyut- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+añjíbhiḥ ← añjí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́tāsu ← ā́tā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+āvar ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kr̥ṣṇā́m ← kr̥ṣṇá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nirṇíjam ← nirṇíj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+aruṇébhiḥ ← aruṇá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+prabodháyantī ← √budh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+suyújā ← suyúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Im Schmucke strahlt sie an des Himmels Rändern, die schwarze Hülle deckte ab d
 Пробуждая (все существа), на алых конях  
 Приезжает богиня на колеснице, в которую легко запрягать (коней).
 </details>
+

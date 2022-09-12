@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áśvāya ← áśva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+upastr̥ṇánti ← √str̥̄- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́saḥ ← vā́sas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adhīvāsám ← adhīvāsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+híraṇyāni ← híraṇya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+árvantam ← árvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+páḍbīśam ← páḍbīśa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saṁdā́nam ← saṁdā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+priyā́ ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yāmayanti ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Welche Decke sie über das Pferd breiten, welcher Ueberwurf, welchen Goldschmuck
 Узда, конские ножные путы- (вся) принадлежащая (ему сбруя),  
 Пусть удержат его у богов!
 </details>
+

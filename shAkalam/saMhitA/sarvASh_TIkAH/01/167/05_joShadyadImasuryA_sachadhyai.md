@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asuryā̀ ← asuryà- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+jóṣat ← √juṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sacádhyai ← √sac- 1 (root)  
+{case:DAT, number:SG, tense:PRS}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nr̥máṇāḥ ← nr̥máṇas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rodasī́ ← rodasī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víṣitastukā ← víṣitastuka- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūryā́ ← sūryā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vidhatáḥ ← √vidh- (root)  
+{case:GEN, gender:M, number:SG, tense:AOR, voice:ACT}
+
+ityā́ ← ityā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nábhasaḥ ← nábhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tveṣápratīkā ← tveṣápratīka- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +212,7 @@ Since the chariot mounting of 6a is part of the mythological past, a preterital 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
 <details open><summary><h2>03-07 ...{Loading}...</h2></summary>
 
 Hoffmann (Injunk., 194-97) translates and comments on these verses.
@@ -189,3 +244,4 @@ Wenn sie nun will die himmlische begleiten, gelösten Haars die männerholde Jun
 Как Сурья, она взошла на колесницу почитателя,  
 С видом страшным, как приближение грозовой тучи.
 </details>
+

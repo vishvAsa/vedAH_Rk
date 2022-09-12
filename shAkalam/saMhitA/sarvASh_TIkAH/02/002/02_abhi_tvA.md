@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; line affected by realignment
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+náktīḥ ← náktī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vavāśire ← √vāś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+svásareṣu ← svásara- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aratíḥ ← aratí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+mā́nuṣā ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yugā́ ← yugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhāsi ← √bhā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+kṣápaḥ ← kṣáp- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+puruvāra ← puruvā́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+saṁyátaḥ ← saṁyát- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Dir Agni jauchzen Nächt' und Morgenröthen zu, wie in den Ställen Kühe nach d
 Словно возница неба – сквозь людские поколения,  
 Ты светишь сквозь непрерывные ночи, о обладатель многих избранных даров!
 </details>
+

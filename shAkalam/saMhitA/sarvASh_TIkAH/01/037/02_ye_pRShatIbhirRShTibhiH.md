@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pŕ̥ṣatībhiḥ ← pŕ̥ṣant- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+r̥ṣṭíbhiḥ ← r̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+añjíbhiḥ ← añjí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+vā́śībhiḥ ← vā́śī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ájāyanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+svábhānavaḥ ← svábhānu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +144,4 @@ Die mit Gazellen, Speeren auch mit Aexten und mit Schmuck zugleich In eignem Gla
 С пестрыми (антилопами), с копьями,  
 Топорами, украшениями, (они,) имеющие собственный блеск...
 </details>
+

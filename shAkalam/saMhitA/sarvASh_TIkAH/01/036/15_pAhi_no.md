@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+árāvṇaḥ ← árāvan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhūrtéḥ ← dhūrtí- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jíghāṁsataḥ ← √han- (root)  
+{case:ABL, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rī́ṣataḥ ← √riṣ- (root)  
+{case:ABL, gender:M, number:SG, tense:AOR, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+bŕ̥hadbhāno ← br̥hádbhānu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáviṣṭhya ← yáviṣṭhya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Schütz, Agni, uns vor dem Gespenst; und vor des Feindes arger List, Vor dem Ver
 Защити от вредящего или от желающего убить,  
 О ты с высоким лучом, о самый юный!
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+animānáḥ ← animāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhūmáketuḥ ← dhūmáketu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puruścandráḥ ← puruścandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhiyé ← dhī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+hinvatu ← √hi- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +152,4 @@ Er, welcher unermessen gross, sehr hell des Rauches Fahne schwingt, Zu Kraft und
 С дымом-знаменем, многояркий,  
 Пусть подгонит нас к вдохновению, к награде!
 </details>
+

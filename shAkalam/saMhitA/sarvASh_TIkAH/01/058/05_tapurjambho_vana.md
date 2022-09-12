@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+tápurjambhaḥ ← tápurjambha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vā́tacoditaḥ ← vā́tacodita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sāhvā́n ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+váṁsagaḥ ← váṁsaga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāti ← √vā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yūthé ← yūthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+abhivrájan ← √vraj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ákṣitam ← ákṣita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pā́jasā ← pā́jas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhayate ← √bhī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+carátham ← carátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+patatríṇaḥ ← patatrín- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sthātúḥ ← sthātár- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +194,7 @@ On sthātúḥ (in the pair sthātúś carátham “the still and the moving”)
 
 sg. to the -tar-stem (← *-tṛ́) see AiG I.23, 301; III.204 and most recently Frotscher 2012. Tichy (1995: 71) rejects this explanation, but her alternative (a masc. nom. sg.
 
-to a -tu-stem) breaks the tight rhetorical structure of this merism by pairing a masculine with a neuter (carátham). Thus, whatever phonological problems there may be in assuming an *-ṛ# > -ur# change (as opposed to *-ṛs > -ur as in the gen. sg.
+to a -tu-stem) breaks the tight rhetorical structure of this merism by pairing a masculine with a neuter (carátham). Thus, whatever phonological problems there may be in assuming an *-ṛ# &gt; -ur# change (as opposed to *-ṛs &gt; -ur as in the gen. sg.
 
 of -ṛ-stems), I favor the older view. Frotscher’s suggestion that accented final -ṛ́ develops to -úr may help solve the problem. In any case the nom./acc. neut form here would also be reinforced by the semantically identical genitive sg. phrase sthāthúś ca ... (jágataś ca (I.159.3, II.31.5).
 </details>
@@ -172,3 +227,4 @@ Mit Flammenzähnen windgetrieben schnauft er hin zum Holz wie zu der Heerde der 
 Вторгаясь всей своей массой в нерушимое пространство.  
 Что неподвижно, что движется – (все) боится (его, даже) птицы.
 </details>
+

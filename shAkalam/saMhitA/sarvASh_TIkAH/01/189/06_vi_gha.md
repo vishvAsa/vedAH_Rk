@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gha ← gha (invariable)  
+{}
+
+r̥tajāta ← r̥tájāta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā́vān ← tvā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yaṁsat ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tanvè ← tanū́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+várūtham ← várūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ninitsóḥ ← ninitsú- (nominal stem)  
+{case:ABL, gender:M, number:SG, mood:DES}
+
+ririkṣóḥ ← ririkṣú- (nominal stem)  
+{case:ABL, gender:M, number:SG, mood:DES}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+víśvāt ← víśva- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+abhihrútām ← abhihrút- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+viṣpáṭ ← viṣpáś- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Wer so wie du ist, reiche Schutz dem Leibe, o Recht-entsprossner Agni, hochgelob
 От всякого, кто хочет повредить или же оклеветать.  
 Ведь ты, о бог, тот, кто подстерегает козни!
 </details>
+

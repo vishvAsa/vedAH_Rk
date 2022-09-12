@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+tāyávaḥ ← tāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yathā ← yathā (invariable)  
+{}
+
+aktúbhiḥ ← aktú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nákṣatrā ← nákṣatra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sū́rāya ← sū́ra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+viśvácakṣase ← viśvácakṣas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +152,4 @@ Wie Diebe schleichen sich davon die Sterne schon mit ihrem Schein Vor dem allseh
 Вместе с ночами звезды  
 От всевидящего солнца.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dásyum ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhanínam ← dhanín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghanéna ← ghaná- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+vádhīḥ ← √vadhⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+cáran ← √carⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+upaśākébhiḥ ← upaśāká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhánoḥ ← dhánu- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+viṣuṇák ← viṣuṇák (invariable)  
+{}
+
+áyajvānaḥ ← áyajvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īyuḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+prétim ← préti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sanakā́ḥ ← sanaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Du schlugst den reichen Dämon mit der Keule, allein hinwandernd, Indra, mit den
 С высокого берега разлетелись они у тебя во все стороны:  
 Не приносящие жертв санаки отправились в (последний) путь.
 </details>
+

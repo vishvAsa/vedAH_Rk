@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+bhriyante ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:PASS}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+mādayiṣṇávaḥ ← mādayiṣṇú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+matsarā́ḥ ← matsará- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+camūṣádaḥ ← camūṣád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+drapsā́ḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Euch werden Indu's dargebracht, erfreuende, berauschende, In Bechern süsse Trop
 Пьянящие, опьяняющие,  
 Капли меда, осевшие в сосудах.
 </details>
+

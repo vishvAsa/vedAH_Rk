@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+jāgr̥tam ← √gr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+satyéna ← satyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pracetúne ← pracetúna- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yachatam ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +156,4 @@ So wahr dies ist, so wacht für uns am Ort, der weite Aussicht beut; O Indra, Ag
 Над приметным следом!  
 О Индра-Агни, даруйте защиту!
 </details>
+

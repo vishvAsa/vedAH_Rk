@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sánemi ← sánemi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svapasyámānaḥ ← √svapasy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dādhāra ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sudáṁsāḥ ← sudáṁsas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūnúḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āmā́su ← āmá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+dadhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+pakvám ← pakvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṣṇā́su ← kr̥ṣṇá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+róhiṇīṣu ← róhiṇī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+rúśat ← rúśant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Schönwirkend reich an Wunderkraft bewahrte der Sohn mit Kraft die unversehrte F
 Ведь в сырых (коров) ты вложил вареное  
 Молоко, в черных (и) в рыжих – белое.
 </details>
+

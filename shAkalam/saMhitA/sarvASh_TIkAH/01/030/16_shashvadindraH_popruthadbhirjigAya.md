@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jigāya ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pópruthadbhiḥ ← √pruthⁱ- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhánāni ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+nā́nadadbhiḥ ← √nad- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:MED}
+
+śā́śvasadbhiḥ ← √śvasⁱ- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+daṁsánāvān ← daṁsánāvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hiraṇyarathám ← hiraṇyarathá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sanáye ← saní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sanitā́ ← sanitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Stets hat Indra mit den schnaubenden, tobenden, stark athmenden Rossen Schätze 
 Он, обладатель чудесной силы, (дал) нам золотую колесницу  
 Он наш добытчик, чтоб добывали (мы), он нам дал.
 </details>
+

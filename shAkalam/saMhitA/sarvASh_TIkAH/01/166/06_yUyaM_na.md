@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sucetúnā ← sucetúna- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ugrāḥ ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+áriṣṭagrāmāḥ ← áriṣṭagrāma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pipartana ← √pr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+didyút ← didyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+krívirdatī ← krívirdatī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rádati ← √rad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+barháṇā ← barháṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+paśváḥ ← paśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+riṇā́ti ← √rī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+súdhitā ← súdhita- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +227,4 @@ O starke Maruts, ihr mit unversehrter Schar, erfüllet unser Wunschgebet mit hol
 (Там,) где врезается ваш выстрел со змеиным зубом,  
 Он мощно выпускает течь (воды), словно метко нацеленный кнут (выгоняет) скотину.
 </details>
+

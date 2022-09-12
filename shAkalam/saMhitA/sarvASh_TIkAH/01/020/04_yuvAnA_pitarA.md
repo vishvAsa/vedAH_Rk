@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pitárā ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+púnar ← púnar (invariable)  
+{}
+
+yúvānā ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+r̥jūyávaḥ ← r̥jūyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satyámantrāḥ ← satyámantra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+akrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viṣṭī́ ← viṣṭí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +151,4 @@ Durch kräft'ge Sprüche machten sie die alten Aeltern wieder jung, Die treuen R
 (Своим) трудом сделали (так),  
 Что (их) родители стали снова юными.
 </details>
+

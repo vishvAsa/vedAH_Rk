@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+náram ← nár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥jinávartanim ← vr̥jinávartani- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+piparṣi ← √pr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sákman ← sákman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vicarṣaṇe ← vícarṣaṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dháne ← dhána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+páritakmye ← páritakmya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śū́rasātā ← śū́rasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhū́yasaḥ ← bhū́yaṁs- (nominal stem)  
+{case:ACC, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+dabhrébhiḥ ← dabhrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+háṁsi ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sámr̥tā ← sámr̥ti- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +224,4 @@ Den Mann auch, Agni, der auf bösem Wege wallt, geleitest gnädig, weiser, du zu
 (Ты,) что в решающей битве героев, (в борьбе) за богатство,  
 В столкновении даже с немногими побиваешь более многочисленных(врагов).
 </details>
+

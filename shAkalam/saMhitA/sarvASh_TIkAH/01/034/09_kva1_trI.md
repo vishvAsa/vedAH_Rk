@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakrā́ ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kvà ← kvà (invariable)  
+{}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+trī́ ← trí- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+trivŕ̥taḥ ← trivŕ̥t- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kvà ← kvà (invariable)  
+{}
+
+sánīḷāḥ ← sánīḷa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vandhúraḥ ← vandhúr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+rā́sabhasya ← rā́sabha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yógaḥ ← yóga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+upayātháḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Wo sind die drei Räder des dreifach rollenden Wagens? wo die drei Wagensitze, d
 Когда (происходит) запрягание приносящего награды осла,  
 На котором вы, Насатьи, приезжаете на жертвоприношение?
 </details>
+

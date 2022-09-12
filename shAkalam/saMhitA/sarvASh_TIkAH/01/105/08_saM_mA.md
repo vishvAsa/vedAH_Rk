@@ -17,15 +17,79 @@ ChandaH = "यवमध्या महाबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Cretic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+abhítas ← abhítas (invariable)  
+{}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+tapanti ← √tap- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+párśavaḥ ← párśu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sapátnīḥ ← sapátnī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+adanti ← √ad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ādhyàḥ ← ādhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mū́ṣaḥ ← mū́ṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śiśnā́ ← śiśná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stotā́ram ← stotár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+vittám ← √vid- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +241,4 @@ Von allen Seiten quälen mich, die Rippen Nebenbuhlern gleich, Wie Mäuse ihre S
 Так заботы – в меня, твоего певца, о стоумный.  
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
+

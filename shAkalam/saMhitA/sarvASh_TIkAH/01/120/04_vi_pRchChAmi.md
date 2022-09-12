@@ -15,13 +15,59 @@ ChandaH = "नष्टरूपी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pākyā̀ ← pākyā̀- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pr̥chāmi ← √praś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+adbhutásya ← adbhutá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+váṣaṭkr̥tasya ← váṣaṭkr̥ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pātám ← √pā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rábhyasaḥ ← rábhyaṁs- (nominal stem)  
+{}
+
+sáhyasaḥ ← sáhyaṁs- (nominal stem)  
+{case:ABL, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +182,4 @@ Ich frage wie aus Unverstand die Götter aus nach dem geheimnissvollen von Opfer
 О таинственном (соме), приготовленном под (возглас) Вашат!, о удивительные.  
 Защитите нас и от более сильных и от более хватких!
 </details>
+

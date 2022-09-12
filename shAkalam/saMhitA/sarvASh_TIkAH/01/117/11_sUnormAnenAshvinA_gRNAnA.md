@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gr̥ṇānā́ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+mā́nena ← mā́na- 1 (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sūnóḥ ← sūnú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhuraṇā ← bhuraṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rádantā ← √rad- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víprāya ← vípra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agástye ← agástya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vāvr̥dhānā́ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+ariṇītam ← √rī- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+viśpálām ← viśpálā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ Gepriesen bei des Mana Sohn Agastja, o schnelle Ritter, Gut dem Sänger spendend
 Подкрепленные молитвой у Агастьи,  
 Вы восстановили Випшалу, о Насатьи.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+samānám ← samāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saṁcárantī ← √carⁱ- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+carataḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhenū́ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+suméke ← suméka- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+víṣvak ← víṣvañc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádhvanaḥ ← ádhvan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+anapavr̥jyā́n ← anapavr̥jyá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mímāne ← √mā- 1 (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dádhāne ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+kétān ← kéta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Sie beide wandelnd zu demselben Kalbe die schönen Kühe gehn getrennt dann wied
 Отмеривая нескончаемые пути,  
 Привлекая к себе все великие помыслы.
 </details>
+

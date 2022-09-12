@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ghr̥tā́cī ← ghr̥tā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mimyákṣa ← √myakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+súdhitā ← súdhita- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+híraṇyanirṇik ← híraṇyanirṇij- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+r̥ṣṭíḥ ← r̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+úparā ← úpara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cárantī ← √carⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+gúhā ← gúhā (invariable)  
+{}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sabhā́vatī ← sabhā́vant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+vā́k ← vā́c- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vidathyā̀ ← vidathyà- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +203,7 @@ Hoffmann (194-95, fld. by Witzel Gotō) sees sáṃ vā́k as a new, separate cl
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
 <details open><summary><h2>03-07 ...{Loading}...</h2></summary>
 
 Hoffmann (Injunk., 194-97) translates and comments on these verses.
@@ -180,3 +235,4 @@ Bei denen glänzt der schöngeführte Löffel gleichwie der Griff des goldgeschm
 Словно жена человека, тайно идущая (с другим)...  
 Словно обращенная к собранию священная речь, (она) со(единяет всех).
 </details>
+

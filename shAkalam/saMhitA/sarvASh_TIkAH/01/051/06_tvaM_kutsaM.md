@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āvitha ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+kútsam ← kútsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śuṣṇahátyeṣu ← śuṣṇahátya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+árandhayaḥ ← √randh- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+atithigvā́ya ← atithigvá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śámbaram ← śámbara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arbudám ← arbudá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kramīḥ ← √kramⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mahā́ntam ← mahā́nt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+padā́ ← pád- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dasyuhátyāya ← dasyuhátya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+jajñiṣe ← √janⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Du halfst dem Kutsa, als er mit Dämonen focht, und gabst in Atithigva's Hand de
 Ты топтал ногой Арбуду, такого огромного.  
 От века ты рожден для убийства дасью.
 </details>
+

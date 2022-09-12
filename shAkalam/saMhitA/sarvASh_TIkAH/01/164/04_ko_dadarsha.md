@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dadarśa ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jā́yamānam ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anasthā́ ← anasthán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asthanvántam ← asthanvánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bíbharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ásr̥k ← ásr̥j- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ásuḥ ← ásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ātmā́ ← ātmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́myāḥ ← bhū́mi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+kvà ← kvà (invariable)  
+{}
+
+svit ← svit (invariable)  
+{}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+práṣṭum ← √praś- (root)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vidvā́ṁsam ← √vid- 2 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Wer hat den zuerst geborenen Knochenbegabten [das Urwesen] gesehen, wenn ihn der
 Где сила жизни земли, кровь и дыхание?  
 Кто приблизится к сведущему, чтоб спросить об этом?
 </details>
+

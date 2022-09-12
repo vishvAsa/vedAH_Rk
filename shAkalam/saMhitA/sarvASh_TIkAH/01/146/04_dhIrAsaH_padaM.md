@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhī́rāsaḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nayanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ajuryám ← ajuryá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nā́nā ← nā́nā (invariable)  
+{}
+
+rákṣamāṇāḥ ← √rakṣⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+apaśyanta ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+síṣāsantaḥ ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+āvís ← āvís (invariable)  
+{}
+
+ebhyaḥ ← ayám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Die weisen Seher lenken seine Schritte, behüten sorgsam ihn, der nimmer alt wir
 Стремясь овладеть (им), они осмотрели реку со всех сторон-  
 (И вот) им явилось солнце, (осветив) мужей.
 </details>
+

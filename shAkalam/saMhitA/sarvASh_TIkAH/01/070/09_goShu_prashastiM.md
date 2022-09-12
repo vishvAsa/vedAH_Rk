@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+dhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+práśastim ← práśasti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váneṣu ← vána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+balím ← balí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bháranta ← √bhr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -96,14 +124,14 @@ Note the vocabulary associated with human kingship: práśasti- ‘panegryic, la
 For another instance of prá √śaṃs in Parāśara’s oeuvre, see I.73.2.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/09-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 See Proferes (pp. 48-49) on these contrastive verses. Note the complementary bháranta / bharanta beginning 9c and ending 10d respectively. Their relationship and their semantic contrast is emphasized by the vi(…)s: bháranta ví(śve)… ví … bharanta.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 See Proferes (pp. 47-49), esp. for the identification of the Vaiśvānara fire in particular with the sun, and the published introduction. and the art. cit, esp. for the encoding of the Vaiśvānara fire by the successive grammatical subjects víśve (9cd) and náraḥ (10ab).
@@ -136,3 +164,4 @@ Was herrlich, legst du – in Küh' und Bäume; sie bringen alle – Geschenk zu
 
 -ru-
 </details>
+

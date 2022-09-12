@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ná ← ná (invariable)  
+{}
+
+ŕ̥bhvā ← ŕ̥bhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rudrébhiḥ ← rudrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sūnúbhiḥ ← sūnú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+nr̥ṣā́hye ← nr̥ṣā́hya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sāsahvā́n ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+sánīḷebhiḥ ← sánīḷa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śravasyā̀ni ← śravasyà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tū́rvan ← √tūr(v)- ~ tur- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhavatu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marútvān ← marútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +177,7 @@ The participial phrase śravasyā̀ni tū́rvan has a close parallel in VIII.74.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/100/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/100/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The pattern of instrumentals set in vs. 4 -- “X with the X-es,” that is, “X among the X-es” -- appears to continue in 5a and c, but the instrumentals there are used differently.
@@ -160,3 +209,4 @@ Der kräftig mit den Rudra's wie mit Söhnen im Männerkampfe jeden Feind bewäl
 С родными (Марутами) превосходящий (все) славные деяния -  
 Сопровождаемый Марутами да будет нам Индра в помощь!
 </details>
+

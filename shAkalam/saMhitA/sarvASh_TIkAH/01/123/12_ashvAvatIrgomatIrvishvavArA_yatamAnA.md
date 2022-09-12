@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvāvatīḥ ← áśvāvant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gómatīḥ ← gómant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+viśvávārāḥ ← viśvávāra- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yátamānāḥ ← √yat- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+párā ← párā (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+uṣā́saḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+váhamānāḥ ← √vah- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Die Morgenröthen, reich an Rossen, Rindern und allen Gütern, mit der Sonne Str
 Они уходят и снова приходят,  
 (Эти) зори, несущие счастливые имена.
 </details>
+

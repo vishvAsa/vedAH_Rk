@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kā́vyā ← kā́vya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+śáśvataḥ ← śáśvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+náryā ← nárya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rayipátiḥ ← rayipáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amŕ̥tāni ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cakrāṇáḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,3 +254,4 @@ Er übertrifft jedwedes Ordners Weisheit, in Händen tragend viele Männergaben;
 Агни стал господином богатств,  
 Забрав себе целиком все бессмертное.
 </details>
+

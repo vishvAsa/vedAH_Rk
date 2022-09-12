@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+codaya ← √cud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+tátra ← tátra (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rábhasvataḥ ← rábhasvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+túvidyumna ← tuvidyumná- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáśasvataḥ ← yáśasvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Zu Reichthum treibe schnell uns hin, o Indra, die verlangenden, O reicher, uns, 
 К богатству, о Индра, нетерпеливых,  
 О ты мощью сверкающий, (нас,) достойных почета.
 </details>
+

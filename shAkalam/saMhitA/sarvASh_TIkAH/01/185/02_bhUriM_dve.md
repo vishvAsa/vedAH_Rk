@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácarantī ← ácarant- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+bhū́rim ← bhū́ri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dvé ← dvá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+apádī ← apád- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+dadhāte ← √dhā- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+padvántam ← padvánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nítyam ← nítya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+sūnúm ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ábhvāt ← ábhva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+pr̥thivī ← pr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+rákṣatam ← √rakṣⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +232,4 @@ Sie beide, fusslos und nicht wandernd, tragen als Frucht das Volk, was Füsse ha
 Словно родного сына, в лоне родителей.  
 О Небо и Земля, защитите нас от ужаса!
 </details>
+

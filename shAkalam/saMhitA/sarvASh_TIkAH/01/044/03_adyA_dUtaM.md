@@ -16,14 +16,48 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purupriyám ← purupriyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásum ← vásu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhā́r̥jīkam ← bhā́r̥jīka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhūmáketum ← dhūmáketu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vyùṣṭiṣu ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+adhvaraśríyam ← adhvaraśrī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñā́nām ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +185,4 @@ Zum Boten wählen heute wir den guten liebsten Agni uns; Der früh den Rauch als
 Чье знамя – дым, чей свет – украшение,  
 (Того, кто) на рассвете – краса жертвенных празднеств, жертвоприношений.
 </details>
+

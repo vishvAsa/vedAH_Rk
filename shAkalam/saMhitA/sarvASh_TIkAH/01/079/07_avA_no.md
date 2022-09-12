@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áva ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+gāyatrásya ← gāyatrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prábharmaṇi ← prábharman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhīṣú ← dhī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vandya ← vándya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvāsu ← víśva- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +152,4 @@ Der du bei jedem Andachtswerk zu rühmen bist, o Agni, hilf Uns huldvoll bei des
 Когда возносится песнопение,  
 При всех молитвах, о достойный прославления!
 </details>
+

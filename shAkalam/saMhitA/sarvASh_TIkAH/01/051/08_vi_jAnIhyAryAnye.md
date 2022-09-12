@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ryān ← ā́rya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+dásyavaḥ ← dásyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jānīhi ← √jñā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+avratā́n ← avratá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+barhíṣmate ← barhíṣmant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+randhaya ← √randh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śā́sat ← √śās- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+coditā́ ← coditár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śā́kī ← śā́kin- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yájamānasya ← √yaj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+cākana ← √kanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sadhamā́deṣu ← sadhamā́da- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Barbaren unterscheide wohl und Arier, dem Frommen liefre strafend aus, die gottl
 Будь могуч, (будь) вдохновителем того, кто заказал жертву!  
 Всем этим твоим (подвигам) я радуюсь на совместных праздниках сомы.
 </details>
+

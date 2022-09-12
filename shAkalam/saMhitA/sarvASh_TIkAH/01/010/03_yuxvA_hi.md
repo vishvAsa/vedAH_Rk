@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+keśínā ← keśín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yukṣvá ← √yuj- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+kakṣyaprā́ ← kakṣyaprā́- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vŕ̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+átha ← átha (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+somapāḥ ← somapā́- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cara ← √carⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+girā́m ← gír- ~ gīr- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+úpaśrutim ← úpaśruti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +194,4 @@ So schirre dir die mähnigen, die fetten, starken Füchse an, Dann, Indra, Somat
 И приезжай к нам, о Индра, пьющий сому,  
 Чтобы услышать нашу хвалебную песнь.
 </details>
+

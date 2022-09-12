@@ -15,13 +15,56 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+gāyatrám ← gāyatrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śrutám ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tákavānasya ← tákavāna- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+rirébha ← √ribh- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+akṣī́ ← ákṣ- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+dán ← dám- (nominal stem)  
+{case:GEN, number:SG}
+
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śubhaḥ ← śúbh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +175,4 @@ Höret das Preislied des eifrigen, denn ich, o Ritter, habe euch Gesang angestim
 Ведь это я восхвалил вас, о Ашвины!  
 Сюда глаза (свои обратите), о повелители красоты, (вы, -) повелители дома!
 </details>
+

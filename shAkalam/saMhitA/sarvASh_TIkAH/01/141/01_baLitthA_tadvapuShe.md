@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+báṭ ← báṭ (invariable)  
+{}
+
+darśatám ← darśatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vápuṣe ← vápus- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+bhárgaḥ ← bhárgas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jáni ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yátas ← yátas (invariable)  
+{}
+
+hvárate ← √hvr̥- ~ hru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+īm ← īm (invariable)  
+{}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́dhate ← √sādh- ~ sidh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+anayanta ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dhénāḥ ← dhénā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sasrútaḥ ← sasrút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +243,4 @@ Es ist fürwahr des Gottes schöne Glanzgestalt zur Zier gesetzt, seitdem er aus
 Даже если она идет окольными путями, молитва достигает цели.  
 Они направляли потоки (вселенского) закона, (чтобы те) слились.
 </details>
+

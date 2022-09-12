@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+suparṇā́ḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āródhane ← āródhana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ABL, gender:M, number:SG, tense:PRF, voice:MED}
+
+sedhanti ← √sidh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥kam ← vŕ̥ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tárantam ← √tr̥̄- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yahvátīḥ ← yahvánt- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+vittám ← √vid- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Es sitzen die geflügelten dort mitten an des Himmels Dom, Sie scheuchen von dem
 Переправляющегося через юные воды.  
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
+

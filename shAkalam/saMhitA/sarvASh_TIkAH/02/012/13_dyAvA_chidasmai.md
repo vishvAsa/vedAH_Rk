@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+namete ← √nam- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhayante ← √bhī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+párvatāḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúṣmāt ← śúṣma- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+nicitáḥ ← √ci- 3 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+somapā́ḥ ← somapā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájrabāhuḥ ← vájrabāhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janāsaḥ ← jána- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vájrahastaḥ ← vájrahasta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +244,4 @@ Ihm beugen sich der Himmel und die Erde, vor seinem Schnaufen beben auch die Ber
 Кто известен как пьющий сому, с ваджрой в руке,  
 Кто с ваджрой в длани – тот, о люди, Индра!
 </details>
+

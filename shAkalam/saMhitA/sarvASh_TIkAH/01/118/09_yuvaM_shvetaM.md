@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índrajūtam ← índrajūta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pedáve ← pedú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śvetám ← śvetá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+adattam ← √dā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ahihánam ← ahihán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+abhíbhūtim ← abhíbhūti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+johū́tram ← johū́tra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahasrasā́m ← sahasrasā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīḍvàṅgam ← vīḍvàṅga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +206,4 @@ Ihr Ritter gabt das weisse Ross dem Pedu das Schlangen tödtet, angespornt von I
 Достойного призывов (даже) чужого, превосходящего (всех), грозного,  
 Завоевывающего тысячи, быка с крепкими членами.
 </details>
+

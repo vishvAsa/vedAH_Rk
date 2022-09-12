@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M
+#### Morph
+dáṁsujūtaḥ ← dáṁsujūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+náhuṣaḥ ← náhus- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vrā́dhataḥ ← √vrādh- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+gūrtáśravāḥ ← gūrtáśravas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+narā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śárdhastaraḥ ← śárdhastara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bāḷhasŕ̥tvā ← bāḷhasŕ̥tvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vísr̥ṣṭarātiḥ ← vísr̥ṣṭarāti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sádam ← sádam (invariable)  
+{}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvāsu ← víśva- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +205,4 @@ Er geht hin zu den gewaltigen Genossen mit Wunderkraft eilend, der kühnste der 
 Он идет, раздавая дары, твердо шагая.  
 Он всегда герой во всех сражениях.
 </details>
+

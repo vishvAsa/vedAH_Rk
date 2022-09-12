@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stotāraḥ ← stotár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vidáḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pipartana ← √pr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+jānántaḥ ← √jñā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vivaktana ← √vañc- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhajāmahe ← √bhaj- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+viṣṇo ← víṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +220,7 @@ Recognizing him, announce his very names. Let us share in the favor of  you who 
 
 <details><summary>Jamison Brereton Notes</summary>
 
-The Pp. reads vidá here, the 2nd pl. act. pf., though vidé or indeed vidáḥ would be equally possible in this sandhi situation. Oldenberg says we’re not obliged to read vidé, and the standard tr. follow the Pp. The cross-pāda sandhi -a ṛ- suggested by the Pp is impeccable. As Dieter Gunkel points out to me (pc 11/5/15) “’underlying’ /-e ṛ- /, /-a ṛ-/, and /-as ṛ-/ are all transmitted as ←-a ṛ-> in the saṃhitā text. Where the hemistich boundary intervenes, as here, they are also metrically identical, and therefore identical in the restored text. I gathered examples of /-a ṛ-/ at hemistich boundary from the first four books and found these: 1.15.12ab, 1.68.4ab, 1.116.23b, 1.152.3cd, 2.35.8ab, 3.14.” Nonetheless, against the Pp. I opt for the 3rd sg. mid. vidé, which is common in this phrase (yáthā vidé).
+The Pp. reads vidá here, the 2nd pl. act. pf., though vidé or indeed vidáḥ would be equally possible in this sandhi situation. Oldenberg says we’re not obliged to read vidé, and the standard tr. follow the Pp. The cross-pāda sandhi -a ṛ- suggested by the Pp is impeccable. As Dieter Gunkel points out to me (pc 11/5/15) “’underlying’ /-e ṛ- /, /-a ṛ-/, and /-as ṛ-/ are all transmitted as ←-a ṛ-&gt; in the saṃhitā text. Where the hemistich boundary intervenes, as here, they are also metrically identical, and therefore identical in the restored text. I gathered examples of /-a ṛ-/ at hemistich boundary from the first four books and found these: 1.15.12ab, 1.68.4ab, 1.116.23b, 1.152.3cd, 2.35.8ab, 3.14.” Nonetheless, against the Pp. I opt for the 3rd sg. mid. vidé, which is common in this phrase (yáthā vidé).
 
 The standard tr. interpr. pipartana in fairly generic ways: Geldner “ihn heget,” Renou “comblez (le de louanges)” (taking it to √pṝ ‘fill’), Witzel Gotō “den … fördert.” In the context of the birth motif found in pāda c as well as in 2c, I take the verb as more precise and idiomatic: the usual ‘carry (to the far shore)’ narrowed to ‘carry to term’ of birth. The same sense is found in VI.48.5 (a passage adduced by Geldner) gárbham ṛtásya píprati of Agni’s birth.
 
@@ -186,3 +250,4 @@ Und ihn, o Sänger, der von Alters her besteht, den Spross des Rechts beschenket
 Зная его имена, объявите (их)!  
 Мы хотим вкусить милости у тебя, великого.
 </details>
+

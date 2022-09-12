@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́yasaḥ ← bhū́yaṁs- (nominal stem)  
+{case:ABL, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śatā́t ← śatá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+kr̥ṣṭíṣu ← kr̥ṣṭí- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ririce ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+sahásrāt ← sahásra- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+amātrám ← amātrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+titviṣe ← √tvíṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+jighnase ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+puraṁdara ← puraṁdará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +231,4 @@ O mächt'ger, über Hunderte und über mehr und über tausend Völker ragt dein 
 Тебя, безмерного, возбудило великое вдохновение:  
 Тут ты и убиваешь врагов, о проламыватель крепости!
 </details>
+

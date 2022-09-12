@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śíprin ← śiprín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vājānām ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+daṁsánā ← daṁsánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śácīvaḥ ← śácīvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śaṁsaya ← √śaṁs- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tú ← tú (invariable)  
+{}
+
+áśveṣu ← áśva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śubhríṣu ← śubhrí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sahásreṣu ← sahásra- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+tuvīmagha ← tuvī́magha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ O schöner Herr der Labungen, dein ist, o starker, Wunderkraft, Du, Indra, mach 
 Дай же нам, о Индра, надежду  
 (В виде) коров, коней, тысячи прекрасных (благ), о (ты,) очень богатый!
 </details>
+

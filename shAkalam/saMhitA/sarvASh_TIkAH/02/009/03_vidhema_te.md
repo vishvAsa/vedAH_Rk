@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jánman ← jánman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vidhéma ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+ávare ← ávara- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sadhásthe ← sadhástha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vidhéma ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+udā́ritha ← √r̥- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yáje ← √yaj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+yásmāt ← yá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+yóneḥ ← yóni- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+havī́ṁṣi ← havís- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+juhure ← √hu- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+sámiddhe ← √idh- 1 (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Wir huld'gen, Agni, dir in höchster Heimath, mit Liedern dir im untersten Berei
 Из какого лона ты возник – его я почитаю.  
 В тебе, зажженном, (всегда) свершались жертвенные возлияния.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+garan ← √gr̥̄- 2 (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mātŕ̥tamāḥ ← mātŕ̥tama- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+avā́dhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dāsā́ḥ ← dāsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+súsamubdham ← súsamubdha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+traitanáḥ ← traitaná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vitákṣat ← √takṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áṁsau ← áṁsa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ápi ← ápi (invariable)  
+{}
+
+dāsáḥ ← dāsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gdha ← √ghas- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+svayám ← svayám (invariable)  
+{}
+
+úraḥ ← úras- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +230,4 @@ Nicht frassen mich die mütterlichsten Ströme, als mich Dämonen in die Fluten 
 Когда Трайтана будет рубить ему голову,  
 Даса себе вопьется в грудь (и) в плечи.
 </details>
+

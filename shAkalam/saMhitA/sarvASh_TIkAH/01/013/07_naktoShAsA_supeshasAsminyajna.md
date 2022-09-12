@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+náktoṣā́sā ← náktoṣā́s- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+supéśasā ← supéśas- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+hvaye ← √hvā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+āsáde ← √sad- (root)  
+{case:DAT, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Ich rufe Nacht und Morgen an, die schönen, bei dem Opfer hier Zu setzen sich au
 Я приглашаю на это жертвоприношение,  
 Чтоб они сели на нашу жертвенную солому.
 </details>
+

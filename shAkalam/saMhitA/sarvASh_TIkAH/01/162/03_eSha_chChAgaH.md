@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áśvena ← áśva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+chā́gaḥ ← chā́ga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+purás ← purás (invariable)  
+{}
+
+vājínā ← vājín- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bhāgáḥ ← bhāgá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nīyate ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+pūṣṇáḥ ← pūṣán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+viśvádevyaḥ ← viśvádevya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhipríyam ← abhiprī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+árvatā ← árvant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+puroḷā́śam ← puroḷā́ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+jinvati ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sauśravasā́ya ← sauśravasá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Dieser Bock wird dem schnellen Rosse vorangeführt als Antheil des Puschan, der 
 Когда эту желанную предварительную жертву (ведут) вместе со скакуном,  
 Сам Тваштар взбадривает ее для славного деяния.
 </details>
+

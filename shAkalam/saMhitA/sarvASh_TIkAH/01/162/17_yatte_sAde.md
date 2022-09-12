@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+máhasā ← máhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sādé ← sādá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śū́kr̥tasya ← śū́kr̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+káśayā ← káśā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pā́rṣṇyā ← pā́rṣṇi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tutóda ← √tud- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+havíṣaḥ ← havís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+srucā́ ← srúc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sárvā ← sárva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sūdayāmi ← √sūd- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 То подобно тому как ложкой топленого масла при обрядах (искупают ошибки),  
 Все это я исцелю молитвой.
 </details>
+

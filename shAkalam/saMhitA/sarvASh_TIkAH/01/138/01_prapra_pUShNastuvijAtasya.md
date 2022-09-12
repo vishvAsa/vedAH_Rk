@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,85 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+prá-pra ← prá (invariable)  
+{}
+
+pūṣṇáḥ ← pūṣán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śasyate ← √śaṁs- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+tuvijātásya ← tuvijātá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mahitvám ← mahitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tandate ← √tand- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tavásaḥ ← tavás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+stotrám ← stotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tandate ← √tand- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+árcāmi ← √r̥c- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sumnayán ← √sumnay- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ántyūtim ← ántyūti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mayobhúvam ← mayobhū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyuyuvé ← √yu- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+makháḥ ← makhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āyuyuvé ← √yu- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+makháḥ ← makhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,3 +286,4 @@ Des allgewalt'gen Puschan Macht wird stets gerühmt, und nie erlahmt des starken
 (Того) щедрого, кто овладел мыслью каждого,  
 Щедрого бога, (который) овладел.
 </details>
+

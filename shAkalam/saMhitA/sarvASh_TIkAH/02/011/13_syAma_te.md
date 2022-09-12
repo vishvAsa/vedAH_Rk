@@ -16,14 +16,69 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+avasyávaḥ ← avasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vardháyantaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+cākánāma ← √kanⁱ- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRF, voice:ACT}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śuṣmíntamam ← śuṣmíntama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+rāsi ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrávantam ← vīrávant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Wir sein es, Indra, die durch deine Hülfe die Nahrung mehren, deine Gunst begeh
 Дай нам самую неистовую (силу,) которой мы хотим,  
 О бог, (а также) богатство, состоящее из мужей!
 </details>
+

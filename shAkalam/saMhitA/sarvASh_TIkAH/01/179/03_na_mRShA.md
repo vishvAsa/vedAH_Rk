@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ávanti ← √avⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mŕ̥ṣā ← mŕ̥ṣā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śrāntám ← √śramⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+aśnavāva ← √naś- 1 (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ājím ← ājí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+jáyāva ← √ji- 1 (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+śatánītham ← śatánītha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ájāva ← √aj- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+mithunaú ← mithuná- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+samyáñcā ← samyáñc- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Weil die Götter den unterstützen, der sich redlich bemüht, so werden wir beid
 Мы победим здесь в состязании с сотней ловушек,  
 Если объединимся в пару, устремленную к одной цели.
 </details>
+

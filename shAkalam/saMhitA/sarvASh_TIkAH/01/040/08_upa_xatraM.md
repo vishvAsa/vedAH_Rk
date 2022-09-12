@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥ñcītá ← √pr̥c- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:MED}
+
+rā́jabhiḥ ← rā́jan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+bhayé ← bhayá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sukṣitím ← sukṣití- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mahādhané ← mahādhaná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tarutā́ ← tarutár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vartā́ ← vartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árbhe ← árbha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+vajríṇaḥ ← vajrín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Er mehrt die Herrschaft, schlägt durch Fürsten jeden Feind, hat sichern Sitz a
 Для него, громовержца, нет того, кто помешал бы (ему),  
 (Нет) того, кто победил бы (его) – при большой ставке или при малой!
 </details>
+

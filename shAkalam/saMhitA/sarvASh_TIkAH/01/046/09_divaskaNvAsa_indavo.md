@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kaṇvāsaḥ ← káṇva- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+síndhūnām ← síndhu- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vásu ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhitsathaḥ ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+kúha ← kúha (invariable)  
+{}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vavrím ← vavrí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ O Kanva's, Himmelstränke sind und Güter an der Ströme Ort, Wohin, o Ritter, s
 Добро – на месте рек.  
 Куда хотите вы поместить свое укрытие?
 </details>
+

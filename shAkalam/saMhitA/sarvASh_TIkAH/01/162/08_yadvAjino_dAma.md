@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+árvataḥ ← árvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dā́ma ← dā́man- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saṁdā́nam ← saṁdā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+rájjuḥ ← rájju- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+raśanā́ ← raśanā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śīrṣaṇyā̀ ← śīrṣaṇyà- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+āsyè ← āsyà- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+prábhr̥tam ← √bhr̥- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+tŕ̥ṇam ← tŕ̥ṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sárvā ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +258,4 @@ Was des schnellen Rosses Band und Halfter, was seines Kopfes Zügel und Zaum, od
 Или же трава, засунутая ему в рот, –  
 Все это твое пусть будет среди богов!
 </details>
+

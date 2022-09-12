@@ -14,12 +14,43 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+átra ← átra (invariable)  
+{}
+
+dhiyaṁdhā́ḥ ← dhiyaṁdhā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidánti ← √vid- 1 (root)  
+{number:PL, person:3, voice:ACT}
+
+áśaṁsan ← √śaṁs- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mántrān ← mántra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+taṣṭā́n ← √takṣ- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Die Kräfte alle – in Händen haltend, schreckt' er die Götter, – als er ve
 
 -ru-
 </details>
+

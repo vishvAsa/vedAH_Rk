@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásarji ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sthávirā ← sthávira- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vedhasā ← vedhás- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bāḷhé ← √baṁh- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+kṣárantī ← √kṣar- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+tredhā́ ← tredhā́ (invariable)  
+{}
+
+avatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nā́dhamānam ← √nādh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+úpastutau ← √stu- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+áyāman ← áyāman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śr̥ṇutam ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Ergossen ist das kräft'ge Lied, ihr Ordner, das dreifach strömt mit grosser Ma
 Под восхваление помогите умоляющему (вас)!  
 В пути (вы или) не в пути – услышьте мой зов!
 </details>
+

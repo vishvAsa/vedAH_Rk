@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́san ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tasā́paḥ ← r̥tasáp- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ávadan ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥tā́ni ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+ántam ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āpúḥ ← √āp- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+asuḥ ← √sā- ~ si- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+nahí ← nahí (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+jagamyuḥ ← √gam- (root)  
+{number:PL, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+pátnīḥ ← pátnī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vŕ̥ṣabhiḥ ← vŕ̥ṣan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

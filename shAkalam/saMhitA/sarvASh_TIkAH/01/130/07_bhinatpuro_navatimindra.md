@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,82 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+bhinát ← √bhid- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+navatím ← navatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pūráve ← pūrú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dívodāsāya ← dívodāsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nr̥to ← nr̥tú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nr̥to ← nr̥tú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+atithigvā́ya ← atithigvá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śámbaram ← śámbara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+giréḥ ← girí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dáyamānaḥ ← √dā- 3 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dhánāni ← dhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dhánāni ← dhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,3 +276,4 @@ Dem Puru brachest, Indra, neunzig Burgen du, dem Divodasa, der dir eifrig huldig
 С силой раздавая большие сокровища,  
 Все сокровища – с силой.
 </details>
+

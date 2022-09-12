@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śácīvate ← śácīvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śākíne ← śākín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śakrā́ya ← śakrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maháyan ← √mahay- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śr̥ṇvántam ← √śru- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+stuhi ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhr̥ṣṇúnā ← dhr̥ṣṇú- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nyr̥ñjáte ← √r̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣatvā́ ← vr̥ṣatvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Dem starken, mächt'gen, allgewalt'gen singe nun, und rühme herrlich Indra, den
 Который дерзкой силой покоряет оба мира,  
 Мужественный бык – (своей) мужественной природой.
 </details>
+

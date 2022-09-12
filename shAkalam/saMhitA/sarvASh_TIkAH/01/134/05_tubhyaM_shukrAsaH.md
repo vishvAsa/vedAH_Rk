@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,82 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śukrā́saḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+turaṇyávaḥ ← turaṇyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhurváṇi ← bhurváṇi- (nominal stem)  
+{}
+
+iṣaṇanta ← √iṣaṇ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mádeṣu ← máda- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ugrā́ḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+bhurváṇi ← bhurváṇi- (nominal stem)  
+{}
+
+iṣanta ← √iṣ- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+dásamānaḥ ← √das- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+tsārī́ ← tsārín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īṭṭe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+takvavī́ye ← takvavī́ya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhúvanāt ← bhúvana- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dhármaṇā ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pāsi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+asuryā̀t ← asuryà- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dhármaṇā ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pāsi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +262,7 @@ I take the two abl. in fg in different senses: víśvasmād bhúvanāt as a temp
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Fronted forms of the 2nd sg. pronoun begin most of the metrically significant sections in this sequence of vss. (4a, d, 5a, d, 6a).
@@ -222,3 +298,4 @@ Es regen dir die hellen, reinen, eilenden die starken bei dem Somatrunk den Stru
 Ты охраняешь от любого существа по (своему) расположению,  
 Ты охраняешь от мира асуров по (своему) расположению.
 </details>
+

@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+vibhaktā́ram ← vibhaktár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+citrásya ← citrá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rā́dhasaḥ ← rā́dhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vásoḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+nr̥cákṣasam ← nr̥cákṣas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitā́ram ← savitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,3 +129,4 @@ Ihn rufen wir, der vieles Gut und mannichfachen Schatz vertheilt, Den männersch
 Добра, удивительного дара –  
 Савитара, взирающего на людей.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhadrébhiḥ ← bhadrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rocanā́t ← rocaná- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+aruṇápsavaḥ ← aruṇápsu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váhantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+somínaḥ ← somín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Komm, Uschas, mit dem Glanzgespann her von des Himmels lichtem Raum, Die rothen 
 Да привезут тебя алые (кони)  
 К дому обладателя сомы!
 </details>
+

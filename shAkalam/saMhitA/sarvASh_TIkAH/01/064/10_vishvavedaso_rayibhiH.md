@@ -16,14 +16,54 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+rayíbhiḥ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sámokasaḥ ← sámokas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viśvávedasaḥ ← viśvávedas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sámmiślāsaḥ ← sámmiśla- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+táviṣībhiḥ ← táviṣī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+virapśínaḥ ← virapśín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ástāraḥ ← ástar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+íṣum ← íṣu- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+anantáśuṣmāḥ ← anantáśuṣma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣakhādayaḥ ← vŕ̥ṣakhādi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +187,4 @@ Mit allen Schätzen und mit Gütern reich begabt, mit Kraft versehen, strotzend 
 Стрелки из лука взяли в руки стрелу,  
 Мужи безграничного пыла, носящие толстые кольца.
 </details>
+

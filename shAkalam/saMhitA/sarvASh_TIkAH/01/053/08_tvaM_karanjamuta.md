@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kárañjam ← kárañja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+parṇáyam ← parṇáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vadhīḥ ← √vadhⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+atithigvásya ← atithigvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+téjiṣṭhayā ← téjiṣṭha- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vartanī́ ← vartaní- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+abhinat ← √bhid- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+váṅgr̥dasya ← váṅgr̥da- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+anānudáḥ ← anānudá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+páriṣūtāḥ ← √sū- 1 (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+r̥jíśvanā ← r̥jíśvan- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +192,4 @@ Du griffest den Karandscha und den Parnaja mit Atithigva's schärfster Radesschi
 Ты разбил сотню крепостей Вангриды,  
 Осаждаемых Риджишваном, (ты,) непримиримый.
 </details>
+

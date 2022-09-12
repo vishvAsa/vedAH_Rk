@@ -16,14 +16,72 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+śvás ← śvás (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ádbhutam ← ádbhuta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+anyásya ← anyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cittám ← √cit- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+saṁcaréṇyam ← saṁcaréṇya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́dhītam ← √dhī- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+naśyati ← √naś- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Jetzt ist nichts und morgen ist nichts. Wer kennt das Unerforschliche? Man muß 
 То желанное исчезает.  
 Маруты:
 </details>
+

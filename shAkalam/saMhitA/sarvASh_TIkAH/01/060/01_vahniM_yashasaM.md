@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váhnim ← váhni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidáthasya ← vidátha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yaśásam ← yaśás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sadyóartham ← sadyóartha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suprāvyàm ← suprāvī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dvijánmānam ← dvijánman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+praśastám ← √śaṁs- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+bhŕ̥gave ← bhŕ̥gu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mātaríśvā ← mātaríśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rātím ← rātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Den schönen Fährmann und des Opfers Banner, den Boten, der sehr emsig rasch zu
 Дваждырожденного, знаменитого, как богатство, –  
 Дар принес Матаришван для Бхригу.
 </details>
+

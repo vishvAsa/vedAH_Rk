@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sadŕ̥śīḥ ← sadŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sadŕ̥śīḥ ← sadŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śvás ← śvás (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sacante ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+anavadyā́ḥ ← anavadyá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+triṁśátam ← triṁśát- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yójanāni ← yójana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ékaikā ← éka- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ An Aussehn heute gleich und gleich auch morgen, folgen sie Varuna's ew'ge Satzun
 Безупречные, (каждые) тридцать иоджан  
 Одна за другой они осуществляют в один день (божественный) замысел.
 </details>
+

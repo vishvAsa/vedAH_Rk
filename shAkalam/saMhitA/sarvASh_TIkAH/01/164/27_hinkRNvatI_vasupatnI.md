@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+hiṅkr̥ṇvatī́ ← hiṅkr̥ṇvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+vasupátnī ← vasupátnī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ichántī ← √iṣ- 2 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aghnyā́ ← aghnyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+aśvíbhyām ← aśvín- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+duhā́m ← √duh- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahaté ← mahā́nt- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+saúbhagāya ← saúbhaga- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vardhatām ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Die Schatzherrin der Schätze, beim Suchen des Kalbes ihr »Hing« ertönen lass
 Пусть эта невредимая даст надоить молока для Ашвинов!  
 Пусть возрастет она на великое благо!
 </details>
+

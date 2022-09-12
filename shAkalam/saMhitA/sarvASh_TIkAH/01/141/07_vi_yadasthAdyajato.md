@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+vā́tacoditaḥ ← vā́tacodita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yajatáḥ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánākr̥taḥ ← ánākr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hvāráḥ ← hvārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jaráṇāḥ ← jaráṇā- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vákvā ← vákvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dakṣúṣaḥ ← dakṣús- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kr̥ṣṇájaṁhasaḥ ← kr̥ṣṇájaṁhas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pátman ← pátman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śúcijanmanaḥ ← śúcijanman- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vyàdhvanaḥ ← vyàdhvan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,3 +264,4 @@ Wenn windbewegt der heil'ge sich erhoben hat, sich windend, zischend wie die Sch
 В полете этого пылающего чернокрылого (бога),  
 Чисторожденного, пересекающего без дорог пространство (- удивительная красота).
 </details>
+

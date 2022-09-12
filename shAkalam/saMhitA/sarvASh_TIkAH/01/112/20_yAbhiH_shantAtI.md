@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bhávathaḥ ← √bhū- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dadāśúṣe ← √dāś- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+śáṁtātī ← śáṁtāti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ádhrigum ← ádhrigu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávathaḥ ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+omyā́vatīm ← omyā́vant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥tastúbham ← r̥tastúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+subhárām ← subhára- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+u ← u (invariable)  
+{}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Durch die ihr segnet den, der euch gehuldigt hat, durch die ihr helft dem Bhudsc
 Омьявати, Субхаре, Ритастубху,  
 С этими самыми поддержками приходите сюда, о Ашвины!
 </details>
+

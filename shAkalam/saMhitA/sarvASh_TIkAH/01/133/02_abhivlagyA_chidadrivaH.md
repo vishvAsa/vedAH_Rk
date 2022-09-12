@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+abhivlágya ← √vlag- (root)  
+{non-finite:CVB}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+śīrṣā́ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yātumátīnām ← yātumánt- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+chindhí ← √chid- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+padā́ ← pád- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vaṭūríṇā ← vaṭūrín- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mahā́vaṭūriṇā ← mahā́vaṭūrin- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+padā́ ← pád- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +163,4 @@ Fortstossend, o Schleuderer, zerbrich die Köpfe der Hexen mit dem geharnischten
 Размозжи перевязанной (?) ногой,  
 Мощно перевязанной (?) ногой!
 </details>
+

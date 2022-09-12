@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+sánīḷāḥ ← sánīḷa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sávayasaḥ ← sávayas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śubhā́ ← śúbh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mimikṣuḥ ← √myakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+samānyā́ ← samāná- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+étāsaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+kútas ← kútas (invariable)  
+{}
+
+matī́ ← matí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+árcanti ← √r̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vasūyā́ ← vasūyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Mit welchem Schmucke funkeln dort die Maruts in gleicher Pracht, an Alter gleich
 Они поют воинственный гимн, (эти) быки, желая богатств.  
 Рассказчик:
 </details>
+

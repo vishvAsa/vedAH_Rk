@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā́nuṣīṣu ← mā́nuṣa- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kṣeṣyántaḥ ← √kṣi- (root)  
+{case:NOM, gender:M, number:PL, tense:FUT, voice:ACT}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dīdayat ← √dī- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ū́rmyāḥ ← ū́rmyā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uśatī́ḥ ← √vaś- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dakṣā́yyaḥ ← dakṣā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dā́svate ← dā́svant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,14 +207,14 @@ On dakṣā́yyaḥ, whose morphology resembles didhiṣā́yyaḥ in 1c, see co
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/004/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/004/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 As Ian Hollenbaugh pointed out to me, dvitā́dadhur in 2b can be read, contra Pp. adadhur, as dvitā́dadhur, with perfect indic. or pres. injunc.; I now favor the unaugmented reading for reasons given below.
 
 The contrast between the verbs in 2ab imám … (a)dadhur bhṛ́gavaḥ and 3ab agníṃ devā́saḥ … dhuḥ seems to encode the primal installation of Agni by the gods (3) and the recent installation, by men (2). Why the primal installation is expressed by a root aor. injunc. is not clear to me, but I would now alter the published translation to “Agni did the gods install …,” from “Agni have the gods installed …,” to reflect the remote past. Note also that the opening of 3b is metrically aberrant, with an opening of 3.
 
-Holland &amp; van Nooten Rig Veda edition suggest a rest in 4th position. It would be possible to restore *dadhuḥ, which would match the same verb in the same position in 2b, but I think it’s more likely that the omission of a syllable is meant to call attention to the difference in verb stems. A rest in 3rd position, producing a syncopated dhuḥ might be better. If the two verbs are being directly contrasted, an unaugmented dadhur in 2 is more likely than augmented adadhur (in order to highlight the difference in stems). Discussion with Ian Hollenbaugh has helped me clarify my interpr.
+Holland & van Nooten Rig Veda edition suggest a rest in 4th position. It would be possible to restore *dadhuḥ, which would match the same verb in the same position in 2b, but I think it’s more likely that the omission of a syllable is meant to call attention to the difference in verb stems. A rest in 3rd position, producing a syncopated dhuḥ might be better. If the two verbs are being directly contrasted, an unaugmented dadhur in 2 is more likely than augmented adadhur (in order to highlight the difference in stems). Discussion with Ian Hollenbaugh has helped me clarify my interpr.
 
 </details>
 </div>
@@ -190,3 +248,4 @@ Den Agni setzten in der Menschen Häuser als lieben Freund die Götter, zur Erqu
 Он светит сквозь жаждущие (его) ночи,  
 (Тот,) за кем надо ухаживать щедрому (покровителю) в доме (своем).
 </details>
+

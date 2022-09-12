@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+híraṇyakeśaḥ ← híraṇyakeśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+visāré ← visārá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áhiḥ ← áhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhrájīmān ← dhrájīmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhúniḥ ← dhúni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+návedāḥ ← návedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúcibhrājāḥ ← śúcibhrāja- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+apasyúvaḥ ← apasyú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+satyā́ḥ ← satyá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yáśasvatīḥ ← yáśasvant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +212,4 @@ Goldhaarig ist er in dem Raum der Lüfte, ein Drache schnaubend, wie der Windzug
 Светлопламенный знакомец Ушас,  
 Истинный, как прекрасные деятельные (воды)...
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dánaḥ ← √damⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mr̥dhrávācaḥ ← mr̥dhrávāc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dárt ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śā́radīḥ ← śā́rada- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+anavadya ← anavadyá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+árṇāḥ ← árṇa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥ṇóḥ ← √r̥- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+purukútsāya ← purukútsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+randhīḥ ← √randh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yū́ne ← yúvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +236,4 @@ Du, Indra, straftest da die Schmäherstämme, als ihre Wehr du brachst, die sieb
 Ты пустил течь воды потоками, о безупречный.  
 Ты отдал Вритру во власть юному Пурукутсе.
 </details>
+

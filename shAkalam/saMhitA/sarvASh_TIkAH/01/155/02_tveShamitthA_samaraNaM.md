@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+itthā́ ← itthā́ (invariable)  
+{}
+
+samáraṇam ← samáraṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śímīvatoḥ ← śímīvant- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrāviṣṇū ← índrāvíṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sutapā́ḥ ← sutapā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uruṣyati ← √uruṣy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ít ← ít (invariable)  
+{}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pratidhīyámānam ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+asanā́m ← asanā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ástuḥ ← ástar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kr̥śā́noḥ ← kr̥śā́nu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+uruṣyáthaḥ ← √uruṣy- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ O Indra, Vischnu, euerm raschen Ungestüm entgeht eur Somatrinker, wenn ihr vorw
 Которые отводят стрелу стрелка Кришану –  
 (Нападение,) нацеленное на смертного.
 </details>
+

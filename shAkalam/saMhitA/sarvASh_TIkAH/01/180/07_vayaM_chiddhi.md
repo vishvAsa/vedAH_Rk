@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+jaritā́raḥ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satyā́ḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+hitā́vān ← hitā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paṇíḥ ← paṇí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vipanyā́mahe ← √panⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:PASS}
+
+ádha ← ádha (invariable)  
+{}
+
+anindyā ← anindyá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+aśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+ántidevam ← ántideva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+pātháḥ ← √pā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sma ← sma (invariable)  
+{}
+
+vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +211,7 @@ The nonce verbal form vipanyā́mahe has attracted a remarkable amount of discus
 The phonological play of vipan(yā́mahe) ví paṇ(ír) clearly contributed to the word choice here, as Kulikov also notes. As for the sense of this hemistich, it simply rephrases the purport of vs. 6: because we singers are doing our job in the ritual economy by praising the gods, our patron is being generous to us and cannot be labeled a ‘niggard’.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/180/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/180/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 The poet then turns to the Aśvins’ part in this system and in 7cd presents another causal clause, parallel to the one in ab. Note the parallel openings 7a vayáṃ cid dhí and 7c ádhā cid dhí. This subordinated causal expression continues into vs. 8, with another parallel causal clause occupying 8ab and introduced in a similar way: 8a yuvā́ṃ cid dhí. In my, admittedly complex, interpr. of these verses, the 1st plural singers of 7ab modulate into the single (3rd ps.) singer Agastya in 8cd; this modulation is eased by not naming him until we reach the triumphant main clause of 8cd, where he boasts of the great wealth he has acquired from his poetry -- just like the singers of 7ab. And the transition from 1st ps. singers to 3rd ps. singer is enabled by omitting both subj. and verb in 8ab, where a human ritualist or ritualists should be the agents (see below) but where the ps. and no. of any verb would be problematically telltale.
@@ -183,3 +247,4 @@ Wir rühmen uns als eure treuen Sänger, der Karge rühmt sich als des Schatzes 
 Вы же, о Ашвины, потому безупречны,  
 Что храните, о два быка, того, к кому близки боги.
 </details>
+

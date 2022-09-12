@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hváyāmi ← √hvā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+hváyāmi ← √hvā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+mitrā́váruṇau ← mitrā́váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hváyāmi ← √hvā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+jágataḥ ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+nivéśanīm ← nivéśana- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rā́trīm ← rā́trī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hváyāmi ← √hvā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+savitā́ram ← savitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +192,4 @@ Ich ruf zuerst den Agni an zum Wohlergehn, ich rufe Mitra-Varuna zur Hülfe her;
 Я зову Ночь – успокоительницу (всего) живого.  
 Я зову бога Савитара для поддержки.
 </details>
+

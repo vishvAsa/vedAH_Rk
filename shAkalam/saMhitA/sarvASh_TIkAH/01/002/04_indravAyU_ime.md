@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+índravāyū ← indra-vāyú- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sutā́ḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+práyobhiḥ ← práyas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uśánti ← √vaś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +138,6 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्रवायू इमे** सोमास् **सुताः** अभिषुताः युष्मदर्थं सम्यक्संस्कृताः, अतः उपागतं उपागच्छतम् । 'बहुलं छन्दसि' इति शपो लुक् । **प्रयोभिर्** अन्नैस्सह यान्यस्मभ्यं दास्यसे तान्यप्यादायागच्छतामिति । प्रीणतेरसुन्प्रत्ययः । हि यस्मादर्थे, यस्मादेते इन्दवः सामा वा युवां उशन्ति कामयन्ते युवयोरागमनं प्रतीक्षन्ते, तस्मादुपागच्छतामिति । 'उन्देरिच्चादेः' इत्युप्रत्ययः, आदेरिः, 'यद्धितुपरं छन्दसि' इति निघातप्रतिषेधः ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -142,8 +175,6 @@ Come ye for the libations,
 For the drops desire you.
 </details>
 
-
-
 <details><summary>Geldner</summary>
 
 Indra und Vayu! Hier sind die gepreßten Tränke; kommet mit Freuden, denn die Somasäfte verlangen nach euch.
@@ -160,3 +191,4 @@ Hier, Indra-Vaju, steht der Saft, so kommt zu ihm nach eurer Lust, Die Tropfen s
 Придите с радостными чувствами:  
 Ведь капли (сомы) стремятся к вам!
 </details>
+

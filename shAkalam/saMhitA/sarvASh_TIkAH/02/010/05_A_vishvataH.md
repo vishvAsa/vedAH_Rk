@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+jigharmi ← √ghr̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+pratyáñcam ← pratyáñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+arakṣásā ← arakṣás- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+juṣeta ← √juṣ- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máryaśrīḥ ← máryaśrī- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+spr̥hayádvarṇaḥ ← spr̥hayádvarṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhimŕ̥śe ← √mr̥ś- (root)  
+{case:DAT, number:SG}
+
+járbhurāṇaḥ ← √bhur- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +215,4 @@ Ihn, der sich rings nach allen Seiten hinkehrt, beträufle ich, mit gnädgem Sin
 Прекрасный, как молодой мужчина, Агни, обладающий завидным цветом,  
 Не позволяет прикоснуться к себе, когда он колышется всем телом.
 </details>
+

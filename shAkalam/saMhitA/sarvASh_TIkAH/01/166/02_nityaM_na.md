@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bíbhrataḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nítyam ← nítya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūnúm ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+ghŕ̥ṣvayaḥ ← ghŕ̥ṣvi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+krīḷā́ḥ ← krīḷá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+krī́ḷanti ← √krīḍ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nákṣanti ← √nakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+namasvínam ← namasvín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rudrā́ḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+haviṣkŕ̥tam ← haviṣkŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mardhanti ← √mr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+svátavasaḥ ← svátavas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Willkommnes bringend wie zu ihrem eignen Sohn, die muntern springen lustig bei d
 Рудры со (своей) помощью приходят к поклоняющемуся (им),  
 Обладая собственной силой, они не пренебрегают тем, кто принес жертву,
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+náya ← √nī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+supáthā ← supátha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vayúnāni ← vayúna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juhurāṇám ← √hr̥̄- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+yuyodhí ← √yu- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhū́yiṣṭhām ← bhū́yiṣṭha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+náma:uktim ← náma:ukti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +180,6 @@ __________
 
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -170,8 +221,6 @@ Keep away/ Drive from us the sin that makes us wander;
 We will accord to thee most abundant honour.
 </details>
 
-
-
 <details><summary>Geldner</summary>
 
 Agni, führ uns auf gutem Wege zu Reichtum, der du alle rechten Wege kennst. O Gott! Wende von uns die Sünde ab, die auf Abwege führt! Wir wollen dir die größte Huldigungsrede recht machen.
@@ -189,3 +238,4 @@ Führ, Agni, uns auf schönem Pfad zum Reichthum der du, o Gott, die Werke alle 
 Отврати от нас грех, сбивающий с пути!  
 Мы хотим почтить тебя выражением самого большого поклонения.
 </details>
+

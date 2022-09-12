@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -30,6 +30,94 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+átimatim ← átimati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+káyasya ← káya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nama ← √nam- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+aráṇibhiḥ ← aráṇi- ~ aráṇī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+téjiṣṭhābhiḥ ← téjiṣṭha- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ugrā́bhiḥ ← ugrá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+néṣi ← √nī- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+purā́ ← purā́ (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+anenā́ḥ ← anenás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mányase ← √man- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+parṣi ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+pūróḥ ← pūrú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,3 +313,4 @@ Auf, beuge nieder jedes Feindes Widerstand, mit starken Hülfen wie mit schärfs
 Как возница прогони все (несчастья) прочь от Пуру,  
 Возница, устами (доставляющий) нам (блага)!
 </details>
+

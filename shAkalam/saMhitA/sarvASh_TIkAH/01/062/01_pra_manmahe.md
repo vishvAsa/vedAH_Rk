@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+manmahe ← √man- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+śavasānā́ya ← śavasāná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śūṣám ← śūṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aṅgirasvát ← aṅgirasvát (invariable)  
+{}
+
+āṅgūṣám ← āṅgūṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gírvaṇase ← gírvaṇas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥gmiyā́ya ← r̥gmíya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+árcāma ← √r̥c- (root)  
+{number:PL, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náre ← nár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+víśrutāya ← √śru- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Ein Preislied weihn wir andachtsvoll dem starken, dem Liederfreund wie Angiras e
 (Тому,) кто участвует в восхвалении (самого себя) прекрасными словами, (ему,) достойному гимна,  
 Мы споем песню – мужу знаменитому!
 </details>
+

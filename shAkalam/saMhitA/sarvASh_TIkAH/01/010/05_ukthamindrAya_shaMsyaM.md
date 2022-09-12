@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śáṁsyam ← śáṁsya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthám ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+puruniṣṣídhe ← puruniṣṣídh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+várdhanam ← várdhana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śakráḥ ← śakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutéṣu ← √su- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+rāráṇat ← √ranⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+sakhyéṣu ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +178,4 @@ Ein Loblied stimmt dem Indra an, dem gabenreichen, zum Genuss, Damit der Held an
 Чтобы могучий наслаждался  
 Выжатым (сомой) и нашим обществом.
 </details>
+

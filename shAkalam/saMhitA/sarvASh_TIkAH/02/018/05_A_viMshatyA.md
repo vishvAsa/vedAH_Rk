@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+triṁśátā ← triṁśát- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+viṁśatyā́ ← viṁśatí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+catvāriṁśátā ← catvāriṁśát- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+háribhiḥ ← hári- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pañcāśátā ← pañcāśát- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+suráthebhiḥ ← surátha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+saptatyā́ ← saptatí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ṣaṣṭyā́ ← ṣaṣṭí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+somapéyam ← somapéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Komm her mit zwanzig, komm mit dreissig Füchsen, mit vierzigen herbei den Wagen
 На пятидесяти, о Индра, (запряженных) в прекрасные колесницы,  
 На шестидесяти, семидесяти – на питье сомы!
 </details>
+

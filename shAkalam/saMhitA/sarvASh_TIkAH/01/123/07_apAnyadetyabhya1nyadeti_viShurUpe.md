@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áhanī ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+carete ← √carⁱ- (root)  
+{number:DU, person:3, mood:OPT, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+víṣurūpe ← víṣurūpa- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+akar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+anyā́ ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+parikṣítoḥ ← parikṣít- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádyaut ← √dyut- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śóśucatā ← √śuc- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Die Nacht vergeht, es kommt die Tageshelle, ungleich gefärbt begegnen sich die 
 Другая заставила скрыться мрак двух окружающих (миров).  
 Засверкала Ушас с блистающей колесницей.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+camasám ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návam ← náva- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+níṣkr̥tam ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tváṣṭuḥ ← tváṣṭar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ákarta ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+catúraḥ ← catúr- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+púnar ← púnar (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Und jenes neue Trinkgefäss, das Werk des Gottes Tvaschtar habt Zu vier Gefässe
 Кубок бога Тваштара  
 Вы переделали на четыре (кубка).
 </details>
+

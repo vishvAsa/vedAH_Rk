@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+utá ← utá (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+yūpavāhā́ḥ ← yūpavāhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yūpavraskā́ḥ ← yūpavraská- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aśvayūpā́ya ← aśvayūpá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+caṣā́lam ← caṣā́la- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tákṣati ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+árvate ← árvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+pácanam ← pácana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sambháranti ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+abhígūrtiḥ ← abhígūrti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+invatu ← √i- 2 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Die den Pfosten bebauen und die ihn herbeifahren, die den Knauf für den Pferdep
 Кто собирает (все,) что нужно для приготовления скакового коня, –  
 Их воспевание пусть также нам благоприятствует!
 </details>
+

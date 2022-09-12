@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dádhānān ← √dhā- 1 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śáśvataḥ ← śáśvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ámanyamānān ← ámanyamāna- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jaghā́na ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śárvā ← śáru- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+anudádāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śárdhate ← √śardh- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śr̥dhyā́m ← śr̥dhyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dásyoḥ ← dásyu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hantā́ ← hantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janāsaḥ ← jána- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +207,7 @@ The hapax śṛdhyā́m is generally taken as the acc. sg. of a stem śṛdhyā�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/09-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
 
 Note the phonological sequence, with several different interlocking repetitions: 9c yó víśvasya 10a yáḥ śaśvato … śaru vā 10c yáḥ śardhate … śṛdhyā́m 11a yáḥ śambaram … śarádi
@@ -186,3 +244,4 @@ Der alle, die da grossen Frevel üben, eh sie's vermuthen, mit dem Pfeile tödte
 Кто дерзкому не прощает дерзость,  
 Кто убийца дасью – тот, о люди, Индра!
 </details>
+

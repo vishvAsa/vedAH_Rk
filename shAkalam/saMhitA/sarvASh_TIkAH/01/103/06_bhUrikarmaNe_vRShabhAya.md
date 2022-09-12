@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Cretic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́rikarmaṇe ← bhū́rikarman- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vr̥ṣabhā́ya ← vr̥ṣabhá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+satyáśuṣmāya ← satyáśuṣma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunavāma ← √su- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+ādŕ̥tya ← √dr̥- ~ dr̥̄- (root)  
+{non-finite:CVB}
+
+iva ← iva (invariable)  
+{}
+
+paripanthī́ ← paripanthín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áyajvanaḥ ← áyajvan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+védaḥ ← védas- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vibhájan ← √bhaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Dem Stier, der vieles wirkt, dem starken Manne, dem wahrhaft kräft'gen lasst un
 Для героя, который, подстерегая (добычу), как разбойник,  
 Идет, раздавая имущество не приносящего жертв.
 </details>
+

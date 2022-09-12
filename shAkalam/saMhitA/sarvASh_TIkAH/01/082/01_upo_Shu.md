@@ -17,15 +17,79 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śr̥ṇuhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+átathāḥ ← átathā- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mághavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sūnŕ̥tāvataḥ ← sūnŕ̥tāvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+artháyāse ← √arthay- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+káraḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yójā ← √yuj- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +250,4 @@ Erhöre unsre Bitten recht, versag' sie nicht, o mächtiger; Wenn du uns reich a
 Счастливыми, стремись к этой (самой) цели!  
 Запрягай же, Индра, пару твоих буланых коней!
 </details>
+

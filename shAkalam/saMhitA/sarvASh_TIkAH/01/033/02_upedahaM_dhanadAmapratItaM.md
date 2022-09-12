@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ápratītam ← ápratīta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhanadā́m ← dhanadā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+júṣṭām ← júṣṭa- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+patāmi ← √pat- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vasatím ← vasatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+namasyán ← √namasy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+upamébhiḥ ← upamá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Zum unbezwungnen Reichthumspender flieg' ich, sowie der Adler zum willkommnen Ne
 Прославляя Индру самыми высокими песнями,  
 (Того,) кого должны призывать певцы, когда он в пути.
 </details>
+

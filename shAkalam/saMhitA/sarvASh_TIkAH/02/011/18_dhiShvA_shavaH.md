@@ -16,14 +16,66 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
+#### Morph
+dhiṣvá ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+aurṇavābhám ← aurṇavābhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avā́bhinat ← √bhid- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dā́num ← dā́nu- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+ā́ryāya ← ā́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+avr̥ṇoḥ ← √vr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dásyuḥ ← dásyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sādi ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+savyatás ← savyatás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Nimm an die Kraft, durch die, o Held, den Vritra du niederwarfst, die Spinnenbru
 Ты раскрыл светило для ария.  
 Дасью рухнул слева, о Индра.
 </details>
+

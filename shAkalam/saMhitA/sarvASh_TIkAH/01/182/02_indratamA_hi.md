@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhíṣṇyā ← dhíṣṇya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+índratamā ← índratama- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+marúttamā ← marúttama- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dáṁsiṣṭhā ← dáṁsiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dasrā́ ← dasrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rathī́tamā ← rathī́tama- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rathyā̀ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ā́citam ← √ci- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pūrṇám ← √pr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vahethe ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dāśvā́ṁsam ← dāśváṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yāthaḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +193,7 @@ Idiomatic English would use the comparative: “more Indra than Indra” (or, in
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/182/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/182/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 The two 2nd dual middles, vahethe (2c) and āsāthe (3a), would both be better metrically with light 2nd syllables. On this phenomenon, see Arnole 129-30. A number of 2nd and 3rd dual middle forms invite this shortening. I do not understand it historically since Aves. has the ā in the athematic forms and the equivalent of e in the thematic ones (-aēte,- ōiϑe).
@@ -170,3 +225,4 @@ Ganz gleich dem Indra und den Maruts, gütige, an Wunderthaten stark, die besten
 Вы везете колесницу, доверху наполненную медом.  
 Приезжайте на ней к почитающему (вас,) о Ашвины!
 </details>
+

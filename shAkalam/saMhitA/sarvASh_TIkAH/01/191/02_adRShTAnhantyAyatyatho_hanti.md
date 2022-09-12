@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+adŕ̥ṣṭān ← adŕ̥ṣṭa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+āyatī́ ← √i- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+parāyatī́ ← √i- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+avaghnatī́ ← √han- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+piṁṣatī́ ← √piṣ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+pinaṣṭi ← √piṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +188,4 @@ Die herankommende tödtet das unbemerkte Gewürm und[461] ebenso die fortgehende
 И также низвергаясь убивает,  
 И также давит давя.
 </details>
+

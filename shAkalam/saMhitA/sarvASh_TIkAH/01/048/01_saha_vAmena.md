@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sahá ← sahá (invariable)  
+{}
+
+uṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vāména ← vāmá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+divaḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitar ← duhitár- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ucha ← √vas- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dyumnéna ← dyumná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+vibhāvari ← vibhā́van- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+dā́svatī ← dā́svant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +187,4 @@ Mit schönem Gut, o Morgenroth, o Himmelstochter leuchte uns, O strahlenreiche, 
 С высоким блеском, о ярко сияющая,  
 С богатством, о богиня, – (ведь ты) богатая дарами!
 </details>
+

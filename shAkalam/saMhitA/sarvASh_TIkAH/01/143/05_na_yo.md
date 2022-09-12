@@ -16,14 +16,87 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+svanáḥ ← svaná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+várāya ← vára- 2 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aśániḥ ← aśáni- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+divyā́ ← divyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sénā ← sénā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sr̥ṣṭā́ ← √sr̥j- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+yáthā ← yáthā (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atti ← √ad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhárvati ← √bharv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jámbhaiḥ ← jámbha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tigitaíḥ ← tigitá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+r̥ñjate ← √r̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yodháḥ ← yodhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,3 +264,4 @@ Der wie der Maruts Brausen, wie der Pfeil im Flug und wie der Blitz des Himmels 
 (Этот) Агни ест-пожирает острыми зубами,  
 Как воин на врагов, он набрасывается на деревья.
 </details>
+

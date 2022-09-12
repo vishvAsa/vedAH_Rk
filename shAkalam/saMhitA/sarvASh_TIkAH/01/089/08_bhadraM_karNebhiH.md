@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+kárṇebhiḥ ← kárṇa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śr̥ṇuyāma ← √śru- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+akṣábhiḥ ← ákṣi ~ akṣán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paśyema ← √paś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+áṅgaiḥ ← áṅga- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sthiraíḥ ← sthirá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+tanū́bhiḥ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tuṣṭuvā́ṁsaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+aśema ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+deváhitam ← deváhita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 Восхвалив вас, с крепкими членами и телами  
 Мы хотим достигнуть срока жизни, что положен (нам) богами!
 </details>
+

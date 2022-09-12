@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádhvabhiḥ ← ádhvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ambáyaḥ ← ambi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+adhvarīyatā́m ← √adhvarīy- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+jāmáyaḥ ← jāmí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mádhunā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pr̥ñcatī́ḥ ← √pr̥c- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +141,4 @@ Die Mütter gehn auf ihrem Pfad, verschwistert sie den Opfernden, Mit Honig misc
 Сестры исполняющих обряд,  
 Смешивая молоко (свое) с медом.
 </details>
+

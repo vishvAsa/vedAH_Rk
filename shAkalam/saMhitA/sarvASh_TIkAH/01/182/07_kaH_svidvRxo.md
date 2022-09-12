@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árṇasaḥ ← árṇas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+níṣṭhitaḥ ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+svit ← svit (invariable)  
+{}
+
+vr̥kṣáḥ ← vr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nādhitáḥ ← √nādh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+paryáṣasvajat ← √svaj- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+taugryáḥ ← taugryá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ārábhe ← √rabh- (root)  
+{case:DAT, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mr̥gásya ← mr̥gá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+parṇā́ ← parṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+patároḥ ← patáru- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+kám ← kám (invariable)  
+{}
+
+śrómatāya ← śrómata- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Welch Baum doch war es mitten in des Meeres Flut, den Tugras Sohn in seiner Noth
 Словно уцепившись за перья летящей птицы?  
 Вы вывезли (его), о Ашвины, ради (своей) славы.
 </details>
+

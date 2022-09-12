@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rā́dhyam ← rā́dhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śáṁsyam ← śáṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+abhiṣṭimát ← abhiṣṭimánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+várūtham ← várūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápagūḷham ← √guh- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+nidhím ← nidhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidvā́ṁsā ← √vid- 2 (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+darśatā́t ← darśatá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ūpáthuḥ ← √vap- 2 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+vándanāya ← vándana- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Des Preisens und des Strebens werth, o Männer, ist euer Schutz und Beistand, o 
 Что вы, знатоки, спрятанного, как сокровище,  
 Вытащили из ямы для Ванданы.
 </details>
+

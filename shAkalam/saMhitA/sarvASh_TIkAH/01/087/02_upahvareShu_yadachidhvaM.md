@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácidhvam ← √ci- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:MED}
+
+upahvaréṣu ← upahvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yayím ← yayí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+kéna ← ká- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kóśāḥ ← kóśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ścótanti ← √ścut- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+árcate ← √r̥c- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádhuvarṇam ← mádhuvarṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ukṣata ← √ukṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Wenn ihr die Wetterwolke häuft am Niederhang, die, Maruts, ihr auf jedem Pfad w
 То протекают по каплям бочки на ваших колесницах.  
 Кропите жиром медового цвета для вашего певца!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+harítaḥ ← harít- (nominal stem)  
+{case:ACC, number:PL}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rāmayaḥ ← √ram- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+bhárat ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+étaśaḥ ← étaśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nā́yám? ← nā́yám? (invariable)  
+{}
+
+navatím ← navatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nāvyā̀nām ← nāvyā̀- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pārám ← pārá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prā́sya ← √as- 2 (root)  
+{non-finite:CVB}
+
+ápi ← ápi (invariable)  
+{}
+
+avartayaḥ ← √vr̥t- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+áyajyūn ← áyajyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kartám ← kartá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +231,4 @@ Du liessest ruhn der Sonne starke Rosse, nicht zog der Renner mehr ihr Rad, o In
 Забросив (колесо) на тот берег девяноста судоходных рек,  
 Ты пустил под откос тех, кто не приносит жертв.
 </details>
+

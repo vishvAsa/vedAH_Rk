@@ -16,14 +16,90 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ajagan ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śréṣṭhaḥ ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yáviṣṭhaḥ ← yáviṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dūtyàm ← dūtyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ūcimá ← √vac- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+camasám ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahākuláḥ ← mahākulá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nindima ← √nid- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhrātar ← bhrā́tar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhūtím ← bhūtí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+drúṇaḥ ← dā́ru- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ūdima ← √vadⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,3 +270,4 @@ Ist der Erste, ist der Jüngste zu uns gekommen? Welche Botschaft bringt er? Was
 О Агни-брат, мы говорили только о пригодности дерева. -  
 Агни:
 </details>
+

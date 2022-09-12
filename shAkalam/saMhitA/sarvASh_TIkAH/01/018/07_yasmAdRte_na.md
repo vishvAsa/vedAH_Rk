@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ná ← ná (invariable)  
+{}
+
+r̥té ← r̥té (invariable)  
+{}
+
+sídhyati ← √sādh- ~ sidh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yásmāt ← yá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+vipaścítaḥ ← vipaścít- (nominal stem)  
+{case:GEN, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhīnā́m ← dhī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+invati ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yógam ← yóga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +166,4 @@ Er, ohne den das Opfer selbst des weisen Mannes nicht gelingt, Er fördre der Ge
 Жертвоприношение даже у вдохновенного,  
 Тот погоняет упряжку мыслей.
 </details>
+

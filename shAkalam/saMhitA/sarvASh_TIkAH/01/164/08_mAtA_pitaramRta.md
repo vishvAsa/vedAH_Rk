@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+babhāja ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥té ← r̥tá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhītī́ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+jagmé ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+bībhatsúḥ ← bībhatsú- (nominal stem)  
+{case:NOM, gender:F, number:SG, mood:DES}
+
+gárbharasā ← gárbharasa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+níviddhā ← √vyadh- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+īyuḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+námasvantaḥ ← námasvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+upavākám ← upavāká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Die Mutter [das Urbild der Erde] machte den Vater [den Himmel als Geist gedacht]
 Она, желая удержать (плод), была пронзена, увлажненная плодом.  
 Почтительные, они явились (к нему) с хвалой.
 </details>
+

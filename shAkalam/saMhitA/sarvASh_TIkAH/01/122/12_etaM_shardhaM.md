@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhāma ← √dhā- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+śárdham ← śárdha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūréḥ ← sūrí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+avocan ← √vac- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dáśatayasya ← dáśataya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+náṁśe ← náṁśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dyumnā́ni ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rārán ← √ranⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRF, voice:ACT}
+
+vasútātiḥ ← vasútāti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+prabhr̥théṣu ← prabhr̥thá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sanvantu ← √sanⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +216,4 @@ Ein Patron, dessen bekannte Marutschar wir bilden wollen", so sprachen sie bei d
 (Те,) у кого охотно пребывают блеск и щедрость,  
 Пусть все они завоевывают награду в (любых) делах!
 </details>
+

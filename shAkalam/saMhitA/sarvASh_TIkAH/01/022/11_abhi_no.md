@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nr̥pátnīḥ ← nr̥pátnī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śármaṇā ← śárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+áchinnapatrāḥ ← áchinnapatra- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sacantām ← √sac- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +155,4 @@ Mit unbeschnittnen Flügeln lass die Göttinnen, die Heldenfraun Mit Hülf' und 
 Великие жены повелителей со (своей) защитой,  
 (Эти) неповрежденнокрылые.
 </details>
+

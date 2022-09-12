@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agan ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kā́maḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+nadásya ← nadá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rudhatáḥ ← √rudh- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:AOR, voice:ACT}
+
+ā́jātaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+amútas ← amútas (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+itás ← itás (invariable)  
+{}
+
+kútas ← kútas (invariable)  
+{}
+
+lópāmudrā ← lópāmudrā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+riṇāti ← √rī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádhīrā ← ádhīra- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhayati ← √dhā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhī́ram ← dhī́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śvasántam ← √śvasⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Nach dem Stiere [dem Manne], der mich verschmäht, hat mich Begierde ergriffen, 
 Неразумная сосет разумного, пыхтящего.  
 Ученик Агастьи:
 </details>
+

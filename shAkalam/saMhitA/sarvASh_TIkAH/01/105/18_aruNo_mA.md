@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+aruṇáḥ ← aruṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+sakŕ̥t ← sakŕ̥t (invariable)  
+{}
+
+vŕ̥kaḥ ← vŕ̥ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadárśa ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yántam ← √i- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jihīte ← √hā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+nicā́yya ← √ci- 3 (root)  
+{non-finite:CVB}
+
+út ← út (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+pr̥ṣṭyāmayī́ ← pr̥ṣṭyāmayín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táṣṭā ← táṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+vittám ← √vid- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Der braune Wolf erblickte mich auf einmal, als des Wegs ich ging; Er fuhr empor 
 Как плотник, у которого боль в ребрах.  
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
+

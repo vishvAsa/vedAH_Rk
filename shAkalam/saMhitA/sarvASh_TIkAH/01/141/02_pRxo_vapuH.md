@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+nítyaḥ ← nítya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitumā́n ← pitumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥kṣáḥ ← pr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śaye ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vápuḥ ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dvitī́yam ← dvitī́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mātŕ̥ṣu ← mātár- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+saptáśivāsu ← saptáśiva- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+doháse ← √duh- (root)  
+{case:DAT, number:SG}
+
+tr̥tī́yam ← tr̥tī́ya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dáśapramatim ← dáśapramati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+janayanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+yóṣaṇaḥ ← yóṣan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +236,4 @@ Das Labeross wohnt bei der eigenen Gestalt, die zweite wohnt den sieben holden M
 В третий раз, чтобы подоить этого быка,  
 Юные жены породили (его,) имеющего десять защитников.
 </details>
+

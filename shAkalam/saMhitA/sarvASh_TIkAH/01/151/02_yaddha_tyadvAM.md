@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ha ← ha (invariable)  
+{}
+
+purumīḷhásya ← purumīḷhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+somínaḥ ← somín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dadhiré ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+mitrā́saḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+svābhúvaḥ ← svābhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+árcate ← √r̥c- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidatam ← √vid- 1 (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+pastyā̀vataḥ ← pastyā̀vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śrutam ← √śru- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Wenn diesen Trunk des Purumidha Diener hier, des Somabringers, euch als Freunde 
 Найдите совет, выход для воспевающего (вас)  
 И услышьте, о два быка, (песню) хозяина жилища!
 </details>
+

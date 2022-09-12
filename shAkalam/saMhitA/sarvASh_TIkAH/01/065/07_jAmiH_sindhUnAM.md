@@ -14,12 +14,43 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+bhrā́tā ← bhrā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jāmíḥ ← jāmí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síndhūnām ← síndhu- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+svásrām ← svásar- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+atti ← √ad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+íbhyān ← íbhya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánāni ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -97,7 +128,7 @@ Akin to the rivers, like a brother to his sisters,
 íbhya- is found only here in the RV, though it occurs later. It is a derivative of íbha-, which is slightly better attested in the RV and seems to mean ‘(group of) servants, retinue’. Tr. of íbhyān split dramatically between ‘wealthy’ (Geldner “die Reichen,” Witzel Gotō “die Begüterten”) and ‘vassal, servant’ (Renou “les vassaux”), and the Pāli cognate ibbha- is also glossed with both, though with the ‘vassal’ sense first and dominant (see the newest ed. of the PTS dictionary, 2001 s.v.: “a member of a king’s entourage; a vassal; dependent; wealthy”). I will not enter into a reexamination of all the Sanskrit and MIA evidence, but in my opinion context here favors ‘vassal, dependent’ rather than ‘wealthy’. See Proferes’s disc. of vss. 7-9 (2007: 111-12); although he refuses to tr. íbhyān, he argues that it refers “to those who are subordinated to the king,” quite possibly the clans — as the AV passage he adduces suggests: AV IV.22.7 víśo addhi “eat the clans,” addressed to the king at his consecration.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 The similes continue in these verses, but with less strict parallelism in structure.
@@ -130,3 +161,4 @@ Verwandt den Fluten, – der Schwester Bruder, ausbeutend Hölzer, – wie Herrn
 
 -ru-
 </details>
+

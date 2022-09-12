@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,88 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mándantu ← √mand- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mandínaḥ ← mandín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+abhídyavaḥ ← abhídyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+krāṇā́saḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+súkr̥tāḥ ← súkr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhídyavaḥ ← abhídyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+krāṇā́ḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+ha ← ha (invariable)  
+{}
+
+irádhyai ← √iradh- (root)  
+{case:DAT, number:SG}
+
+krāṇā́ḥ ← √kr̥- (root)  
+{case:NOM, gender:F, number:PL, tense:AOR, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dákṣam ← dákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sácante ← √sac- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sadhrīcīnā́ḥ ← sadhrīcīná- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bruvate ← √brū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,3 +324,4 @@ Die lust'gen Indu's mögen, Vaju, dich erfreun, die starken, die wir schön gebr
 Поэтические мысли (жреца, словно) упряжки, устремленные к одной цели, чтобы он дал,  
 Поэтические мысли обращаются к нему.
 </details>
+

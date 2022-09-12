@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śárma ← śárman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śaśamānā́ya ← √śamⁱ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:MED}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tridhā́tūni ← tridhā́tu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yachata ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yanta ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dhatta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvī́ram ← suvī́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +228,6 @@ To us, O Maruts, do ye accord them;
 O strong ones, give us wealth rich in heroes.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Welche Schilde ihr für den Diensteifrigen habt, die gewähret dreifach dem Spender! Haltet diese über uns, ihr Marut, bringt uns einen Schatz an Meistern, ihr Bullen.
@@ -188,3 +245,4 @@ Den Schutz, der für den Opfrer euch bereit ist, der dreifach schirmt, den reich
 Над нами поднимите их, о Маруты!  
 О быки, дайте нам сокровище, состоящее из прекрасных героев!
 </details>
+

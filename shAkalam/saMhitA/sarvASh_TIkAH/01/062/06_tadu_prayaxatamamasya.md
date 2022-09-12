@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kárma ← kárman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+práyakṣatamam ← práyakṣatama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cā́rutamam ← cā́rutama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dáṁsaḥ ← dáṁsas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dasmásya ← dasmá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ápinvat ← √pinv- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+upahvaré ← upahvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+úparāḥ ← úpara- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cátasraḥ ← catúr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mádhvarṇasaḥ ← mádhvarṇas- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Und das ist seiner Werke allerstärkstes, die schönste Wunderthat des wunderbar
 Что в излучине, внизу, он наполнил  
 Четыре реки, струящиеся сладкими потоками.
 </details>
+

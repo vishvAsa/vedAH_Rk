@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+návīyān ← návīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dadíḥ ← dadí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jebhiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vásuḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áhani ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+priyé ← priyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yuṣmā́kam ← tvám (pronoun)  
+{case:GEN, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+ásunvatām ← ásunvant- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pr̥tsutī́ḥ ← pr̥tsutí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tiṣṭhema ← √sthā- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ Durch Kraft ist Ribhu uns ein neuer Indra nun, durch gute Macht ein guter Geber 
 С вашей помощью, о боги, в благоприятный день  
 Мы хотим устоять против нападок тех, кто не выжимает (сому).
 </details>
+

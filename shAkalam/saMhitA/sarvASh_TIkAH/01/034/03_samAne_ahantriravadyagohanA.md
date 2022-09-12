@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhan ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+avadyagohanā ← avadyagohana- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+samāné ← samāná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+trís ← trís (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+mádhunā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mimikṣatam ← √myakṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+trís ← trís (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+vā́javatīḥ ← vā́javant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+doṣā́ḥ ← doṣā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pinvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ An einem Tage dreimal helft dem Mangel ab, besprengt dreimal heute das Opfer mit
 Трижды, о Ашвины, сделайте вы набухшими для нас  
 Подкрепления, несущие награду, вечером и на заре!
 </details>
+

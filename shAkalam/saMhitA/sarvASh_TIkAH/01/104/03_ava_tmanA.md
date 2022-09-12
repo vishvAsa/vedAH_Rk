@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Archaic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áva ← áva (invariable)  
+{}
+
+bharate ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kétavedāḥ ← kétavedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+bharate ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+phénam ← phéna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+udán ← udán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kṣīréṇa ← kṣīrá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kúyavasya ← kúyava- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+snātaḥ ← √snā- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yóṣe ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+haté ← √han- (root)  
+{case:NOM, gender:F, number:DU, non-finite:PPP}
+
+pravaṇé ← pravaṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śíphāyāḥ ← śíphā- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+syātām ← √as- 1 (root)  
+{number:DU, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Von selbst vergeht, wer lüstern ist nach Gütern, von selbst vergeht der Schaum
 Две юные жены Куявы купаются в молоке.  
 Да будут они убиты в течении Шипхи!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+supéśasā ← supéśas- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+trivandhuréṇa ← trivandhurá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+trivŕ̥tā ← trivŕ̥t- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+káṇvāsaḥ ← káṇva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kr̥ṇvanti ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śr̥ṇutam ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ O Ritter, kommt auf eurem schönen Wagen, der drei Sitze und drei Räder hat, Di
 Канвы творят вам молитву на жертвенном празднестве  
 Прислушайтесь хорошенько к их зову!
 </details>
+

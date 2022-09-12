@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áva ← áva (invariable)  
+{}
+
+héḷaḥ ← héḷas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+havírbhiḥ ← havís- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+yajñébhiḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+asura ← ásura- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kṣáyan ← √kṣā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pracetaḥ ← prácetas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+énāṁsi ← énas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+rā́jan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śiśrathaḥ ← √śrathⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +216,6 @@ Ruling, O wise Asura, O king,
 Do thou unloose the sins we have committed.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Wir bitten dir den Groll ab, Varuna, mit Verbeugungen, mit Gebeten, mit Opferspenden. Du, der die Macht hat, einsichtsvoller Asura, König, erlaß uns die getanen Sünden!
@@ -182,3 +233,4 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 О власть имеющий Асура-провидец,  
 О царь, сними с нас содеянные грехи!
 </details>
+

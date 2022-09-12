@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+kadhapriye ← kadhapriya- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+uṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+amartye ← ámartya- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+bhujé ← bhúj- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+nakṣase ← √nakṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+vibhāvari ← vibhā́van- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Welch Sterblicher, Unsterbliche, ist lieb dir, Uschas, zum Genuss? Zu wem gehst 
 Какой смертный насладится тобой, о бессмертная?  
 К кому ты приближаешься, о озаряющая?
 </details>
+

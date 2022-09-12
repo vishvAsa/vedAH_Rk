@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ariṇāt ← √rī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+údañcam ← údañc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánaḥ ← ánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pipeṣa ← √piṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ajavásaḥ ← ajavás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+javínībhiḥ ← javín- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vivr̥ścán ← √vr̥śc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Er liess mit Macht den hohen Strom zerrinnen; der Uschas Wagen schlug er mit dem
 Кромсая неспешных силой спешащих.  
 В опьянении сомой Индра совершил эти (подвиги).
 </details>
+

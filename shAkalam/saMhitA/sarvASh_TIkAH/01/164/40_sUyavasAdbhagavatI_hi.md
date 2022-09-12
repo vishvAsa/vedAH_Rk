@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bhágavatī ← bhágavant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhūyā́ḥ ← √bhū- (root)  
+{number:SG, person:2, mood:OPT, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+sūyavasā́t ← sūyavasā́d- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+bhágavantaḥ ← bhágavant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+addhí ← √ad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+aghnye ← ághnya- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tŕ̥ṇam ← tŕ̥ṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viśvadā́nīm ← viśvadā́nīm (invariable)  
+{}
+
+ācárantī ← √carⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śuddhám ← √śudh- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+udakám ← udaká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Gute Weide geniessend mögest du, o Kuh, beglückt sein; auch wir seien beglück
 Ешь траву постоянно, о невредимая!  
 Пей чистую воду, приходя (на водопой)!
 </details>
+

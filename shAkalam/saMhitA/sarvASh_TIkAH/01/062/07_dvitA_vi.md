@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+sanájā ← sanáj- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sánīḷe ← sánīḷa- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+vavre ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ayā́syaḥ ← ayā́sya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stávamānebhiḥ ← √stu- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:MED}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+méne ← ménā- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vyòman ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ádhārayat ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sudáṁsāḥ ← sudáṁsas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +186,7 @@ Nodhas continues to deploy his tricks in this verse. He has moved on from the ob
 He also reuses the √ṛc lexical theme from vss. 1-2, with arkaíḥ in b, which is apparently qualified by the middle participle stávamānebhiḥ (remember stuvatá in 1c). This participle is somewhat disturbing; like all middle participles to the root √stu, it is used passively here, but unlike all the other passive uses, its subject is not the god praised but the praises themselves. It may be that Nodhas want his audience to take notice of such an aberrant usage. However, I am tempted to read
 
 *stavamānaibhíḥ here - that is, nom. sg. stávamānas + pron. ebhíḥ, with rare double
-application of sandhi: -as + e- > -a + e- > -ai-. The participle stávamānas would modify Indra, as would be expected; ebhíḥ occurs several times with arkaíḥ (IV.3.15, 10.13) and the passive of √stu also appears with this instr. (see passages adduced by Geldner in n. 7b, where he suggests a similar, but far from identical, reanalysis of the form in the text, calling it “vielleicht Hypallage”). If the emendation is accepted, I would change the tr. to “the irrepressible one being praised by these chants.” The arkaíḥ might also be construed secondarily as it currently is in the tr., with ví vavre, as the instrument with which he performed the uncovering.
+application of sandhi: -as + e- &gt; -a + e- &gt; -ai-. The participle stávamānas would modify Indra, as would be expected; ebhíḥ occurs several times with arkaíḥ (IV.3.15, 10.13) and the passive of √stu also appears with this instr. (see passages adduced by Geldner in n. 7b, where he suggests a similar, but far from identical, reanalysis of the form in the text, calling it “vielleicht Hypallage”). If the emendation is accepted, I would change the tr. to “the irrepressible one being praised by these chants.” The arkaíḥ might also be construed secondarily as it currently is in the tr., with ví vavre, as the instrument with which he performed the uncovering.
 
 ayā́sya- regularly qualifies Indra; there is no reason to take it as a personal name, identifying a distinct second figure here (pace Geldner, Renou). Phonetic figure: sanájā sánīḷe taking up the sa’s in vs. 4 and prefiguring the sa’s that will be conspicuous in the next few verses.
 
@@ -167,3 +216,4 @@ Zwiefach enthüllte er die urgebornen, verschwisterten mit Preisgesängen rastlo
 Словно богатый господин – двух жен, на верхнем небе  
 Держит он оба мира, (он,) совершающий удивительный подвиг.
 </details>
+

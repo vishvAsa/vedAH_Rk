@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mriyase ← √mr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+riṣyasi ← √riṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+vaí ← vaí (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+eṣi ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sugébhiḥ ← sugá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+abhūtām ← √bhū- (root)  
+{number:DU, person:3, mood:IND, tense:AOR, voice:ACT}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pŕ̥ṣatī ← pŕ̥ṣant- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yúñjā ← yúñj- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dhurí ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+rā́sabhasya ← rā́sabha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +238,4 @@ Fürwahr nicht stirbst du hier, nicht leidest du Schaden; nein, zu den Göttern 
 Два буланых коня, два в яблоках стали с тобой в одной упряжке.  
 Боевой конь встал у дышла осла.
 </details>
+

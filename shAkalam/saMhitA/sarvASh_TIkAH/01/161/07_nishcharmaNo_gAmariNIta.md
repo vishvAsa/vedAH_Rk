@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ariṇīta ← √rī- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cármaṇaḥ ← cárman- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+akr̥ṇotana ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+járantā ← járant- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+yuvaśā́ ← yuvaśá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśvāt ← áśva- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+atakṣata ← √takṣ- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+saúdhanvanāḥ ← saudhanvaná- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ayātana ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yuktvā́ ← √yuj- (root)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Mit Weisheit löstet ihr die Kuh aus ihrem Fell, die beiden Alten habt ihr wiede
 Сыновья Судханвана, из коня вы выточили (второго) коня.  
 Запрягши в колесницу, вы приехали к богам.
 </details>
+

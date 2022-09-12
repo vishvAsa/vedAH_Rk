@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; line affected by realignment
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhītíḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+práyāmani ← práyāman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ūrdhvā́ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ayante ← √i- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+díśaḥ ← díś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+śásman ← śásman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gharmám ← gharmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+svádāmi ← √svad- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ruhat ← √ruh- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ūrjā́nī ← ūrjā́nī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +233,4 @@ Bei seiner Ankunft ragt die Andacht hoch empor auf des Gesanges Sitz, und alles 
 Я делаю вкусным горячее молоко. Приходят подкрепления.  
 Питательная сила, о Ашвины, поднялась на вашу колесницу.
 </details>
+

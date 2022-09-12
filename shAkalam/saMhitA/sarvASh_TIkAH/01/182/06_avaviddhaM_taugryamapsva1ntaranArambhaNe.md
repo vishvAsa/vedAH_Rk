@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+antár ← antár (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ávaviddham ← √vyadh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+taugryám ← taugryá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anārambhaṇé ← anārambhaṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+práviddham ← √vyadh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+támasi ← támas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+cátasraḥ ← catúr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jáṭhalasya ← jáṭhala- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+júṣṭāḥ ← júṣṭa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+nā́vaḥ ← naú- ~ nā́v- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aśvíbhyām ← aśvín- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+iṣitā́ḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+pārayanti ← √pr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +192,4 @@ Den Tugrasohn, den in die Flut getauchten, in haltungslose Finsterniss gestossne
 Спасают четыре ладьи, посланные  
 Ашвинами, привыкшие к качке.
 </details>
+

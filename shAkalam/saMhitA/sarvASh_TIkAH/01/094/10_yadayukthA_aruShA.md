@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+aruṣā́ ← aruṣá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+áyukthāḥ ← √yuj- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:MED}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+róhitā ← róhita- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+rávaḥ ← ráva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vā́tajūtā ← vā́tajūta- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+dhūmáketunā ← dhūmáketu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+invasi ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vanínaḥ ← vanín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+riṣāma ← √riṣ- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +241,4 @@ Wenn windbewegte rothe Flammenrosse du geschirrt an deinen Wagen, brüllst du wi
 Затем ты овладеваешь лесными деревьями (своим пламенем) с дымом-знаменем,  
 О Агни, дружа с тобой, да не потерпим мы вреда!
 </details>
+

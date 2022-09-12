@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arapat ← √rap- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mádhumat ← mádhumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mákṣikā ← mákṣikā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+syā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+auśijáḥ ← auśijá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+huvanyati ← √huvany- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadhīcáḥ ← dadhyáñc- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vivāsathaḥ ← √vanⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+áśvyam ← áśvya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vadat ← √vadⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +230,4 @@ Die Süssigkeit verkündete die Fliege euch, zum Rausch des Soma lud euch ein de
 Вы хотите расположить мысль Дадхьянча.  
 Тогда конская голова вам поведала.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+māṁspácanyāḥ ← māṁspácana- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+nī́kṣaṇam ← nī́kṣaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ukhā́yāḥ ← ukhā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āsécanāni ← āsécana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pā́trāṇi ← pā́tra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+yūṣṇáḥ ← yū́s ~ yūṣnáḥ (invariable)  
+{case:GEN, gender:N, number:SG}
+
+apidhā́nā ← apidhā́na- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+carūṇā́m ← carú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ūṣmaṇyā̀ ← ūṣmaṇyà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+aṅkā́ḥ ← aṅká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhūṣanti ← √bhūṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+sūnā́ḥ ← sūnā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Welches der Prüfstab ist des Fleisch kochenden Topfes, welches die Trinkgefäss
 Дымящиеся крышки горшков,  
 Крюк, блюда – (все они) служат коню.
 </details>
+

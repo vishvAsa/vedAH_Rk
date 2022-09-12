@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kāvyé ← kāvyá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mándiṣṭa ← √mand- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+sácā ← sácā (invariable)  
+{}
+
+uśáne ← uśánā- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tiṣṭhati ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vaṅkū́ ← vaṅkú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vaṅkutárā ← vaṅkutára- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+srótasā ← srótas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yayím ← yayí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+airayat ← √īr- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dr̥ṁhitā́ḥ ← √dr̥h- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śúṣṇasya ← śúṣṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +237,4 @@ Wenn er beim Kavjer Uçana sich hat erfreut, besteigt die raschen, raschsten Ros
 Грозный восходит на (быстро)ходную (колесницу). Он выпустил воды струиться потоком.  
 Он взорвал твердые крепости Шушны.
 </details>
+

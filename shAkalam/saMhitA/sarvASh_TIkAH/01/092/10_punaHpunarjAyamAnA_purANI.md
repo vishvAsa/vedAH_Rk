@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jā́yamānā ← √janⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+púnaḥ-punar ← púnar (invariable)  
+{}
+
+purāṇī́ ← purāṇá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+samānám ← samāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúmbhamānā ← √śubh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+várṇam ← várṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āminānā́ ← √mī- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+kr̥tnúḥ ← kr̥tnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śvaghnī́ ← śvaghnín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víjaḥ ← víj- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jaráyantī ← √jr̥̄- ~ jūr- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+mártasya ← márta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Die alte Göttin, immer neu geboren, erglänzend immer mit derselben Farbe; Wie 
 Уменьшающая, как ловкий счастливый игрок – ставки (противника),  
 Срок жизни смертного, (эта) старящая богиня.
 </details>
+

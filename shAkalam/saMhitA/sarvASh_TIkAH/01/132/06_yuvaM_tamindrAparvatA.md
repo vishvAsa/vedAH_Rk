@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,94 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+indrāparvatā ← indrāparvata- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+puroyúdhā ← puroyúdh- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ápa ← ápa (invariable)  
+{}
+
+hatam ← √han- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥tanyā́t ← √pr̥tany- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+táṁ-tam ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hatam ← √han- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+táṁ-tam ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+cattā́ya ← √cat- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+chantsat ← √chand- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+dūré ← dūrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gáhanam ← gáhana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ínakṣat ← √naś- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT, mood:DES}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+darmā́ ← darmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+darṣīṣṭa ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,3 +332,4 @@ Ihr beide, o Indra und Parvata, möge als Vorkämpfer, jeden, welcher uns befein
 Наших врагов, о герой, кругом, со всех сторон,  
 Взорви как взрыватель – со всех сторон!
 </details>
+

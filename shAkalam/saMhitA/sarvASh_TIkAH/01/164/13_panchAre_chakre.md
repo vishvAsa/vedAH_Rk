@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cakré ← cakrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+páñcāre ← páñcāra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+parivártamāne ← √vr̥t- (root)  
+{case:LOC, gender:N, number:SG, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+tasthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ákṣaḥ ← ákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́ribhāraḥ ← bhū́ribhāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tapyate ← √tap- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sánābhiḥ ← sánābhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
+śīryate ← √śr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ Auf diesem fünfspeichigen, sich drehenden Rade stehen alle Wesen; seine vieltra
 Не нагревается ось его, хоть и несет большой груз.  
 От века она не ломается вместе со ступицей.
 </details>
+

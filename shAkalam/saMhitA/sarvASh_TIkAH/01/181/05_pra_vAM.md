@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+kakuháḥ ← kakuhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nicerúḥ ← nicerú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+váśān ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gamyāḥ ← √gam- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+piśáṅgarūpaḥ ← piśáṅgarūpa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sádanāni ← sádana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+anyásya ← anyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pīpáyanta ← √pī- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRF, voice:MED}
+
+vā́jaiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ghóṣaiḥ ← ghóṣa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mathrā́ ← mathrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +237,4 @@ Zum Opfersitze komme niedereilend eur hohes Ross nach Wunsch, das goldgefärbte,
 (Когда) двух буланых коней другого делают набухшими от наград,  
 Два ... (коня) с шумом про(летают) через пространства.
 </details>
+

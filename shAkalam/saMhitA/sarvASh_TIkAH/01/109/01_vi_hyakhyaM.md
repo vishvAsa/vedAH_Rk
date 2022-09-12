@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákhyam ← √khyā- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+ichán ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vásyaḥ ← vásyaṁs- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+jñāsáḥ ← jñā́s- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sajātā́n ← sajātá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+anyā́ ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prámatiḥ ← prámati- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuvát ← tvám (pronoun)  
+{case:ABL, number:DU}
+
+atakṣam ← √takṣ- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vājayántīm ← √vājay- 2 (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +228,7 @@ there exists for me no other (fatherly) solicitude than you two. So I have  fash
 The kinship theme of the first hemistich is continued in pāda c, with prámati- ‘solicitude’, since this abstract noun is regularly identified with the father -- e.g., I.31.10 tvám agne prámatis tvám pitā́si naḥ. See further disc. ad I.71.7.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/109/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/109/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 These two vss. are parallel in structure, with an initial hí clause with a 1st sg. augmented verb of perception (‘see’, ‘hear’), with kinship terms in the second pāda, and in the last pāda a 1st sg. verb of production (‘fashion’, ‘beget’) with a verbal product as obj. (‘thought’, ‘praise’).
@@ -193,3 +260,4 @@ Ich schaute aus im Geiste Gut begehrend, Indrāgni, nach Bekannten und Verwandte
 Нет для меня другой заботы, кроме вас двоих!  
 Я выточил для вас поэтическое творение, которое принесет награду.
 </details>
+

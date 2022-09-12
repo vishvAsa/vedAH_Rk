@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hatnáve ← hatnú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vadhā́ya ← vadhá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jihīḷānásya ← √hīḍ- ~ √hīḷ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
+rīradhaḥ ← √randh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+hr̥ṇānásya ← √hr̥̄- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+mā́ ← mā́ (invariable)  
+{}
+
+manyáve ← manyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ So gib uns nicht dem Morde preis, nicht preis dem Hieb des zürnenden, Noch auch
 Смертельному оружию на убийство,  
 Ни ярости (своей), когда ты разгневан!
 </details>
+

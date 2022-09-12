@@ -16,14 +16,69 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+kṣáyam ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rā́si ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+rā́si ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rā́si ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+mandasānā́ḥ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ágraṇītim ← ágraṇīti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pānti ← √pā- 2 (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vāyávaḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Gieb sichern Sitz und schenke einen Freund uns, und send', o Indra, uns die Maru
 И те, кто опьяняется, единые духом (с тобой),  
 (Те) Ваю, пьют раньше (других) первое приношение (сомы).
 </details>
+

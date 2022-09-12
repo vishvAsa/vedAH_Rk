@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+cā́rum ← cā́ru- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+śríyam ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ákr̥ṇvan ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+akṣī́ ← ákṣ- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+kṣaranti ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sr̥ṣṭā́ḥ ← √sr̥j- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ajānan ← √jñā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áruṣīḥ ← áruṣī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nī́cīḥ ← nyàñc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,3 +266,4 @@ Die Ew'gen legten in ihn holde Schönheit, als sie des Himmels beide Augen schuf
 Вот текут (жертвенные возлияния), выпущенные, как реки;  
 Устремленные вниз, они познали (твои) рыжие (языки пламени), о Агни.
 </details>
+

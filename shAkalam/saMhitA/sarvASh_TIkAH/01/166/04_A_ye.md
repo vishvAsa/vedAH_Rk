@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ávyata ← √vyā- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+táviṣībhiḥ ← táviṣī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+adhrajan ← √dhraj- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+évāsaḥ ← éva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sváyatāsaḥ ← sváyata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+bháyante ← √bhī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+harmyā́ ← harmyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+citráḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+práyatāsu ← √yam- (root)  
+{case:LOC, gender:F, number:PL, non-finite:PPP}
+
+r̥ṣṭíṣu ← r̥ṣṭí- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yā́maḥ ← yā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Die ihr die Luft durchdrungen habt mit eurer Kraft, schnell stürmten eure selbs
 Боятся все существа (и) укрепления.  
 Блистателен ваш выезд, когда (вы) протянули вперед копья.
 </details>
+

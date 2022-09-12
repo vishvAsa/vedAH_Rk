@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+áṁsyāḥ ← áṁsya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áṅgyāḥ ← áṅgya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+prakaṅkatā́ḥ ← prakaṅkatá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sūcī́kāḥ ← sūcī́ka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ádr̥ṣṭāḥ ← adŕ̥ṣṭa- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+caná ← caná (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+jasyata ← √jas- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+sākám ← sākám (invariable)  
+{}
+
+sárve ← sárva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Welch stechendes Gewürm an den Schultern, an den Gliedern ist, welch Ungeziefer
 О невидимые, нет здесь ничего для вас!  
 Исчезните все сразу!
 </details>
+

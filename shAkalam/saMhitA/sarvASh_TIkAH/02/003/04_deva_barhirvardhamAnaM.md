@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+barhiḥ ← barhís- (nominal stem)  
+{case:VOC, gender:N, number:SG}
+
+déva ← devá- (nominal stem)  
+{case:VOC, gender:N, number:SG}
+
+suvī́ram ← suvī́ra- (nominal stem)  
+{case:VOC, gender:N, number:SG}
+
+várdhamānam ← √vr̥dh- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:MED}
+
+asyā́m ← ayám (pronoun)  
+{case:LOC, gender:F, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stīrṇám ← √str̥̄- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+subháram ← subhára- (nominal stem)  
+{case:VOC, gender:N, number:SG}
+
+védī ← védi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+aktám ← √añj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sīdata ← √sad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ādityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ O Göttin Streu, dich dehnend männerhegend gestreut zum Heil, gefestigt hier am
 О Васу, сядьте на нее, умащенную жиром,  
 О Все-Боги, Адитьи, достойные жертв!
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kútas ← kútas (invariable)  
+{}
+
+mā́hinaḥ ← mā́hina- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+satpate ← sátpati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yāsi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pr̥chase ← √praś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+samarāṇáḥ ← √r̥- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+śubhānaíḥ ← √śubh- (root)  
+{case:INS, gender:M, number:PL, tense:AOR, voice:MED}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vocéḥ ← √vac- (root)  
+{number:SG, person:2, mood:OPT, tense:AOR, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +245,4 @@ Woher kommst du, Indra, allein, der du doch ein Mächtiger bist, du rechtmäßig
 Так скажи нам, о господин буланых коней: какое (дело) у тебя к нам?  
 Индра:
 </details>
+

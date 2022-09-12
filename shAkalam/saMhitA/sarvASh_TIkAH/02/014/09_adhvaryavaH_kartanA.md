@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhvaryavaḥ ← adhvaryú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+kártana ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śruṣṭím ← śruṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nayadhvam ← √nī- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+nípūtam ← √pū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+út ← út (invariable)  
+{}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+hástyam ← hástya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vāvaśe ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+juhota ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+madirám ← madirá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ O Priester, schaffet euch Gehör bei diesem, und schöpfet den geklärten aus de
 Довольный, он стремится к (соме) в ваших руках.  
 Возлейте Индре пьянящего сому!
 </details>
+

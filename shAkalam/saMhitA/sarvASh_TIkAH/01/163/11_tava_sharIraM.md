@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+arvan ← árvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+patayiṣṇú ← patayiṣṇú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śárīram ← śárīra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+cittám ← √cit- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+dhrájīmān ← dhrájīmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+śŕ̥ṅgāṇi ← śŕ̥ṅga- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+víṣṭhitā ← √sthā- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+áraṇyeṣu ← áraṇya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+járbhurāṇā ← √bhur- (root)  
+{case:NOM, gender:N, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Schnellfliegend, o Renner, ist dein Körper, dein Geist dahinschiessend, wie der
 Твои рога, находящиеся во многих местах,  
 Движутся, извиваясь, полюсам.
 </details>
+

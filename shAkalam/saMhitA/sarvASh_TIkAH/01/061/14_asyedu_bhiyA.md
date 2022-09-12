@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhiyā́ ← bhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dr̥ḷhā́ḥ ← √dr̥h- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+giráyaḥ ← girí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+janúṣaḥ ← janúṣ- (nominal stem)  
+{case:ABL, number:SG}
+
+tujete ← √tuj- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+jóguvānaḥ ← √gu- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+oṇím ← oṇí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+venásya ← vená- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+nodhā́ḥ ← nodhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
+vīryā̀ya ← vīryà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Die festen Berge, ja auch Erd' und Himmel bewegen sich aus Furcht vor dem geborn
 Громко призывая (защищающую) длань провидца,  
 Нодхас сразу стал готовым к подвигу.
 </details>
+

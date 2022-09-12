@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+suśravasyā́ ← suśravasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mitríṇaḥ ← mitrín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prakhādáḥ ← prakhādá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥kṣáḥ ← pŕ̥kṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+iṣáḥ ← íṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+samaryé ← samaryá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+stavate ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vívāci ← vívāc- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śáṁsaḥ ← śáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satrākaráḥ ← satrākará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yájamānasya ← √yaj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ So hat besiegt durch Helden die Verschwornen der Mahlverzehrer Indra ruhmbegieri
 Он прославляется на празднике жертвенного подкрепления, при словесном состязании  
 (Он,) очень деятельный, хвала жертвователя.
 </details>
+

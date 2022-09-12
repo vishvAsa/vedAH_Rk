@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dadāśimá ← √dāś- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+pūrvī́bhiḥ ← purú- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śarádbhiḥ ← śarád- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ávobhiḥ ← ávas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +139,4 @@ Wir haben viele Jahre durch euch Maruts ja gehuldiget, Euch mit der Menschen Lab
 Мы почитали (вас,) о Маруты,  
 Благодаря поддержкам народов.
 </details>
+

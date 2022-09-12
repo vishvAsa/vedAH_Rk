@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hádraye ← br̥hádri- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+br̥haté ← br̥hánt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+máṁhiṣṭhāya ← máṁhiṣṭha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+bhare ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+satyáśuṣmāya ← satyáśuṣma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+taváse ← tavás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+durdháram ← durdhára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pravaṇé ← pravaṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ápāvr̥tam ← √vr̥- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śávase ← śávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+viśvā́yu ← viśvā́yu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Dem grossen, besten Spender, der an Schätzen reich, dem wahrhaft kräft'gen sta
 Чью щедрость трудно сдержать, словно в стремнине вод,  
 (Щедрость) открытую весь век, чтобы (показать) силу.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adadhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dváyoḥ ← dvá- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mithunā́ ← mithuná- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+saparyátaḥ ← √sapary- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+yatásrucā ← yatásruc- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ásaṁyattaḥ ← ásaṁyatta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣeti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+púṣyati ← √puṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vraté ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śaktíḥ ← śaktí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yájamānāya ← √yaj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Dem Ehepaar verliehst du preisenswerthes Lied, das mit gereichter Schale dich ve
 Не приспособленный (к битвам), живет (жрец) в твоем обете (и) процветает.  
 Благая сила (дана) жертвователю, выжимающему (сому).
 </details>
+

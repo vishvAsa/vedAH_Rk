@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhánā ← dhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jigetha ← √ji- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+rurodhitha ← √rudh- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ājā́ ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+árbheṣu ← árbha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahátsu ← mahā́nt- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+śiśīmasi ← √śā- ~ śī- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+codaya ← √cud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hávaneṣu ← hávana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Stets siegst du starker, hältst die Beute nie zurück, wenn Kampf entbrennt um 
 Тебя, грозного, мы подготавливаем для помощи:  
 Так поощри нас. Индра, в (наших) призывах!
 </details>
+

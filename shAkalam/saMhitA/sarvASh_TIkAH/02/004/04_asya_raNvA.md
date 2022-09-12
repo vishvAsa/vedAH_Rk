@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+puṣṭíḥ ← puṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+raṇvā́ ← raṇvá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svásya ← svá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dákṣoḥ ← dákṣu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hiyānásya ← √hi- (root)  
+{case:GEN, gender:M, number:SG, tense:AOR, voice:MED}
+
+sáṁdr̥ṣṭiḥ ← sáṁdr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bháribhrat ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jihvā́m ← jihvā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+óṣadhīṣu ← óṣadhī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dodhavīti ← √dhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ráthyaḥ ← ráthya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́rān ← vā́ra- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Wie eignes Gut sieht man ihn gerne wachsen, und liebt das Bild des brennenden, g
 (Тот,) кто яростно размахивает языком среди растений,  
 Мотает хвостом, словно конь, запряженный в колесницу.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+dúghānāḥ ← √duh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+rétasaḥ ← rétas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+áparītāḥ ← áparīta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pánthāsaḥ ← pánthā- ~ path- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+paúṁsyebhiḥ ← paúṁsya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sāsahíḥ ← sāsahí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+taráddveṣāḥ ← taráddveṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhavatu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marútvān ← marútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Dess Pfade gehn durch Stärke unbezwinglich, des Himmels Samen gleichsam niederg
 Кто превозмогает врагов, победоносный благодаря силам мужества, –  
 Сопровождаемый Марутами да будет нам Индра в помощь!
 </details>
+

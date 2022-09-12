@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+camasám ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+catúraḥ ← catúr- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇotana ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abruvan ← √brū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+agamam ← √gam- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+kariṣyátha ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:FUT, voice:ACT}
+
+saúdhanvanāḥ ← saudhanvaná- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yádi ← yádi (invariable)  
+{}
+
+bhaviṣyatha ← √bhū- (root)  
+{number:PL, person:2, mood:IND, tense:FUT, voice:ACT}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Aus dem einen Becher machet vier! Das sagten euch die Götter, darum bin ich zu 
 То вместе с богами станете достойными жертв! –  
 Рассказчик:
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+emi ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+bhikṣe ← √bhaj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+sūkténa ← sūktá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+turā́ṇām ← turá- 1 (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rarāṇátā ← rarāṇátā- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vedyā́bhiḥ ← vedyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dhattá ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+héḷaḥ ← héḷas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mucadhvam ← √muc- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Mit dieser frommen Bitte komm' ich zu euch, der Raschen Gunst erfleh' ich mit de
 Дружелюбно, о Маруты, со знанием (дела)  
 Оставьте гнев! Распрягите коней!
 </details>
+

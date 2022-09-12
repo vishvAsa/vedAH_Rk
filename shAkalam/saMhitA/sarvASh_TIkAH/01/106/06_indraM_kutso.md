@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kútsaḥ ← kútsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śácīpátim ← śácīpáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥traháṇam ← vr̥trahán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ahvat ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+kāṭé ← kāṭá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+níbāḷhaḥ ← √baṁh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+durgā́t ← durgá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudānavaḥ ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nís ← nís (invariable)  
+{}
+
+pipartana ← √pr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Der Sänger Kutsa rief umschlossen in der Kluft den Vritratödter Indra, Herrn d
 Как колесницу с непроезжего пути, о Васу с богатыми дарами,  
 Вызволите нас из узости со всех сторон!
 </details>
+

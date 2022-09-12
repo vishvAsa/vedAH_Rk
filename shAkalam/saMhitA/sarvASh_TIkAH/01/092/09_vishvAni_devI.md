@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhicákṣya ← √cakṣ- (root)  
+{non-finite:CVB}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pratīcī́ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+bodháyantī ← √budh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+caráse ← √carⁱ- (root)  
+{case:DAT, number:SG}
+
+jīvám ← jīvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+manāyóḥ ← manāyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +191,7 @@ I’m not entirely sure what pāda d refers to, but perhaps it means that by daw
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/092/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/092/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 vibhā́si (8c) and ví bhāti (9b) should have been rendered with the same English verb, either “radiate” or “shine.” I would now change the published translation, to ‘radiate’ in both cases.
@@ -176,3 +228,4 @@ Die Göttin, alle Wesen rings beschauend, erstrahlet weit, ihr Auge zu uns wende
 Пробуждая к движению все живое,  
 Она встречает речь (каждого) преданного (поэта).
 </details>
+

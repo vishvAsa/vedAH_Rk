@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amadan ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mádāḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vŕ̥ṣṇyā ← vŕ̥ṣṇya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+satpate ← sátpati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vr̥trahátyeṣu ← vr̥trahátya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+apratí ← apratí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kāráve ← kārú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+barháyaḥ ← √br̥h- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+barhíṣmate ← barhíṣmant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sahásrāṇi ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Dich haben diese Tränke, diese Kräftiger, die Soma's dich berauscht, o Fürst,
 Когда для певца с жертвенной соломой десять вражеских отрядов,  
 Не знающих себе равных, тысячи (бойцов) ты уложил.
 </details>
+

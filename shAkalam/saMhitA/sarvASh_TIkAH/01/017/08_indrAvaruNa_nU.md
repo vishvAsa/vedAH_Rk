@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+índrāvaruṇā = ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nú ← nú (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhīṣú ← dhī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+síṣāsantīṣu ← √sanⁱ- (root)  
+{case:LOC, gender:F, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yachatam ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Nun, nun verleiht uns euren Schutz bei den Gebeten, die nach euch Verlangen, Ind
 Когда молитвы стремятся покорить вас,  
 Даруйте нам защиту.
 </details>
+

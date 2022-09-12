@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+āyóḥ ← āyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kavyátā ← kavyátā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nivídā ← nivíd- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pū́rvayā ← pū́rva- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ajanayat ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+imā́ḥ ← ayám (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+mánūnām ← mánu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prajā́ḥ ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+cákṣasā ← cákṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vivásvatā ← vivásvant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhārayan ← √dhr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+draviṇodā́m ← draviṇodā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +238,4 @@ Nach alter Vorschrift durch des Menschen Weisheit erzeugte Agni diese Menschenki
 С помощью Вивасвата как глаза (он озирает) небо и воды.  
 Боги поддерживают Агни – дарителя богатства.
 </details>
+

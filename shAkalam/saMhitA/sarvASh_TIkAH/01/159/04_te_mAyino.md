@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mamire ← √mā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+māyínaḥ ← māyín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suprácetasaḥ ← suprácetas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+jāmī́ ← jāmí- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+mithunā́ ← mithuná- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sámokasā ← sámokas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sáyonī ← sáyoni- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+návyaṁ-navyam ← návya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tántum ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tanvate ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+antár ← antár (invariable)  
+{}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sudītáyaḥ ← sudītí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +216,4 @@ Es schufen jene weisen, wunderkräftigen das Zwillingspaar von gleichem Schoosse
 Все новую и новую нить тянут к небу  
 (И) в океан озаренные поэты.
 </details>
+

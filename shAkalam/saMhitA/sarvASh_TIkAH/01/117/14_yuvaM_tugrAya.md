@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pūrvyébhiḥ ← pūrvyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+túgrāya ← túgra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+abhavatam ← √bhū- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+punarmanyaú ← punarmanyá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yuvānā ← yúvan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+árṇasaḥ ← árṇas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+samudrā́t ← samudrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥jrébhiḥ ← r̥jrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+víbhiḥ ← ví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ An Tugra habt nach euren alten Weisen, o ewig junge, ihr euch neu erinnert, Ihr 
 Бхуджью из морской пучины вы  
 Вывезли на птицах, на рыжих конях.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahastáḥ ← ahastá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apā́t ← apád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apr̥tanyat ← √pr̥tany- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jaghāna ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sā́nau ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+búbhūṣan ← √bhū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+pratimā́nam ← pratimā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vádhriḥ ← vádhri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aśayat ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+vr̥tráḥ ← vr̥trá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vyàstaḥ ← √as- 2 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Fusslos und handlos stritt er wider Indra; der schleuderte den Blitz auf seinen 
 Вол, хотевший стать противником быка,  
 Вритра лежал, разбросанный по разным местам.
 </details>
+

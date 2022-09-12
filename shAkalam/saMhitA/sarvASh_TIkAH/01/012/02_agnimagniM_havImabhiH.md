@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agním-agnim ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hávīmabhiḥ ← hávīman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+havanta ← √hū- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sádā ← sádā (invariable)  
+{}
+
+viśpátim ← viśpáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purupriyám ← purupriyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +149,4 @@ Den Agni, Agni rufen sie, des Hauses Herrn mit Bitten stets, Der vielgeliebt die
 Постоянно призывают они, господина племен,  
 Отвозящего жертву, приятного многим.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ārcatkásya ← ārcatká- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+avatā́t ← avatá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+śarásya ← śará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cakrathuḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+nīcā́t ← nīcā́t (invariable)  
+{}
+
+pā́tave ← √pā- 2 (root)  
+{case:DAT, number:SG}
+
+uccā́ ← uccā́ (invariable)  
+{}
+
+vā́r ← vā́r- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śayáve ← śayú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jásuraye ← jásuri- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pipyathuḥ ← √pī- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+staryàm ← starī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Aus des Artschatka Çara Brunnen zogt ihr zum Trinken Wasser aufwärts aus der T
 А для измученного Шаю, о Насатьи,  
 Вы сделали яловую корову набухшей молоком.
 </details>
+

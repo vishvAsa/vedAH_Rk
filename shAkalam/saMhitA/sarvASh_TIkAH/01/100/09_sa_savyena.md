@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+cit ← cit (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+savyéna ← savyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vrā́dhataḥ ← √vrādh- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yamati ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+dakṣiṇé ← dákṣiṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáṁgr̥bhītā ← √gr̥bhⁱ- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+cit ← cit (invariable)  
+{}
+
+dhánāni ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kīríṇā ← kīrín- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sánitā ← sánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhavatu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marútvān ← marútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Auch die gewalt'gen lenkt er mit der Linken, in seine Rechte nimmt er alle Thate
 Даже со слабым (сторонником) он добывает награды.  
 Сопровождаемый Марутами да будет нам Индра в помощь!
 </details>
+

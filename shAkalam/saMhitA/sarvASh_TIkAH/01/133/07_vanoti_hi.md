@@ -19,10 +19,10 @@ ChandaH = "अष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,88 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+kṣáyam ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párīṇasaḥ ← párīṇas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sunván ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vanóti ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+sunvānáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+yájati ← √yaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+siṣāsati ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+sunvānáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ávr̥taḥ ← ávr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ābhúvam ← ābhū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sunvānā́ya ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+ābhúvam ← ābhū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,3 +286,4 @@ Denn der Somapresser erlangt leicht den Sitz des Reichthums; der Somapresser sch
 Для выжимающего (сому) Индра дает наличное  
 Богатство, дает наличное.
 </details>
+

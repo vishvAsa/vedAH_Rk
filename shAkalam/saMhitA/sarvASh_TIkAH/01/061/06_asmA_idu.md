@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
+#### Morph
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+takṣat ← √takṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráṇāya ← ráṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svápastamam ← svápastama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svaryàm ← svaryà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+márma ← márman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vr̥trásya ← vr̥trá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ī́śānaḥ ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+kiyedhā́ḥ ← kiyedhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tuján ← √tuj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tujatā́ ← √tuj- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,9 +194,9 @@ The position of yéna in this subordinate clause is anomalous, as we expect at m
 
 I’ve tr. the participle tuján as it were a finite verb, because the English otherwise dribbles off into unintelligibility. In fact, because of the rel. cl. in c, it’s better to take d as a new cl. with tuján as predicated participle (“Gaining mastery, he was thrusting …”). On this stem see comm. ad IX.91.4.
 
-The unclear kiyedhā́- is found only here and in vs. 12. See EWA s.v. and Scarlatta’s (250-52) discussions of previous attempts at explanation. I favor the suggestion registered (and dismissed) by Scarlatta that it consists of the weak stem of kíyant-‘how much, how great’ + the root noun dhā́-, with the development *-nt̥-dh- >
+The unclear kiyedhā́- is found only here and in vs. 12. See EWA s.v. and Scarlatta’s (250-52) discussions of previous attempts at explanation. I favor the suggestion registered (and dismissed) by Scarlatta that it consists of the weak stem of kíyant-‘how much, how great’ + the root noun dhā́-, with the development *-nt̥-dh- &gt;
 
-*-adzdh- > *-azdh- > -edh-, despite Hoffmann’s dismissal of the posited
+*-adzdh- &gt; *-azdh- &gt; -edh-, despite Hoffmann’s dismissal of the posited
 phonological development (Aufs. 400)—although I recognize the phonological problems of this solution. Renou’s “lui qui confère (on ne sait) combien” represents this etymology one way or the other.
 </details>
 
@@ -168,3 +223,4 @@ Ihm hat zur Schlacht den Blitz gezimmert Tvaschtar den himmlischen, der schönst
 С помощью которой он нашел уязвимое место даже у Вритры,  
 Нападая нападающей (ваджрой), властный, добивающийся чего угодно.
 </details>
+

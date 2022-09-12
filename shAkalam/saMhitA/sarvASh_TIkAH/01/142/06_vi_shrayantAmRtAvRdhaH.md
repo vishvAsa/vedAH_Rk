@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śrayantām ← √śri- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prayaí ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+pāvakā́saḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+puruspŕ̥haḥ ← puruspŕ̥h- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asaścátaḥ ← asaścát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dvā́raḥ ← dvā́r- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +169,4 @@ Die Götterthore mögen sich weit öffnen für den Götterzug, Die heiligen, die
 Врата  
 , божественные, неиссякающие!
 </details>
+

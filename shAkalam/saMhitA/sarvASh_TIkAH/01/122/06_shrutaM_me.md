@@ -16,14 +16,66 @@ ChandaH = "विराड्रूपा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hávā ← háva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śrutám ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sīm ← sīm (invariable)  
+{}
+
+śrutam ← √śru- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śrótu ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+śróturātiḥ ← śróturāti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśrótuḥ ← suśrótu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adbhíḥ ← áp- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sukṣétrā ← sukṣétra- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +225,4 @@ O hört mein Rufen, Varuna und Mitra, hört überall es an der heil'gen Stätte,
 Пусть услышит нас дарующая (милость) слышания, охотно слушающая,  
 Синдху с прекрасными полями, с водами!
 </details>
+

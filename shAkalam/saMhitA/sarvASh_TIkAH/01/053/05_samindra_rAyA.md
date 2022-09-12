@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rabhemahi ← √rabh- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+abhídyubhiḥ ← abhídyu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+puruścandraíḥ ← puruścandrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vā́jebhiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devyā́ ← devī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+prámatyā ← prámati- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+vīráśuṣmayā ← vīráśuṣma- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+áśvāvatyā ← áśvāvant- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+góagrayā ← góagra- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rabhemahi ← √rabh- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Lass Reichthum, Indra, lass erlangen Labung uns, sehr glänzende Genüsse, himme
 Да получим мы божественное покровительство,  
 Чей порыв – герои, чье начало – коровы, что приносит коней!
 </details>
+

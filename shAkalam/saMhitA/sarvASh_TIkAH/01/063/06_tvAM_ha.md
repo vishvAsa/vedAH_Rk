@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árṇasātau ← árṇasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ājā́ ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+havante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svàrmīḷhe ← svàrmīḷha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+samaryé ← samaryá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+svadhāvaḥ ← svadhā́vant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+atasā́yyā ← atasā́yya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ūtíḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +199,7 @@ The gerundive atasā́yya- is taken by Geldner as belonging to √at ‘wander�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
 
 tváṃ ha tyád provides the opening of the next four verses. Although tyád is a neut. pronoun and in 4a could function as the object of the otherwise object-less codīḥ, in the following verses it does not have pronominal function; the expression X ha tyád is a way of providing emphasis, particular of the 2nd ps. pronoun (cf., e.g., VII.19.2, VIII.96.16-18). I would now be inclined to tr. the vss. in this sequence with “It was just you who …” rather than the rather recessive “You then, …”
@@ -176,3 +231,4 @@ Dich rufen ja im Schlachtgewühl, o Indra, im Kampfe um des Himmels Gut die Män
 Эта помощь твоя (в состязании) за награды  
 Да будет доступна (нам), о обладающий своей волей.
 </details>
+

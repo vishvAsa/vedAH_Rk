@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adarśi ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ná ← ná (invariable)  
+{}
+
+śundhyúvaḥ ← śundhyú- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+vákṣaḥ ← vákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+akr̥ta ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+āvís ← āvís (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+nodhā́ḥ ← nodhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyā́ṇi ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+admasát ← admasád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bodháyantī ← √budh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sasatáḥ ← √sas- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+eyúṣīṇām ← √i- 1 (root)  
+{case:GEN, gender:F, number:PL, tense:PRF, voice:ACT}
+
+púnar ← púnar (invariable)  
+{}
+
+śaśvattamā́ ← śaśvattamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Ihr Busen zeigt sich wie der reinen Jungfrau, als zarte Maid enthüllt sie ihre 
 Как муха, будящая спящих,  
 Она возникла первой из всех пришедших, непрерывно сменяющихся.
 </details>
+

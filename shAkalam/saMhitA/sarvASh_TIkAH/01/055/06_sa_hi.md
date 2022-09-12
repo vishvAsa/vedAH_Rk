@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+kr̥trímā ← kr̥tríma- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sádanāni ← sádana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śravasyúḥ ← śravasyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣmayā́ ← kṣám- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vināśáyan ← √naś- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+avr̥kā́ṇi ← avr̥ká- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jyótīṁṣi ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kr̥ṇván ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yájyave ← yájyu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+sártavaí ← √sr̥- 1 (root)  
+{case:DAT, number:SG}
+
+sr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Denn er voll Ruhmgier auf der Erde neu gestärkt, zerbrach mit Kraft die List-ge
 Создающий надежные светила для жертвователя,  
 С замечательной силой духа, выпустил воды, чтобы они текли.
 </details>
+

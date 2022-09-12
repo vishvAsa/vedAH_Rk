@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+prabhúḥ ← prabhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rūpā́ṇi ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paśū́n ← paśú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+samānajé ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sphātím ← sphātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+yaja ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +183,4 @@ Der mächt'ge Tvaschtar hat geschmückt Gestalten und die Heerden all; Durch Opf
 Он создал всех животных.  
 Пожертвуй нам их процветание!
 </details>
+

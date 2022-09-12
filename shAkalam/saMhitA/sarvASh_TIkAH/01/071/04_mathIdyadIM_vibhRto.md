@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+īm ← īm (invariable)  
+{}
+
+mātaríśvā ← mātaríśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máthīt ← √mathⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+víbhr̥taḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhū́t ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+gr̥hé-gr̥he ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jényaḥ ← jénya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śyetáḥ ← śyetá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+rā́jñe ← rā́jan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+sáhīyase ← sáhīyaṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhŕ̥gavāṇaḥ ← bhŕ̥gavāṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dūtyàm ← dūtyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vivāya ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +248,4 @@ Als ihn im Flug hervorrieb Matariçvan und herrlich er in jedem Hause glänzte, 
 И тогда он, близкий к Бхригу, взял на себя службу вестника,  
 Как тот, кто сопровождает очень сильного царя.
 </details>
+

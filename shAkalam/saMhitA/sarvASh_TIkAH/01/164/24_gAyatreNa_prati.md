@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gāyatréṇa ← gāyatrá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mimīte ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+arkéṇa ← arká- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sā́ma ← sā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+traíṣṭubhena ← traíṣṭubha- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vākám ← vāká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cátuṣpadā ← cátuṣpad- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dvipádā ← dvipád- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vākám ← vāká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vākéna ← vāká- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+akṣáreṇa ← akṣára- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mimate ← √mā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vā́ṇīḥ ← vā́ṇī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +194,4 @@ Nach dem Versmass der Gājatrī misst er das Preislied [arká], nach dem Preisli
 Двустопной, четырехстопной произносимой строфой - гимн.  
 Слогом они меряют семь голосов.
 </details>
+

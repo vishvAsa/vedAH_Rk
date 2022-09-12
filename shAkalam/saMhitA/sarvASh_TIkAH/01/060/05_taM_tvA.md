@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+gótamāsaḥ ← gótama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+śaṁsāmaḥ ← √śaṁs- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+marjáyantaḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+vājambharám ← vājambhará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhiyā́vasuḥ ← dhiyā́vasu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jagamyāt ← √gam- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prātár ← prātár (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ So preisen wir dich als den Herrn der Schätze, die Gotamer, o Agni, mit Gebeten
 Украшая (тебя,) как скакуна, несущего награду.  
 Да придет (к нам) быстро ранним утром (бог,) богатый даром видения!
 </details>
+

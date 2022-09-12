@@ -16,14 +16,51 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahimnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vaiśvānaráḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvákr̥ṣṭiḥ ← viśvákr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bharádvājeṣu ← bharádvāja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vibhā́vā ← vibhā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajatáḥ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śātavaneyé ← śātavaneyá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śatínībhiḥ ← śatín- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+jarate ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+puruṇīthé ← puruṇīthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sūnŕ̥tāvān ← sūnŕ̥tāvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +186,4 @@ Der Männerhort an Grösse allumfassend, der glänzende, verehrt von Bharadvadsc
 Агни у Пурунитхи, сына Шатавани,  
 Воспевается на сотни ладов, (он,) великолепный.
 </details>
+

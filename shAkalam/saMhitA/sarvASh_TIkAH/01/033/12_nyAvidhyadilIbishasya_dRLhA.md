@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āvidhyat ← √vyadh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+ilībíśasya ← ilībíśa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+abhinat ← √bhid- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śr̥ṅgíṇam ← śr̥ṅgín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+táraḥ ← táras- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yā́vat ← yā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yā́vat ← yā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+avadhīḥ ← √vadhⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+pr̥tanyúm ← pr̥tanyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śátrum ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Die Burgen des Ilibiça zerstiess er, und schlug in Stücke den gehörnten Çusc
 Сколько натиска, сколько силы –  
 Дубиной грома ты убил врага, рвущегося сражаться!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+divyám ← divyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suparṇám ← suparṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāyasám ← vāyasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+darśatám ← darśatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+óṣadhīnām ← óṣadhī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+abhīpatás ← abhīpatás (invariable)  
+{}
+
+tarpáyantam ← √tr̥p- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥ṣṭíbhiḥ ← vr̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+johavīmi ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sárasvantam ← sárasvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Diesen himmlischen, schöngeflügelten Aar, den grossen Spross der Gewässer, de
 Насыщающего дождем вдосталь –  
 Сарасвата я призываю на помощь.
 </details>
+

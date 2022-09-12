@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dīrghátamāḥ ← dīrghátama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+māmateyáḥ ← māmateyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+daśamé ← daśamá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jujurvā́n ← √jr̥̄- ~ jūr- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+yugé ← yugá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yatī́nām ← √i- 1 (root)  
+{case:GEN, gender:F, number:PL, tense:PRS, voice:ACT}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sā́rathiḥ ← sā́rathi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +171,4 @@ Dīrghatamas, der Sohn der Mamata, ist gealtert im zehnten Menschenalter; er ist
 Брахман, становится колесничим  
 Вод, движущихся к цели.
 </details>
+

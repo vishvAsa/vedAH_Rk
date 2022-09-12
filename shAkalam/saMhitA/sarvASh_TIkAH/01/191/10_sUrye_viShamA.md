@@ -18,10 +18,10 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -29,6 +29,82 @@ popular;; epic anuṣṭubh (525)
 popular;; line affected by realignment;; epic anuṣṭubh (525)  
 popular;; line affected by realignment;; epic anuṣṭubh (525)  
 popular;; line affected by realignment;; epic anuṣṭubh (525)
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+sajāmi ← √sañj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sū́rye ← sū́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+viṣám ← viṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dŕ̥tim ← dŕ̥ti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+súrāvataḥ ← súrāvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+marāti ← √mr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+marāma ← √mr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+āré ← āré (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yójanam ← yójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hariṣṭhā́ḥ ← hariṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+madhulā́ ← madhulá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,3 +290,4 @@ Dem Sonnengotte hänge ich das Gift an, wie einen Schlauch an das Haus des mit R
 Правящий булаными конями уничтожил его суть.  
 Медовая (трава) медом сделала тебя.
 </details>
+

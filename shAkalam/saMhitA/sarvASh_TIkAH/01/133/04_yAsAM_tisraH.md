@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+pañcāśátaḥ ← pañcāśát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yā́sām ← yá- (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+abhivlaṅgaíḥ ← abhivlaṅgá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+apā́vapaḥ ← √vap- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+manāyati ← √manāy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+manāyati ← √manāy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+takát ← taká- (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ Von denen du dreiundfunfzig durch Fortstossen hinwegrafftest; das dünkte dir gu
 Хорошо понимает это твое (деяние),  
 Уже это-то твое (деяние) хорошо понимает.
 </details>
+

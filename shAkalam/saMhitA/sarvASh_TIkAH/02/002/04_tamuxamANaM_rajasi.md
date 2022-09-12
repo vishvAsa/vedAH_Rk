@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rájasi ← rájas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ukṣámāṇam ← √vakṣ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+candrám ← candrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+hvāré ← hvārá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+surúcam ← surúc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+akṣábhiḥ ← ákṣi ~ akṣán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+citáyantam ← √cit- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+patarám ← patará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pŕ̥śnyāḥ ← pŕ̥śni- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+jánasī ← jánas- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+pātháḥ ← √pā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pāyúm ← pāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:N, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,3 +264,4 @@ Sie setzten ihn, der wächst im Luftraum, in sein Haus, den schlangengleichen, w
 (Этого) летающего (сына) Пришни, следящего (своими) глазами,  
 За обоими родами, словно страж – за дорогами.
 </details>
+

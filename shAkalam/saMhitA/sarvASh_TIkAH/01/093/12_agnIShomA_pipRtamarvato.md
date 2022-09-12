@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ágnīṣomā ← agnī́-ṣóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+árvataḥ ← árvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pipr̥tám ← √pr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+havyasū́daḥ ← havyasū́d- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pyāyantām ← √pyā- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+usríyāḥ ← usríya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bálāni ← bála- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maghávatsu ← maghávan- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇutám ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śruṣṭimántam ← śruṣṭimánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +215,4 @@ O Agni, Soma, lasset unsre Rosse gedeihen, und macht unsre Kühe fett, die die O
 Дайте сил нам (и нашим) покровителям!  
 Сделайте наш обряд успешным!
 </details>
+

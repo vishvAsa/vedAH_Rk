@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśnavat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+devayántam ← √devay- (UNK_TYPE)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ktábarhiṣam ← vr̥ktábarhis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asthita ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+dāśvā́n ← dāśváṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pastyā̀bhiḥ ← pastyā̀- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+prá-pra ← prá (invariable)  
+{}
+
+antarvā́vat ← antarvā́vat (invariable)  
+{}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kṣáyam ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +190,4 @@ Wer reichet an den frommen Mann, wer an den Streu bereitenden? Der Gottesfürcht
 Почитающий богов продвинулся далеко вперед по рекам.  
 Он сделал местом (своего) поселения (область) между (ними).
 </details>
+

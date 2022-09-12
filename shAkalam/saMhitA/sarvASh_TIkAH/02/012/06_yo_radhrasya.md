@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+coditā́ ← coditár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥śásya ← kr̥śá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+radhrásya ← radhrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+brahmáṇaḥ ← brahmán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kīréḥ ← kīrí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+nā́dhamānasya ← √nādh- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśipráḥ ← suśiprá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yuktágrāvṇaḥ ← yuktágrāvan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janāsaḥ ← jána- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sutásomasya ← sutásoma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +222,4 @@ Des Matten Kräft'ger und des Armen Beistand des Beters Helfer und des flehnden 
 Кто помощник запрягающего давильные камни (и) выжимающего сому,  
 Обладающий прекрасными губами – тот, о люди, Индра!
 </details>
+

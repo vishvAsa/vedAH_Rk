@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śvetanā́yai ← śvetanā́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+yaśásā ← yaśás- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+auśijáḥ ← auśijá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+huvádhyai ← √hū- (root)  
+{case:DAT, number:SG, tense:AOR}
+
+pā́ntā ← √pā- 2 (root)  
+{case:ACC, gender:M, number:DU, tense:AOR, voice:ACT}
+
+vyántā ← √vī- 1 (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+āyóḥ ← āyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+rāspinásya ← rāspiná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Euch schöne Ritter, die ihr esst und trinket, soll frühe mir der Sohn der Uçi
 Поставьте Апам Напата впереди (при почитании) вас!  
 (Поставьте) впереди двух матерей пылкого Аю!
 </details>
+

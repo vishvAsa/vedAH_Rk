@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+ámam ← áma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+sénā ← sénā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sr̥ṣṭā́ ← √sr̥j- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+ástuḥ ← ástar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+didyút ← didyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tveṣápratīkā ← tveṣápratīka- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +156,4 @@ Entsandtem Speer gleich – erregt er Schrecken, wie Pfeil des Schützen – mit
 
 -ru-
 </details>
+

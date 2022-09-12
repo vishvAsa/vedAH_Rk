@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+návyebhiḥ ← návya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vr̥ṣakarman ← vr̥ṣakarman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dartar ← dartár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pāyúbhiḥ ← pāyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+púrām ← púr- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+śagmaíḥ ← śagmá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+divodāsébhiḥ ← divodāsá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stávānaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+áhobhiḥ ← áhar ~ áhan- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+vāvr̥dhīthā́ḥ ← √vr̥dh- (root)  
+{number:SG, person:2, mood:OPT, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Durch neuen Spruch bewogen schütz uns, mächt'ger, mit starken Hütern du, o Bu
 О Индра, восхваляемый потомками Диводасы,  
 Расти, как небо, – сто дней!
 </details>
+

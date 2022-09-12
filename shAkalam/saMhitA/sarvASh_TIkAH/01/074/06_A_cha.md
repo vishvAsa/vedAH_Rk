@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+váhāsi ← √vah- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+práśastaye ← práśasti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+suścandra ← suścandrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +172,4 @@ Und fahre du, o glänzender, die Götter zur Verherrlichung Und zum Genuss der T
 Богов для прославления,  
 Для принятия жертвенных возлияний, о (бог) с прекрасным блеском!
 </details>
+

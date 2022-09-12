@@ -16,14 +16,60 @@ ChandaH = "स्कन्धोग्रीवी बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápāyi ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+máhaḥ ← máhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mátsi ← √mad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+matsaráḥ ← matsará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pā́trasya ← pā́tra- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sahasrasā́tamaḥ ← sahasrasā́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Berausch dich Füchseherr, du hast des grossen Kelches Trank gezecht; Den starke
 Для тебя, быка, этот бык – сок,  
 Приносящий награды, лучше всех завоевывающий тысячи.
 </details>
+

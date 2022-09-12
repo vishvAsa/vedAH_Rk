@@ -16,14 +16,63 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
+#### Morph
+áprayuchan ← áprayuchant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+párvataḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sādi ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+akrān ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mātŕ̥bhiḥ ← mātár- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vāvaśānáḥ ← √vāś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+dūré ← dūrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pāré ← pārá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vā́ṇīm ← vā́ṇī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vardháyantaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+dhamánim ← dhamáni- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+índreṣitām ← índreṣita- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+paprathan ← √prathⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Der Wolkenberg liess ungesäumt sich nieder, er brüllte jauchzend mit der Flut,
 Усиливая звук далеко до самого предела,  
 Они распространили свист, поднятый Индрой.
 </details>
+

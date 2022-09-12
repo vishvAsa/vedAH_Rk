@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D;; repeated line  
 genre D;; repeated line
+#### Morph
+apacyavám ← apacyavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nā́rī ← nā́rī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+śíkṣate ← √śak- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+upacyavám ← upacyavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ulū́khalasutānām ← ulū́khalasuta- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+jalgulaḥ ← √gr̥̄- 2 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +169,4 @@ Wo das Weib das heftige Entfernen und Herandringen kennen lernt, da schlinge, In
 Заглатывай же (там), о Индра,  
 Соки, выжатые в ступке!
 </details>
+

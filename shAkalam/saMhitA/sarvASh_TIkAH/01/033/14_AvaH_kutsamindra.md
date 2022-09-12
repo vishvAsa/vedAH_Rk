@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́vaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cākán ← √kanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kútsam ← kútsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+āvaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dáśadyum ← dáśadyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yúdhyantam ← √yudh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nakṣata ← √nakṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+reṇúḥ ← reṇú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śaphácyutaḥ ← śaphácyuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥ṣā́hyāya ← nr̥ṣā́hya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śvaitreyáḥ ← śvaitreyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Du, Indra, halfst dem Kutsa, den du liebtest, und halfst im Kampf dem kräftigen
 Пыль, поднятая (его) копытами, достигла неба.  
 Поднялся Швайтрея, чтобы осилить мужей.
 </details>
+

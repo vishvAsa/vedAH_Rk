@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+gaurī́ḥ ← gaurī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mimāya ← √mā- 2 ~ mī- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+salilā́ni ← salilá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tákṣatī ← √takṣ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+cátuṣpadī ← cátuṣpad- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dvipádī ← dvipád- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ékapadī ← ékapad- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+aṣṭā́padī ← aṣṭā́pad- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+babhūvúṣī ← √bhū- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:ACT}
+
+návapadī ← návapad- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sahásrākṣarā ← sahásrākṣara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vyòman ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Es brüllte die Büffelin, die die Wasser erzeugt [die donernde Regenvolke als S
 Восьминогой, девятиногой,  
 Тысячесложной на высшем небе.
 </details>
+

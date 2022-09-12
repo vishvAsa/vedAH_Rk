@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śaśramāṇā́ ← √śramⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
+doṣā́ḥ ← doṣā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jaráyantīḥ ← √jr̥̄- ~ jūr- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+jarimā́ ← jarimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+minā́ti ← √mī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śríyam ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tanū́nām ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ápi ← ápi (invariable)  
+{}
+
+jagamyuḥ ← √gam- (root)  
+{number:PL, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+pátnīḥ ← pátnī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+u ← u (invariable)  
+{}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +193,7 @@ Old age diminishes the beauty of bodies. Bullish (men) should now come  to their
 The first hemistich contains a predicated perfect participle śaśramāṇā́.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/179/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/179/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The final pādas of these two verses depict a neatly contrasting sexual conjunction, with the males serving as subject of the first version and the wives the second. The pādas are almost identical (an effect difficult to convey in English), with only the initial preverb in tmesis and the form of ‘bulls’ differing, since the form of “wives,” though acc. in 1d and nom. in 2d, is the same: 1d ápy ū nú pátnīr vṛ́ṣaṇo jagamyuḥ 2d sám ū nú pátnīr vṛ́ṣabhir jagamyuḥ Both seem to convey a legalistic prescriptive force. See disc. ad X.10.3.
@@ -170,3 +225,4 @@ Viele Jahre habe ich mich spät und früh abgemüht, während die Morgen dem Alt
 Старость уменьшает красоту тела.  
 Разве мужчины никогда не должны входить к (своим) женам?
 </details>
+

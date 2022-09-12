@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+satā́m ← √as- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+urāṇám ← √vr̥- ~ vr̥̄- (root)  
+{case:ACC, gender:M, number:SG, tense:AOR, voice:MED}
+
+paritaṁsayádhyai ← √taṁs- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+prapathíntamam ← prapathíntama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣoṇī́ḥ ← kṣoṇí- ~ kṣoṇī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+anumádanti ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+sūrím ← sūrí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jaiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Um dich, o Held, den sich als besten Stürmer die Tapfern wählen, hin zum Kampf
 Единодушные народы, в опьянении (сомой), (тебя,) Индру,  
 (Те,) что приветствуют покровителя боевыми наградами!
 </details>
+

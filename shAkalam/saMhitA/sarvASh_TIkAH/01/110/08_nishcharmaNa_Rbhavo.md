@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apiṁśata ← √piś- 1 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cármaṇaḥ ← cárman- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+asr̥jata ← √sr̥j- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+vatséna ← vatsá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+saúdhanvanāsaḥ ← saudhanvaná- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+svapasyáyā ← svapasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+akr̥ṇotana ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+jívrī ← jívri- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pitárā ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yúvānā ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Ihr habt, o Ribhu's, aus dem Fell die Kuh geformt, die Mutter habt ihr wieder mi
 О сыновья Судханвана, благодаря (вашему) прекрасному искусству, о мужи,  
 Старых родителей вы сделали юными.
 </details>
+

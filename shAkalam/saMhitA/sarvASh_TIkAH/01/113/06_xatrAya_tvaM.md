@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+kṣatrā́ya ← kṣatrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mahīyaí ← √mahīy- (root)  
+{case:DAT, number:SG}
+
+śrávase ← śrávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tvam ← tva- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvam ← tva- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iṣṭáye ← iṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ityaí ← √i- 1 (root)  
+{case:DAT, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+tvam ← tva- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvam ← tva- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+abhipracákṣe ← √cakṣ- (root)  
+{case:DAT, number:SG}
+
+jīvitā́ ← jīvitá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vísadr̥śā ← vísadr̥śa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ajīgar ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Zur Herrschaft den, zum Ruhmgenuss den andern, den zum Erwerb, und den nach Glü
 Чтобы видны были различные образы жизни,  
 Ушас пробудила все существа.
 </details>
+

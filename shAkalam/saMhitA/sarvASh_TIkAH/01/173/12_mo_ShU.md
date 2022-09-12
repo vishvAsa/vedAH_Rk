@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átra ← átra (invariable)  
+{}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+avayā́ḥ ← avayā́(s)- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+śuṣmin ← śuṣmín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+maháḥ ← máh- (nominal stem)  
+{}
+
+mīḷhúṣaḥ ← mīḍhváṁs- (nominal stem)  
+{case:ACC, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yavyā́ ← yavyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+havíṣmataḥ ← havíṣmant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vándate ← √vandⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +250,4 @@ Nicht sei uns fern, o Indra, nebst den Göttern in Kämpfen, hier ist, starker, 
 У жертвователя, чья плодотворная (?) речь  
 Мощно славит щедрых Марутов.
 </details>
+

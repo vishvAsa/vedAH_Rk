@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jāráḥ ← jārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pápuriḥ ← pápuri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+píparti ← √pr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+carṣaṇíḥ ← carṣaṇí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kúṭasya ← kúṭa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ Der Wasser Buhle füllt mit Trank, o Männer, euch der füllende, Des Hauses Her
 Перевозчик перевозит (вас), о два мужа,  
 (Он) отец горы, подвижный,
 </details>
+

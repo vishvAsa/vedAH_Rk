@@ -14,12 +14,46 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+cr̥tánti ← √cr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+r̥tā́ ← r̥tá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sápantaḥ ← √sap- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vavāca ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -100,7 +134,7 @@ The pf. prá vavāca is one of the very few pf. forms to √vac with full redupl
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/067/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/067/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These two verses are syntactically dependent on each other, consisting of three relative clauses (7ab, cd, 8ab) and a main clause with coreferential pronoun (8cd). However, this structure is complicated by the fact that, though two of the rel.
@@ -135,3 +169,4 @@ Wer ihn erblickte, – der im Versteck lag, wer auf den Strom sich – des Opfer
 
 -ru-
 </details>
+

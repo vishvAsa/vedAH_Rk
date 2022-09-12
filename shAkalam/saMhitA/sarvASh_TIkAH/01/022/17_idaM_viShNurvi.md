@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+cakrame ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tredhā́ ← tredhā́ (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pāṁsuré ← pāṁsurá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sámūḷham ← √vah- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,8 +137,6 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अन्ये पुनराहुः - **इदं विश्वं विष्णुर्** व्यापी आदित्यात्मा **विचक्रमे** विक्रमते विभज्य प्राप्नोति **त्रेधा** पृथिव्याम् अन्तरिक्षे दिवि च पदं निदधाति अग्नि-विद्युत्-सूर्यात्मना त्रिषु स्थानेषु पादन्यासं करोति । अस्य विष्णोः **पांसुरे** त्वन्तरिक्षे स[य]त्पदं विद्युद्रूपं तदेव **समूढं** सम्मूढं कारणानित्यत्वात् सर्वदा न दृश्यते । (मनो) यथेतरे ज्योतिषी सम्यग् गृह्येते दृष्ट्या सोऽयम् आदित्य इदं यज्ञम् अनेन होमेन समापयत्व् इति ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -128,14 +160,12 @@ Through all this world strode Visnu; thrice his foot he planted, and the whole
      Was gathered in his footstep's dust.
 </details>
 
-
 <details><summary>Keith</summary>
 
 Over this Visnu strode;  
 Thrice did he set down his foot;  
 (All) is gathered [1] in its dust.
 </details>
-
 
 <details><summary>Geldner</summary>
 
@@ -153,3 +183,4 @@ Vischnu durchschritt die ganze Welt, trat dreimal nieder mit dem Fuss, An seinem
 Трижды запечатлел он (свой) след.  
 В его пыльном (следе все) сосредоточено.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+dvaú ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+upásthā ← upástha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bhúvane ← bhúvana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ékā ← éka- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+virāṣā́ṭ ← virāṣáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yamásya ← yamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+amŕ̥tā ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+āṇím ← āṇí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ráthyam ← ráthya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tasthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bravītu ← √brū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+cíketat ← √cit- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +241,4 @@ Drei Himmel sind's: des Savitar zwei Sitze, in Jama's Reich der dritte, Männer 
 Все бессмертное покоится на нем, как колесо – на чеке.  
 Кто это постиг, пусть здесь провозгласит!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áyugdhvam ← √yuj- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+pŕ̥ṣatīḥ ← pŕ̥ṣant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+raṁháyantaḥ ← √raṁh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vā́je ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+aruṣásya ← aruṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+syanti ← √sā- ~ si- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cárma ← cárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+udábhiḥ ← udán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+undanti ← √ud- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +211,7 @@ The inundation of the skin in pāda 4 presumably refers to the wetting of hides 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/085/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/085/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 Verse 5 is an intrusive Triṣṭubh in this Jagatī hymn. (The final verse is also in Triṣṭubh, but meter change is more usual in concluding verses.) The transition between the meters is cleverly managed here (as Oldenberg already pointed out): the final word of 4d (in Jagatī) and 5a (in Triṣṭubh) is áyugdhvam. The ending has the distracted reading -dhu vam in 4d, but is simply -dhvam in 5a. The reason for the change in meter is unclear to me.
@@ -182,3 +243,4 @@ Wenn an die Wagen ihr die Hirsche schirrtet, im Kampf, o Maruts, schleudernd eur
 И вот они развязывают потоки алого (жеребца),  
 Как кожаный мешок (для воды); они заливают землю водой.
 </details>
+

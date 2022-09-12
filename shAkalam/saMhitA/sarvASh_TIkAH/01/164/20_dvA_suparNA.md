@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dvā́ ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sákhāyā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sayújā ← sayúj- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+suparṇā́ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pári ← pári (invariable)  
+{}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sasvajāte ← √svaj- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+vr̥kṣám ← vr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átti ← √ad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+píppalam ← píppala- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svādú ← svādú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+táyoḥ ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+abhí ← abhí (invariable)  
+{}
+
+ánaśnan ← ánaśnant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cākaśīti ← √kāś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Zwei schöngeflügelte zusammengeschirrte Genossen [Tag und Nacht] umschlingen d
 Один из них ест сладкую винную ягоду,  
 Другой наблюдает, не вкушая.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jaghanvā́n ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+mitrérūn ← mitréru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ádāśūn ← ádāśu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+codápravr̥ddhaḥ ← codápravr̥ddha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aryamáṇam ← áryaman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyóḥ ← āyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+páśyan ← √paś- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sácā ← sácā (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+ápatyam ← ápatya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śūrtā́ḥ ← √śr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+váhamānāḥ ← √vah- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Vom Trank gestärkt erschlugst du die verschwornen, die gottvergessnen, Indra, H
 (Твои враги,) которые увидели перед (собой) Арьямана вместе с Аю,  
 Разбитые тобой, когда они везли (свое) потомство...
 </details>
+

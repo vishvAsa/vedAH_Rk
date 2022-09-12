@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mitra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rātíḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+stuṣé ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pajré ← pajrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pr̥kṣáyāmeṣu ← pr̥kṣáyāma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+priyárathe ← priyáratha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śrutárathe ← śrutáratha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+nirundhānā́saḥ ← √rudh- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+puṣṭím ← puṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +191,7 @@ The transition between the All God portion of the hymn and the dānastuti is eas
 The locc. pajré / śrutárathe priyárathe mark these men as givers, which makes some trouble, since Kakṣīvant’s family seems to be called Pajra (quite possibly in the next verse and in I.126.4-5) and Kakṣīvant himself pajriyá- (I.116.7, 117.6, 120.5). Nonetheless, grammar can’t be gainsaid, and they must be patrons here. See Geldner’s n. 7bc for attempts to reconcile the discrepancies.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/122/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/122/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 The passively used 3rd sg. stuṣé (7a), stuṣe (8a) contrast in function with the great majority of stuṣé / stuṣe forms, which are 1st sg. and “active” in sense (“I (will) praise”). This rare usage may be mediated through the perception of the accented forms as infinitives; see disc. ad X.22.1.
@@ -171,3 +223,4 @@ Gepriesen wird, o Mitra-Varuna, vor euch diese Gabe; [ich empfing] von den Priks
 У Паджры, Шрутаратхи, Прияратхи,  
 Они тотчас отправились, запирая (коров – свое) процветание.
 </details>
+

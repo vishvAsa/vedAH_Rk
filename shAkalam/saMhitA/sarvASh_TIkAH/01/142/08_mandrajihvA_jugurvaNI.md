@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
+#### Morph
+jugurváṇī ← jugurváṇi- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mandrájihvā ← mandrájihva- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+daívyā ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hótārā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kavī́ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yakṣatām ← √yaj- (root)  
+{number:DU, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+adyá ← adyá (invariable)  
+{}
+
+divispŕ̥śam ← divispŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sidhrám ← sidhrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +177,4 @@ Die weisen Götterpriester, die mit holder Zunge preisen gern, Dies Opfer mögen
 Пусть принесут эту жертву для нас  
 Сегодня достигающую цели, касающуюся неба!
 </details>
+

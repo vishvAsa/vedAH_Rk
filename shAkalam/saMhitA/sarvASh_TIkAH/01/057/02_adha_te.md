@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+asat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+iṣṭáye ← iṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+havíṣmataḥ ← havíṣmant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+nimnā́ ← nimná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+haryatáḥ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+párvate ← párvata- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+samáśīta ← √śā- ~ śī- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hiraṇyáyaḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śnáthitā ← śnáthitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +219,7 @@ With Geldner I supply a verb of motion in b, because the “like waters to the d
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/057/02-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/057/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 A bit of word play in the sequence haryatá(ḥ) (2c), haríto (3d), harya tád (4d).
@@ -187,3 +251,4 @@ Es muss ja alles deinem Antrieb eilen nach, wie in das Thal Gewässer, wie des O
 Когда словно (нож) о камень, была отточена желанная  
 Ваджра Индры, пронзающая, золотая.
 </details>
+

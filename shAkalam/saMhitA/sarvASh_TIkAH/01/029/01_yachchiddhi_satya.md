@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+satya ← satyá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+somapāḥ ← somapā́- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+anāśastā́ḥ ← anāśastá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+smási ← √as- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śaṁsaya ← √śaṁs- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tú ← tú (invariable)  
+{}
+
+áśveṣu ← áśva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śubhríṣu ← śubhrí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sahásreṣu ← sahásra- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+tuvīmagha ← tuvī́magha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Wenn, wahrer Somatrinker, wir auch sind wie ungepriesene, Du, Indra, mach uns he
 Дай же нам, о Индра, надежду  
 (В виде) коров, коней, тысячи прекрасных (благ), о (ты,) очень богатый!
 </details>
+

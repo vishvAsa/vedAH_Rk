@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́yudhā ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+parāṇúde ← √nud- (root)  
+{case:DAT, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sthirā́ ← sthirá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+pratiṣkábhe ← √skambhⁱ- (root)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vīḷú ← vīḷú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pánīyasī ← pánīyaṁs- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+táviṣī ← táviṣī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuṣmā́kam ← tvám (pronoun)  
+{case:GEN, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mártyasya ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+māyínaḥ ← māyín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Es mögen eure Waffen fest zum Widerstand und haltbar auch zum Angriff sein, Und
 Да будет ваша сила удивительнее,  
 Чем (сила) колдуна-смертного!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+aśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+prasrávaṇasya ← prasrávaṇa- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vírudrasya ← vírudra- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+agástyaḥ ← agástya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+narā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nŕ̥ṣu ← nár- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+práśastaḥ ← √śaṁs- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+citayat ← √cit- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+kā́rādhunī ← kā́rādhunī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sahásraiḥ ← sahásra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +202,7 @@ But given the other intractable problems in this hymn, it seems one of the lesse
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/180/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/180/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 The poet then turns to the Aśvins’ part in this system and in 7cd presents another causal clause, parallel to the one in ab. Note the parallel openings 7a vayáṃ cid dhí and 7c ádhā cid dhí. This subordinated causal expression continues into vs. 8, with another parallel causal clause occupying 8ab and introduced in a similar way: 8a yuvā́ṃ cid dhí. In my, admittedly complex, interpr. of these verses, the 1st plural singers of 7ab modulate into the single (3rd ps.) singer Agastya in 8cd; this modulation is eased by not naming him until we reach the triumphant main clause of 8cd, where he boasts of the great wealth he has acquired from his poetry -- just like the singers of 7ab. And the transition from 1st ps. singers to 3rd ps. singer is enabled by omitting both subj. and verb in 8ab, where a human ritualist or ritualists should be the agents (see below) but where the ps. and no. of any verb would be problematically telltale.
@@ -183,3 +238,4 @@ Denn euch hat täglich auch gerühmt, o Ritter, bei jeder Spende glanzbegabten T
 Агастья среди мужей прославлен мужами.  
 Словно боевой гонг (?) (- победами), он отмечен тысячами (гимнов).
 </details>
+

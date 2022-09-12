@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Archaic
 
-## Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+kám ← kám (invariable)  
+{}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vā́śīḥ ← vā́śī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kr̥ṇavante ← √kr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+medhā́ḥ ← medhā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ūrdhvā́ ← ūrdhvá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kám ← kám (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sujātāḥ ← sujātá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yuṣmábhyam ← tvám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhanayante ← √dhanⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+tuvidyumnā́saḥ ← tuvidyumná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +227,4 @@ Streitäxte sind zum Schmuck an euren Leibern, sie lassen ihre Schäfte wie Bäu
 Только для вас, о Маруты прекраснорожденные,  
 (Жрецы) с могучим озарением приводят в движение давильный камень.
 </details>
+

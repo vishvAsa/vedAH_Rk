@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+atharvyàm ← atharvī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhanasā́m ← dhanasā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viśpálām ← viśpálā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ájinvatam ← √ji- 2 ~ jinv- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+sahásramīḷhe ← sahásramīḷha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+aśvyám ← aśvyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́vatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+preṇím ← preṇí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váśam ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+u ← u (invariable)  
+{}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Durch die ihr halft im tausendfach verschlungnen Kampf der Viçpala, der gabenre
 Какими – помогли Ваше Ашвье, певцу (?),  
 С этими самыми поддержками приходите сюда, о Ашвины!
 </details>
+

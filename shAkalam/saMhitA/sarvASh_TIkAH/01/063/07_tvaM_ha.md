@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ha ← ha (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yúdhyan ← √yudh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dardar ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+purukútsāya ← purukútsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sudā́se ← sudā́s- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+várk ← √vr̥j- 1 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aṁhóḥ ← aṁhú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+pūráve ← pūrú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+várivaḥ ← várivas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +219,7 @@ When at will you twisted them like ritual grass for Sudās, o king, from  narrow
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
 
 tváṃ ha tyád provides the opening of the next four verses. Although tyád is a neut. pronoun and in 4a could function as the object of the otherwise object-less codīḥ, in the following verses it does not have pronominal function; the expression X ha tyád is a way of providing emphasis, particular of the 2nd ps. pronoun (cf., e.g., VII.19.2, VIII.96.16-18). I would now be inclined to tr. the vss. in this sequence with “It was just you who …” rather than the rather recessive “You then, …”
@@ -187,3 +251,4 @@ Du, Indra, hast zerstört die sieben Burgen, o Blitzesherr, für Purukutsa kämp
 (Тем,) что для Судаса ты легко бросал наземь (врагов), словно жертвенную солому,  
 Ты создал для Пуру широкий выход из бедствия, о царь.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+áṅgirastamaḥ ← áṅgirastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áṅgirobhiḥ ← áṅgiras- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhibhiḥ ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣabhiḥ ← vŕ̥ṣan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gātúbhiḥ ← gātú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+jyéṣṭhaḥ ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥gmī́ ← r̥gmín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+r̥gmíbhiḥ ← r̥gmín- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+bhavatu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marútvān ← marútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +204,7 @@ In b sán is one of the (fairly few) examples of the nominative of the pres.
 part. to √as that is not concessive (“although being ...”). The phrase sákhibhiḥ sákhā sán is, as Geldner points out (n. 4b), structurally identical to I.76.5 kavíbhiḥ kavíḥ sán, where the sán also lacks concessive force.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/100/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/100/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The pattern of instrumentals set in vs. 4 -- “X with the X-es,” that is, “X among the X-es” -- appears to continue in 5a and c, but the instrumentals there are used differently.
@@ -181,3 +236,4 @@ Der beste Angiras mit Angirasen, ein Stier mit Stieren, Freund ist er mit Freund
 С гимнотворцами гимнотворцем, с певцами – лучшим, -  
 Сопровождаемый Марутами да будет нам Индра в помощь!
 </details>
+

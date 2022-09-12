@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+avamā́rjanāni ← avamā́rjana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vājin ← vājín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+nidhā́nā ← nidhā́na- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sanitúḥ ← sanitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śaphā́nām ← śaphá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+apaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+raśanā́ḥ ← raśanā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+abhirákṣanti ← √rakṣⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +186,7 @@ As in I.162.14 I take the -ana-nominals here (avamā́rjana- and nidhā́na-) as
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/163/05-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/163/05-07.md">
 <details open><summary><h2>05-07 ...{Loading}...</h2></summary>
 
 Note the apaśyam ‘I saw’ in all three verses (5c, 6c, 7a): the poet bears witness to his sight of various mystical visions of the horse.
@@ -166,3 +218,4 @@ Hier habe ich, o Ross, deine Striegel, hier neben dir die Tritte deiner Hufe erb
 Здесь я увидел твои несущие счастье поводья,  
 Которые охраняют пастырей закона.
 </details>
+

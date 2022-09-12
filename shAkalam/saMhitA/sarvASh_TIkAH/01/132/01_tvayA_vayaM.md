@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,85 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+dháne ← dhána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pū́rvye ← pū́rvya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+índratvotāḥ ← índratvota- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pr̥tanyatáḥ ← √pr̥tany- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sāsahyāma ← √sah- (root)  
+{number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+vanuṣyatáḥ ← √vanuṣ(y)- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vanuyā́ma ← √vanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+áhani ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+nédiṣṭhe ← nédiṣṭha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+voca ← √vac- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+bháre ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+cayema ← √ci- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ví ← ví (invariable)  
+{}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bháre ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vājayántaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,3 +297,4 @@ Durch dich, o mächtiger, mögen wir in dem alten Kampfe, von dir, o Indra, unte
 В этой жертве мы хотим узреть счастливый бросок в состязании,  
 Желая награды – счастливый бросок в состязании!
 </details>
+

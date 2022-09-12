@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+patatríṇaḥ ← patatrín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arjuni ← árjuna- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+cátuṣpat ← cátuṣpad- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dvipát ← dvipád- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+āran ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+r̥tū́n ← r̥tú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ántebhyaḥ ← ánta- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +180,4 @@ Die Vögel, die geflügelten, was zwei und was vier Füsse hat, Erhob sich stets
 Пришли в движение в установленные для тебя часы, о Ушас,  
 Со (всех) концов неба.
 </details>
+

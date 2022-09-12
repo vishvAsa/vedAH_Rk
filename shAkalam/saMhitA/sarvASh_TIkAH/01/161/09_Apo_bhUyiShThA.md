@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abravīt ← √brū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhū́yiṣṭhāḥ ← bhū́yiṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+abravīt ← √brū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́yiṣṭhaḥ ← bhū́yiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+abravīt ← √brū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bahúbhyaḥ ← bahú- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vadharyántīm ← √vadhary- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+apiṁśata ← √piś- 1 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+camasā́n ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥tā́ ← r̥tá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vádantaḥ ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Der eine sprach: »das Wasser ist das herrlichste«; der andre sprach: »Nein, F
 Один назвал жаждущую небесного оружия (землю как главную) перед многими (другими).  
 Говоря о вещах, связанных с законом, вы украшали кубки.
 </details>
+

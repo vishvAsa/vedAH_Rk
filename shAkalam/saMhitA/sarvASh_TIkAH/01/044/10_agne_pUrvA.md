@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+pū́rvāḥ ← pū́rva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vibhāvaso ← vibhā́vasu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dīdétha ← √dī- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+viśvádarśataḥ ← viśvádarśata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+grā́meṣu ← grā́ma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+puróhitaḥ ← puróhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mā́nuṣaḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñéṣu ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +204,4 @@ Denn frühem Morgen strahltest du, o Agni, nach, allsichtbar, strahlenreicher du
 Ты – защитник в деревнях, ты поставлен во главе  
 На жертвоприношениях, (ты,) близкий человеку.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+indrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+turváśeṣu ← turváśa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yáduṣu ← yádu- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánuṣu ← ánu- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+druhyúṣu ← druhyú- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+pūrúṣu ← pūrú- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+stháḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átas ← átas (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yātám ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+pibatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +239,4 @@ Wenn, bei den Jadu's, Turvaça's ihr weilet, bei Druhju's, Anu's, Puru's, Indra-
 Оттуда, о два быка, возвращайтесь вы к нам  
 И напейтесь выжатого сомы!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+nā́satyābhyām ← nā́satya- (nominal stem)  
+{case:DAT, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+vr̥ñje ← √vr̥j- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+abhríyā ← abhríya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+iyarmi ← √r̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+stómān ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árbhagāya ← árbhaga- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jāyā́m ← jāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vimadā́ya ← vimadá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yaú ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+nyūhátuḥ ← √vah- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+senājúvā ← senājū́- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Den Treuen treib' ich wie der Wind die Wolken die Lieder zu und schmück' wie ei
 (Для тех), которые для юного Вимады привезли  
 Жену на колеснице, быстрой, как стрела,
 </details>
+

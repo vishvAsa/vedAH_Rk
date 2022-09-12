@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dvaráḥ ← dvará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvaríṣu ← dvarí(n)- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ū́dhani ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vavráḥ ← vavrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+candrábudhnaḥ ← candrábudhna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádavr̥ddhaḥ ← mádavr̥ddha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manīṣíbhiḥ ← manīṣín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ahve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svapasyáyā ← svapasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+máṁhiṣṭharātim ← máṁhiṣṭharāti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pápriḥ ← pápri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +245,4 @@ Der Sieger schmiegte an der Sieger Busen sich, in Glanz gewurzelt durch die Prie
 Индру этого я призвал благим деянием и молитвой,  
 (Его,) чьи дары самые щедрые: ведь он полон сомы.
 </details>
+

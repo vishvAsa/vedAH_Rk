@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{}
+
+tośátamāḥ ← tośátama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+praṇetā́raḥ ← praṇetár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tāyóḥ ← r̥tāyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mr̥ḷayantu ← √mr̥ḍ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gātūyánti ← √gātūy- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Bei dir, o Indra, sind die reichsten Gaben, die, welche jeden frommgesinnten fö
 Пусть же сжалятся над нами эти Маруты,  
 Боги, еще раньше стремившиеся найти выход!
 </details>
+

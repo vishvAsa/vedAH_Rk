@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jaraṇyáyā ← jaraṇyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nírr̥tam ← √r̥- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+vándanam ← vándana- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+invathaḥ ← √i- 2 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+karaṇā́ ← karaṇá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+janathaḥ ← √janⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+kṣétrāt ← kṣétra- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+vipanyáyā ← vipanyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vípram ← vípra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+daṁsánā ← daṁsánā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vidhaté ← √vidh- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Ihr Helfer habt den altersmorschen Vandana wie Künstler einen Wagen neu zurecht
 Под восхваления вы вызываете рождение вдохновенного (певца) из чрева.  
 Да проявится здесь ваша чудесная сила для почитающего (вас)!
 </details>
+

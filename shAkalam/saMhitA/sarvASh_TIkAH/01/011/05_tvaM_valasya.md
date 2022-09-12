@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gómataḥ ← gómant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+valásya ← valá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+āvar ← √vr̥- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+bílam ← bíla- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ábibhyuṣaḥ ← ábibhīvaṁs- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+āviṣuḥ ← √avⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+tujyámānāsaḥ ← √tuj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:PASS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +174,4 @@ Du Schleuderer hast aufgethan des rinderreichen Vala Schloss; Die Schar der Göt
 Тебя поддержали боги,  
 (Тобой) бесстрашным вдохновляемые.
 </details>
+

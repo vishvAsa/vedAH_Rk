@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+avás ← avás (invariable)  
+{}
+
+páreṇa ← pára- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+anuvéda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ávareṇa ← ávara- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kavīyámānaḥ ← √kavīy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+vocat ← √vac- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+devám ← devá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kútas ← kútas (invariable)  
+{}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prájātam ← √janⁱ- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Wer dieses Kalbes Vater unter dem höheren Raume über diesem niederen recht erk
 Проявляя себя прозорливцем, провозгласит здесь:  
 Божественная мысль откуда родилась?
 </details>
+

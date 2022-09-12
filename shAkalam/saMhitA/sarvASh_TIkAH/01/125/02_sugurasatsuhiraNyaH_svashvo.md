@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sugúḥ ← sugú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suhiraṇyáḥ ← suhiraṇyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sváśvaḥ ← sváśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āyántam ← √i- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prātaritvaḥ ← prātarítvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vásunā ← vásu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mukṣī́jayā ← mukṣī́jā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pádim ← pádi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utsinā́ti ← √sā- ~ si- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Schöne Rinder und Rosse, schönes Gold wird dem zu Theil, und grosse Lebenskraf
 (Тому,) кто тебя, приходящего с добром, о утренний гость,  
 Ловит, как птицу – силком.
 </details>
+

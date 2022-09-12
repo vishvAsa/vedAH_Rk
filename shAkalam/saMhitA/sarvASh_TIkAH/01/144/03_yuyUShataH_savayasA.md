@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+sávayasā ← sávayas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vápuḥ ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yúyūṣataḥ ← √yu- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mithás ← mithás (invariable)  
+{}
+
+samānám ← samāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vitáritratā ← √tr̥̄- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+ā́t ← ā́t (invariable)  
+{}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+ayaṁsta ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+raśmī́n ← raśmí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+sā́rathiḥ ← sā́rathi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vóḷhuḥ ← vóḷhar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +243,7 @@ yatáḥ to contrast with act. transitive yámati. But in 144.3, because of the 
 Note that Oldenberg in SBE follows the syntactic division at pāda boundary in our 3cd, but in the Noten explicitly changes his view, taking asmád ā́with what follows as I do. I cannot follow his interpr. thereof, however: “Agni lenkt die Fahrt zu uns hin.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/144/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/144/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 The pair sávayasā ‘of the same vigor’ in these two verses have been variously identified: Sāyaṇa, Oldenberg (SBE, by implication), Hotar and Adhvaryu; Geldner, Renou, the two arms of the fire churner. I think it rather to be the two kindling sticks. As noted above, the dual participle in vitáritratā 3b here reminds us of the dual verb tarete in I.140.3, whose subj. is, by consensus, the two kindling sticks. In that same passage they are described as sakṣítā ‘sharing the same abode’, which matches samāné yónā … sámokasā “in the same womb … sharing the same dwelling” in our 4b.
@@ -210,3 +280,4 @@ Um seine Schönheit buhlen Tag und Nacht gepaart, die wechselweise gleichem Ziel
 И вот (он), как Бхага, достойный призывов с нашей стороны,  
 Взял вожжи, как возница – (вожжи) у запряженного животного.
 </details>
+

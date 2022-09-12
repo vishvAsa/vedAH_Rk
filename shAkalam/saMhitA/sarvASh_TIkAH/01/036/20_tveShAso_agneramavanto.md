@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ámavantaḥ ← ámavant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arcáyaḥ ← arcí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tveṣā́saḥ ← tveṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhīmā́saḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+prátītaye ← prátīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+rakṣasvínaḥ ← rakṣasvín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sádam ← sádam (invariable)  
+{}
+
+yātumā́vataḥ ← yātumā́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+atríṇam ← atrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+daha ← √dah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ Des Agni lichte ungestüme Flammenschar, ist furchtbar und unnahbar stets, Die b
 Сжигай всегда ракшасоподобных,  
 Колдовских, любого атрина!
 </details>
+

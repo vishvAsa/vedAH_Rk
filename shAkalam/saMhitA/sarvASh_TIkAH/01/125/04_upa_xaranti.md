@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kṣaranti ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mayobhúvaḥ ← mayobhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ījānám ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+yakṣyámāṇam ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:FUT, voice:MED}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+pápurim ← pápuri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥ṇántam ← √pr̥̄- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śravasyávaḥ ← śravasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Es rinnen lustbringende Ströme, die Milchtränke, hin zu dem, der geopfert hat,
 К дарящему и щедрому мчатся  
 Со всех сторон потоки жира, несущие славу.
 </details>
+

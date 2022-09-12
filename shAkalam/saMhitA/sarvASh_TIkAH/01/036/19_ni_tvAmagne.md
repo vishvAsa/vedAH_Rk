@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mánuḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śáśvate ← śáśvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dīdétha ← √dī- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+káṇve ← káṇva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+r̥tájātaḥ ← r̥tájāta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukṣitáḥ ← √vakṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kr̥ṣṭáyaḥ ← kr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+namasyánti ← √namasy- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +205,4 @@ Dich, Agni, setzte Manus ein, als Licht dem ganzen Menschenstamm, Durch Recht er
 Ты сверкал у Канвы, рожденный законом, окропленный (маслом),  
 (Тот), кому поклоняются народы.
 </details>
+

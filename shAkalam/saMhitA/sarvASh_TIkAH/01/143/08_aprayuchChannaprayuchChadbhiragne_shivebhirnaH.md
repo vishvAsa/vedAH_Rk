@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áprayuchadbhiḥ ← áprayuchant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áprayuchan ← áprayuchant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pāyúbhiḥ ← pāyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śagmaíḥ ← śagmá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śivébhiḥ ← śivá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ádabdhebhiḥ ← ádabdha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ádr̥pitebhiḥ ← ádr̥pita- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+iṣṭe ← iṣṭí- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ánimiṣadbhiḥ ← ánimiṣant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+jā́ḥ ← jā́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +215,4 @@ Behüte uns mit holden starken Hütern, mit unabläss'gen, Agni, unablässig, Mi
 С не допускающими обмана, нерассеянными, желанными,  
 Не смыкающими глаз (защитниками) защити со всех сторон наше потомство!
 </details>
+

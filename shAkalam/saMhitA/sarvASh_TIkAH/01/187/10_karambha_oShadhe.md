@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+karambháḥ ← karambhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+oṣadhe ← óṣadhi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+pī́vaḥ ← pī́vas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+udārathíḥ ← udārathí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥kkáḥ ← vr̥kká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+pī́vaḥ ← pī́vas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́tāpe ← vātāpi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +163,4 @@ Als Gerstenbrei erschein, o Kraut, als Nierenfett, als Gärungstrank, Dann werde
 В жир, в почечное сало..!  
 Превратись в жир (для нас), о друг Ваты!
 </details>
+

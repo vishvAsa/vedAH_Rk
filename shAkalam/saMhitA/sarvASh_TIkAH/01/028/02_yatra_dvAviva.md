@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D;; repeated line  
 genre D;; repeated line
+#### Morph
+dvaú ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+jaghánā ← jaghána- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yátra ← yátra (invariable)  
+{}
+
+adhiṣavaṇyā̀ ← adhiṣavaṇyà- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kr̥tā́ ← √kr̥- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+ulū́khalasutānām ← ulū́khalasuta- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+jalgulaḥ ← √gr̥̄- 2 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +173,4 @@ Dort, wo der Presse Platten wie zwei Hüften zubereitet sind, Da schlinge, Indra
 Заглатывай же (там), о Индра,  
 Соки, выжатые в ступке!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+jajñe ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+mamattu ← √mad- (root)  
+{number:SG, person:3, mood:IMP, tense:PRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+taráṇiḥ ← taráṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+roci ← √ruc- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ā́ṣṭa ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svéduhavyaiḥ ← svéduhavya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jaráṇā ← jaráṇā- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+siñcán ← √sic- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sruvéṇa ← sruvá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Da ward der Indusaft erzeugt, der vordringende berausche dich; er erglänzte wie
 Сок (сомы), – усилиями тех, кто приносит в жертву (свой) пот,  
 Благодаря которым (жрец,) разливающий (сому) ковшом, достиг старых установлений (обряда).
 </details>
+

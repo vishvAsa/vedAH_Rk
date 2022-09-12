@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agnínā ← agní- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+gā́trāt ← gā́tra- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+pacyámānāt ← √pac- (root)  
+{case:ABL, gender:N, number:SG, tense:PRS, voice:PASS}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+avadhā́vati ← √dhāv- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+níhatasya ← √han- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+śū́lam ← śū́la- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhū́myām ← bhū́mi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śriṣat ← √śriṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tŕ̥ṇeṣu ← tŕ̥ṇa- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+rātám ← √rā- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+uśádbhyaḥ ← √vaś- (root)  
+{case:DAT, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Was aus deinem am Feuer gebratenen Gliede, wenn du an den Bratspiess gesteckt bi
 Да не пристанет оно ни к земле, ни к травам!  
 Пусть будет это пожертвование жаждущим богам!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ativrájadbhiḥ ← √vraj- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+kṣápaḥ ← kṣáp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pataṁgaíḥ ← pataṁgá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ārdrásya ← ārdrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhánvan ← dhánvan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pāré ← pārá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+samudrásya ← samudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ráthaiḥ ← rátha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ṣáḷaśvaiḥ ← ṣáḷaśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śatápadbhiḥ ← śatápad- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tribhíḥ ← trí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Ihr Treuen fuhrt drei Tage und drei Nächte den Bhudschju hin zum Strand des feu
 На берег моря, на ту сторону хляби,  
 На трех колесницах о сотне ног, о шести конях.
 </details>
+

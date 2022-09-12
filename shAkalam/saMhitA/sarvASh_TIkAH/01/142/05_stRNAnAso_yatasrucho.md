@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+str̥ṇānā́saḥ ← √str̥̄- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+yatásrucaḥ ← yatásruc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svadhvaré ← svadhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+devávyacastamam ← devávyacastama- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vr̥ñjé ← √vr̥j- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sapráthaḥ ← sapráthas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +177,4 @@ Die Löffelreicher breiten aus die Streu beim schönen Opferfest; Ich schmück' 
 Я переворачиваю (ее, чтоб она дала) больше места богам,  
 (Чтобы стала) широкой защитой для Индры.
 </details>
+

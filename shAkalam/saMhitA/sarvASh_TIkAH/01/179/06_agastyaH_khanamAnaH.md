@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agástyaḥ ← agástya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+khánamānaḥ ← √khanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+khanítraiḥ ← khanítra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ápatyam ← ápatya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bálam ← bála- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ichámānaḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+prajā́m ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pupoṣa ← √puṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ubhaú ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+várṇau ← várṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+āśíṣaḥ ← āśís- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+jagāma ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+satyā́ḥ ← satyá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Agastja, grabend mit den Schaufeln (?), Nachkommenschaft und Kraft begehrend, ha
 Привел к процветанию обе варны, (этот) грозный риши.  
 (Когда) исполнились (его) желания, он отправился к богам.
 </details>
+

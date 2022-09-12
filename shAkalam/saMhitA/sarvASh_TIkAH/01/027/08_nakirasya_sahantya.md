@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+sahantya ← sahantya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+káyasya ← káya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+paryetā́ ← paryetár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śravā́yyaḥ ← śravā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jaḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +149,4 @@ Wer er auch sei, o mächtiger, den überwältigt keiner je, Und rühmenswerth is
 Кем бы он ни был, о одолевающий!  
 Награда, достойная славы, – (его доля).
 </details>
+

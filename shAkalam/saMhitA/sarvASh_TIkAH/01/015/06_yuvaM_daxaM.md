@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dákṣam ← dákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhr̥tavratā = ← dhr̥távrata- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+dūḷábham ← dūḷábha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mítrāvaruṇā = ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+āśāthe ← √naś- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:MED}
+
+r̥túnā ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +141,4 @@ Ihr treuen, Mitra-Varuna, besitzt untrüglichen Verstand, Das Opfer nahmt ihr na
 Достигли непреодолимой силы действия  
 (И) жертвы (, получаемой) в урочное время.
 </details>
+

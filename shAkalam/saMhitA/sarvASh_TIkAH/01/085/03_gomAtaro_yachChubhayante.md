@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+añjíbhiḥ ← añjí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gómātaraḥ ← gómātar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śubháyante ← √śubh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+śubhrā́ḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+virúkmataḥ ← virúkmant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+abhimātínam ← abhimātín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+bā́dhante ← √bādhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+víśvam ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rīyate ← √rī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vártmāni ← vártman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Wenn sich mit Schmuck die kuhentsprossenen versehn dann legen glänzend sie sich
 Они гонят прочь любого преследователя.  
 Жир струится вслед за ними на (их) пути.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+budhnā́t ← budhná- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+mahiṣásya ← mahiṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+várpasaḥ ← várpas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+īśānā́saḥ ← √īś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+kránta ← √kr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ādhavé ← ādhavá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+mātaríśvā ← mātaríśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mathāyáti ← √mathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Wenn aus der Tiefe, aus des Büffels Scheingestalt die starken Fürsten ihn erze
 Когда его, спрятанного в течение (многих) дней  
 В сосуде для смешивания сладкого (сомы), похищает Матаришван,
 </details>
+

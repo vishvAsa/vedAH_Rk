@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kam ← kam (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vīryā̀ṇi ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víṣṇoḥ ← víṣṇu- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vocam ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+pā́rthivāni ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vimamé ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áskabhāyat ← √skambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sadhástham ← sadhástha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úttaram ← úttara- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tredhā́ ← tredhā́ (invariable)  
+{}
+
+urugāyáḥ ← urugāyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vicakramāṇáḥ ← √kramⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +181,6 @@ genre M
 किं कुर्वन्न् इत्य् आह – **विचक्रमाणस् त्रेधा** त्रिषु लोकेषु विभज्य क्रममाणः पदत्रयं कुर्वन् । लिटः कानजादेशः । **उरुगायः** उरुभिर् महात्मभिर् गायत इति उरुगायः । कै गै शब्दे, घञि 'आतो युक्चिण्कृतोः' इति युक्, थाथादिना उत्तरपदान्तोदात्तत्वम् । यद्वा - उरुभिर् गन्तव्यः । गाङ् गतौ । य इत्थमित्थमकरोत्तस्य विष्णोर्वीर्यार्णि प्रवोचम् स मेधीदार्ढ्यं करोत्विति ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -192,3 +243,4 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 Который укрепил верхнее общее жилище,  
 Трижды шагнув, (он,) далеко идущий.
 </details>
+

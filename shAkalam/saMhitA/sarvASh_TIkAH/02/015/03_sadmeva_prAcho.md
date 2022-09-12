@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+iva ← iva (invariable)  
+{}
+
+mā́naiḥ ← mā́na- 3 (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mimāya ← √mi- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+prā́caḥ ← prā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sádma ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+atr̥ṇat ← √tr̥d- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+khā́ni ← khá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+asr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dīrghayāthaíḥ ← dīrghayāthá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Wie Bauten mass er aus die Bahnen messend, den Strömen bohrte Rinnen mit dem Bl
 Он пустил (воды) весело течь по (их) долгобегущим путям.  
 В опьянении сомой Индра совершил эти (подвиги).
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+vā ← vā (invariable)  
+{}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yajñavāhasaḥ ← yajñavāhas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+márutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śr̥ṇutá ← √śru- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +131,7 @@ My interpretation requires matīnā́m to be construed with hávam “the call o
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 As discussed in the published introduction, the syntax of these two verses is to be interpreted in the template provided by vs. 1, namely a relative clause (or clauses) expressing the beneficiary of the Maruts’ favor with the genitive yásya and a main clause assigning a reward to him. The full structure is seen in 1ab (rel. cl. with yásya) / 1c main clause with coreferential sá. Verses 2 and 3ab serve as the relative clauses to the main clause of 3c, also beginning sá. However, the relative pronoun is suppressed until 3a and the structure of parallel relative clauses is only conveyed by the repeated vā ‘or’ (2a, 2b, 3a). Indeed, though 2b contains a genitive of the human beneficiary (víprasya), 2a lacks even that: we must infer a yásya to limit the yajñaíḥ, as well as a verb to construe with that instrumental. I would diagram the structure as follows, with what is to be supplied in parentheses: template, vs. 1: yásya … pāthā́(2nd ps. pl. verb) (1ab) / sá for whom … you Maruts perform benevolent action (1c) / he is (rewarded) complex variation, vss. 2-3 (yásya) yajñaíḥ vā (2nd ps. verb) (2a) or by (whose) sacrifices (you were attracted?) (yásya) víprasya vā … śṛṇutā́(2bc) or of (which) poet … you heard utá vā yásya vājínaḥ … átakṣata (3ab) / sá or of which prize-seeker … you fashioned / he is (rewarded) This interpretation differs significantly from that of other tr. In particular, vs. 2 is generally taken as an independent sentence that does not parallel the yásya structures of vss. 1 and 3 and that has śṛṇutā́as the verb of a main clause, not of a subordinate clause, as I take it. (By that account śṛṇutā́is accented because it follows the extraclausal vocative that opens the pāda.) Although my interpretation requires several elements to be supplied, esp. in vs. 2, most other tr. also supply a verb with 2ab, and they fail to capture the structural parallelism that allows the ellipses to be filled in a principled fashion.
@@ -134,3 +162,4 @@ Durch Opfer, opferholde, kommt, o Maruts, oder hört den Ruf Der Lieder, die der
 Молитвами ли вдохновенного (привлеченные),  
 Услышьте, о Маруты, (наш) зов!
 </details>
+

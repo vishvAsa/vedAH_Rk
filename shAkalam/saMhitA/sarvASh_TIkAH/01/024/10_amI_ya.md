@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+amī́ ← asaú (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+níhitāsaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ŕ̥kṣāḥ ← ŕ̥kṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uccā́ ← uccā́ (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+dádr̥śre ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+dívā ← dívā (invariable)  
+{}
+
+īyuḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kúha ← kúha (invariable)  
+{}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ádabdhāni ← ádabdha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+candrámāḥ ← candrámas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vicā́kaśat ← √kāś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Die Sterne dort hoch oben, die sich zeigen des Nachts, wohin doch gehen sie am T
 Непреложны обеты Варуны:  
 Озирая (все вокруг,) бродит ночью луна.
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dasrā́ ← dasrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+síndhumātarā ← síndhumātar- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+manotárā ← manotár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+devā́ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vasuvídā ← vasuvíd- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +145,4 @@ Die Stromessöhne hülfereich, die Götter, welche reichen Schatz Zuweisen, gern
 Выдумщиков сокровищ,  
 Двух богов, мыслью находящих блага.
 </details>
+

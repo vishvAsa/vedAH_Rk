@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ávāḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+junā́ḥ ← √jū- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śáśvatīḥ ← śáśvant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yántā ← √i- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +171,6 @@ Agni before the dreadful thunder,'
 Of golden colour, win ye for help.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Welchen Sterblichen du, Agni, in den Schlachten begünstigen wirst, wen du in den Kämpfen um die Preise anspornst, der wird alle Genüsse in der Hand halten.
@@ -151,3 +187,4 @@ Der Sterbliche, den, Agni, du in Schlachten schützest und beeilst, Erlanget ste
 Ты поддержишь, кого поторопишь к наградам,  
 Тот удержит непрерывные подкрепления.
 </details>
+

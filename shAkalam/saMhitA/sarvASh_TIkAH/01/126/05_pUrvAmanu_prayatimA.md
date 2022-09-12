@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+práyatim ← práyati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pū́rvām ← pū́rva- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+arídhāyasaḥ ← arídhāyas- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+aṣṭaú ← aṣṭā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+trī́n ← trí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yuktā́n ← √yuj- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+subándhavaḥ ← subándhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viśyā̀ḥ ← viśyà- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vrā́ḥ ← vrā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+aíṣanta ← √iṣ- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED, mood:DES}
+
+ánasvantaḥ ← ánasvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pajrā́ḥ ← pajrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +251,4 @@ Nach der früheren Darreichung empfing ich von euch drei angeschirrte Rosse und 
 Для (тех) добрых родственников, Паджров, кто, словно женщины племени  
 (Прибыв) на повозках, искали себе славы.
 </details>
+

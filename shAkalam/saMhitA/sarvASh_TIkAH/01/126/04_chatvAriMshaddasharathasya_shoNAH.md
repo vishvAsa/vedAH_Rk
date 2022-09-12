@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+catvāriṁśát ← catvāriṁśát- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dáśarathasya ← dáśaratha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śóṇāḥ ← śóṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nayanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sahásrasya ← sahásra- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śréṇim ← śréṇi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+átyān ← átya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kr̥śanā́vataḥ ← kr̥śanā́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+madacyútaḥ ← madacyút- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+amr̥kṣanta ← √mr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+kakṣī́vantaḥ ← kakṣī́vant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pajrā́ḥ ← pajrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ Vierzig braune Rosse des Daçaratha eröffnen die Reihe von tausend Rossen; munt
 Гарцующих, украшенных жемчугом скакунов  
 Взяли себе люди из рода Какшиванта, Паджры.
 </details>
+

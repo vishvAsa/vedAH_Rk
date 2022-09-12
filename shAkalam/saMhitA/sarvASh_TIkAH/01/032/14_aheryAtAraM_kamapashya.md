@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áheḥ ← áhi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+apaśyaḥ ← √paś- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yātā́ram ← yātár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ágachat ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhī́ḥ ← bhī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hr̥dí ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jaghnúṣaḥ ← √han- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+náva ← náva- 1 (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+navatím ← navatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+srávantīḥ ← √sru- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+átaraḥ ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+bhītáḥ ← √bhī- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +249,4 @@ Wen sahst du, Indra, als des Drachens Rächer, als dir dem Sieger damals Furcht 
 Когда девяносто и девять потоков  
 Ты пересекал, как испуганный орел – пространства?
 </details>
+

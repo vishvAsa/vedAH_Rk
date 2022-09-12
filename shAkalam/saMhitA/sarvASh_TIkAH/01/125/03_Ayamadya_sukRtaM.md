@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+ā́yam ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+ichán ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prātár ← prātár (invariable)  
+{}
+
+sukŕ̥tam ← sukŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iṣṭéḥ ← iṣṭí- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vásumatā ← vásumant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+aṁśóḥ ← aṁśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+matsarásya ← matsará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pāyaya ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+kṣayádvīram ← kṣayádvīra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūnŕ̥tābhiḥ ← sūnŕ̥ta- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vardhaya ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ Heute morgen kam dieser [Opferherr] begehrend zu dem Frommen, dem Sohn des Gebet
 Напои (соком,) выжатым из стебля опьяняющего (сомы)!  
 Подкрепи щедрыми дарами владыку героев!
 </details>
+

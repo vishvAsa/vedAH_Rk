@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुब्गर्भोष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nú ← nú (invariable)  
+{}
+
+pitúm ← pitú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stoṣam ← √stu- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+dharmā́ṇam ← dharmán- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+táviṣīm ← táviṣī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tritáḥ ← tritá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ardáyat ← √r̥d- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+víparvam ← víparva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +184,4 @@ Den Trank, der kräftigt, preise ich, durch dessen Wirkung Trita einst Den hieb-
 Благодаря которой Трита  
 Расчленил Вритру на суставы.
 </details>
+

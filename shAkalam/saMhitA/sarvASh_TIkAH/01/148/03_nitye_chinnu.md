@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+jagr̥bhré ← √gr̥bhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+nítye ← nítya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dadhiré ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+práśastibhiḥ ← práśasti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gr̥bháyantaḥ ← √gr̥bhⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+iṣṭaú ← iṣṭí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+nayanta ← √nī- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+áśvāsaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+rārahāṇā́ḥ ← √raṁh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+rathyàḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Am eignen Sitze haben ihn ergriffen die andachtsvollen und mit Preis errichtet; 
 (Того) повели они вперед, владея (им) во время поисков,  
 Мчась, как кони, запряженные в колесницу.
 </details>
+

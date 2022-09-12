@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avārayethām ← √vr̥- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:MED}
+
+ghraṁsám ← ghraṁsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hiména ← himá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+adhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+pitumátīm ← pitumánt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+átrim ← átri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávanītam ← √nī- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+r̥bī́se ← r̥bī́sa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ninyathuḥ ← √nī- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+sárvagaṇam ← sárvagaṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +224,4 @@ Der Feuerglut habt ihr gewehrt durch Kühlung und habt dem Atri Speis' und Trank
 Атри, сброшенного в раскаленную печь, о Ашвины,  
 Вы извлекли благополучно вместе со всей свитой.
 </details>
+

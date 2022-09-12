@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+nā́satyābhyām ← nā́satya- (nominal stem)  
+{case:DAT, gender:M, number:DU}
+
+tákṣan ← √takṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+párijmānam ← párijman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sukhám ← sukhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sabardúghām ← sabardúgha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tákṣan ← √takṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +139,4 @@ Den treuen Rittern schufen sie den Wagen, der im Fluge kreist, Und auch die Kuh,
 Быстроходную колесницу, объезжающую вокруг (вселенной).  
 Они вытесали дойную корову, всегда доящуюся.
 </details>
+

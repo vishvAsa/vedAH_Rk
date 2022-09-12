@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,79 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+ánamnata ← √nam- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+várīmabhiḥ ← várīman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dyumnásātā ← dyumnásāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+várīmabhiḥ ← várīman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purás ← purás (invariable)  
+{}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mā́nuṣā ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sávanāni ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mā́nuṣā ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rātā́ni ← √rā- 1 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,3 +276,4 @@ Dem Indra neigte sich der höchste Himmelsgott, dem Indra auch der grosse, weite
 Для Индры должны быть все выжимания (сомы), совершенные людьми,  
 Все подношения, совершенные людьми!
 </details>
+

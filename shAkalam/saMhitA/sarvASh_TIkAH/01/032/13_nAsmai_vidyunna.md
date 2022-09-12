@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+siṣedha ← √sidh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tanyatúḥ ← tanyatú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidyút ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ákirat ← √kr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+hrādúnim ← hrādúni- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+míham ← míh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yā́m ← yá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+áhiḥ ← áhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuyudhā́te ← √yudh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+aparī́bhyaḥ ← aparī́- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+jigye ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +245,4 @@ Nichts half ihm da der Blitz und nichts der Donner, nicht Nebel, den er ausgoss,
 
 a-b nasmai vidyun na tanuatuh sisedha / na yam miham rv01.032.13
 </details>
+

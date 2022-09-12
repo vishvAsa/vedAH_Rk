@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment
+#### Morph
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+vidáyate ← √dā- 3 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mártāya ← márta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ápratiṣkutaḥ ← ápratiṣkuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ī́śānaḥ ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +143,7 @@ I take índro aṅgá as the main clause corresponding to the rel. cl. introduce
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/084/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/084/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Bloomfield (Rig-Veda Repetitions, ad I.7.8) suggests that each of these three verses reads like a brahmodya, with the last two words (the four-syllable tag índro aṅgá, which he considers to be prose “quite out of the metre”) serving as the answer. This analysis words best for vs. 7, but his separation of the two-word tag from the rest of the verse is clearly correct for all three verses -- though I do not think we need to consider índro aṅgá “simple prose.”
@@ -139,3 +173,4 @@ Der einzig reiches Gut ertheilt dem Sterblichen, der ihn verehrt, Der Herr, dem 
 Добро смертному, почитающему (его),  
 Властвуя беспрепятственно, (тот), в самом деле, Индра.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+yajatā́ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+aśāyatam ← √aśāy- (root)  
+{number:DU, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tridhā́tu ← tridhā́tu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rathyā ← rathī́- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tisráḥ ← trí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ātmā́ ← ātmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gachatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+svásarāṇi ← svásara- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ Dreimal, o Açvinen, seid ihr uns zu verehren an jedem Tag, dreifach umlagert ih
 По трем далям, о Насатьи-колесничие,  
 Приезжайте, как дыхание-ветер – на пастбища!
 </details>
+

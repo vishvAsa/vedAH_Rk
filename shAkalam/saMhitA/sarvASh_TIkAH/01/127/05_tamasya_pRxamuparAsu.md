@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -30,6 +30,88 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+pr̥kṣám ← pr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+úparāsu ← úpara- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dívātarāt ← dívātara- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sudárśataraḥ ← sudárśatara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áprāyuṣe ← áprāyuṣ- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dívātarāt ← dívātara- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+grábhaṇavat ← grábhaṇavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śárma ← śárman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sūnáve ← sūnú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vīḷú ← vīḷú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ábhaktam ← ábhakta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ajárāḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhaktám ← √bhaj- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+vyántaḥ ← √vī- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ajárāḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vyántaḥ ← √vī- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,3 +311,4 @@ In seine Nähe bringen wir dies Labeross, ihm, der bei Nacht noch heller als bei
 К предложенной (и) непредложенной поддержке стремятся нестареющие огни,  
 Огни стремятся нестареющие.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníṣu ← agní- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ānajānā́ ← √añj- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+sámiddheṣu ← √idh- 1 (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tistirāṇā́ ← √str̥̄- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+u ← u (invariable)  
+{}
+
+yatásrucā ← yatásruc- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+páriṣiktebhiḥ ← √sic- (root)  
+{case:INS, gender:M, number:PL, non-finite:PPP}
+
+sómaiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tīvraíḥ ← tīvrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+saumanasā́ya ← saumanasá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +189,7 @@ This argument leads indirectly to an issue that all comm. (Geldner, Oldenberg, R
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, vs. 3 attributes Indra’s characteristic deed (Vṛtra-smashing) to both gods, while vs. 4 attributes Agni’s characteristic ritual behavior to both.
@@ -175,3 +221,4 @@ Euch schmückend beide bei entflammten Feuern, euch werfend auf die Streu, aus L
 С разлитыми вокруг острыми (соками) сомы, сюда,  
 О Индра и Агни, придите, чтобы (проявить) доброжелательность!
 </details>
+

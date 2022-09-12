@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhándamāne ← √bhand- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+úpāke ← úpāka- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+náktoṣā́sā ← náktoṣā́s- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+supéśasā ← supéśas- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mātárā ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yahvī́ ← yahvī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sī́datām ← √sad- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sumát ← sumát ~ smat- (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Und Nacht und Morgen mögen nun vereint, die schönen glänzenden, Die grossen M
 Самые юные (дочери) закона, матери (его)  
 Пусть усядутся вместе на жертвенную солому!
 </details>
+

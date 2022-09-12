@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áparā ← ápara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ayóḥ ← ayám (pronoun)  
+{case:GEN, gender:F, number:DU}
+
+katarā́ ← katará- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+katarā́ ← katará- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+pū́rvā ← pū́rva- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jāté ← √janⁱ- (root)  
+{case:NOM, gender:F, number:DU, non-finite:PPP}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+kavayaḥ ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+bibhr̥taḥ ← √bhr̥- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áhanī ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+cakríyā ← cakrī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+vartete ← √vr̥t- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +253,4 @@ Wer ist von beiden früher? wer die spätre? und wie erzeugt? ihr Weisen, wer en
 Двое несут сами все, что (имеет) имя.  
 Две половины суток вращаются, словно колеса.
 </details>
+

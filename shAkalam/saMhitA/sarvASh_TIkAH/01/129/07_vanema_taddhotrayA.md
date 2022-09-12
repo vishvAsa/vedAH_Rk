@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -30,6 +30,76 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+citántyā ← √cit- (root)  
+{case:INS, gender:F, number:SG, tense:AOR, voice:ACT}
+
+hótrayā ← hótrā- 2 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vanéma ← √vanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayivaḥ ← rayivánt- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vanéma ← √vanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+raṇvám ← raṇvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+durmánmānam ← durmánman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sumántubhiḥ ← sumántu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pr̥cīmahi ← √pr̥c- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dyumnáhūtibhiḥ ← dyumnáhūti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+satyā́bhiḥ ← satyá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dyumnáhūtibhiḥ ← dyumnáhūti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yájatram ← yájatra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,3 +287,4 @@ Durch unsern Ruf, der dich erinnert, werd' uns das, und heldenreiches Gut, o rei
 Индру – истинными призывами-поощрениями,  
 Достойного жертв – призывами-поощрениями!
 </details>
+

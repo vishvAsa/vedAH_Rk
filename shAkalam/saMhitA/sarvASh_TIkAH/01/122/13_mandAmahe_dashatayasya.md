@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dáśatayasya ← dáśataya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhāséḥ ← dhāsí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mándāmahe ← √mand- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ánnā ← ánna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bíbhrataḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+dvís ← dvís (invariable)  
+{}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+iṣṭáraśmiḥ ← iṣṭáraśmi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iṣṭā́śvaḥ ← iṣṭā́śva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+īśānā́saḥ ← √īś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥ñjate ← √r̥j- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+táruṣaḥ ← tárus- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Wir wollen uns an der zehnfachen Speisung gütlich tun, wenn sie kommen und die 
 А что, Ишташва, Иштарашми, эти  
 Повелители силы превосходства бросятся (награждать) мужей?
 </details>
+

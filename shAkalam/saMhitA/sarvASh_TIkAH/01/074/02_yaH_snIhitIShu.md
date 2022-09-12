@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+pūrvyáḥ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+snī́hitīṣu ← snī́hiti- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṣṭíṣu ← kr̥ṣṭí- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+saṁjagmānā́su ← √gam- (root)  
+{case:LOC, gender:F, number:PL, tense:PRF, voice:MED}
+
+árakṣat ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gáyam ← gáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +140,4 @@ Der, wenn im Kampf die Völker sich befehden, als der erste stets Dem Frommen Ha
 Когда столкнулись народы,  
 Спас домашнее имущество почитающему (его).
 </details>
+

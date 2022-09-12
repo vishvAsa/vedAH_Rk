@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cakṣate ← √cakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+keśínaḥ ← keśín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+saṁvatsaré ← saṁvatsará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vapate ← √vap- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+caṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+dhrā́jiḥ ← dhrā́ji- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ékasya ← éka- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rūpám ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Drei schönhaarige zeigen sich nach der Ordnung, der eine von ihnen streut Gaben
 Один мощно все озирает.  
 Порыв у одного виден, не внешность.
 </details>
+

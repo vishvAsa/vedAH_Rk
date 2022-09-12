@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nā́dhamānasya ← √nādh- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+niṣkā́n ← niṣká- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rā́jñaḥ ← rā́jan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adam ← √dā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+práyatān ← √yam- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+sadyás ← sadyás (invariable)  
+{}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+kakṣī́vān ← kakṣī́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ajáram ← ajára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tatāna ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Hundert Goldstücke des bedrängten Königs, hundert Rosse habe ich zum Geschenk
 Сто коров – я, Какшивант, от владыки.  
 До неба протянулась (его) немеркнущая слава.
 </details>
+

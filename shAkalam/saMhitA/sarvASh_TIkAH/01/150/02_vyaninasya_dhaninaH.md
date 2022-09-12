@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+aninásya ← aniná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhanínaḥ ← dhanín- (nominal stem)  
+{case:GEN, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+áraruṣaḥ ← árarivaṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+prahoṣé ← prahoṣá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ádevayoḥ ← ádevayu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+prajígataḥ ← √gā- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +162,4 @@ Nie hat er Lust am Opferwerk des Geizigen, auch wenn er reich, Der ohne Kraft un
 Скупого даже при жертвенном возлиянии,  
 Безбожника, который никогда не продвинется вперед.
 </details>
+

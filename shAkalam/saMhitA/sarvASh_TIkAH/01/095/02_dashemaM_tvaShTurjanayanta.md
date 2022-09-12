@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+janayanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+tváṣṭuḥ ← tváṣṭar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+átandrāsaḥ ← átandra- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+víbhr̥tram ← víbhr̥tra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuvatáyaḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jáneṣu ← jána- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sváyaśasam ← sváyaśas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tigmā́nīkam ← tigmā́nīka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nayanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+sīm ← sīm (invariable)  
+{}
+
+virócamānam ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +204,4 @@ Zehn Jungfraun, nie ermattend, zeugten diesen, des Tvaschtar Spross, der weithin
 Остроликого, обладающего собственным блеском среди людей,  
 Ярко сверкающего – они водят его вокруг.
 </details>
+

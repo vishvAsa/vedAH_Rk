@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+adbhyáḥ ← áp- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+nívr̥tam ← √vr̥- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+rebhám ← rebhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sitám ← √sā- ~ si- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+aírayatam ← √īr- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+vándanam ← vándana- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́vatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+káṇvam ← káṇva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+síṣāsantam ← √sanⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+u ← u (invariable)  
+{}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +244,4 @@ Durch die ihr Rebha, der gebunden und verhüllt, aus Fluten zogt, und Vandana, d
 Какими – Канве, желающему достигнуть цели, вы помогли,  
 С этими самыми поддержками приходите сюда, о Ашвины!
 </details>
+

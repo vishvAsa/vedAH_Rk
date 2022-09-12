@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kavī́ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tuvijātaú ← tuvijātá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+urukṣáyā ← urukṣáya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+apásam ← apás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadhāte ← √dhā- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+dákṣam ← dákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +143,4 @@ Die Seher Mitra-Varuna, weitherrschend, mächtig von Geburt, Verleihn zum Werk u
 Сильного рода, с обширным жилищем  
 (Они) дают нам искусную силу действия.
 </details>
+

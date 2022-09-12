@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+paryásarpata ← √sr̥p- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+sammī́lya ← √mīl- (root)  
+{non-finite:CVB}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āsatuḥ ← √as- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kvà ← kvà (invariable)  
+{}
+
+pitárā ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+svit ← svit (invariable)  
+{}
+
+tātyā́ ← tātyá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ādadé ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+áśapata ← √śap- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+karásnam ← karásna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ábravīt ← √brū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+abravītana ← √brū- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +236,4 @@ Als ihr geschlossnen Auges durch die Wesen schlicht, wo weilte damals eur gelieb
 Вы прокляли (того,) кто взял вас за руку.  
 Кто заговорил (с вами), с тем и вы заговорили.
 </details>
+

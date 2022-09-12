@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ákṣan ← √ghas- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ámīmadanta ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+adhūṣata ← √dhū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+áva ← áva (invariable)  
+{}
+
+priyā́ḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ástoṣata ← √stu- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+svábhānavaḥ ← svábhānu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+matī́ ← matí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+náviṣṭhayā ← náviṣṭha- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yójā ← √yuj- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +217,4 @@ Die weisen, herrlich glänzenden, sie speisten jetzt, berauschten sich Und schü
 Прославлены самой новой молитвой.  
 Запрягай же, Индра, пару твоих буланых коней!
 </details>
+

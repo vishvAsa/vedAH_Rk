@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citrā́ ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dákṣiṇāvatām ← dákṣiṇāvant- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+imā́ni ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+dákṣiṇāvatām ← dákṣiṇāvant- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sū́ryāsaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhajante ← √bhaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+dákṣiṇāvantaḥ ← dákṣiṇāvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dákṣiṇāvantaḥ ← dákṣiṇāvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+tirante ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Denen, welche das Opfer lohnen, ist glänzend diese Welt, ihnen sind glänzend d
 Те, кто дает награду певцу, вкушают амриту.  
 Те, кто дает награду певцу, продлевают себе срок жизни.
 </details>
+

@@ -15,14 +15,57 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bahúbhyaḥ ← bahú- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āvívāsati ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+sutā́vān ← sutā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+patyate ← √pat- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +163,7 @@ I.84.10-12: See published introduction. for the structure of this tṛca and its
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/084/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/084/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Bloomfield (Rig-Veda Repetitions, ad I.7.8) suggests that each of these three verses reads like a brahmodya, with the last two words (the four-syllable tag índro aṅgá, which he considers to be prose “quite out of the metre”) serving as the answer. This analysis words best for vs. 7, but his separation of the two-word tag from the rest of the verse is clearly correct for all three verses -- though I do not think we need to consider índro aṅgá “simple prose.”
@@ -150,3 +193,4 @@ Denn wer von vielen Stätten auch als Somabringer her dich lockt, Von wem empfä
 Отвоевать тебя у многих, –  
 Грозной силой этой владеет Индра, в самом деле.
 </details>
+

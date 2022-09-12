@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+kám ← kám (invariable)  
+{}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tánāya ← tána- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rúdrāḥ ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gánta ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+bibhyúṣe ← √bhī- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+káṇvāya ← káṇva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ Für unsre Kinder flehn wir bald, o glänzende, um Hülfe euch; Kommt rasch mit 
 Выезжайте сейчас к нам на помощь, как некогда  
 К перепуганному Канве!
 </details>
+

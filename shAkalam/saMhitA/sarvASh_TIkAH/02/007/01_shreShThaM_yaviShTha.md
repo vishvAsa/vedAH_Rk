@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+bhārata ← bhā́rata- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śréṣṭham ← śréṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dyumántam ← dyumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puruspŕ̥ham ← puruspŕ̥h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -87,7 +118,6 @@ genre M
 भारतेति प्रथमपादान्तः । हे अग्ने यविष्ठ युवतम । यौतिः पृथक्करणे, 'कनिन्युवृषि' इत्यादिना यौतेः कनिन्प्रत्ययः । पृथक्कर्तृतम आदाय दातः । यद्वा - तरुणतम भारत यज्ञस्य भर्तारः ऋत्विजो भरताः । 'भृमृशि ' इत्यादिना बिभर्तेरतच्प्रात्ययः । एतैरुत्पादित भारत हे वसो वासहेतो । 'शॄस्वृस्निहि' इत्यादिना वसेरुप्रत्ययः । श्रेष्ठं प्रशस्यतमं द्युमन्तं दीप्तिमन्तं पुरुस्पृहं पुरुभिर्बहुभिस्स्पृहणीयम् । कर्मणि क्विप् । यद्वा - बह्व्यस्स्पृहा यस्मिन् । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदान्तोदात्तत्वम् । ईदृशं रयिं धनमस्मभ्यमाभर स्पर्धमानेभ्य आच्छिद्यास्मभ्यं देहि । 'स एवास्माद्रक्षांसि यवयति नैनमभिचरन् स्तृणुते' `इति ब्राह्मणम् ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -146,3 +176,4 @@ Den besten Reichthum bringe her, den schönen, Agni Bharata, Den vielbegehrten, 
 О Агни, принеси сверкающее  
 Очень желанное богатство, о Васу!
 </details>
+

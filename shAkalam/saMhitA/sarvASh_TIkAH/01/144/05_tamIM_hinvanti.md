@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dáśa ← dáśa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dhītáyaḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hinvanti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vríśaḥ ← vríś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+mártāsaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dhánoḥ ← dhánu- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+pravátaḥ ← pravát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+r̥ṇvati ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhivrájadbhiḥ ← √vraj- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+adhita ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+náva ← náva- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vayúnā ← vayúna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Zehn Finger und Gebete setzen ihn im Lauf, zu Hülfe rufen wir, die Sterblichen,
 Из укрытия он устремляется к отлогим склонам.  
 С отправляющимися он создал новые вехи.
 </details>
+

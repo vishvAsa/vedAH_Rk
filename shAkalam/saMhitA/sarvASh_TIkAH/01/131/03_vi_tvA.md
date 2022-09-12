@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,85 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+avasyávaḥ ← avasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mithunā́ḥ ← mithuná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tatasre ← √taṁs- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+gávyasya ← gávya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+niḥsŕ̥jaḥ ← niḥsŕ̥j- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sātā́ ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vrajásya ← vrajá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+niḥsŕ̥jaḥ ← niḥsŕ̥j- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sákṣantaḥ ← √sah- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:ACT}
+
+dvā́ ← dvá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+gavyántā ← √gavy- (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+jánā ← jána- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+samū́hasi ← √ūh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yántā ← √i- 1 (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+āvís ← āvís (invariable)  
+{}
+
+kárikrat ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sacābhúvam ← sacābhū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sacābhúvam ← sacābhū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,3 +293,4 @@ Die hülfsbegier'gen beiderseits bestürmen dich, die opfernden um Rinderheerden
 Ослепительно показывая мужественного товарища-  
 Ваджру, о Индра, (твоего) товарища.
 </details>
+

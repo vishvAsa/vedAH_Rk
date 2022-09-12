@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+keśínīḥ ← keśín- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥tā́ya ← r̥tá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+árcathaḥ ← √r̥c- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mítra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váruṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pínvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sr̥játam ← √sr̥j- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+irajyathaḥ ← √irajy- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mánmanām ← mánman- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Zu eurem Opfer haben, Mitra-Varuna, gerauscht die lock'gen Flammen, wo eur Lied 
 Сами выпустите на волю, сделайте набухшими поэтические мысли!  
 Вы двое управляете мыслями вдохновенного.
 </details>
+

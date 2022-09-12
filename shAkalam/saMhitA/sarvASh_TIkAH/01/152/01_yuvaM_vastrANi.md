@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pīvasā́ ← pīvasá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vasāthe ← √vas- 2 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+vástrāṇi ← vástra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+áchidrāḥ ← áchidra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+mántavaḥ ← mántu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sárgāḥ ← sárga- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+ánr̥tāni ← ánr̥ta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+atiratam ← √tr̥̄- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sacethe ← √sac- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Ihr hüllt euch in fettglänzende Gewänder; ununterbrochen strömen eure Pläne
 Вы подавили все беззакония.  
 О Митра-Варуна, вы следуете закону.
 </details>
+

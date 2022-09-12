@@ -17,15 +17,61 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+jahi ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+parikrośám ← parikrośá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sárvam ← sárva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jambháya ← √jambh- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kr̥kadāśvàm ← kr̥kadāśū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śaṁsaya ← √śaṁs- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tú ← tú (invariable)  
+{}
+
+áśveṣu ← áśva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śubhríṣu ← śubhrí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sahásreṣu ← sahásra- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+tuvīmagha ← tuvī́magha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +187,4 @@ Erschlage jeden, welcher schmäht, zermalm den Dämon, welcher kreischt, Du, Ind
 Дай же нам, о Индра, надежду  
 (В виде) коров, коней, тысячи прекрасных (благ), о (ты,) очень богатый!
 </details>
+

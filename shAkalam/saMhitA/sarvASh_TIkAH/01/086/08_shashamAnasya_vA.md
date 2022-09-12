@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śaśamānásya ← √śamⁱ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
+vā ← vā (invariable)  
+{}
+
+satyaśavasaḥ ← satyáśavas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+svédasya ← svéda- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kā́masya ← kā́ma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vénataḥ ← √ven- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vidá ← √vid- 2 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +145,4 @@ Ihr, wahrhaft kräftige, gewahrt den Schweiss des emsig opfernden, Den Wunsch de
 Вы же знаете пот усердно трудящегося (при обряде),  
 Желание (глубоко) смотрящего.
 </details>
+

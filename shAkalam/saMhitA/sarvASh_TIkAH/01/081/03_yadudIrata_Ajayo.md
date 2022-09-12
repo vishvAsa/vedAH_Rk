@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ājáyaḥ ← ājí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+udī́rate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhánā ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhīyate ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+dhr̥ṣṇáve ← dhr̥ṣṇú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+madacyútā ← madacyút- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yukṣvá ← √yuj- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+dadhaḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+hánaḥ ← √han- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vásau ← vásu- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+dadhaḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vásau ← vásu- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Wenn hier und dort sich Kampf erhebt, dann fällt dem Kühnen Beute zu, Schirr a
 Кого ты убьешь? Кого наделишь богатством?  
 Нас, о Индра, ты наделишь богатством!
 </details>
+

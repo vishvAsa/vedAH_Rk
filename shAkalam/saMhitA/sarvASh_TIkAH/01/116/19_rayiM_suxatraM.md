@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sukṣatrám ← sukṣatrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svapatyám ← svapatyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váhantā ← √vah- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jahnā́vīm ← jahnā́vī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sámanasā ← sámanas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+vā́jaiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áhnaḥ ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ayātam ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dádhatīm ← √dhā- 1 (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+trís ← trís (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Sprossreiches Alter, Macht verleihnden Reichthum und Heldenfülle bringend, o ih
 Вы приехали, единые мыслью, с наградами к потомству Джахну,  
 Трижды в день приносившему (вам жертвенную) долю.
 </details>
+

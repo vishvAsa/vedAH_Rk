@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asuvat ← √sū- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ágohyam ← ágohya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aítana ← √i- 1 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+śraváyantaḥ ← √śru- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhákṣaṇam ← bhákṣaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+camasám ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+akr̥ṇuta ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cáturvayam ← cáturvaya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Darum verlieh euch Savitar Unsterblichkeit, weil ihm, den ewig hellen rufend, ih
 Из того самого кубка для питья Асуры,  
 Из одного вы сделали четыре.
 </details>
+

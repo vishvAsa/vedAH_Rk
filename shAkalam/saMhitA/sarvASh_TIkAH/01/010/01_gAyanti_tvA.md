@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gā́yanti ← √gā(y)- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gāyatríṇaḥ ← gāyatrín- (nominal stem)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+árcanti ← √r̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arkíṇaḥ ← arkín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+brahmā́ṇaḥ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+vaṁśám ← vaṁśá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yemire ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +187,4 @@ Die Sänger singen dir ein Lied und Preisgesang die preisenden; Die Beter haben 
 Брахманы тебя, о стосильный,  
 Подняли, словно балку (под крышу).
 </details>
+

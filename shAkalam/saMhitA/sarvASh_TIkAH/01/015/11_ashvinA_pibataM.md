@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+píbatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dī́dyagnī ← dīdyagnī- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śucivratā ← śúcivrata- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+r̥túnā ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yajñavāhasā ← yajñavāhas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +138,4 @@ O Ritter, trinkt den süssen Trank, ihr hellentflammten, reingesinnt, Und nehmt 
 (Вы,) кому светит огонь, чистые обетом,  
 Принимающие почитание в урочное время!
 </details>
+

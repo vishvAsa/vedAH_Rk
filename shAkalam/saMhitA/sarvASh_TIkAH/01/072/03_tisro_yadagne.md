@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+saparyā́n ← √sapary- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúcim ← śúci- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+nā́māni ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yajñíyāni ← yajñíya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ásūdayanta ← √sūd- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sújātāḥ ← sújāta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +240,4 @@ Als Agni dich, den reinen, dann die reinen drei Herbste durch mit Opferbutter eh
 Они приобрели себе имена, достойные жертв,  
 (И) сделали совершенными (свои) тела, (они) прекраснорожденные.
 </details>
+

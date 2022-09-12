@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+viśváśambhuvā ← viśváśambhū- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+dhārayátkavī ← dhārayátkavi- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+r̥tā́varī ← ŕ̥tāvan- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+antár ← antár (invariable)  
+{}
+
+dhiṣáṇe ← dhiṣáṇā- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sujánmanī ← sujánman- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devī́ ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+dhármaṇā ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +218,4 @@ Sie beide, Erd' und Himmel, bringen allen Heil, die heiligen, die Weisen hegend 
 Между двумя чашами мироздания, имеющими счастливое рожденье.  
 Божественными, движется, как положено, чистый бог Сурья.
 </details>
+

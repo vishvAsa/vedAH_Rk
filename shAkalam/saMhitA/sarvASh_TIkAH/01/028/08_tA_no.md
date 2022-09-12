@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+vanaspatī ← vánaspáti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+r̥ṣvaú ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+r̥ṣvébhiḥ ← r̥ṣvá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sotŕ̥bhiḥ ← sotár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádhumat ← mádhumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sutam ← √su- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ Ihr Bretter, presset beide heut dem Indra süssen Somasaft, Durch hohe Presser i
 Высокие с высокими (жрецами-) выжимателями,  
 Выжимайте сладкий (сок) для Индры!
 </details>
+

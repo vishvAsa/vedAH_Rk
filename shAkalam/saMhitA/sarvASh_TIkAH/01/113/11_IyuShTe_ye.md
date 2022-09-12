@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápaśyan ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+īyúḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pū́rvatarām ← pū́rvatara- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+mártyāsaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vyuchántīm ← √vas- 1 (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+abhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asmā́bhiḥ ← ahám (pronoun)  
+{case:INS, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+praticákṣyā ← praticákṣya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aparī́ṣu ← aparī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+páśyān ← √paś- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,8 +203,6 @@ genre M
 आ उ **ओ** इति निपातसमुदायात्मा निपातः । अपरशब्दात् छन्दसो ङीष् । एवमात्मज्योतिर् एव व्याप्य तिष्ठतीति उषसस्-स्तुतिः ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -162,7 +221,7 @@ With Grassmann (et al.) I take praticákṣyā as the gerundive; cf. I.124.8.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details open><summary><h2>07-13 ...{Loading}...</h2></summary>
 
 These verses have a surprising density of forms of ví √vas ‘dawn forth’ (7b, d, 8c, 9b, 10b [2x], 11b, 12d, 13a, b, c), whereas vss. 1-6 lack any such forms -- though there’s a teasing echo in 4b ví … āvaḥ ‘She opened, uncovered’, belonging, however, to √vṛ. See also comments on vs. 14.
@@ -190,7 +249,6 @@ Dawn now hath become visible to us;
 They come who shall behold her in days to come.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Vergangen sind die Sterblichen, welche die früheren Usas´ aufgehen sahen, jetzt hat sie sich von uns beschauen lassen; es kommen die, welche sie in Zukunft sehen werden.
@@ -208,3 +266,4 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 Это нам теперь она явилась воочию.  
 Идут и те, кто увидит ее в будущие времена.
 </details>
+

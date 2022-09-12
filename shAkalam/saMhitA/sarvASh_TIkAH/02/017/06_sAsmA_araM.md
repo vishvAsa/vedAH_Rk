@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áram ← áram (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bāhúbhyām ← bāhú- (nominal stem)  
+{case:DAT, gender:M, number:DU}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+janúṣaḥ ← janúṣ- (nominal stem)  
+{case:ABL, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+védasaḥ ← védas- 1 (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+krívim ← krívi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śayádhyai ← √śī- (root)  
+{case:DAT, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ávr̥ṇak ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hatvī́ ← √han- (root)  
+{non-finite:CVB}
+
+tuviṣváṇiḥ ← tuviṣváṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Den Armen passend ist der Donnerkeil, den einst sein Vater schuf aus allen Wesen
 Ваджра громкогласная, силой которой он убил (и) поверг долу  
 Криви, чтобы тот лежал на земле.
 </details>
+

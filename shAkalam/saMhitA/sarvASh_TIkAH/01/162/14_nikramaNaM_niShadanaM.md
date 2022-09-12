@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+nikrámaṇam ← nikrámaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+niṣádanam ← niṣádana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vivártanam ← vivártana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+árvataḥ ← árvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+páḍbīśam ← páḍbīśa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ghāsím ← ghāsí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaghā́sa ← √ghas- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+papaú ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sárvā ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Worauf der Renner getreten, worauf er sich gelagert und herumgewälzt hat, und w
 И что он выпил, и трава, что он съел, –  
 Все это твое пусть будет среди богов!
 </details>
+

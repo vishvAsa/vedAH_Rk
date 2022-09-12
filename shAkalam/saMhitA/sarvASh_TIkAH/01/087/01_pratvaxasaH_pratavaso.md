@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prátavasaḥ ← prátavas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prátvakṣasaḥ ← prátvakṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+virapśínaḥ ← virapśín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánānatāḥ ← ánānata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ávithurāḥ ← ávithura- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥jīṣíṇaḥ ← r̥jīṣín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+añjíbhiḥ ← añjí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+júṣṭatamāsaḥ ← júṣṭatama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nŕ̥tamāsaḥ ← nŕ̥tama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ānajre ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+stŕ̥bhiḥ ← stár- ~ tár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Die mächtigen, die kräftigen, die strotzenden, die ungebeugt und ohne Wanken v
 Самые любимые, самые мужественные, сверкающие украшениями  
 Украсились некие (мужи), словно зори – звездами.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imā́ḥ ← ayám (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+kapardíne ← kapardín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rudrā́ya ← rudrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+taváse ← tavás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bharāmahe ← √bhr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+kṣayádvīrāya ← kṣayádvīra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+matī́ḥ ← matí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+cátuṣpade ← cátuṣpad- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dvipáde ← dvipád- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+anāturám ← anāturá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+grā́me ← grā́ma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+puṣṭám ← √puṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Dem starken Rudra bringen diese Lieder wir, dem Männerherrscher mit dem aufgewu
 Чтоб было счастье двуногому и четвероногому,  
 Чтоб в этой деревне все процветало без болезни.
 </details>
+

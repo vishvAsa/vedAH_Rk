@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adáḥ ~ adó ← asaú (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ájagan ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+pito ← pitú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+párvatānām ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vivásva ← vivásvan- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+madho ← mádhu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pito ← pitú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áram ← áram (invariable)  
+{}
+
+bhakṣā́ya ← bhakṣá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gamyāḥ ← √gam- (root)  
+{number:SG, person:2, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Wenn als der Berge Leuchte du, o Opfertrank, erschienen bist, Dann komme auch, o
 Вот тогда, о сладкая пища, ты должна прийти  
 К нам сюда, чтобы (мы) вкусили (тебя)!
 </details>
+

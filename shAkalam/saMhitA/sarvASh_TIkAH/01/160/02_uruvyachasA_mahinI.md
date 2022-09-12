@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asaścátā ← asaścát- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mahínī ← mahín- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+uruvyácasā ← uruvyácas- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rakṣataḥ ← √rakṣⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sudhŕ̥ṣṭame ← sudhŕ̥ṣṭama- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vapuṣyè ← vapuṣyà- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+abhí ← abhí (invariable)  
+{}
+
+ávāsayat ← √vas- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rūpaíḥ ← rūpá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sīm ← sīm (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Sie, weit an Umfang, unvergleichlich, reich und gross, als Vater, Mutter schütz
 Два мира – словно две самые дерзкие красавицы,  
 Когда отец одел их в (разные) цвета.
 </details>
+

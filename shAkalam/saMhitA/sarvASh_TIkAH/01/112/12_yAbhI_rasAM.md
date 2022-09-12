@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+kṣódasā ← kṣódas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pipinváthuḥ ← √pinv- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+rasā́m ← rasā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+udnáḥ ← udán- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+anaśvám ← anaśvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́vatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+jiṣé ← √ji- 1 (root)  
+{case:DAT, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+triśókaḥ ← triśóka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+udā́jata ← √aj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+usríyāḥ ← usríya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+u ← u (invariable)  
+{}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +234,4 @@ Durch die den Strom ihr schwellen liesst von Wogenflut, den rosselosen Wagen hin
 Какими – Тришока выгнал рыжих коров,  
 С этими самыми поддержками приходите сюда, о Ашвины!
 </details>
+

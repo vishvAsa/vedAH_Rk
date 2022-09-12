@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carataḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dvé ← dvá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+svárthe ← svártha- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vírūpe ← vírūpa- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+anyā́nyā ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhāpayete ← √dhā- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anyásyām ← anyá- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+bhávati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svadhā́vān ← svadhā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyásyām ← anyá- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+dadr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+śukráḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvárcāḥ ← suvárcas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +232,4 @@ Zwei ungleichfarb'ge gehn zu schönem Ziele, ihr Junges säugend, eine um die an
 У одной он бывает золотистым, следуя своему обычаю,  
 У другой он кажется ясным, с прекрасным блеском.
 </details>
+

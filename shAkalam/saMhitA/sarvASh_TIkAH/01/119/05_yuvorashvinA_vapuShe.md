@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vápuṣe ← vápus- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yuvāyújam ← yuvāyúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śárdhyam ← śárdhya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́ṇī ← vā́ṇī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yematuḥ ← √yam- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jagmúṣī ← √gam- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:ACT}
+
+patitvám ← patitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+avr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+jényā ← jénya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pátī ← páti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +213,4 @@ O Ritter, euern Wagen, den ihr selbst geschirrt, den starken lenkten seine Strä
 Молодая благородная женщина для дружбы  
 Вступившая с вами в брак, выбрала вас в мужья.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+avanvan ← √vanⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+svabhiṣṭím ← svabhiṣṭí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+antarikṣaprā́m ← antarikṣaprā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́vr̥tam ← √vr̥- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+táviṣībhiḥ ← táviṣī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dákṣāsaḥ ← dákṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+madacyútam ← madacyút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aruhat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jávanī ← jávana- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śatákratum ← śatákratu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūnŕ̥tā ← sūnŕ̥ta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Der gerne beisteht, kraftbegabt die Luft erfüllt, den Indra haben die Genüsse 
 Индру, возбужденного сомой, – умелые Рибху.  
 На стосильного нашло быстрое великодушие.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+bruvantu ← √brū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+jantávaḥ ← jantú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajani ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+út ← út (invariable)  
+{}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhanaṁjayáḥ ← dhanaṁjayá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráṇe-raṇe ← ráṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +159,4 @@ Die Menschen mögen es gestehn: »Agni erstand als Siegesheld, Der Beute macht i
 "Возник Агни, побеждающий сопротивление,  
 Завоевывающий награду в битве за битвой".
 </details>
+

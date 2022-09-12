@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+draviṇodā́ḥ ← draviṇodā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pipīṣati ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+ca ← ca (invariable)  
+{}
+
+juhóta ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+tiṣṭhata ← √sthā- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iṣyata ← √iṣ- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+neṣṭrā́t ← neṣṭrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Der Reichthumgeber heischet Trank, geht vor und opfert nach dem Brauch, Ergiesst
 Приносите жертву (и) выходите вперед.  
 Из чаши нештара выливайте (сому) в урочное время
 </details>
+

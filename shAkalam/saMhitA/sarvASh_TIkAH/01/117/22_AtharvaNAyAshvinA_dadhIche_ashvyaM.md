@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ātharvaṇā́ya ← ātharvaṇá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dadhīcé ← dadhyáñc- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+airayatam ← √īr- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+áśvyam ← áśvya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+r̥tāyán ← √r̥tāy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vocat ← √vac- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+apikakṣyàm ← apikakṣyà- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dasrau ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tvāṣṭrám ← tvāṣṭrá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Dem Dadhiank, dem Spross Atharvans, habt ihr den Kopf des Pferdes angesetzt, o R
 Он, благочестивый, выдал вам (тайну про) мед  
 Тваштара, что был сокрыт от вас, о удивительные.
 </details>
+

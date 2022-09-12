@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pajriyéṇa ← pajriyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śáṁsyam ← śáṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+kakṣī́vatā ← kakṣī́vant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+párijman ← párijman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áśvasya ← áśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śaphā́t ← śaphá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asiñcatam ← √sic- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+kumbhā́n ← kumbhá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mádhūnām ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Dies Werk, o treue Männer, ist zu rühmen vom Padschrasohn Kakschivat aller Ort
 Из копыта коня, приносящего награды, для народа  
 Вы налили сто кувшинов сладких напитков.
 </details>
+

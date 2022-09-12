@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahvayat ← √hvā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+andhā́ya ← andhá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bháram ← bhára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+śunám ← śuná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+íti ← íti (invariable)  
+{}
+
+nárā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vr̥kī́ḥ ← vr̥kī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+cakṣadānáḥ ← √kṣad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+jāráḥ ← jārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kanī́naḥ ← kanī́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+meṣā́n ← meṣá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥jrā́śvaḥ ← r̥jrā́śva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Zum Heil dem Blinden schrie dies Wort die Wölfin: »O Ritter, Stiere, Männer«
 О два мужа, как юный любовник, отдавший (возлюбленной все, что есть),  
 Риджрашва (подал) сто одного барана.
 </details>
+

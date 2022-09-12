@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pínvanti ← √pinv- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sudā́navaḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ābhúvaḥ ← ābhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ghr̥távat ← ghr̥távant- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+átyam ← átya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mihé ← √mih- (root)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nayanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ákṣitam ← ákṣita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+duhanti ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+stanáyantam ← √stanⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Die tropfenreichen Maruts giessen Wasser aus und, bei den Opfern gegenwärtig, f
 Как скакуна, завоевывающего награду, они отводят своих коней в сторону помочиться.  
 Они доят гремящий неиссякающий источник.
 </details>
+

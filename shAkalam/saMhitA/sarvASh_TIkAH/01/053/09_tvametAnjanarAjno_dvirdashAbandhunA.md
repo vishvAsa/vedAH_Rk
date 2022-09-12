@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dáśa ← dáśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dvís ← dvís (invariable)  
+{}
+
+etā́n ← eṣá (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+janarā́jñaḥ ← janarā́jan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+abandhúnā ← abandhú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+suśrávasā ← suśrávas- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+upajagmúṣaḥ ← √gam- (root)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:ACT}
+
+náva ← náva- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+navatím ← navatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ṣaṣṭím ← ṣaṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śrutáḥ ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+avr̥ṇak ← √vr̥j- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cakréṇa ← cakrá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+duṣpádā ← duṣpád- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+ráthyā ← ráthya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Du hast auch jener Volksbeherrscher zweimal zehn, die kämpften mit dem freundel
 Шестьдесят тысяч девяносто девять (воинов), о знаменитый,  
 Поверг ниц колесом от колесницы, – дурной ногой.
 </details>
+

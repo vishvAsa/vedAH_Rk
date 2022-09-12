@@ -18,10 +18,10 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
@@ -29,6 +29,79 @@ popular;; epic anuṣṭubh (525);; repeated line
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
+#### Morph
+iyattikā́ ← iyattikā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śakuntikā́ ← śakuntikā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jaghāsa ← √ghas- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sakā́ ← saká- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+viṣám ← viṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+marāti ← √mr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+marāma ← √mr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+āré ← āré (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yójanam ← yójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hariṣṭhā́ḥ ← hariṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+madhulā́ ← madhulá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,3 +272,4 @@ Dies so winzige Vögelchen hat dein Gift verschlungen, und wird doch daran nicht
 Правящий булаными конями, уничтожил его суть.  
 Медовая (трава) медом сделала тебя.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dádāśaḥ ← √dāś- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+sudraviṇaḥ ← sudraviṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+anāgāstvám ← anāgāstvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sarvátātā ← sarvátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+bhadréṇa ← bhadrá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+codáyāsi ← √cud- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+prajā́vatā ← prajā́vant- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rā́dhasā ← rā́dhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +180,7 @@ The final phrase that is the ostensible main clause, té syāma “might we be t
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/15-16.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/15-16.md">
 <details open><summary><h2>15-16 ...{Loading}...</h2></summary>
 
 The meter here changes to Triṣṭubh, and the intra-hymnic refrain is dropped. The 2nd hemistich of vs. 16 contains the first example in the Saṃhitā of the Kutsa refrain.
@@ -142,7 +188,6 @@ The meter here changes to Triṣṭubh, and the intra-hymnic refrain is dropped.
 </details>
 </div>
 </details>
-
 
 <details><summary>Griffith</summary>
 
@@ -172,3 +217,4 @@ Wenn irgend einen du, o reicher, ew'ger, Schuldlosigkeit und Wohlergehn gewähre
 Кого ты побуждаешь благою силой,  
 Даром, приносящим потомство, – мы хотели бы быть ими!
 </details>
+

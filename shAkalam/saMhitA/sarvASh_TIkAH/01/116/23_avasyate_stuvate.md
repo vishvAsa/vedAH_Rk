@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avasyaté ← √avasy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kr̥ṣṇiyā́ya ← kr̥ṣṇiyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+r̥jūyaté ← √r̥jūy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dárśanāya ← dárśana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+naṣṭám ← √naś- 2 (root)  
+{case:ACC, gender:M, number:SG, voice:PASS}
+
+paśúm ← paśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadathuḥ ← √dā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+viṣṇāpvàm ← viṣṇāpū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśvakāya ← víśvaka- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Dem Viçvaka, dem Krischnaspross, o Treue, dem hülfsbegier'gen Sänger, dem ger
 Вы дали (снова) увидеть Вишнапу,  
 Пропавшего, словно (отбившийся от стада) скот.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhítas ← abhítas (invariable)  
+{}
+
+jambháyatam ← √jambh- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rā́yataḥ ← √rā- 2 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+śúnaḥ ← śván- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hatám ← √han- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+vidáthuḥ ← √vid- 2 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+jaritúḥ ← jaritár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kr̥tam ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ratnínīm ← ratnín- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā́caṁ-vācam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+avatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Verzehrt, zermalmt die Hunde rings, die bellenden, die Feinde tödtet, Ritter, i
 Каждое слово певца сделайте приносящим сокровища!  
 Пусть оба вы примете благосклонно, о Насатьи, мое прославление!
 </details>
+

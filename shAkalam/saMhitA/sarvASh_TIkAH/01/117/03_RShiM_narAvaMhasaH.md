@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+narau ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pā́ñcajanyam ← pā́ñcajanya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ŕ̥ṣim ← ŕ̥ṣi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átrim ← átri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gaṇéna ← gaṇá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+muñcathaḥ ← √muc- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+r̥bī́sāt ← r̥bī́sa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+áśivasya ← áśiva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dásyoḥ ← dásyu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+minántā ← √mī- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+anupūrvám ← anupūrvám (invariable)  
+{}
+
+codáyantā ← √cud- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +190,4 @@ Den Seher Atri der fünf Stämme löstet sammt seiner Schar aus enger Kluft ihr 
 Уменьшая колдовские чары враждебного дасью,  
 Вдохновляя одного за другим, о два быка.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvŕ̥t ← suvŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vartate ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+krátumantā ← krátumant- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pr̥kṣé ← pŕ̥kṣ- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+tíṣṭhathaḥ ← √sthā- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sacatām ← √sac- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+vápuḥ ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vapuṣyā́ ← vapuṣyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitrā́ ← duhitár- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sacethe ← √sac- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+uṣásā ← uṣás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Leichtrollend eilt der Wagen auf die Erde, wenn starke ihr zum Opfer hin ihn len
 Пусть песнь эта с восхищением встречает восхитительное появление!  
 Вы находитесь в обществе дочери неба Ушас.
 </details>
+

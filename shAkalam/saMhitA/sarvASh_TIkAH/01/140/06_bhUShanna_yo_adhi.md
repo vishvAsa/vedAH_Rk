@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+babhrū́ṣu ← babhrú- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+bhū́ṣan ← √bhūṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+námnate ← √nam- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pátnīḥ ← pátnī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+róruvat ← √rū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ojāyámānaḥ ← √ojāy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śumbhate ← √śubh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+bhīmáḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+davidhāva ← √dhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+durgŕ̥bhiḥ ← durgŕ̥bhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śŕ̥ṅgā ← śŕ̥ṅga- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +210,7 @@ I don’t entirely understand the position of ca in c. Klein (DGRV I.222-23, 259
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 This trio of verses treats the union (by burning) of the hyper-masculine Agni/fire and the plants (feminine). This must be the “der erotische Grundton” of the hymn that Geldner mentions in his introduction. This sexual union leads to the death of the plants (8b) and their regrowth and transformation into a different form (7cd, 8). Or so is my interpr.; acdg. to some, the flames are sometimes the referents, rather than the plants.
@@ -185,3 +249,4 @@ Der sich geschäftig über braune Hölzer neigt, er eilet brüllend wie ein Bull
 Играя силой, он украшает (свои) тела.  
 Словно страшный (бык), трясет рогами (этот бог, кого) трудно схватить.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+trivandhuréṇa ← trivandhurá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+trivŕ̥tā ← trivŕ̥t- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+suvŕ̥tā ← suvŕ̥t- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tricakréṇa ← tricakrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+árvataḥ ← árvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jínvatam ← √ji- 2 ~ jinv- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pínvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vardháyatam ← √vr̥dh- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Kommt her mit eurem Wagen, der drei Sitze, drei Theile hat, drei Räder, schnell
 Сделайте наших коров набухшими (от молока), скакунов - резвыми!  
 Увеличьте мужское население среди нас!
 </details>
+

@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+cátantam ← √cat- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+gúhā ← gúhā (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+paśvā́ ← paśú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tāyúm ← tāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váhantam ← √vah- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yujānám ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Dir nahten einig, – die weisen schreitend, wie einem Viehdieb, – der sich ve
 
 -ru-
 </details>
+

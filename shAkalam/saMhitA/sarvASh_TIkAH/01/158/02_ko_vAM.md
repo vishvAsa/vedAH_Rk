@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyaí ← ayám (pronoun)  
+{case:DAT, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dāśat ← √dāś- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sumatáye ← sumatí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dhéthe ← √dhā- 1 (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:MED}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vásū ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+jigr̥tám ← √gr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+púraṁdhīḥ ← púraṁdhi- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+revátīḥ ← revánt- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+cárantā ← √carⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+kāmapréṇa ← kāmaprá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Wer dient euch recht zu solcher Hulderweisung, dass fromm ihr Gut bringt an den 
 Пробудите для нас силы вдохновения, несущие богатство, -  
 Вы же странствуете с мыслью, охотно исполняющей желания!
 </details>
+

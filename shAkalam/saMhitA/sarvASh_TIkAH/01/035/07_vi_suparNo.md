@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+akhyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+antárikṣāṇi ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gabhīrávepāḥ ← gabhīrávepas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sunītháḥ ← sunīthá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ciketa ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+idā́nīm ← idā́nīm (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kvà ← kvà (invariable)  
+{}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+katamā́m ← katamá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+raśmíḥ ← raśmí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tatāna ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Der schön beschwingte hat erhellt die Lüfte, der tieferregte Gott, der herrlic
 Где теперь солнце? Кто (это) постиг?  
 К какому небу протянулся его луч?
 </details>
+

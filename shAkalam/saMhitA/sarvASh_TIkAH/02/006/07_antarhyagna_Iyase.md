@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+ī́yase ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+jánma ← jánman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kave ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ubháyā ← ubháya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jányā ← jánya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mítryaḥ ← mítrya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +174,4 @@ Denn zwischen Gott- und Menschenstamm gehst, weiser Agni, kundig du, Als Bote, b
 Между обоими родами, о поэт,  
 Как вестник, близкий племени, дружелюбный.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nādhitā́ya ← √nādh- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+śayáve ← śayú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ápinvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pūrvyā́ya ← pūrvyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ámuñcatam ← √muc- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+vártikām ← vártikā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+adhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+jáṅghām ← jáṅghā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+viśpálāyai ← viśpálā- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +186,4 @@ Ihr Ritter habt dem Çaju, als er flehte, die Kuh mit Milch gefüllt in alten Ze
 Вы освободили перепелку из беды.  
 Вишпале вы приделали ногу.
 </details>
+

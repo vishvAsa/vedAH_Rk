@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áyātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dívodāsāya ← dívodāsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bharádvājāya ← bharádvāja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+háyantā ← √hi- (root)  
+{case:NOM, gender:M, number:DU, tense:AOR, voice:ACT}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sacanáḥ ← sacaná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uvāha ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+śiṁśumā́raḥ ← śiṁśumā́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuktā́ ← √yuj- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Da als ihr fuhrt zum Hof des Divodasa, dem Bharadvadscha Huld erweisend, Ritter,
 Большое богатство привезла ваша готовая к услугам колесница.  
 Запряжен был бык и крокодил.
 </details>
+

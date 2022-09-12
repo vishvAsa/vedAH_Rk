@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āśata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ukṣitā́saḥ ← √vakṣ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ádhi ← ádhi (invariable)  
+{}
+
+cakrire ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rudrā́saḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sádaḥ ← sádas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+árcantaḥ ← √r̥c- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indriyám ← indriyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+janáyantaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+pŕ̥śnimātaraḥ ← pŕ̥śnimātar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śríyaḥ ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +225,4 @@ Erwachsen haben hohe Grösse sie erreicht, am Himmel schufen sich die Rudra's ih
 Поющие песню, порождающие силу Индры,  
 Они, чья мать – Пришни, надели на себя украшения.
 </details>
+

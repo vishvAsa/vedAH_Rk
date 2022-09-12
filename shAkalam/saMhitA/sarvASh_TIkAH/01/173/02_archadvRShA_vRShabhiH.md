@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árcat ← √r̥c- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+svéduhavyaiḥ ← svéduhavya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣabhiḥ ← vŕ̥ṣan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áśnaḥ ← áśna- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+juguryā́t ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+mr̥gáḥ ← mr̥gá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gūrta ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manā́m ← manā́- 1 (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mandayúḥ ← mandayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+bhárate ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+máryaḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mithunā́ ← mithuná- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yájatraḥ ← yájatra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Es rauscht der Stier, im Schweiss entflammt von Stieren, wie ein gefräss'ger L�
 Радостный хотар запевает молитву.  
 Юноша, достойный жертв, поддерживает пару (жрецов).
 </details>
+

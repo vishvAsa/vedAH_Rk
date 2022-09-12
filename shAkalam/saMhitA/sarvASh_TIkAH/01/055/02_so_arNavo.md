@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arṇaváḥ ← arṇavá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+samudríyaḥ ← samudríya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥bhṇāti ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+várīmabhiḥ ← várīman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+víśritāḥ ← √śri- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥ṣāyate ← √vr̥ṣāy- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+panasyate ← √panasy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
+yudhmáḥ ← yudhmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +198,7 @@ Unfortunately most of the examples of ví √śri are used of the opening of the
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/055/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/055/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The two stems varimán- and várīman- appear here in successive verses without clear differentiation in meaning (though they do appear in different grammatical forms, nom. sg. and instr. pl. respectively).
@@ -175,3 +230,4 @@ Gleich wie die See die Flüsse, die zum Meere gehn, die weitverzweigten nimmt in
 Индра распаляется, как бык, для питья сомы.  
 От века этот боец вызывает восхищение (своей) силой.
 </details>
+

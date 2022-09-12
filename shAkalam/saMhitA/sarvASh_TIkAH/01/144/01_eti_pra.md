@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śúcipeśasam ← śúcipeśas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ūrdhvā́m ← ūrdhvá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+dakṣiṇāvŕ̥taḥ ← dakṣiṇāvŕ̥t- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kramate ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+srúcaḥ ← srúc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+níṁsate ← √nas- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Mit Weisheit geht der Priester an sein Opferwerk, hält hoch empor das hellergl�
 Он направляется к жертвенным ложкам, обращенным вправо,  
 Которые впервые ласкают его место установления.
 </details>
+

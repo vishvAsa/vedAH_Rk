@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mīḷhúṣaḥ ← mīḍhváṁs- (nominal stem)  
+{case:ACC, number:PL}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, number:PL}
+
+pā́rthive ← pā́rthiva- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yatasva ← √yat- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ádha ← ádha (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+étāḥ ← éta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pr̥thubudhnā́saḥ ← pr̥thubudhná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+paúṁsyāni ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tasthúḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tīrthé ← tīrthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Den gnäd'gen Männern schliess dich an, o Indra, und dringe kräftig hin zum Si
 Сейчас, когда их широкодонные  
 Антилопы остановились, словно боевые отряды врага у (речного) брода!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arbhakébhyaḥ ← arbhaká- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+mahádbhyaḥ ← mahā́nt- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āśinébhyaḥ ← āśiná- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yúvabhyaḥ ← yúvan- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śaknávāma ← √śak- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+yádi ← yádi (invariable)  
+{}
+
+yájāma ← √yaj- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+jyā́yasaḥ ← jyā́yaṁs- (nominal stem)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥kṣi ← √vr̥j- 1 (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Anbetung sei den grossen, Anbetung den kleinen, Anbetung den jungen, Anbetung de
 Мы хотим почитать богов, если мы сумеем!  
 Да не помешаю я речи лучшего (певца), о боги!
 </details>
+

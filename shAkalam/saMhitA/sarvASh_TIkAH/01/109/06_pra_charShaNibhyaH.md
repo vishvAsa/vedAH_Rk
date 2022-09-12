@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carṣaṇíbhyaḥ ← carṣaṇí- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pr̥tanāháveṣu ← pr̥tanāháva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+riricāthe ← √ric- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:MED}
+
+giríbhyaḥ ← girí- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+síndhubhyaḥ ← síndhu- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+anyā́ ← anyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+indrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Ihr überragt im Schlachtenlärm die Streiter, ihr überragt die Erde und den Hi
 Пре(восходите) реки, (пре)восходите горы величием.  
 Пре(восходите) все другие существа, о Индра и Агни.
 </details>
+

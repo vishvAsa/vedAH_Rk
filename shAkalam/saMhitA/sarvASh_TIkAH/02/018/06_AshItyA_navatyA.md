@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśītyā́ ← aśītí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+navatyā́ ← navatí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+háribhiḥ ← hári- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śaténa ← śatá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+uhyámānaḥ ← √vah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śunáhotreṣu ← śunáhotra- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+páriṣiktaḥ ← √sic- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tvāyā́ ← tvám (pronoun)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Komm noch herbei mit achtzig und mit neunzig, mit hundert Rossen komm herbeigefa
 Ведь этот сома у потомков Шунахотры – для тебя!  
 О Индра, из любви к тебе он палит для опьянения!
 </details>
+

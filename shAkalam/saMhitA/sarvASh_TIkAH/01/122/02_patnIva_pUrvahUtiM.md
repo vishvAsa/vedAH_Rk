@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+pátnī ← pátnī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pūrváhūtim ← pūrváhūti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vāvr̥dhádhyai ← √vr̥dh- (root)  
+{case:DAT, number:SG}
+
+purudhā́ ← purudhā́ (invariable)  
+{}
+
+uṣā́sānáktā ← uṣā́sānáktā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vídāne ← √vid- 2 (root)  
+{case:NOM, gender:F, number:DU, tense:PRF, voice:MED}
+
+átkam ← átka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+starī́ḥ ← starī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vásānā ← √vas- 2 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+vyùtam ← √u- 2 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+híraṇyaiḥ ← híraṇya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+śriyā́ ← śrī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sudŕ̥śī ← sudŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Das Frühgebet zu segnen, wie zwei Hausfraun erscheinen vielfach Nacht und Morge
 (Одна), подобно бездетной (женщине), носящая простую (?) одежду,  
 (Другая) с блеском солнца, прекрасная в золотых украшениях.
 </details>
+

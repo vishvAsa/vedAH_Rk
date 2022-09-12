@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámandān ← ámanda- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bhare ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+stómān ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+bhāvyásya ← bhāvyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kṣiyatáḥ ← √kṣi- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+síndhau ← síndhu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ámimīta ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+savā́n ← savá- 2 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+atū́rtaḥ ← atū́rta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ichámānaḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Muntere Lieder trage ich vor mit Weisheit auf dem Strome dessen, was bleibt und 
 (Тому,) кто мне назначил тысячу выжиманий (сомы),  
 (Кто) царь непобедимый, ищущий славы.
 </details>
+

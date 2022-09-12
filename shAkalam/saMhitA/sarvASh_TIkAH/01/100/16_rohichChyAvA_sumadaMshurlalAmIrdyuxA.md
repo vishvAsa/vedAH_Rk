@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+lalāmī́ḥ ← lalāmá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rohít ← rohít- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sumádaṁśuḥ ← sumádaṁśu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śyāvā́ ← śyāvá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dyukṣā́ ← dyukṣá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥jrā́śvasya ← r̥jrā́śva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bíbhratī ← √bhr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+dhūrṣú ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇvantam ← vŕ̥ṣaṇvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ciketa ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mandrā́ ← mandrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nā́huṣīṣu ← nā́huṣa- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +194,4 @@ Die rothe, dunkelbraune Stute, mit hellem Fleck auf der Stirne, mit Geschirr ver
 Ведущая в упряжи колесницу, принадлежащую мужественному (Индре),  
 Восхитительная, появилась среди племен Нахуши.
 </details>
+

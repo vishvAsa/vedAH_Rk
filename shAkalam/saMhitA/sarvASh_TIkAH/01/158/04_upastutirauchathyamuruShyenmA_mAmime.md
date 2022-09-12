@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aucathyám ← aucathyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpastutiḥ ← úpastuti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uruṣyet ← √uruṣy- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+dugdhām ← √duh- (root)  
+{number:DU, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+patatríṇī ← patatrín- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+citáḥ ← √ci- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dáśatayaḥ ← dáśataya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhāk ← √dah- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+édhaḥ ← édha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+baddháḥ ← √bandh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+khā́dati ← √khād- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tmáni ← tmán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +241,4 @@ Das Preislied schaffe Raum dem Sohn Utschathja's; nicht mögen mich beschwingte 
 Да не сожгут меня в десять рядов сложенные дрова,  
 Когда связанный вами сам грызет землю!.
 </details>
+

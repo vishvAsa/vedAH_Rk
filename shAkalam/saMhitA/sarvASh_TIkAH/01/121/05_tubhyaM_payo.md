@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánītām ← √nī- (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pitárau ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhuraṇyū́ ← bhuraṇyú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+surétaḥ ← surétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+turáṇe ← turáṇa- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ā́yajanta ← √yaj- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+rékṇaḥ ← rékṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śúci ← śúci- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sabardúghāyāḥ ← sabardúgha- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+usríyāyāḥ ← usríya- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Als dir die Aeltern [Himmel und Erde] die Milch darreichten als segensreiche Gab
 Прозрачный, (с тем,) чтобы (его) пожертвовали как твое наследство,  
 Молоко вечнодоящейся коровы.
 </details>
+

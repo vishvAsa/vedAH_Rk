@@ -19,10 +19,10 @@ ChandaH = "अतिशक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -30,6 +30,85 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+prá-pra ← prá (invariable)  
+{}
+
+sváyaśobhiḥ ← sváyaśas- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+durmatīnā́m ← durmatí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+parivargé ← parivargá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dárīman ← dárīman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+durmatīnā́m ← durmatí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+riṣayádhyai ← √riṣ- (root)  
+{case:DAT, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+svayám ← svayám (invariable)  
+{}
+
+atraíḥ ← atrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+upeṣé ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+asat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+hatā́ ← √han- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+īm ← īm (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+vakṣati ← √vah- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+jūrṇíḥ ← jūrṇí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kṣiptā́ ← √kṣip- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+vakṣati ← √vah- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,3 +309,4 @@ Mit schönen Hülfen dringe euer Indra vor, damit er unsre bösen Feinde züchti
 Да будет она уничтожена и не навлечет (на нас беды),  
 (Однажды) брошенная зажженная стрела да не навлечет (на нас) беды!
 </details>
+

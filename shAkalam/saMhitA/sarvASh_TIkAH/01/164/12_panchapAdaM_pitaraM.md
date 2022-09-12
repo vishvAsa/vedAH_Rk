@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dvā́daśākr̥tim ← dvā́daśākr̥ti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+páñcapādam ← páñcapāda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+árdhe ← árdha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+páre ← pára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+purīṣíṇam ← purīṣín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+átha ← átha (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+úpare ← úpara- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vicakṣaṇám ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+árpitam ← √r̥- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ṣáḷare ← ṣáḷara- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+saptácakre ← saptácakra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +229,4 @@ Fünffüssig, sagen sie, sei der zwölftheilige Vater, der an Feuchtigkeit reich
 А эти другие говорят, что (его) видно  
 В нижней (стороне) (и) он помещен на семикольную (колесницу) о шести спицах.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+samā́rata ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+upasthā́yam ← upasthā́ya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sadyás ← sadyás (invariable)  
+{}
+
+tatsāra ← √tsar- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yújyebhiḥ ← yújya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+mr̥śate ← √mr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mudé ← múd- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+nāndyè ← nāndī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+śvāntám ← śvāntá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apiṣṭhitám ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+gáchanti ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+uśatī́ḥ ← √vaś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +227,4 @@ Er eilt zum Sitz, sobald er nur bereitet ist, und kaum geboren schleicht mit den
 Она ласкает его набухающего – на радость (и) восторг,  
 Когда, жаждая (его), они идут к нему, преграждающему (им) путь.
 </details>
+

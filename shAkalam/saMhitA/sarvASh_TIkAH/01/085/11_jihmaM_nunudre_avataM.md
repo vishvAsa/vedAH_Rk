@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avatám ← avatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diśā́ ← díś- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+jihmám ← jihmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nunudre ← √nud- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+táyā ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+asiñcan ← √sic- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gótamāya ← gótama- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tr̥ṣṇáje ← tr̥ṣṇáj- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+citrábhānavaḥ ← citrábhānu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gachanti ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+dhā́mabhiḥ ← dhā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tarpayanta ← √tr̥p- (root)  
+{}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +238,4 @@ Zur Seite stossend gossen sie den Brunnen aus, auf diese Art als Born dem durst'
 Они приближаются к нему о помощью, ярко сверкающие.  
 Они удовлетворяют желание прозорливца по (своим) обычаям.
 </details>
+

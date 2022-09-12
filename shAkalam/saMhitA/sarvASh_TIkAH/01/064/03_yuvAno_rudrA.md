@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhogghánaḥ ← abhogghán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ajárāḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rudrā́ḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yúvānaḥ ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádhrigāvaḥ ← ádhrigu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+párvatāḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vavakṣúḥ ← √vakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+pā́rthivā ← pā́rthiva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cyāvayanti ← √cyu- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+divyā́ni ← divyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+majmánā ← majmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Die ewig jungen Rudra's, feind dem Geizigen, die unaufhaltsam schreiten, wuchsen
 Все земные (и) небесные сущности,  
 Даже твердые, они сотрясают (своей) мощью.
 </details>
+

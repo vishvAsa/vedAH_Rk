@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kvà ← kvà (invariable)  
+{}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+páram ← pára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+ávaram ← ávara- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āyayá ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+kvà ← kvà (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+cyāváyatha ← √cyu- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+sáṁhitam ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vithurā́ ← vithurá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádriṇā ← ádri- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+arṇavám ← arṇavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+patatha ← √pat- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +250,4 @@ Wo ist doch dieser Lüfte höchster Raum, und wo der tiefste, den, o Maruts, ihr
 Когда вы сотрясаете плотное, как если б оно было рыхлым,  
 На скале вы перелетаете через бурный поток.
 </details>
+

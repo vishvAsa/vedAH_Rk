@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyumattama ← dyumáttama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+purukr̥t ← purukŕ̥t- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śácīvaḥ ← śácīvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+abhítas ← abhítas (invariable)  
+{}
+
+cekite ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhibhūte ← abhíbhūti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+átas ← átas (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+saṁgŕ̥bhya ← √gr̥bhⁱ- (root)  
+{non-finite:CVB}
+
+jaritúḥ ← jaritár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+tvāyatáḥ ← √tvāy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ūnayīḥ ← √ūnay- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ O starker Indra, thatenreicher, glänzendster, dein ist der Reichthum, den man r
 Взяв из него, принеси, о (всех) превосходящий!  
 Не оставь неисполненным желание преданного тебе певца!
 </details>
+

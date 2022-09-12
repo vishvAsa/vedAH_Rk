@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bibhrati ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+darśatám ← darśatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyā́vākṣā́mā ← dyā́vā-kṣā́mā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vápuḥ ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhicákṣe ← √cakṣ- (root)  
+{case:DAT, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+sūryācandramásā ← sūryācandramás- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+carataḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+śraddhé ← śrád-√dhā- (root)  
+{case:DAT, number:SG}
+
+vitarturám ← vitarturám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 Солнце и луна движутся поочередно,  
 Чтобы мы могли видеть (их), чтобы мы верили (в тебя).
 </details>
+

@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
 popular
+#### Morph
+ávareṇa ← ávara- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+avás ← avás (invariable)  
+{}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+páreṇa ← pára- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bíbhratī ← √bhr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+padā́ ← pád- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+árdham ← árdha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kadrī́cī ← kadryáñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+kvà ← kvà (invariable)  
+{}
+
+nahí ← nahí (invariable)  
+{}
+
+sūte ← √sū- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+svit ← svit (invariable)  
+{}
+
+yūthé ← yūthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +252,4 @@ Unter dem höheren Raum [Himmel] über diesem niederen [der Erde], am Fusse das 
 Куда обращена она? В какую сторону направится?  
 Где ж она отелится? Ведь она не в стаде.
 </details>
+

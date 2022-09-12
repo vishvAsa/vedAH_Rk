@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áva ← áva (invariable)  
+{}
+
+camríṣaḥ ← camríṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayaṁsta ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+bhurváṇiḥ ← bhurváṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+yóṣām ← yóṣā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dákṣam ← dákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hiraṇyáyam ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pāyayate ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+āvŕ̥tya ← √vr̥t- (root)  
+{non-finite:CVB}
+
+háriyogam ← háriyoga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ŕ̥bhvasam ← ŕ̥bhvas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +245,4 @@ Dieser [Indra?] hat sich hingestürzt über die vielen Tränke des Brunnens [ava
 Для величия он дает себе выпить силу действия (сомы),  
 Повернув сюда золотистую колесницу с упряжкой буланых (коней), искусную.
 </details>
+

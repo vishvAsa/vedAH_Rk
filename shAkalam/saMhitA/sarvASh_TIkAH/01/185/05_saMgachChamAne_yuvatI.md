@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+sámante ← sámanta- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+saṁgáchamāne ← √gam- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+yuvatī́ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+jāmī́ ← jāmí- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+svásārā ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+abhijíghrantī ← √ghrā- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+nā́bhim ← nā́bhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ábhvāt ← ábhva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thivī ← pr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+rákṣatam ← √rakṣⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Die beiden Jungfraun, aneinander grenzend, die Zwillingsschwestern in dem Schoos
 Целующие пуп мироздания. . .  
 О Небо и Земля, защитите нас от ужаса!
 </details>
+

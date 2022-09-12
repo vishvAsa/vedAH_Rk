@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
+#### Morph
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+svarṣā́m ← svarṣā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+upamám ← upamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āṅgūṣám ← āṅgūṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āsyèna ← āsyà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bhárāmi ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+áchoktibhiḥ ← áchokti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sūrím ← sūrí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vāvr̥dhádhyai ← √vr̥dh- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +185,4 @@ Ihm bring' ich mit dem Munde diesen höchsten, des Himmels Glück verschaffenden
 Чтобы молитвенными призывами, удачными речами,  
 Усилить самого щедрого господина.
 </details>
+

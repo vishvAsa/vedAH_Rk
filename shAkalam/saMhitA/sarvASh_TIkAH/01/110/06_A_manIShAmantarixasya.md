@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+antárikṣasya ← antárikṣa- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nŕ̥bhyaḥ ← nár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+juhavāma ← √hu- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+srucā́ ← srúc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vidmánā ← vidmán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+saściré ← √sac- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+taraṇitvā́ ← taraṇitvá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+aruhan ← √ruh- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Des Luftraums Männern wollen kundig ein Gebet wir giessend weihen wie mit Löff
 Рибху, которые благодаря (своему) успеху последовали за этим отцом,  
 Поднялись в область неба за наградой.
 </details>
+

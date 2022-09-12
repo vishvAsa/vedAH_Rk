@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nīyáte ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+paramā́t ← paramá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dáṁsu ← dám- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+pr̥kṣúdhaḥ ← pr̥kṣúdh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rohati ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vīrúdhaḥ ← vīrúdh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ínvataḥ ← √i- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+janúṣam ← janúṣ- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ghr̥ṇā́ ← ghr̥ṇá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáviṣṭhaḥ ← yáviṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,3 +279,4 @@ Wenn er geholt wird von dem höchsten Vater her, besteigt die saft'gen Pflanzen 
 Когда оба (родителя) вызывают его рождение,  
 Вот тогда самый юный стал пылать жаром.
 </details>
+

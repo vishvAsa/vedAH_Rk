@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+āptáḥ ← √āp- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+gha ← gha (invariable)  
+{}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tvā́vān ← tvā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iyānáḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ákṣam ← ákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cakryòḥ ← cakrī́- (nominal stem)  
+{case:LOC, gender:F, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+r̥ṇóḥ ← √r̥- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Du ja selbst ein Freund der Sänger, kühner, fügst wie in die Räder Ein die A
 Певцам, когда тебя просят, о храбрый,  
 Ты (исполняешь) желание, (подобно тому,) как ось вставляешь в два колеса!
 </details>
+

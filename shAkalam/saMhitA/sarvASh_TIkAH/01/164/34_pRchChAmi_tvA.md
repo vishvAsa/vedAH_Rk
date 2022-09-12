@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ántam ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+páram ← pára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥chā́mi ← √praś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+nā́bhiḥ ← nā́bhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pr̥chā́mi ← √praś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+áśvasya ← áśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pr̥chā́mi ← √praś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+paramám ← paramá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pr̥chā́mi ← √praś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vyòma ← vyòman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Ich frage dich nach dem äussersten Ende der Erde, ich frage, wo der Welt Nabel 
 Я спрашиваю тебя о семени племенного жеребца.  
 Я спрашиваю о высшем небе речи.
 </details>
+

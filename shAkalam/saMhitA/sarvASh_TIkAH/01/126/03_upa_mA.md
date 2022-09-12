@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dattā́ḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+svanáyena ← svanáya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śyāvā́ḥ ← śyāvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ráthāsaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vadhū́mantaḥ ← vadhū́mant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+gávyam ← gávya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ṣaṣṭíḥ ← ṣaṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+abhipitvé ← abhipitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+kakṣī́vān ← kakṣī́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sánat ← √sanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +213,4 @@ Braune von Svanaya geschenkte Rosse und zehn mit Zugthieren versehene Wagen sind
 (За ними) последовало стадо из тысячи шестидесяти коров.  
 Получил Какшивант (награду) в конце дней (жертвоприношения).
 </details>
+

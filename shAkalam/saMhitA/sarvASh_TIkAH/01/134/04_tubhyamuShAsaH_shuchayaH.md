@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,79 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+parāváti ← parāvát- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+uṣā́saḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dáṁsu ← dám- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+raśmíṣu ← raśmí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+tanvate ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vástrā ← vástra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+citrā́ ← citrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+návyeṣu ← návya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+raśmíṣu ← raśmí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sabardúghā ← sabardúgha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dohate ← √duh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+vásūni ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ájanayaḥ ← √janⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vakṣáṇābhyaḥ ← vakṣáṇā- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vakṣáṇābhyaḥ ← vakṣáṇā- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +251,7 @@ On vakṣáṇā- ‘belly’ as a pl. tantum, see comm. ad X.27.16.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Fronted forms of the 2nd sg. pronoun begin most of the metrically significant sections in this sequence of vss. (4a, d, 5a, d, 6a).
@@ -214,3 +287,4 @@ Die hellen Morgen breiten in der Ferne dir in Wunderstrahlen schöne bunte Kleid
 Ты породил Марутов из грудей,  
 Из грудей неба.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aptyásya ← aptyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+árdhe ← árdha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+akr̥ta ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jánitrī ← jánitrī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prathate ← √prathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+u ← u (invariable)  
+{}
+
+várīyaḥ ← várīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vitarám ← vitarám (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+pr̥ṇántī ← √pr̥̄- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+upásthā ← upástha- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Im Ost der dunst'gen Lüfte hat die Mutter der Wolkenkühe ihren Schein verbreit
 Вот она распространяется – вдаль – вширь –  
 Заполняя лоно обоих (своих) родителей.
 </details>
+

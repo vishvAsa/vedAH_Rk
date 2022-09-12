@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ná ← ná (invariable)  
+{}
+
+pitr̥vittáḥ ← pitr̥vittá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vayodhā́ḥ ← vayodhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cikitúṣaḥ ← √cit- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śā́suḥ ← śā́sus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+supráṇītiḥ ← supráṇīti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átithiḥ ← átithi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prīṇānáḥ ← √prī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+syonaśī́ḥ ← syonaśī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sádma ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tārīt ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+vidhatáḥ ← √vidh- (root)  
+{case:GEN, gender:M, number:SG, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Der Kraft verschafft, wie Gut, ererbt vom Vater, schön leitend ist wie Unterric
 (Кто) наслаждается, как гость на мягком ложе,  
 (Тот,) как хотар, переправился через (жертвенное) сидение почитающего (его).
 </details>
+

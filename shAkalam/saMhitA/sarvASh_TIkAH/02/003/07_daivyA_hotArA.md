@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+daívyā ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hótārā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vidúṣṭarā ← vidúṣṭara- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+r̥cā́ ← ŕ̥c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+r̥jú ← r̥jú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+vapúṣṭarā ← vápuṣṭara- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yakṣataḥ ← √yaj- (root)  
+{number:DU, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+añjataḥ ← √añj- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+yájantau ← √yaj- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+nā́bhā ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sā́nuṣu ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+triṣú ← trí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Die Götterpriester, weisheitsvoll die prächtigen, sie beid' als erste eilen vo
 Принося жертвы богам в урочное время, пусть они вместе умастят (жертву)  
 На пупе земли, на трех вершинах!
 </details>
+

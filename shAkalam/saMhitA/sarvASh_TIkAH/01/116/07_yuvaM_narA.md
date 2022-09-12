@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pajriyā́ya ← pajriyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+aradatam ← √rad- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+kakṣī́vate ← kakṣī́vant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+púraṁdhim ← púraṁdhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áśvasya ← áśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kārotarā́t ← kārotará- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śaphā́t ← śaphá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asiñcatam ← √sic- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+kumbhā́n ← kumbhá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+súrāyāḥ ← súrā- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +187,4 @@ Ihr habt, o Männer, reiches Gut erschlossen dem Padschrasohn, dem preisenden Ka
 Из копыта жеребца, (словно) через цедилку,  
 Налили сто кувшинов хмельного напитка.
 </details>
+

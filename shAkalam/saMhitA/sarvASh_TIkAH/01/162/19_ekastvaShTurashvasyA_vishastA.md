@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áśvasya ← áśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tváṣṭuḥ ← tváṣṭar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+viśastā́ ← viśastár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhavataḥ ← √bhū- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dvā́ ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+r̥túḥ ← r̥tú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táthā ← táthā (invariable)  
+{}
+
+yantā́rā ← yantár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+gā́trāṇām ← gā́tra- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+kr̥ṇómi ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+juhomi ← √hu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+píṇḍānām ← píṇḍa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+tā́-tā ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +244,4 @@ Einer ist es, der das Ross des Tvaschtar zerlegt, zwei, die es darreichen, so is
 Сколько твоих частей тела я приготовлю по порядку,  
 Столько же клецок я пожертвую в огонь.
 </details>
+

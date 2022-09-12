@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+śr̥ṇve ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+hásteṣu ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+káśāḥ ← káśā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vádān ← √vadⁱ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+r̥ñjate ← √r̥j- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +164,4 @@ Ganz nah hört ihre Peitsche man, wenn sie in ihren Händen knallt, Sie schmück
 Когда кнут свистит в (их) руках.  
 На пути (своем) они приобретают яркий облик.
 </details>
+

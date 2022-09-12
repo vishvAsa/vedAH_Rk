@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+índubhiḥ ← índu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+anuséṣidhat ← √sidh- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+ṣáṭ ← ṣáṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yuktā́n ← √yuj- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+carkr̥ṣat ← √kr̥ṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+yávam ← yáva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +176,4 @@ Herführend durch den Indusaft die Sechsgepaarten, pflüge er Mit Stieren gleich
 Добьется шести упряжек,  
 Словно ячменя напашет на быках.
 </details>
+

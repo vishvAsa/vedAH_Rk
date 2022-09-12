@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -30,6 +30,97 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+bhávyāya ← bhávya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índave ← índu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+voceyam ← √vac- (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iṣávān ← iṣávant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+réjati ← √rej- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+rakṣohā́ ← rakṣohán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+réjati ← √rej- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, gender:M, number:PL}
+
+nidáḥ ← níd- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svayám ← svayám (invariable)  
+{}
+
+ajeta ← √aj- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+durmatím ← durmatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vadhaíḥ ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+agháśaṁsaḥ ← agháśaṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+avatarám ← avatarám (invariable)  
+{}
+
+sravet ← √sru- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+kṣudrám ← kṣudrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sravet ← √sru- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,3 +333,4 @@ Dem gegenwärt'gen Indu will ich künden dies, dem rufenswerthen, der mit Kraft 
 Пусть изливается злоречивый все ниже и ниже,  
 Как мельчайшие брызги, пусть изливается!
 </details>
+

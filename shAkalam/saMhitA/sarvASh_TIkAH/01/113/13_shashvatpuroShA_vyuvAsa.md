@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+purā́ ← purā́ (invariable)  
+{}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uvāsa ← √vas- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+āvar ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+maghónī ← maghávan- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+uchāt ← √vas- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+úttarān ← úttara- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ajárā ← ajára- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+amŕ̥tā ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+svadhā́bhiḥ ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +227,7 @@ Note that in this verse a single Dawn subsumes the various temporal dawns of the
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details open><summary><h2>07-13 ...{Loading}...</h2></summary>
 
 These verses have a surprising density of forms of ví √vas ‘dawn forth’ (7b, d, 8c, 9b, 10b [2x], 11b, 12d, 13a, b, c), whereas vss. 1-6 lack any such forms -- though there’s a teasing echo in 4b ví … āvaḥ ‘She opened, uncovered’, belonging, however, to √vṛ. See also comments on vs. 14.
@@ -191,3 +264,4 @@ Stets schien zuvor die Göttin Morgenröthe, auch jetzt hat diesen Raum enthüll
 И будет зажигаться она (все) последующие дни.  
 Нестареющая, бессмертная, странствует она по своим законам.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+puruhūtáḥ ← puruhūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śímyūn ← śímyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+barhīt ← √br̥h- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+hatvā́ ← √han- (root)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śárvā ← śáru- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+kṣétram ← kṣétra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sákhibhiḥ ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sánat ← √sanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+śvitnyébhiḥ ← śvitnyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sánat ← √sanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sánat ← √sanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvájraḥ ← suvájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Die Feinde und Verderber hat der vielgerufene, nach seiner Weise schlagend zur E
 Он завоевал страну вместе со (своими) светлыми друзьями.  
 Он завоевал солнце, он завоевал воды, (бог) с прекрасной дубиной.
 </details>
+

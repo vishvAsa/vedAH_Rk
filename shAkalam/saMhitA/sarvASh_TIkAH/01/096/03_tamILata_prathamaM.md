@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+īḷata ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yajñasā́dham ← yajñasā́dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́hutam ← √hu- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ā́rīḥ ← ā́rya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥ñjasānám ← r̥ñjasāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bharatám ← bharatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sr̥prádānum ← sr̥prádānu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrjáḥ ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhārayan ← √dhr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+draviṇodā́m ← draviṇodā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +220,4 @@ Den Agni als den ersten Opfrer preise der Arjer Stamm, den thätigen, getränkte
 Сына силы, Бхарату, чьи дары обильны (?).  
 Боги поддерживают Агни – дарителя богатства.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhágasya ← bhága- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jāmíḥ ← jāmí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svásā ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jarasva ← √gr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sūnr̥te ← sūnŕ̥ta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+aghásya ← aghá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+daghyāḥ ← √dagh- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+dhātā́ ← dhātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paścā́ ← paścā́ (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dákṣiṇayā ← dákṣiṇa- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+jáyema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Als Bhaga's Schwester, Varuna's Verwandte, komm her zuerst, o schöne Morgenröt
 Да останется позади, кто затевает зло!  
 Да победим мы его Дакшиной-колесницей!
 </details>
+

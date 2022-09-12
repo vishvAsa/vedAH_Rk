@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+járābodha ← jarābodha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+viviḍḍhi ← √viṣ- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+viśé-viśe ← víś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yajñíyāya ← yajñíya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dŕ̥śīkam ← dŕ̥śīka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rudrā́ya ← rudrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +157,4 @@ Sangkundiger, so stimme an, dem glänzenden, der jedem Stamm Zu ehren ist, ein s
 Восхваление, прекрасное на вид, для блистающего (Агни),  
 Достойного жертв у всех племен.
 </details>
+

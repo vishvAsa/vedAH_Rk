@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dharúṇam ← dharúṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́hinaḥ ← mā́hina- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+sádaneṣu ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ariṇāḥ ← √rī- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+arujaḥ ← √ruj- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+pāṣyā̀ ← pāṣyà- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+samáyā ← samá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vr̥trásya ← vr̥trá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Du, Indra, setztest mit Kraft die Stütze des Himmels auf die Sitze der Erde, ge
 Ты в опьянении выжатым (сомой) пустил течь воды.  
 Ты пробил насквозь челюсти (?) Вритры.
 </details>
+

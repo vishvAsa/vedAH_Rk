@@ -16,14 +16,63 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Archaic
 
-## Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+anubhartrī́ ← anubhartár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+syā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+stobhati ← √stubh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vāghátaḥ ← vāghát- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vā́ṇī ← vā́ṇī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+ástobhayat ← √stubh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+svadhā́m ← svadhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +192,4 @@ Hier dieser kräftigende dargereichte Soma rauscht euch, o Maruts, entgegen, wie
 (Готама) легко вызвал звуки этих (песен),  
 Руками (отбивая такт) по обычаю.
 </details>
+

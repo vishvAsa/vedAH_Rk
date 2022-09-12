@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pr̥ṣṭáḥ ← √praś- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pr̥ṣṭáḥ ← √praś- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pr̥ṣṭáḥ ← √praś- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+viveśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥ṣṭáḥ ← √praś- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vaiśvānaráḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dívā ← dívā (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+riṣáḥ ← ríṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +198,6 @@ genre M
 अयं वैश्वानरः **अग्निः** **दिवि** द्युलोके आदित्यात्मना **पृष्टः** संस्पृष्टः यद्वा निषिक्तो निहितो वर्तते । तथा **पृथिव्यां** भूमौ गार्हपत्यादिरूपेण **पृष्टः** संस्पृष्टो निहितो वा । तथा **विश्वाः** सर्वाः **ओषधीः** **पृष्टः** संस्पृष्टः सः अग्निः **आ** **विवेश** पाकार्थमन्तः प्रविष्टवान् । अन्तःप्रविष्टेन पार्थिवेनाग्निना' हि सर्वा ओषधयः पच्यन्ते। **सहसा** परेषामसाधारणेन बलेन **पृष्टः** संस्पृष्टः वैश्वानरः **नः** अस्मान् **दिवा** अह्नि **रिषः** हिंसतः शत्रोः **पातु** रक्षतु । तथा **सः** वैश्वानरः **नक्तं** रात्रवप्यस्मान् हिंसकात् पातु ॥ पृष्टः । ‘ स्पृश संस्पर्शने '। छान्दसः सकारलोपः । यद्वा । ‘ पृषु सेचने ' । निष्ठायां यस्य विभाषा ' इति इट्प्रतिषेधः । दिवि । ‘ ऊडिदम्' इति विभक्तेरुदात्तत्वम् । पृथिव्याम् ।' उदात्तयण: ' इति विभक्तिरुदात्ता । रिषः । रिष हिंसायाम् ' । ‘ क्विप्  च' इति क्विप् ।' सावेकाचः' इति पञ्चम्या उदात्तत्वम् ।
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 अयं वैश्वानरोग्निः दिव्यादित्यात्मना **पृष्टः** स्पृष्टः । छान्दसो व्यञ्जनलोपः । यद्वा - **पृष्टो** निषिक्तः निहितः दिव्यादित्यात्मना । पृष सेचने ।  
@@ -184,7 +247,6 @@ Agni Vaiśvanara eagerly desired,
 May he by day [1] and night protect us from the foe.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Im Himmel gesucht, auf Erden gesucht ist der gesuchte Agni in alle Pflanzen eingegangen. Mit Kraft gesucht wird der Agni Vaisvanara; er soll uns am Tag und Nachts vor Schaden behüten.
@@ -202,3 +264,4 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 Агни-Вайшванара, которого решительно ищут,  
 Да охранит он нас днем от беды, (да охранит) он ночью!
 </details>
+

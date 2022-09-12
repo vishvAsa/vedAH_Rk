@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indriyám ← indriyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kṣoṇī́bhyām ← kṣoṇí- ~ kṣoṇī́- (nominal stem)  
+{case:INS, gender:F, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+paribhvè ← paribhū́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+párvataiḥ ← párvata- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samudraíḥ ← samudrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+aśnoti ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+caná ← caná (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āśúbhiḥ ← āśú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pátasi ← √pat- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yójanā ← yójana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +242,4 @@ Die Welten beid' umfassen deine Grösse nicht, nicht deinen Wagen Berge noch das
 Никто не догонит твоей ваджры,  
 Когда ты летишь много еджан на быстрых (конях).
 </details>
+

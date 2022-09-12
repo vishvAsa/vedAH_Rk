@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jujuṣuḥ ← √juṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yúvānaḥ ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vavarta ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+antárikṣe ← antárikṣa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhrájataḥ ← √dhraj- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+śyenā́n ← śyená- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kéna ← ká- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+mahā́ ← máh- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rīramāma ← √ram- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ An wessen Spruch erfreuten sich die Jungen? wer hat zum Opfer hergelenkt die Mar
 Мчащихся по воздуху, словно ястребы?  
 Маруты:
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; line affected by realignment  
 genre M  
 genre M
+#### Morph
+hiraṇyáyebhiḥ ← hiraṇyáya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pavíbhiḥ ← paví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+payovŕ̥dhaḥ ← payovŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āpathyàḥ ← āpathī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jighnante ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+párvatān ← párvata- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+ayā́saḥ ← ayā́s- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhruvacyútaḥ ← dhruvacyút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+makhā́ḥ ← makhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svasŕ̥taḥ ← svasŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhrā́jadr̥ṣṭayaḥ ← bhrā́jadr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dudhrakŕ̥taḥ ← dudhrakŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +207,4 @@ Wie Wegebahner drängen sie die Berge weg mit ihren goldnen Rädern, sie an Flut
 Борцы неутомимые, бегущие по своему (побуждению), сотрясатели твердого,  
 Совершающие дикие (поступки) Маруты со сверкающими копьями.
 </details>
+

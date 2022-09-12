@@ -16,14 +16,69 @@ ChandaH = "विष्टारबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ā́stam ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+maháḥ ← máh- (nominal stem)  
+{}
+
+rán ← rán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+nirátataṁsatam ← √taṁs- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sugopā́ ← sugopā́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+syātam ← √as- 1 (root)  
+{number:DU, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+vasū ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+aghāyóḥ ← aghāyú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pātám ← √pā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vŕ̥kāt ← vŕ̥ka- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Denn ihr wart zur Hand, wenn es galt herrliches zu geniessen (?), ihr auch wenn 
 Будьте нам добрыми пастухами, о два бога!  
 Сохраните нас от лютого волка!
 </details>
+

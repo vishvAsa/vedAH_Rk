@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śuṣántam ← √śvasⁱ- (root)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vr̥ścat ← √vr̥śc- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+amuñcat ← √muc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+avánīḥ ← aváni- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vrāṇā́ḥ ← √vr̥- (root)  
+{case:ACC, gender:F, number:PL, tense:AOR, voice:PASS}
+
+abhí ← abhí (invariable)  
+{}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, gender:N, number:SG}
+
+sácetāḥ ← sácetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Den Vritra schlug mit seinem Blitze Indra, den schnaufenden durch seines Blitzes
 Как запертых коров, он освободил реки,  
 (Стремясь) навстречу славе, согласный дарить.
 </details>
+

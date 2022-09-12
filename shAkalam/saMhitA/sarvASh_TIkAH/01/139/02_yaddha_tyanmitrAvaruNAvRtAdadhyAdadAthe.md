@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,88 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+ha ← ha (invariable)  
+{}
+
+mitrāvaruṇau ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+r̥tā́t ← r̥tá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ādadā́the ← √dā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:MED}
+
+ánr̥tam ← ánr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+manyúnā ← manyú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+svéna ← svá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+manyúnā ← manyú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+svéna ← svá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+sádmasu ← sádman- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+ápaśyāma ← √paś- (root)  
+{number:PL, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+hiraṇyáyam ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+akṣábhiḥ ← ákṣi ~ akṣán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+caná ← caná (invariable)  
+{}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+svébhiḥ ← svá- (pronoun)  
+{case:INS, gender:N, number:PL}
+
+akṣábhiḥ ← ákṣi ~ akṣán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svébhiḥ ← svá- (pronoun)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +266,7 @@ With Geldner (etc.) I supply ‘throne’ with hiraṇyáyam in e on the basis o
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/139/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/139/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 For the sense of these vss., see published introduction.
@@ -220,3 +302,4 @@ Wie ihr ja, Mitra, Varuna, zum Schutz des Rechts das Unrecht packt mit eures eig
 Пусть силами прозрения мыслью, (но) своими глазами,  
 Своими глазами, (глазами) сомы!
 </details>
+

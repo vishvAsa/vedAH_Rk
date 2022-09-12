@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+keśínā ← keśín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yunájmi ← √yuj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+dadhiṣé ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+amandiṣuḥ ← √mand- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+rabhasā́ḥ ← rabhasá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sutā́saḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+út ← út (invariable)  
+{}
+
+amadaḥ ← √mad- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+pátnyā ← pátnī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pūṣaṇvā́n ← pūṣaṇvánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +246,4 @@ Ich schirre dir die mähn'gen Rosse durch Gebet, nun fahre her, du fügtest an d
 Опьянили тебя крепкие выжатые соки сомы.  
 Захмелел ты, о громовержец, вместе о Пушаном и с супругой.
 </details>
+

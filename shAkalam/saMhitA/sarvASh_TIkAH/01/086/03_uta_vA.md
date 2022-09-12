@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+átakṣata ← √takṣ- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+vípram ← vípra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gántā ← gántar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gómati ← gómant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vrajé ← vrajá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +146,7 @@ As noted in the published introduction, I take the vājín- here to be the patro
 I take gántā as a periphrastic future. VII.32.10 gámat sá gómati vrajé is entirely parallel, save for having a subjunctive (gámat) in place of the agent noun here, which suggests a future sense for the latter.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 As discussed in the published introduction, the syntax of these two verses is to be interpreted in the template provided by vs. 1, namely a relative clause (or clauses) expressing the beneficiary of the Maruts’ favor with the genitive yásya and a main clause assigning a reward to him. The full structure is seen in 1ab (rel. cl. with yásya) / 1c main clause with coreferential sá. Verses 2 and 3ab serve as the relative clauses to the main clause of 3c, also beginning sá. However, the relative pronoun is suppressed until 3a and the structure of parallel relative clauses is only conveyed by the repeated vā ‘or’ (2a, 2b, 3a). Indeed, though 2b contains a genitive of the human beneficiary (víprasya), 2a lacks even that: we must infer a yásya to limit the yajñaíḥ, as well as a verb to construe with that instrumental. I would diagram the structure as follows, with what is to be supplied in parentheses: template, vs. 1: yásya … pāthā́(2nd ps. pl. verb) (1ab) / sá for whom … you Maruts perform benevolent action (1c) / he is (rewarded) complex variation, vss. 2-3 (yásya) yajñaíḥ vā (2nd ps. verb) (2a) or by (whose) sacrifices (you were attracted?) (yásya) víprasya vā … śṛṇutā́(2bc) or of (which) poet … you heard utá vā yásya vājínaḥ … átakṣata (3ab) / sá or of which prize-seeker … you fashioned / he is (rewarded) This interpretation differs significantly from that of other tr. In particular, vs. 2 is generally taken as an independent sentence that does not parallel the yásya structures of vss. 1 and 3 and that has śṛṇutā́as the verb of a main clause, not of a subordinate clause, as I take it. (By that account śṛṇutā́is accented because it follows the extraclausal vocative that opens the pāda.) Although my interpretation requires several elements to be supplied, esp. in vs. 2, most other tr. also supply a verb with 2ab, and they fail to capture the structural parallelism that allows the ellipses to be filled in a principled fashion.
@@ -143,3 +177,4 @@ Und welches reichen Opferherrn Lobsänger ihr erkoren habt, Der kommt zu rinderr
 Вы создали на помощь вдохновенного,  
 Тот достигает загона, полного коров.
 </details>
+

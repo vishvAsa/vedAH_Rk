@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jujurúṣaḥ ← √jr̥̄- ~ jūr- (root)  
+{case:ABL, gender:M, number:SG, tense:PRF, voice:ACT}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+vavrím ← vavrí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+amuñcatam ← √muc- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cyávānāt ← cyávāna- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+drāpím ← drāpí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+atiratam ← √tr̥̄- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+jahitásya ← √hā- 2 (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+prá ← prá (invariable)  
+{}
+
+akr̥ṇutam ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+kanī́nām ← kanyā̀- ~ kanī́n- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Von dem Tschjavana, als er alt war, löstet wie ein Gewand, o Treue, ihr den Lei
 Вы продлили срок жизни покинутому (всеми), о удивительные.  
 И даже сделали (его) мужем юных жен.
 </details>
+

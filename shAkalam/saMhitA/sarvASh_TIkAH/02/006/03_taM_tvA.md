@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+gírvaṇasam ← gírvaṇas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+draviṇasyúm ← draviṇasyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+draviṇodaḥ ← draviṇodas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+saparyávaḥ ← saparyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saparyéma ← √sapary- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +142,4 @@ Mit Liedern dich, der Lieder liebt, der Schätze schenkt, o Schätzeherr, Verehr
 Стремящегося к богатству, о дающий богатство,  
 Мы хотим уважить, (мы,) склонные к уважению.
 </details>
+

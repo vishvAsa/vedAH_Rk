@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anavabhrárādhasaḥ ← anavabhrárādhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+skambhádeṣṇāḥ ← skambhádeṣṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+alātr̥ṇā́saḥ ← alātr̥ṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+súṣṭutāḥ ← súṣṭuta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+árcanti ← √r̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+madirásya ← madirá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+paúṁsyā ← paúṁsya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prathamā́ni ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vidúḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vīrásya ← vīrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +196,4 @@ Sie, deren Gaben fest sind, deren Lohn nicht weicht, beim Fest gepriesen, deren 
 Распевают песнь, чтобы пить опьяняющего (сому).  
 Они знают первые мужественные подвиги героя.
 </details>
+

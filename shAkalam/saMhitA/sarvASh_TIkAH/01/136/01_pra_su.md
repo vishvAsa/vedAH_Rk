@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,91 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nicirā́bhyām ← nicirá- (nominal stem)  
+{case:DAT, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+bharata ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mr̥ḷayádbhyām ← √mr̥ḍ- (root)  
+{case:DAT, gender:M, number:DU, tense:PRS, voice:ACT}
+
+mr̥ḷayádbhyām ← √mr̥ḍ- (root)  
+{case:DAT, gender:M, number:DU, tense:PRS, voice:ACT}
+
+svā́diṣṭham ← svā́diṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ghr̥tā́sutī ← ghr̥tā́suti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+samrā́jā ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+úpastutā ← √stu- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+yajñé-yajñe ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ādhŕ̥ṣe ← √dhr̥ṣ- (root)  
+{case:DAT, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+enoḥ ← ena- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kútas ← kútas (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ādhŕ̥ṣe ← √dhr̥ṣ- (root)  
+{case:DAT, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+devatvám ← devatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,3 +308,4 @@ Den beiden, die drauf achten, bringt als bestes dar, den gnäd'gen hohe Ehrfurch
 И на их власть ниоткуда не посягнуть,  
 На (их) божественную природу никогда не посягнуть.
 </details>
+

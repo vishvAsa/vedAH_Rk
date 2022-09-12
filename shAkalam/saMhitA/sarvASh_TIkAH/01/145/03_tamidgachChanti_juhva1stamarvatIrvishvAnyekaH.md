@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árvatīḥ ← árvatī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gachanti ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+juhvàḥ ← juhū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śr̥ṇavat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vácāṁsi ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+purupraiṣáḥ ← purupraiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táturiḥ ← táturi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñasā́dhanaḥ ← yajñasā́dhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áchidrotiḥ ← áchidroti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adatta ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+rábhaḥ ← rábhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+śíśuḥ ← śíśu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +248,4 @@ Ihm eilen zu die Löffel, ihm die Stuten zu, und er allein soll Zeuge meiner Wor
 Отдающий много приказов, преодолевающий (препятствия), приводящий жертву к цели,  
 Тот, чья помощь без изъяна, (еще) ребенком он усвоил насилие.
 </details>
+

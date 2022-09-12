@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámavatī ← ámavant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sātíḥ ← sātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svàrvatī ← svàrvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pípiṣvatī ← pípiṣvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tveṣā́ ← tveṣá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vípākā ← vípāka- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pr̥ṇatáḥ ← √pr̥̄- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rātíḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+asuryā̀ ← asuryà- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jáñjatī ← jáñjatī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pr̥thujráyī ← pr̥thujráya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Der Beute ist, o Maruts, eure Gabe gleich, helleuchtend, kräftig, prächtig, re
 Несущий счастье – дар ваш, (он) словно плата щедрого (покровителя),  
 Охватывающий широкую поверхность, пламенеющий, словно асурская (Родаси).
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+prá ← prá (invariable)  
+{}
+
+pūtā́ḥ ← √pū- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+tigmáśociṣe ← tigmáśocis- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gotama ← gótama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́caḥ ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bhárasva ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sumnayúḥ ← sumnayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +156,4 @@ Auf, bringe schöne Sprüche nun und Lieder dem hellglänzenden, Dem Agni dar, o
 С острым пламенем чистые слова,  
 Хвалебные песни, (ты,) ищущий благосклонности?
 </details>
+

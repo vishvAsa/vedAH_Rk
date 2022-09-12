@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sádmanī ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+urvī́ ← urú- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+jánitrī ← jánitrī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhā́te ← √dhā- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+suprátīke ← suprátīka- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+ábhvāt ← ábhva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thivī ← pr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+rákṣatam ← √rakṣⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Die weiten, hohen Sitze ruf' mit Lust ich, mit frommem Sinn die Aeltern aller G�
 Двух прекрасноликих, которые получили бессмертие.  
 О Небо и Земля, защитите нас от ужаса!
 </details>
+

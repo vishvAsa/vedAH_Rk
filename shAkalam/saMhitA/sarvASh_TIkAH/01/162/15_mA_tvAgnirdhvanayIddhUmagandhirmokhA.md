@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhūmágandhiḥ ← dhūmágandhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhvanayīt ← √dhvanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+bhrā́jantī ← √bhrāj- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+jághriḥ ← jághri- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+ukhā́ ← ukhā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vikta ← √vij- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+abhígūrtam ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+iṣṭám ← √yaj- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+váṣaṭkr̥tam ← váṣaṭkr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vītám ← √vī- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gr̥bhṇanti ← √gr̥bhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Nicht möge dich das nach Rauch riechende Feuer einhüllen, noch der kochende sp
 Пожертвованного, желанного, воспетого, приготовленного под (возглас): Вашат!  
 Этого коня пусть примут боги!
 </details>
+

@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+adyaḥ ← √dā- 4 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́vitha ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+codám ← codá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ékasya ← éka- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+śruṣṭaú ← śruṣṭí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+arajjaú ← arajjú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dabhī́taye ← dabhī́ti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+unap ← √ubh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+abhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+suprāvyàḥ ← suprāvyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthyàḥ ← ukthyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +260,4 @@ Willfährig einem bandest Tausend du zugleich dem Vajia zu Lieb', als du dem Sä
 Без веревки ты связал дасью для Дабхити.  
 Ты был очень готов помогать – ты достоин гимна.
 </details>
+

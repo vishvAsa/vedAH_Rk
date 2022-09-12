@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aghnyásya ← aghnyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mūrdháni ← mūrdhán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yemathuḥ ← √yam- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Denn auf des Stiers, der Erde, Haupt lenkt ihr des Wagens eines Rad, Das andre l
 Вы удерживали колесо колесницы.  
 Другое катится вокруг неба.
 </details>
+

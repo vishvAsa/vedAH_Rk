@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,88 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+bāhvòjasaḥ ← bāhvòjas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+nadī́ ← nadī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+patáyanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ukṣáṇaḥ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ukṣáṇaḥ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vrā́dhantaḥ ← √vrādh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+anāśávaḥ ← anāśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+dhánvan ← dhánvan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ágiraukasaḥ ← ágiraukas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+jīrā́ḥ ← jīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+durniyántavaḥ ← durniyántu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+raśmáyaḥ ← raśmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+durniyántavaḥ ← durniyántu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hástayoḥ ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,3 +298,4 @@ Die Helden stark an Armen, die du, Vaju, hast, die zwischen beiden Weltenströme
 Словно лучи солнца трудно управляемые,  
 Руками трудно управляемые.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
+#### Morph
+áminatī ← áminant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+daívyāni ← daívya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+manuṣyā̀ ← manuṣyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+praminatī́ ← √mī- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+yugā́ni ← yugá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+īyúṣīṇām ← √i- 1 (root)  
+{case:GEN, gender:F, number:PL, tense:PRF, voice:ACT}
+
+śáśvatīnām ← śáśvant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+upamā́ ← upamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+adyaut ← √dyut- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+āyatīnā́m ← √i- 1 (root)  
+{case:GEN, gender:F, number:PL, tense:PRS, voice:ACT}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

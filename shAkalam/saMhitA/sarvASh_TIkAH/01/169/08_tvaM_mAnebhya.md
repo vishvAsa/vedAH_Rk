@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́nebhyaḥ ← mā́na- 1 (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+viśvájanyāḥ ← viśvájanya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+góagrāḥ ← góagra- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+marúdbhiḥ ← marút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ráda ← √rad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śurúdhaḥ ← śurúdh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+stávānebhiḥ ← √stu- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:MED}
+
+stavase ← √stu- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+iṣám ← iṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jīrádānum ← jīrádānu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidyā́ma ← √vid- 2 (root)  
+{number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+vr̥jánam ← vr̥jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Den Sängern spende du für alle Menschen milchreiche Gaben, Indra mit den Marut
 Тебя должны прославлять, о бог, вместе с прославляемыми богами!  
 Мы хотим найти щедрую общину, легко дарящую!
 </details>
+

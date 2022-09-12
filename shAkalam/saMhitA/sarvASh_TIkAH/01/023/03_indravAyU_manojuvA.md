@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+indravāyū́ ← indra-vāyú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+manojúvā ← manojū́- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+havante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhiyáḥ ← dhī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pátī ← páti- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sahasrākṣā́ ← sahasrākṣá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +153,4 @@ Zu Hülfe ruft der Sänger Schar sie, die mit tausend Augen schaun, Gedankenschn
 Вдохновенные зовут для поддержки,  
 Двух тысячеглазых повелителей молитвы.
 </details>
+

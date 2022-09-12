@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ataséṣu ← atasá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+tiṣṭhate ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vā́tajūtaḥ ← vā́tajūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+juhū́bhiḥ ← juhū́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sŕ̥ṇyā ← sŕ̥ṇī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tuviṣváṇiḥ ← tuviṣváṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tr̥ṣú ← tr̥ṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vanínaḥ ← vanín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vr̥ṣāyáse ← √vr̥ṣāy- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ajara ← ajára- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+éma ← éman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṣṇám ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rúśadūrme ← ruśadūrmi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Vom Wind getrieben eilt er rings zu dem Gestrüpp, mit Zungen rauschend, mit der
 Когда, о Агни, ты жадно кидаешься, как бык, на деревья,  
 Черен твой путь, о ты, со сверкающей волной (пламени), о нестареющий.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+hí ← hí (invariable)  
+{}
+
+miyedhya ← miyedhya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vásiṣva ← √vas- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūrjām ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vástrāṇi ← vástra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yaja ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ In deine Kleider hülle dich, die Opfer nehmend, Herr der Kraft, Vollziehe unser
 В (свои) одеяния, о господин подкреплений!  
 Отпразднуй этот наш обряд!
 </details>
+

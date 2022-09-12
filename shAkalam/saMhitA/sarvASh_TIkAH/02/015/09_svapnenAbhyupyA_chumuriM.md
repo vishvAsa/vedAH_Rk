@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+abhyúpya ← √vap- 2 (root)  
+{non-finite:CVB}
+
+ca ← ca (invariable)  
+{}
+
+cúmurim ← cúmuri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhúnim ← dhúni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svápnena ← svápna- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+āvaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dabhī́tim ← dabhī́ti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dásyum ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaghántha ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+átra ← átra (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+híraṇyam ← híraṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rambhī́ ← rambhín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vivide ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ In Schlaf versenkend Tschumuri und Dhuni schlugst du den Dämon, halfest dem Dab
 Даже старый тогда находил золото.  
 В опьянении сомой Индра совершил эти (подвиги).
 </details>
+

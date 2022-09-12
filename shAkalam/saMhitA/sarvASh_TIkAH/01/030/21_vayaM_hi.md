@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ámanmahi ← √man- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ántāt ← ánta- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+parākā́t ← parāká- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+aruṣi ← áruṣī- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+áśve ← áśvā- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+citre ← citrá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Denn in der Ferne, in der Näh gedenken dein wir, Morgenroth, Die du wie eine St
 Изблизи (и) издалека,  
 О яркая, как пламенная кобылица!
 </details>
+

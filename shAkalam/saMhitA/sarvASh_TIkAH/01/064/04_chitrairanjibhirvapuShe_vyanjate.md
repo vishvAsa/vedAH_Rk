@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+añjate ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+añjíbhiḥ ← añjí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+citraíḥ ← citrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vápuṣe ← vápus- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+rukmā́n ← rukmá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vákṣassu ← vákṣas- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yetire ← √yat- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+áṁseṣu ← áṁsa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+mimikṣuḥ * ← √myakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+r̥ṣṭáyaḥ ← r̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jajñire ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Mit buntem Schmucke schmücken sie zur Pracht sich aus, zum Prunke legten Goldsc
 Об плечи их трутся копья.  
 Вместе родились они со своими особенностями, (эти) мужи неба.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+tiṣṭhasi ← √sthā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vr̥ṣapā́ṇeṣu ← vr̥ṣapā́ṇa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+mándase ← √mand- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+prábhr̥tāḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+śāryātásya ← śāryātá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+cākánaḥ ← √kanⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sutásomeṣu ← sutásoma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+anarvā́ṇam ← anarván- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rohase ← √ruh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ślókam ← ślóka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +231,4 @@ Bei des Çarjata Darbringung besteigst du auch den Wagen bei den Somatränken, d
 О Индра, так как ты радуешься (людям), выжавшим сому,  
 Ты возвышаешь до неба непобедимую хвалебную речь.
 </details>
+

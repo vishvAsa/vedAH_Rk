@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arkásātau ← arkásāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rápat ← √rap- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+dāsā́ya ← dāsá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+upabárhaṇīm ← upabárhaṇī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dā́nucitrāḥ ← dā́nucitra- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kárat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tisráḥ ← trí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+duryoṇé ← duryoṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kúyavācam ← kúyavāc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mr̥dhí ← mŕ̥dh- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+śret ← √śri- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +239,4 @@ Dies rühm der Sänger bei dem Fest, o Indra: dem Feinde gabst die Erde du zur D
 Щедрый сделал три (реки) сверкающими от воды!  
 Он низверг Куявача в дурное лоно, в пренебрежение.
 </details>
+

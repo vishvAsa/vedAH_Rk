@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+sākám ← sākám (invariable)  
+{}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúcinā ← śúci- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ájani ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+krátunā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+praśāstā́ ← praśāstár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhruvā́ ← dhruvá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+vratā́ ← vratá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+rohate ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vayā́ḥ ← vayā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +209,4 @@ Beim Reinen weilt der Reine ja, durch Kraft gezeugt als Ordnender; Vertraut mit 
 Кто знает его твердые обеты,  
 Растет следом, как ветви (дерева).
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vāvaśānā́ḥ ← √vāś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+dyúbhaktāḥ ← dyúbhakta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pīpáyanta ← √pī- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRF, voice:MED}
+
+smádūdhnīḥ ← smádūdhan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhíkṣamāṇāḥ ← √bhaj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED, mood:DES}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samáyā ← samá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sasruḥ ← √sr̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +198,4 @@ Laut brüllend schwollen an des Opfers Kühe mit vollem Euter, sie, des Himmels 
 Испрашивая благословения, издалека  
 Притекли реки сквозь скалу.
 </details>
+

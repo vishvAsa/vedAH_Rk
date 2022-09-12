@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásāma ← √as- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+ena ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+suṣakhā́yaḥ ← suṣakhí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+narā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śáṁsaiḥ ← śáṁsa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+svabhiṣṭáyaḥ ← svabhiṣṭí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vandaneṣṭhā́ḥ ← vandaneṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+kárma ← kárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+náyamānaḥ ← √nī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+turáḥ ← turá- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +236,4 @@ Damit wir hier mit gutem Freund vereint sein, und reich an Hülfen wie durch Lob
 Пусть Индра пребывает в нашей хвале,  
 Управляя гимнами, как сильный (человек) – работой!
 </details>
+

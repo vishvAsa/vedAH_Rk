@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akāri ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+aśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+maghavānā ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mā́nebhiḥ ← mā́na- 1 (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+suvr̥ktí ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+tánayāya ← tánaya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tmáne ← tmán- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yātám ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+agástye ← agástya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mádantā ← √mad- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Dies Loblied ist, o Ritter, euch bereitet, von Mana's Söhnen schön geschmückt
 Совершите объезд для продолжения рода и для (нас) самих,  
 Наслаждаясь у Агастьи, о Насатьи!
 </details>
+

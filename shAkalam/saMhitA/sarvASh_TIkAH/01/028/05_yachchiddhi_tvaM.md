@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+cit ← cit (invariable)  
+{}
+
+gr̥hé-gr̥he ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+úlūkhalaka ← ulūkhalaka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yujyáse ← √yuj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+dyumáttamam ← dyumáttama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+vada ← √vadⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dundubhíḥ ← dundubhí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jáyatām ← √ji- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +181,4 @@ Wenn du in jedem Hause auch, o Mörserchen, wirst angeschirrt, So töne doch am 
 Здесь звучи громче всего,  
 Как барабан у победителей!
 </details>
+

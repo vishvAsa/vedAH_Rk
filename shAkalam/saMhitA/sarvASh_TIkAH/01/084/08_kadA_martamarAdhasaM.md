@@ -15,14 +15,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+arādhásam ← arādhás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+mártam ← márta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kṣúmpam ← kṣúmpa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+padā́ ← pád- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sphurat ← √sphr̥̄- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śuśravat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +156,7 @@ The hapax kṣúmpa- is universally rendered by modern tr. as ‘mushroom’, th
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/084/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/084/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Bloomfield (Rig-Veda Repetitions, ad I.7.8) suggests that each of these three verses reads like a brahmodya, with the last two words (the four-syllable tag índro aṅgá, which he considers to be prose “quite out of the metre”) serving as the answer. This analysis words best for vs. 7, but his separation of the two-word tag from the rest of the verse is clearly correct for all three verses -- though I do not think we need to consider índro aṅgá “simple prose.”
@@ -146,3 +186,4 @@ Wer stösst den gabenlosen Mann mit Füssen wie Gestrüpp hinweg? Wer höret uns
 Он пнет ногою, словно гриб?  
 Когда наши песни услышит Индра, в самом деле?
 </details>
+

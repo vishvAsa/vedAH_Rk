@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+āmémyāne ← √mī- 1 (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+náktoṣā́sā ← náktoṣā́s- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+várṇam ← várṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhāpáyete ← √dhā- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samīcī́ ← samyáñc- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dyā́vākṣā́mā ← dyā́vā-kṣā́mā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+rukmáḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhārayan ← √dhr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+draviṇodā́m ← draviṇodā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ In Farben wechselnd säugen Nacht und Morgen den einen Spross, gemeinsam ihn ern
 Золотое украшение между небом и землей, он ярко сверкает.  
 Боги поддерживают Агни – дарителя богатства.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhīvāsám ← adhīvāsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+rihán ← √rih- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jráyaḥ ← jráyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sátvabhiḥ ← sátvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tuvigrébhiḥ ← tuvigrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+padváte ← padvánt- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+rérihat ← √rih- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+sacate ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śyénī ← śyetá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vartanī́ḥ ← vartaní- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Und seiner Mutter Oberkleid beleckend rings durchläuft die Flur er mit den star
 Наделяя телесной силой (всех тех,) у кого есть ноги, всегда вылизывая (землю).  
 За ним следует красноватая колея.
 </details>
+

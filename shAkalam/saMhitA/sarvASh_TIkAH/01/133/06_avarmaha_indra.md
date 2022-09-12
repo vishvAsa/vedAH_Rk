@@ -19,10 +19,10 @@ ChandaH = "धृतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -30,6 +30,97 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+avár ← avár (invariable)  
+{}
+
+dādr̥hí ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maháḥ ← mahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śrudhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhīṣā́ ← bhiyás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+kṣā́ḥ ← kṣám- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śuśóca ← √śuc- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhīṣā́ ← bhiyás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ghr̥ṇā́t ← ghr̥ṇá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+śuṣmíbhiḥ ← śuṣmín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śuṣmíntamaḥ ← śuṣmíntama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ī́yase ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ugrébhiḥ ← ugrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vadhaíḥ ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+apratīta ← ápratīta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ápūruṣaghnaḥ ← ápūruṣaghna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sátvabhiḥ ← sátvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sátvabhiḥ ← sátvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+trisaptaíḥ ← trisaptá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,3 +331,4 @@ Stosse herab die grossen, o Indra, erhöre uns; es brennt gleichsam vor Furcht d
 Не убивая людей, о не знающий соперников, с воинами  
 Числом трижды семь, о герой, с воинами.
 </details>
+

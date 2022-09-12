@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Popular for non-linguistic reasons
 
-## Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D
+#### Morph
+ágnīṣomā ← agnī́-ṣóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sávedasā ← sávedas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sáhūtī ← sáhūti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vanatam ← √vanⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+babhūvathuḥ ← √bhū- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +151,4 @@ Zugleich gerufen, gleich an Gut seid, Agni-Soma, hold dem Lied, Zugleich seid be
 Вместе призываемые, одобрите (наши) хвалебные песни!  
 Среди богов вы бываете вместе.
 </details>
+

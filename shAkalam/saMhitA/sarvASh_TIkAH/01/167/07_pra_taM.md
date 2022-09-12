@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vákmyaḥ ← vákmya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vivakmi ← √vañc- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mahimā́ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ahaṁyúḥ ← ahaṁyú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+sácā ← sácā (invariable)  
+{}
+
+vŕ̥ṣamaṇāḥ ← vŕ̥ṣamaṇas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+jánīḥ ← jáni- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sthirā́ ← sthirá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+subhāgā́ḥ ← subhāgá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+váhate ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +213,7 @@ I do not understand the force of cid in d, and in fact I think it’s been autom
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
 <details open><summary><h2>03-07 ...{Loading}...</h2></summary>
 
 Hoffmann (Injunk., 194-97) translates and comments on these verses.
@@ -184,3 +245,4 @@ Ich preise den, der Preis verdient, und welcher der wahrhaft grosse Herr ist die
 Что (Родаси,) мужественная мыслью, гордая,  
 Стойкая, увозит с (собой других) благословенных жен.
 </details>
+

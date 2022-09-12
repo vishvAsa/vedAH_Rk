@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aviṣṭām ← √avⁱ- (root)  
+{number:DU, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+náryā ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śáṁsā ← śáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+sacetām ← √sac- 1 (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:DU}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+sudā́starāya ← sudā́stara- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+iṣayema ← √iṣay- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+mádantaḥ ← √mad- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Mich mögen beide Segner freundlich fördern, mich beide Helfer hold mit Gunst g
 Ведь много (есть благ) для того, кто щедрее дает, чем чужой!  
 Опьяняясь жертвенной усладой, пусть насладимся мы, о боги!
 </details>
+

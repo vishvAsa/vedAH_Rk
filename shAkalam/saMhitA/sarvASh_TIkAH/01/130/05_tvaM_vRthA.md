@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,82 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sártave ← √sr̥- 1 (root)  
+{case:DAT, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+asr̥jaḥ ← √sr̥j- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+ráthān ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ráthān ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vājayatáḥ ← √vājay- 2 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ayuñjata ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+itás ← itás (invariable)  
+{}
+
+ūtī́ḥ ← ūtí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ákṣitam ← ákṣita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samānám ← samāná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhenū́ḥ ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+viśvádohasaḥ ← viśvádohas- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+viśvádohasaḥ ← viśvádohas- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,3 +296,4 @@ Die Ströme liessest du mit Lust, o Indra, frei, dass sie zum Meere niederrinnen
 Как дойные коровы, отдающие все молоко человеку,  
 Отдающие все молоко – народу.
 </details>
+

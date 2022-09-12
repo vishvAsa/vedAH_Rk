@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+apavā́ti ← √vā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+udárasya ← udára- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ū́vadhyam ← ū́vadhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āmásya ← āmá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gandháḥ ← gandhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kravíṣaḥ ← kravís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇvantu ← √kr̥- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śamitā́raḥ ← śamitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sukr̥tā́ ← sukr̥tá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+médham ← médha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pacantu ← √pac- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śr̥tapā́kam ← śr̥tapā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +229,4 @@ Was die Gedärme des Bauches ausdünsten, welches der Duft des rohen Fleisches i
 Пусть разделыватели туши устранят это,  
 А также сварят жертву до готовности!
 </details>
+

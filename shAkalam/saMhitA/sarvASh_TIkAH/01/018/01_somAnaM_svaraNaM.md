@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+somā́nam ← somā́n- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sváraṇam ← sváraṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+brahmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kr̥ṇuhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+auśijáḥ ← auśijá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kakṣī́vantam ← kakṣī́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -92,8 +117,6 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यद्वा - **कक्षीवन्तं** हस्त्यादिकक्ष्यावन्तं ईश्वरं मा कुरु । 'आसन्दीवदष्टीवत्' इत्यादिना निपात्यते । **य औशिज** ईश्वर औशिजो भवति तम्मा कुरु । उशिक् कान्तः सर्वलोकप्रियः स औशिजः । स्वार्थिकोण् ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -135,7 +158,6 @@ O lord of prayer,
 Even as (thou did make famous) Kaksivant Auśija.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Mach, Brahmanaspati, den Somapressenden, Lautsingenden zu einem zweiten Kaksivat, der der Sohn der Usij.
@@ -152,3 +174,4 @@ Mach, o Gebetsherr, glanzbegabt den, welcher dir den Soma bringt, Kakschivat, ih
 О Брахманаспати, сделай  
 Какшивантом, что сын Ушидж.
 </details>
+

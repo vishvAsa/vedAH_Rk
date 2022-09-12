@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purā́ ← purā́ (invariable)  
+{}
+
+sambādhā́t ← sambādhá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vavr̥tsva ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pipyúṣī ← √pī- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:ACT}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yávasasya ← yávasa- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sakŕ̥t ← sakŕ̥t (invariable)  
+{}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+sumatíbhiḥ ← sumatí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nasīmahi ← √nas- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+pátnībhiḥ ← pátnī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +227,4 @@ Komm her zu uns eh' uns Bedrängniss noch erreicht, wie zu dem Kalb die Kuh von 
 Снова мы хотим прекрасно соединиться с твоими милостями,  
 О стоумный, как самцы – с самками!
 </details>
+

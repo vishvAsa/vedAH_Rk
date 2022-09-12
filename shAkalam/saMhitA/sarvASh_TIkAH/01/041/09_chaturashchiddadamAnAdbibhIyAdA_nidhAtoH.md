@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+catúraḥ ← catúr- (nominal stem)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+dádamānāt ← √dad- (root)  
+{case:ABL, gender:M, number:SG, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bibhīyā́t ← √bhī- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+nídhātoḥ ← √dhā- 1 (root)  
+{case:ABL, number:SG}
+
+duruktā́ya ← duruktá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+spr̥hayet ← √spr̥h- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Den, der die vier Würfel heget, scheue man, noch eh' der Wurf fällt; Nicht ver
 Должен бояться до самого раскладывания костей (, так и дурную речь).  
 Нельзя стремиться к дурной речи!
 </details>
+

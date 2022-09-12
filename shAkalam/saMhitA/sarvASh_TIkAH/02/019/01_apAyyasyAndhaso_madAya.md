@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ápāyi ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mánīṣiṇaḥ ← manīṣín- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+práyasaḥ ← práyas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+suvānásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, tense:AOR, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pradívi ← pradív- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+brahmaṇyántaḥ ← √brahmaṇy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+dadhé ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ókaḥ ← ókas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Getrunken ward von diesem Saft zum Rausche, o Weise, von dem ausgepressten Trank
 В котором Индра, усиливаясь от века,  
 Находил удовольствие, а также благочестивые мужи.
 </details>
+

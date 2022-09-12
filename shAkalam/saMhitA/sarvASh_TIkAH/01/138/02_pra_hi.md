@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,97 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+ajirám ← ajirá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yā́mani ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kr̥ṇvé ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥ṇávaḥ ← √r̥- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pīparaḥ ← √pr̥- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+úṣṭraḥ ← úṣṭra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+mayobhúvam ← mayobhū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+āṅgūṣā́n ← āṅgūṣá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+dyumnínaḥ ← dyumnín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dyumnínaḥ ← dyumnín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,3 +334,4 @@ Denn dich, o Puschan, wie den schnellen Wanderer, bewege ich durch Loblied, dass
 Сделай наши похвалы блистательными,  
 Для получения наград сделай (их) блистательными!
 </details>
+

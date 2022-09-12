@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rócamānām ← √ruc- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:MED}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+máryaḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+paścā́t ← paścā́t (invariable)  
+{}
+
+yóṣām ← yóṣā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+yugā́ni ← yugá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, number:SG}
+
+bhadrā́ya ← bhadrá- (nominal stem)  
+{case:DAT, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+vitanvaté ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Der Sonnengott, er folgt der Morgengöttin, der strahlenden, so wie der Braut de
 В то время как мужи, преданные богам,  
 Натягивают на себя ярмо, благодатное для благодатного.
 </details>
+

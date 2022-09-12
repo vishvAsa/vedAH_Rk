@@ -17,15 +17,73 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+gha ← gha (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+govídam ← govíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tiṣṭhāti ← √sthā- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+hāriyojanám ← hāriyojaná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pā́tram ← pā́tra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cíketati ← √cit- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pūrṇám ← √pr̥̄- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yójā ← √yuj- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +244,4 @@ Auf seinen starken Wagen steigt, den Rinder spendenden, der Gott, Wenn er den vo
 Сосуде, сопровождающем запрягание буланых коней.  
 Запрягай же, Индра, пару твоих буланых коней!
 </details>
+

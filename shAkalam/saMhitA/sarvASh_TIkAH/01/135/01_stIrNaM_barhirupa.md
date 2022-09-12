@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,82 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+stīrṇám ← √str̥̄- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+úpa ← úpa (invariable)  
+{}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+niyútā ← niyút- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+niyutvate ← niyútvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahásreṇa ← sahásra- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+niyutvate ← niyútvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śatínībhiḥ ← śatín- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+pūrvápītaye ← pūrvápīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yemiré ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+asthiran ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+mádhumantaḥ ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sutā́saḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+asthiran ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+krátve ← krátu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +257,7 @@ Unaccented niyutvate in bc appears to be a voc. to an otherwise unattested -iste
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The fronted forms of tvám (etc.) found in I.134.4-6 continue here, though not as densely: 1d, 2a, d, 3d.
@@ -217,3 +293,4 @@ Der Sitz ist fertig, komme her zu unserm Mahl mit tausendfachem Vielgespann, o R
 Выжатые сладкие (соки сомы) выставлены для тебя,  
 Выставлены для опьянения, для силы духа.
 </details>
+

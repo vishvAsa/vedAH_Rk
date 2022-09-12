@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+gardabhám ← gardabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mr̥ṇa ← √mr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+amuyā́ ← amuyā́ (invariable)  
+{}
+
+nuvántam ← √nu- ~ nū- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pāpáyā ← pāpá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śaṁsaya ← √śaṁs- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tú ← tú (invariable)  
+{}
+
+áśveṣu ← áśva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śubhríṣu ← śubhrí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sahásreṣu ← sahásra- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+tuvīmagha ← tuvī́magha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Den Esel, Indra, schlage todt, der auf so üble Weise brüllt, Du, Indra, mach u
 Дай же нам, о Индра, надежду  
 (В виде) коров, коней, тысячи прекрасных (благ), о (ты,) очень богатый!
 </details>
+

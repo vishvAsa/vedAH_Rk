@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,91 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥hat ← √vr̥h- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+aruṇáḥ ← aruṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+muṣāyati ← √muṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prapitvé ← prapitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+īśānáḥ ← √īś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+muṣāyati ← √muṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+uśánā ← uśánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ájagan ← √gam- (root)  
+{number:SG, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+kave ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mánuṣā ← mánus- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sumnā́ni ← sumná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+turváṇiḥ ← turváṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+turváṇiḥ ← turváṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,3 +317,4 @@ Geboren kaum trieb kräftig er der Sonne Rad, bei Tages Anbruch nimmt er flammen
 Превосходя все благодения, словно для Мануса,  
 Превосходя все дни, словно (солнце).
 </details>
+

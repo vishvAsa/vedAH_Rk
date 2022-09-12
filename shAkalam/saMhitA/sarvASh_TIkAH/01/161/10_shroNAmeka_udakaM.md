@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ajati ← √aj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śroṇā́m ← śroṇá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+udakám ← udaká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́bhr̥tam ← √bhr̥- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+māṁsám ← māṁsá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+piṁśati ← √piś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sūnáyā ← sūnā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nimrúcaḥ ← nimrúc- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+śákr̥t ← śákr̥t- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+āvatuḥ ← √avⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+pitárau ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+putrébhyaḥ ← putrá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+svit ← svit (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +238,4 @@ Der eine treibt die lahme Kuh zum Wasser hin, der andre schneidet auf dem Brett 
 Один относил навоз до заката солнца.  
 А родители помогали сыновьям?
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+amīmet ← √mā- 2 ~ mī- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+miṣántam ← √miṣ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+akr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+híṅ ← híṅ (invariable)  
+{}
+
+mā́tavaí ← √mā- 2 ~ mī- (root)  
+{case:DAT, number:SG}
+
+mūrdhā́nam ← mūrdhán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+gharmám ← gharmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sŕ̥kvāṇam ← sŕ̥kvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāvaśānā́ ← √vaś- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
+māyúm ← māyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mímāti ← √mā- 2 ~ mī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+páyate ← √pī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+páyobhiḥ ← páyas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Die Kuh blökte hin nach dem schlummernden Kalbe, sie streckte den Kopf vor, um 
 Стремясь к жаркой морде (теленка),  
 Мычит она мычанье, доится струями молока.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+vāvasānā́ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+vivásvati ← vivásvant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pītyā́ ← pītí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
+śambhū ← śambhú- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +141,4 @@ Die ihr bei dem Vivasvat wohnt, durch Lied und Somatrunk gelockt,Kommt heilvoll 
 В питье сомы и хвалебную песнь,  
 Придите, о приносящие благо, как к Ману!
 </details>
+

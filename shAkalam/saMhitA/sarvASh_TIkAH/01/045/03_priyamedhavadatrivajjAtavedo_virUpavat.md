@@ -16,14 +16,42 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+atrivát ← atrivát (invariable)  
+{}
+
+priyamedhavát ← priyamedhavát (invariable)  
+{}
+
+jā́tavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+virūpavát ← virūpavát (invariable)  
+{}
+
+aṅgirasvát ← aṅgirasvát (invariable)  
+{}
+
+mahivrata ← máhivrata- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práskaṇvasya ← práskaṇva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śrudhi ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +176,4 @@ Erhöre des Praskanva Ruf, wie Atri's, Prijamedha's einst. Wie des Virupa, Angir
 Как у Ангираса, о тот, чей обет велик,  
 Услышь зов Прасканвы!
 </details>
+

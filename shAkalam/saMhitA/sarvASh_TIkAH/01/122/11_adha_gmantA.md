@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+gmántā ← √gam- (root)  
+{case:NOM, gender:M, number:DU, tense:AOR, voice:ACT}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náhuṣaḥ ← náhus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sūréḥ ← sūrí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mandrāḥ ← mandrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rājānaḥ ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śróta ← √śru- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+nabhojúvaḥ ← nabhojū́- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+niravásya ← niravá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+práśastaye ← práśasti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ráthavate ← ráthavant- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Nun kommt auf den Ruf des befreundeten Fürsten, hört, o erfreuende Könige der
 Что за дар у Набходжу (и) Ниравы,  
 Для великого прославления владельца колесницы!
 </details>
+

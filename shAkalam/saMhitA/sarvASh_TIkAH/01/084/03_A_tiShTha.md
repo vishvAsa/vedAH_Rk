@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yuktā́ ← √yuj- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+arvācī́nam ← arvācī́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+grā́vā ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇotu ← √kr̥- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vagnúnā ← vagnú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,8 +170,6 @@ genre M
 किञ्च - **ते** तव **मनः अर्वाचीनं** अस्मद्-यज्ञाभिमुखं **ग्रावा** अभिषवाश्मा **सुकृणोतु** सुष्ठु करोतु **वग्नुना** वचनीयेन श्रवणीयेनाभिषव-शब्देन ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -153,8 +197,6 @@ May the pressing-stone with its voice
 Incline thy mind towards us.
 </details>
 
-
-
 <details><summary>Geldner</summary>
 
 Besteig den Wagen, o Vritratöter; deine Falben sind durch die erbauliche Rede angeschirrt! Der Preßstein soll durch sein Getöse doch ja deinen Sinn geneigt machen.
@@ -172,3 +214,4 @@ Besteig' den Wagen, Vritrafeind; die Rosse hat Gebet geschirrt; Der Pressstein l
 Да обратит сюда твою мысль  
 Давильный камень (своим) шумом!
 </details>
+

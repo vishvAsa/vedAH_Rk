@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajanayan ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+súṣūtam ← súṣūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uttānā́yām ← uttāná- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purupéśāsu ← purupéśa- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+aktúnā ← aktú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+máhobhiḥ ← máhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+śíriṇāyām ← śíriṇā- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+áparīvr̥taḥ ← áparīvr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prácetāḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vasati ← √vas- 3 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +210,4 @@ In der, die da lag, zeugten sie den schönen, in vielgestalt'gen Müttern ruhte 
 Даже ночью прозорливый пребывает  
 Не сокрытый мраком благодаря (своим) чудесным силам.
 </details>
+

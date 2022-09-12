@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánuvratāya ← ánuvrata- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ápavratān ← ápavrata- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+randháyan ← √randh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ābhū́bhiḥ ← ābhū́- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ánābhuvaḥ ← ánābhū- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śnatháyan ← √śnathⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ínakṣataḥ ← √naś- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+várdhataḥ ← √vr̥dh- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥ddhásya ← √vr̥dh- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+jaghāna ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+saṁdíhaḥ ← saṁdíh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+stávānaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vamráḥ ← vamrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Die Ungerechten gibt er dem Gerechten preis, durch Treue tilget Indra die, die u
 Прославляемый, (в виде) муравья преодолел насыпи  
 Стремящегося к небу, возросшего уже, и растущего (еще врага).
 </details>
+

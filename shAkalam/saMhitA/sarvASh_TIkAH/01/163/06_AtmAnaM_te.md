@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ajānām ← √jñā- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+ārā́t ← ārā́t (invariable)  
+{}
+
+ātmā́nam ← ātmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+avás ← avás (invariable)  
+{}
+
+divā́ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pataṁgám ← pataṁgá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+patáyantam ← √pat- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+apaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sugébhiḥ ← sugá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+areṇúbhiḥ ← areṇú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+jéhamānam ← √jeh- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:MED}
+
+patatrí ← patatrín- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +181,7 @@ As indicated in the published introduction. to both I.162 and I.163, I take ā́
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/163/05-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/163/05-07.md">
 <details open><summary><h2>05-07 ...{Loading}...</h2></summary>
 
 Note the apaśyam ‘I saw’ in all three verses (5c, 6c, 7a): the poet bears witness to his sight of various mystical visions of the horse.
@@ -164,3 +213,4 @@ Dich selbst erkannte ich im Geiste aus der Ferne, als du geflügelt vom Himmel h
 Я видел (твою) голову, храпящую  
 В полете по легким путям, лишенным пыли.
 </details>
+

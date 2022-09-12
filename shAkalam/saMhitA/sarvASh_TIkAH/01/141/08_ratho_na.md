@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kr̥táḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śíkvabhiḥ ← śíkvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yātáḥ ← √yā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+áṅgebhiḥ ← áṅga- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+aruṣébhiḥ ← aruṣá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+dakṣi ? ← dakṣi ? (invariable)  
+{}
+
+kr̥ṣṇā́saḥ ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+īṣate ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+iva ← iva (invariable)  
+{}
+
+śū́rasya ← śū́ra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tveṣáthāt ← tveṣátha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,3 +269,4 @@ Gleich schnellem Wagen, den kunstfertige gebaut, steigt er mit Flammengliedern z
 Вот эти его черные (клубы дыма), – гори! – направляющиеся к небу.  
 Как от неистовства героя (в бою, от него) шарахаются птицы.
 </details>
+

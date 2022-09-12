@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+nr̥tū́ḥ ← nr̥tū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+péśāṁsi ← péśas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vapate ← √vap- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ápa ← ápa (invariable)  
+{}
+
+bárjaham ← bárjaha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ūrṇute ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+usrā́ ← usrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vákṣaḥ ← vákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhúvanāya ← bhúvana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇvatī́ ← √kr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+víśvasmai ← víśva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+āvar ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,3 +261,4 @@ Sie schmückt mit buntem Kleid sich gleich der Tänzerin, enthüllt den Busen, w
 Создавая свет для всего мира,  
 Как коровы – загон, Ушас раскрыла мрак.
 </details>
+

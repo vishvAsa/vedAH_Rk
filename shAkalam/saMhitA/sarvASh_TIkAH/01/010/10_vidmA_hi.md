@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+vŕ̥ṣantamam ← vŕ̥ṣantama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havanaśrútam ← havanaśrút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+hūmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+vŕ̥ṣantamasya ← vŕ̥ṣantama- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sahasrasā́tamām ← sahasrasā́tama- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ūtím ← ūtí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Dich kennen wir als mächtigsten Erhörer in der Schlachten Drang, Wir flehn dic
 Мы призываем приносящую тысячи  
 Поддержку самого ярого быка.
 </details>
+

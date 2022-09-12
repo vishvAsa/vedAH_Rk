@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+párvatān ← párvata- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vepayanti ← √vip- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vánaspátīn ← vánaspáti- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+viñcanti ← √vic- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ārata ← √r̥- 1 (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+durmádāḥ ← durmáda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+dévāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sárvayā ← sárva- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+viśā́ ← víś- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +190,4 @@ Sie machen, dass der Berg erbebt, des Waldes Bäume schütteln sie;  Ihr Maruts 
 Вы кидаетесь, о Маруты, как в дурном опьянении,  
 Всем племенем, о боги.
 </details>
+

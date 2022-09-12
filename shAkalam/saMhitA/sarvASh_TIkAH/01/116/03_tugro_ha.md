@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+túgraḥ ← túgra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+udameghé ← udameghá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ahāḥ ← √hā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mamr̥vā́n ← √mr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ātmanvátībhiḥ ← ātmanvánt- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+naubhíḥ ← naú- ~ nā́v- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+antarikṣaprúdbhiḥ ← antarikṣaprút- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ápodakābhiḥ ← ápodaka- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Den Bhudschju liess zurück, o Ritter, Tugra in Wasserfluten wie sein Gut ein To
 Вы вывезли его на одушевленных,  
 Плывущих по воздуху, водонепроницаемых ладьях.
 </details>
+

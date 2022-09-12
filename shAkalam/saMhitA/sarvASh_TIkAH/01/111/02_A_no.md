@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥bhumát ← r̥bhumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+takṣata ← √takṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñā́ya ← yajñá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dákṣāya ← dákṣa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+krátve ← krátu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suprajā́vatīm ← suprajā́vant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kṣáyāma ← √kṣi- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+sárvavīrayā ← sárvavīra- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+viśā́ ← víś- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+dhāsatha ← √dhā- 1 (root)  
+{number:PL, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+indriyám ← indriyá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śárdhāya ← śárdha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Für unser Opfer schafft uns rüst'ge Jugendkraft, zu Macht und Weisheit kinderr
 Чтобы жили мы племенем здоровых мужей,  
 Щедро даруйте нашему войску силу Индры!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ávijānan ← ávijānant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pā́kaḥ ← pā́ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥chāmi ← √praś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+níhitā ← √dhā- 1 (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+padā́ni ← padá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+baṣkáye ← baṣkáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tántūn ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vatsé ← vatsá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ótavaí ← √u- 2 (root)  
+{case:DAT, number:SG}
+
+tatnire ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+u ← u (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Ich unkundiger frage, mit meinem Geiste es nicht erkennend, nach diesen eingeset
 На годовалого теленка семь нитей  
 Натянули провидцы для тканья.
 </details>
+

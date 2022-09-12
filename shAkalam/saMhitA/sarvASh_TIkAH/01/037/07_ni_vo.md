@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+mā́nuṣaḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yā́māya ← yā́ma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dadhré ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+manyáve ← manyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ugrā́ya ← ugrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+giríḥ ← girí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jíhīta ← √hā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+párvataḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ Kein Mensch hält eurem Anlauf Stand, und eurem ungestümen Zorn Gibt nach auch 
 Человек, перед (вашим) грозным гневом,  
 Оседает скала (и) гора.
 </details>
+

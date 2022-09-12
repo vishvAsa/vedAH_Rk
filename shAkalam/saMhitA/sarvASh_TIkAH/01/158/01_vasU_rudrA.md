@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+purumántū ← purumántu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rudrā́ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vásū ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vr̥dhántā ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:DU, tense:AOR, voice:ACT}
+
+abhíṣṭau ← abhíṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+daśasyátam ← √daśasy- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+aucathyáḥ ← aucathyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dásrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ha ← ha (invariable)  
+{}
+
+rékṇaḥ ← rékṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ákavābhiḥ ← ákava- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sasrā́the ← √sr̥- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:MED}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Ihr einsichtsvollen, glänzenden, ihr guten, ihr starken Helden, seid uns hold z
 Потому что ведь сын Учатхьи (собирается пожертвовать свое) имущество вам, о чудесные,  
 Когда вы устремитесь со щедрыми поддержками!
 </details>
+

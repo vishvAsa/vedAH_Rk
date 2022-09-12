@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+apiyántam ← √i- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ātmā́ ← ātmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tapat ← √tap- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+svádhitiḥ ← svádhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tiṣṭhipat ← √sthā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+atihā́ya ← √hā- 1 (root)  
+{non-finite:CVB}
+
+aviśastā́ ← aviśastár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥dhnúḥ ← gr̥dhnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+asínā ← así- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+chidrā́ ← chidrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gā́trāṇi ← gā́tra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+míthu ← míthu (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +243,4 @@ Nicht quäle dich der liebe Lebenshauch, wenn du [zu den Göttern] eingehst, nic
 Пусть торопливый неопытный расчленитель, промахнувшись  
 Ножом, не приготовит неверно поврежденные члены!
 </details>
+

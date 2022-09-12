@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dhármaṇā ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prasvàḥ ← prasū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+puṣpíṇīḥ ← puṣpín- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádhārayaḥ ← √dhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+avánīḥ ← aváni- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dā́ne ← dā́na- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ájanaḥ ← √janⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ásamāḥ ← ásama- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+didyútaḥ ← didyút- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhítas ← abhítas (invariable)  
+{}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ukthyàḥ ← ukthyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urúḥ ← urú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrvā́n ← ūrvá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,3 +262,4 @@ Der auf der Trift du, was erblüht und Samen trägt, und Bäche auch vertheiltes
 (Ты,) что породил несравненные молнии на небе,  
 (Сам) широкий (основал) моря вокруг – ты достоин гимна.
 </details>
+

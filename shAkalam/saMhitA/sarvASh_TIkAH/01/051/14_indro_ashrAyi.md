@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśrāyi ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nireké ← nireká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sudhyàḥ ← sudhī́- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dúryaḥ ← dúrya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pajréṣu ← pajrá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yū́paḥ ← yū́pa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśvayúḥ ← aśvayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gavyúḥ ← gavyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rathayúḥ ← rathayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vasūyúḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+kṣayati ← √kṣā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prayantā́ ← prayantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Zuflucht ist Indra in des Frommen Nähe, sein Lob wie Thüres Pfosten bei den Pa
 Жаждущий коней, коров, колесниц, добра,  
 Индра один владеет богатством как даритель (его).
 </details>
+

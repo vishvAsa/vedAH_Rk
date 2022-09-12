@@ -16,14 +16,42 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marútvate ← marútvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pūṣaṇváte ← pūṣaṇvánt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vāyáve ← vāyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+viśvádevāya ← viśvádeva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gāyatrávepase ← gāyatrávepasa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svā́hā ← svā́hā (invariable)  
+{}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kartana ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +170,4 @@ Dem Vāju, der mit Puschan kommt, mit Maruts und der Götterschar, Sei Heil dem,
 Совершите жертвенное возлияние (с возгласом)  
 Свага!
 </details>
+

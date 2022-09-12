@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámitakratuḥ ← ámitakratu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+gojítā ← gojít- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+simáḥ ← simá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kárman-karman ← kárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+khajaṁkaráḥ ← khajaṁkará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatámūtiḥ ← śatámūti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+akalpáḥ ← akalpá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pratimā́nam ← pratimā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+hvayante ← √hvā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+siṣāsávaḥ ← siṣāsú- (nominal stem)  
+{case:NOM, gender:M, number:PL, mood:DES}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +223,4 @@ Mit Armen siegreich, ganz voll unermessner Macht, voll Kampfbegier, mit hundert 
 По силе Индра не может иметь противовеса,  
 И люди зовут его, состязаясь (друг с другом), те, кто хотят добыть.
 </details>
+

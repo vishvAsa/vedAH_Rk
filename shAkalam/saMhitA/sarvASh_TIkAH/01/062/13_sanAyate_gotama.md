@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+gótamaḥ ← gótama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+návyam ← návya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sanāyaté ← √sanāy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+átakṣat ← √takṣ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+hariyójanāya ← hariyójana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nodhā́ḥ ← nodhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śavasāna ← śavasāná- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sunīthā́ya ← sunīthá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhiyā́vasuḥ ← dhiyā́vasu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jagamyāt ← √gam- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prātár ← prātár (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Ein neu Gebet hat, Indra, dir, dem alten, dem Füchseschirrer, der uns herrlich 
 Для прекрасного вождя нашего, о мощный, – Нодхас (сделал это).  
 Да придет (к нам) быстро ранним утром (бог,) богатый даром видения!
 </details>
+

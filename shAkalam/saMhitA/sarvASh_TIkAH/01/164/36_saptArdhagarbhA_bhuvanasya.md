@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ardhagarbhā́ḥ ← ardhagarbhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pradíśā ← pradíś- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tiṣṭhanti ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vídharmaṇi ← vídharman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+víṣṇoḥ ← víṣṇu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vipaścítaḥ ← vipaścít- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhavanti ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+paribhúvaḥ ← paribhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Sieben aus einer Welthälfte [der Erde] geborene stehen als der Welt Samen auf G
 Они – молитвами, они, вдохновенные, – мыслью  
 (Всех) превосходят во всем, (эти) превосходящие.
 </details>
+

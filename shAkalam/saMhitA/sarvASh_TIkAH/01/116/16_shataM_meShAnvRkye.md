@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakṣadānám ← √kṣad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+meṣā́n ← meṣá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vr̥kyè ← vr̥kī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+andhám ← andhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥jrā́śvam ← r̥jrā́śva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+akṣī́ ← ákṣ- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vicákṣe ← √cakṣ- (root)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+anarván ← anarván- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhiṣajau ← bhiṣáj- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Ridschraçva, der der Wölfin hundert Widder geschlachtet, diesen blendete der V
 Ему, о Насатьи, чтобы он хорошо видел,  
 Вы прочно вставили два глаза, о удивительные целители.
 </details>
+

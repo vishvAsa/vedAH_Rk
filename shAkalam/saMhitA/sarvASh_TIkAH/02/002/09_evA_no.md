@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+amŕ̥teṣu ← amŕ̥ta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pūrvya ← pūrvyá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+br̥háddiveṣu ← br̥háddiva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dhī́ḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mā́nuṣā ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pīpāya ← √pī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dúhānā ← √duh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+kāráve ← kārú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vr̥jáneṣu ← vr̥jána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+iṣáṇi ← iṣáṇi (invariable)  
+{}
+
+pururū́pam ← pururū́pa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatínam ← śatín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +226,4 @@ So fand Erhörung unser menschliches Gebet, uralter Agni, bei den ew'gen Himmlis
 (Стала) дойной коровой для певца среди жертвенных общин,  
 Чтобы самой вызывать к жизни сотенную многообразную награду.
 </details>
+

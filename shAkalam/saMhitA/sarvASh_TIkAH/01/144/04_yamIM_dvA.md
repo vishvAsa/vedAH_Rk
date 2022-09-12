@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dvā́ ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+īm ← īm (invariable)  
+{}
+
+saparyátaḥ ← √sapary- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sávayasā ← sávayas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mithunā́ ← mithuná- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+samāné ← samāná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sámokasā ← sámokas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yónā ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ajani ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+dívā ← dívā (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+palitáḥ ← palitá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajáraḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cáran ← √carⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mā́nuṣā ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yugā́ ← yugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +208,7 @@ I render the verb in this clause as preterital, in keeping with the Pp. reading 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/144/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/144/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 The pair sávayasā ‘of the same vigor’ in these two verses have been variously identified: Sāyaṇa, Oldenberg (SBE, by implication), Hotar and Adhvaryu; Geldner, Renou, the two arms of the fire churner. I think it rather to be the two kindling sticks. As noted above, the dual participle in vitáritratā 3b here reminds us of the dual verb tarete in I.140.3, whose subj. is, by consensus, the two kindling sticks. In that same passage they are described as sakṣítā ‘sharing the same abode’, which matches samāné yónā … sámokasā “in the same womb … sharing the same dwelling” in our 4b.
@@ -184,3 +245,4 @@ Gleich alt die beiden, bringen ihm Verehrung dar, in gleichem Schoosse wohnend d
 Ночью, как и днем, седой (вновь) родился юным,  
 Двигаясь, не старея, сквозь многие людские поколения.
 </details>
+

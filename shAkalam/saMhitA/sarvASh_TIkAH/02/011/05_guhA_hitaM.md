@@ -16,14 +16,66 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
+#### Morph
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+gúhā ← gúhā (invariable)  
+{}
+
+gúhyam ← gúhya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gūḷhám ← √guh- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+hitám ← √dhā- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ápīvr̥tam ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kṣiyántam ← √kṣi- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+māyínam ← māyín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tastabhvā́ṁsam ← √stambhⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+áhan ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vīryèṇa ← vīryà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Der sich versteckt in Wasserflut sich bergend, den listigen, verhüllten, der si
 Перекрывшего воды и небо,  
 Ты убил, о герой, (своею) героической силой.
 </details>
+

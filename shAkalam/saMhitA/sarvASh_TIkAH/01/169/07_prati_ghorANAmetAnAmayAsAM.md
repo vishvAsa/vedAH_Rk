@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayā́sām ← ayā́s- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+étānām ← éta- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ghorā́ṇām ← ghorá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+āyatā́m ← √i- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śr̥ṇve ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+upabdíḥ ← upabdí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥tanāyántam ← √pr̥tanāy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ū́maiḥ ← ū́ma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+patáyanta ← √pat- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+r̥ṇāvā́nam ← r̥ṇāván- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sárgaiḥ ← sárga- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Man hört den Lärm der wilden, muntern Schecken, der Marutscharen wenn zum Trun
 Которые налетают на воюющего смертного  
 Со своими спасительными отрядами, как (бросаются) на должника.
 </details>
+

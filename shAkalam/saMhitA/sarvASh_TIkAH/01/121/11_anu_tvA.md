@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+acakré ← acakrá- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+ánu ← ánu (invariable)  
+{}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+pā́jasī ← pā́jas- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+dyā́vākṣā́mā ← dyā́vā-kṣā́mā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kárman ← kárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+madatām ← √mad- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+āśáyānam ← √śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sirā́su ← sirā́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maháḥ ← mahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+siṣvapaḥ ← √svap- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+varā́hum ← varā́hu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Dir jauchzten zu die grossen Schimmerflächen, dir Erd' und Himmel bei der That,
 Вритру, разлегшегося на реках,  
 Ты мощно усыпил ваджрой, (этого) кабана.
 </details>
+

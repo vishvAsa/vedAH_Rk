@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+śruṣṭīvā́naḥ ← śruṣṭīván- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vícetasaḥ ← vícetas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rohidaśva ← rohídaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+tráyastriṁśatam ← tráyastriṁśat- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -93,15 +130,12 @@ genre M
 ------------------------------------------------------------------------
 </details>
 
-
-
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **विचेतसः** विशिष्टप्रज्ञानाः **देवाः** **दाशुषे** हविर्दत्तवते यजमानाय **श्रुष्टीवानो** **हि** । श्रुष्टिः फलस्य दानम्, तद्-भाजः खलु । हे **रोहिदश्व** रोहिनामकैरश्वैरुपेत **गिर्वणः** गीर्भिः स्तुतिभिर्वननीयाग्ने ।' गिर्वणा देवो भवति गीर्भिरेनं वनयन्ति' (निरु. ६. १४ ) इति यास्कः । **त्रयस्त्रिंशतम्** अनया संख्यया संख्यातान् **तान्** देवान् **आ** **वह** इहानय ॥ 
 
 **श्रुष्टीवानः** । श्रुष्टिः प्रेरणार्थः । भावे क्तिच् । श्रुष्टिं वनन्ति संभजन्ते इति श्रुष्टीवानः । ‘ अन्येभ्योऽपि दृश्यन्ते' इति विच् । छान्दसं दीर्घत्वम् । विचेतसः । विशिष्टं चेतो येषां ते । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । गिर्वणः । गीर्भिर्वननीयो गिर्वणाः । वनतेः असुन् । पूर्वपदस्य ह्रस्वत्वं छान्दसम् । त्रयश्च त्रिंशच्च त्रयस्त्रिंशत् ।' त्रेस्त्रयः ' (पा. सू. ६. ३. ४८) इति त्रिशब्दस्य त्रयसादेशः । ‘ संख्या ' (पा. सू. ६. २. ३५) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
-
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
@@ -154,3 +188,4 @@ Die weisen Götter hören gern, o Agni, auf den Huldiger, O Liederfreund, rothro
 Привези их (числом) тридцать три,  
 О ты, обладатель рыжих коней, о жаждущий хвалы!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; 11 = 4+7, ending HLX  
 popular  
 popular  
 popular
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sugávyam ← sugávya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sváśvyam ← sváśvya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puṁsáḥ ← púmaṁs- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+putrā́n ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+viśvāpúṣam ← viśvāpúṣ- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+anāgāstvám ← anāgāstvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇotu ← √kr̥- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havíṣmān ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vanatām ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Reichthum an Rindern und Rossen schaffe uns das Ross, Helden und Söhne und alln
 Пусть Адити создаст нам безгрешность!  
 Пусть конь, сопровождаемый жертвенным возлиянием, добудет нам власть!
 </details>
+

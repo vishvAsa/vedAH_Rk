@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gúhyāni ← gúhya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávidan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+níhitā ← √dhā- 1 (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+padā́ ← padá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rakṣante ← √rakṣⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sajóṣāḥ ← sajóṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+carátham ← carátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+paśū́n ← paśú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sthātr̥̄́n ← sthātár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +249,4 @@ Da dreimal sieben tief verborgne Spuren, die in dir sind, die heiligen gefunden,
 Ими они единодушно охраняют бессмертие.  
 Защити скот, а также неподвижные и подвижные (существа)!
 </details>
+

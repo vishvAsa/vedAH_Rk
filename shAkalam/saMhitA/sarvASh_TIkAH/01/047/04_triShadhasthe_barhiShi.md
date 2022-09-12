@@ -16,14 +16,54 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+triṣadhasthé ← triṣadhasthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+viśvavedasā ← viśvávedas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mimikṣatam ← √myakṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhídyavaḥ ← abhídyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+káṇvāsaḥ ← káṇva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sutásomāḥ ← sutásoma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+havante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ Benetzt das Opfer auf der dreigetheilten Streu, allreiche ihr, mit Süssigkeit; 
 Выжавшие сому, сияющие Канвы  
 Призывают вас, о Ашвины.
 </details>
+

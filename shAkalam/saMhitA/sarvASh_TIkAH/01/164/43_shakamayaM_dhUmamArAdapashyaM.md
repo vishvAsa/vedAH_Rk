@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+apaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+ārā́t ← ārā́t (invariable)  
+{}
+
+dhūmám ← dhūmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śakamáyam ← śakamáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávareṇa ← ávara- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+viṣūvátā ← viṣūvánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+apacanta ← √pac- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+pŕ̥śnim ← pŕ̥śni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukṣā́ṇam ← ukṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrā́ḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhármāṇi ← dhárman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+prathamā́ni ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Ich sah von ferne den aus dem Miste [des gebratenen Stieres??] aufsteigenden Rau
 Мужи жарили себе пятнистого быка.  
 Таковы были первые обычаи.
 </details>
+

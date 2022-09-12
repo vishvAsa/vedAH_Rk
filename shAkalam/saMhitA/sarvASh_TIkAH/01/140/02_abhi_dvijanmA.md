@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dvijánmā ← dvijánman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥jyate ← √r̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+trivŕ̥t ← trivŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ī ← ī (invariable)  
+{}
+
+jagdhám ← √ghas- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, non-finite:PPP}
+
+púnar ← púnar (invariable)  
+{}
+
+saṁvatsaré ← saṁvatsará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+anyásya ← anyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jényaḥ ← jénya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyéna ← anyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mr̥ṣṭa ← √mr̥j- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+vanínaḥ ← vanín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vāraṇáḥ ← vāraṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +250,4 @@ Der zwiegeborne greift nach dreierlei Genuss, im Lauf des Jahres wächst das auf
 С устами (и) языком одного (своего облика) он – благородный бык,  
 Другим (обликом этот) слон сметает лесные деревья.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśivena ← áśiva- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+náva ← náva- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rā́trīḥ ← rā́trī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ávanaddham ← √nah- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+śnathitám ← √śnathⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+právr̥ktam ← √vr̥j- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+rebhám ← rebhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+udáni ← udán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+víprutam ← √pru- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+ninyathuḥ ← √nī- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sruvéṇa ← sruvá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +203,4 @@ Den Rebha, der neun Tage und zehn Nächte im Wasser lag, gebunden und verwundet,
 Недругом, пронзенного, разложившегося,  
 Вы вычерпали, как сому – ложкой.
 </details>
+

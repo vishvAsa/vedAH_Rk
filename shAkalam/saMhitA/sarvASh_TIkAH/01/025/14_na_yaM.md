@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dípsanti ← √dabh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+dipsávaḥ ← dipsú- (nominal stem)  
+{case:NOM, gender:M, number:PL, mood:DES}
+
+ná ← ná (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+drúhvāṇaḥ ← drúhvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+abhímātayaḥ ← abhímāti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +146,4 @@ Der Gott, dem kein Verletzer naht, den nie ein frecher Lügner täuscht, Noch Hi
 Ни вредители среди людей,  
 Ни злоумышленники, – (его,) бога,
 </details>
+

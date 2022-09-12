@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+areṇú ← areṇú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paúṁsye ← paúṁsya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+turváṇiḥ ← turváṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhrājate ← √bhrāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+bhr̥ṣṭíḥ ← bhr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+giréḥ ← girí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tujā́ ← túj- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+āyasáḥ ← āyasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+māyínam ← māyín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ābhū́ṣu ← ābhū́- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dā́mani ← dā́man- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dudhráḥ ← dudhrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+rāmáyat ← √ram- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +242,4 @@ Er ist siegreich, der grosse; staublos erglänzt in der Heldenschar wie des Fels
 Благодаря которой железная (дубина) в опьянении,  
 Успокоила в колодке колдовского Шушну среди союзников.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ná ← ná (invariable)  
+{}
+
+pánthāḥ ← pánthā- ~ path- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+supraítuḥ ← supraítu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūyávasaḥ ← sūyávasa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+durniyántuḥ ← durniyántu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+páriprītaḥ ← √prī- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+abhí ← abhí (invariable)  
+{}
+
+anarvā́ṇaḥ ← anarván- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cákṣate ← √cakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ápīvr̥tāḥ ← √vr̥- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+aporṇuvántaḥ ← √vr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Dem schön gebahnten, wiesenreichen Pfade, dem lieben Freunde gleichst du, bist 
 Неодолимые, что смотрят на нас,  
 Были (с нами,) открывая закрытые (врата).
 </details>
+

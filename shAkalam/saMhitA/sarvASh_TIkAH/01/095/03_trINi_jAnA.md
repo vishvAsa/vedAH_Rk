@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhūṣanti ← √bhūṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jā́nā ← jā́na- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+díśam ← díś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pā́rthivānām ← pā́rthiva- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pū́rvām ← pū́rva- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+anuṣṭhú ← anuṣṭhú (invariable)  
+{}
+
+dadhau ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+praśā́sat ← √śās- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+r̥tū́n ← r̥tú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Drei Stätten preist man seiner Zeugung, eine im Luftmeer, ein' im Himmel und im
 Исходя из восточной стороны, земным обитателям  
 Он назначил времена года, распределил (их), как положено.
 </details>
+

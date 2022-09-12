@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+śáśvatā ← śáśvant- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tánā ← tán- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+deváṁ-devam ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yájāmahe ← √yaj- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hūyate ← √hu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+ít ← ít (invariable)  
+{}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Denn wenn im stetigen Verlauf auch Gott für Gott wir ehren hoch, In dich nur gi
 Приносим жертвы то одному, то другому богу,  
 Это в тебя вливается жертвенное возлияние.
 </details>
+

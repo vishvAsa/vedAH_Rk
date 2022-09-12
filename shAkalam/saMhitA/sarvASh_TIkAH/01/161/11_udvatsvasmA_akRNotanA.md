@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+akr̥ṇotana ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+tŕ̥ṇam ← tŕ̥ṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+udvátsu ← udvát- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nivátsu ← nivát- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+svapasyáyā ← svapasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ágohyasya ← ágohya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ásastana ← √sas- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+gachatha ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Als ihr im Hause des Agohja schlummertet, da schufet ihr, o Männer, Kraut ihm a
 Когда вы проспали в доме у Агохьи.  
 Теперь, о Рибху, вы не повторяете этого.
 </details>
+

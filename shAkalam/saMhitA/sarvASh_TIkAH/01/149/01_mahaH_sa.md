@@ -15,13 +15,65 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dán ← dám- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+īṣate ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+maháḥ ← máh- (nominal stem)  
+{}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ináḥ ← iná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+inásya ← iná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vásunaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhrájantam ← √dhraj- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+vidhán ← √vidh- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Er, der Besitzer grossen Schatzes, strebet zum Ort des starken Gutes hin, der st
 Крепкий на месте крепкого добра.  
 Спешащего почтительно встречают давильные камни.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+nānadati ← √nad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prácetasaḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+siṁhā́ḥ ← siṁhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+piśā́ḥ ← piśá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+supíśaḥ ← supíś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viśvávedasaḥ ← viśvávedas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jínvantaḥ ← √ji- 2 ~ jinv- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+kṣápaḥ ← kṣáp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pŕ̥ṣatībhiḥ ← pŕ̥ṣant- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+r̥ṣṭíbhiḥ ← r̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+áhimanyavaḥ ← áhimanyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+sabā́dhaḥ ← sabā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Wenn sie erscheinen, toben sie den Löwen gleich, wie schöngeschmückte Hirsche
 Оживляя ночи пестрыми антилопами, копьями,  
 Они грозно (появляются) со (своей) мощью, яростные, как змеи.
 </details>
+

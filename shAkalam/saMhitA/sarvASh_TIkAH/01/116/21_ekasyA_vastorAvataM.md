@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āvatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ékasyāḥ ← éka- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ráṇāya ← ráṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sanáye ← saní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+váśam ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ahatam ← √han- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+duchúnāḥ ← duchúnā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índravantā ← índravant- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+nís ← nís (invariable)  
+{}
+
+árātīḥ ← árāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pr̥thuśrávasaḥ ← pr̥thuśrávas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ An einem Morgen halft zum Sieg, o Ritter, dem Vaça ihr zu tausendfacher Beute; 
 Сопровождаемые Индрой, вы прогнали несчастья  
 (И) враждебность от Притхушраваса, о два быка.
 </details>
+

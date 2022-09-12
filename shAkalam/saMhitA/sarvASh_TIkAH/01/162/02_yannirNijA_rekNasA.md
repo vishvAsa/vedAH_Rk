@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+nirṇíjā ← nirṇíj- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+prā́vr̥tasya ← √vr̥- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+rékṇasā ← rékṇas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gr̥bhītā́m ← √gr̥bhⁱ- (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+mukhatás ← mukhatás (invariable)  
+{}
+
+náyanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rātím ← rātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ajáḥ ← ajá- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mémyat ← √mā- 2 ~ mī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+súprāṅ ← súprāñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvárūpaḥ ← viśvárūpa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+indrāpūṣṇóḥ ← índrāpūṣán- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+pā́thaḥ ← pā́thas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +234,4 @@ Wenn sie die ergriffene Spende des mit Reichthum und Schmuck bedeckten [Rosses] 
 То козел всех цветов, прекрасно направляющийся вперед, блея,  
 Вступает на путь, приятный для Индры и Пушана.
 </details>
+

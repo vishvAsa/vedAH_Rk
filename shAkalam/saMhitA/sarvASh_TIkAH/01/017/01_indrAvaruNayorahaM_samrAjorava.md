@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+índrāváruṇayoḥ ← índrāváruṇa- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samrā́joḥ ← samrā́j- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+vr̥ṇe ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+īdŕ̥śe ← īdŕ̥ś- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mr̥ḷātaḥ ← √mr̥ḍ- (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +147,4 @@ Die Hülfe Indra-Varuna's, der höchsten Herrscher, fleh' ich an; Sie seien unse
 Я испрашиваю помощь.  
 Да будут они милосердны к таким, как мы!
 </details>
+

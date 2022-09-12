@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,103 @@ genre M
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ástu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+purás ← purás (invariable)  
+{}
+
+śraúṣaṭ ← śraúṣaṭ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+divyám ← divyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+indravāyū́ ← indra-vāyú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ha ← ha (invariable)  
+{}
+
+krāṇā́ ← √kr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:AOR, voice:MED}
+
+vivásvati ← vivásvant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nā́bhā ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+návyasī ← návyas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+saṁdā́yi ← √dā- 4 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ádha ← ádha (invariable)  
+{}
+
+dhītáyaḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ácha ← ácha (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dhītáyaḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +321,7 @@ But there are several other occurrences of this lexeme sám √dā that also app
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/139/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/139/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 For the sense of these vss., see published introduction.
@@ -260,3 +357,4 @@ Erhörung sei. – Den Agni fleh' zuerst ich an; nun wünschen wir uns diese Him
 Пусть дальше легко продвигаются наши молитвы,  
 Словно к богам, (к ним – наши) молитвы!
 </details>
+

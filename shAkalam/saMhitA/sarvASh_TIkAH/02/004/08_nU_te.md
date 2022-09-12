@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; 12 = 5+7, ending LHX
+#### Morph
+ádhītau ← ádhīti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ávasaḥ ← ávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+pū́rvasya ← pū́rva- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+mánma ← mánman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śaṁsi ← √śaṁs- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+tr̥tī́ye ← tr̥tī́ya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saṁyádvīram ← saṁyádvīra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+kṣumántam ← kṣumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svapatyám ← svapatyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ Nun in Erinn'rung deiner alten Hülfe beim dritten Opfer ward Gebet gesprochen; 
 Дай нам, о Агни, высокую награду,  
 Состоящую из непрерывной череды сыновей, из скота, богатство из прекрасного потомства!
 </details>
+

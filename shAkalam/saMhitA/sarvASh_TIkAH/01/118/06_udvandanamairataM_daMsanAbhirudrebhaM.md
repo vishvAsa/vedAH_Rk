@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+airatam ← √īr- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
+daṁsánābhiḥ ← daṁsánā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
+vándanam ← vándana- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rebhám ← rebhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nís ← nís (invariable)  
+{}
+
+pārayathaḥ ← √pr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+samudrā́t ← samudrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+taugryám ← taugryá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cakrathuḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+cyávānam ← cyávāna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Ihr hobt heraus den Vandana durch Wunder, mit Kraft den Rebha, wunderbare Helden
 Вы спасаете из моря сына Тугры.  
 Вы сделали вновь юным Чьявану.
 </details>
+

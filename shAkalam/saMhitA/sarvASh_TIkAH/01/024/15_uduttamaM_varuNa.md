@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+pā́śam ← pā́śa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+uttamám ← uttamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+adhamám ← adhamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+madhyamám ← madhyamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrathāya ← √śrathⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+āditya ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vraté ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áditaye ← áditi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ánāgasaḥ ← ánāgas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +185,6 @@ _______________
 हे वरुण उत्तमं उत्तमफलप्राप्तिहेतुं ऊर्ध्वकर्षणं वा पाशं कर्मपाशं अस्मत्त उच्छ्रथाय ऊर्ध्वमुत्क्षिप्य उत्कृष्य नाशय । अधमं निकृष्टफलप्राप्तिहेतुं अधःपतनहेतुं वा कर्मपाशमवश्रथय अधस्तादपकृष्य नाशय । मध्यमं पाशं विश्रथय विष्वङ्नाना विकृष्य नाशय । अथैवं त्वया कृते वयमनागसः क्षालितसर्वकर्माणः तव व्रते कर्मणि उपासनात्मनि स्याम अदितये अखण्डितैश्वर्याय हे आदित्य देवानामादिभूत अदितेर्वा अपत्येति ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -163,7 +217,6 @@ Then may we, O Aditya [3], in thy rule,
 Be guiltless before Aditi.  
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Löse die oberste Schlinge von uns, o Varuna, löse die unterste ab, löse die mittlere auf! Dann wollen wir, Sohn der Aditi, in deinem Dienste vor Aditi sündlos sein.
@@ -181,3 +234,4 @@ O Varuna, lös' ab von uns die Stricke, den untersten, den mittelsten und höchs
 Тогда сможем мы, о Адитья, пребывать  
 В твоем завете безгрешные перед Несвязанностью!
 </details>
+

@@ -18,16 +18,62 @@ ChandaH = "महाबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; line affected by realignment;; repeated line  
 popular;; line affected by realignment;; repeated line  
 popular;; line affected by realignment;; repeated line
+#### Morph
+navānā́m ← náva- 1 (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+navatīnā́m ← navatí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+rópuṣīṇām ← rópuṣī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+viṣásya ← viṣá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+agrabham ← √gr̥bhⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sárvāsām ← sárva- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+āré ← āré (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yójanam ← yójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hariṣṭhā́ḥ ← hariṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+madhulā́ ← madhulá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +209,4 @@ Ich habe die Essenz von allen neunundneunzig giftzerstörenden Pflanzen genommen
 Правящий булаными конями, уничтожил его суть.  
 Медовая (трава) медом сделала тебя.
 </details>
+

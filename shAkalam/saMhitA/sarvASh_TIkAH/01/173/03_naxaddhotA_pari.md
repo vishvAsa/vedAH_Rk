@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitā́ ← √mi- 1 (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+nákṣat ← √nakṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+sádma ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhárat ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+krándat ← √krand- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+náyamānaḥ ← √nī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ruvát ← √rū- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+carat ← √carⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vā́k ← vā́c- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +235,7 @@ In c Geldner and Renou identify the horse neighing while being led as Agni; this
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/173/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/173/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 The -at injunctive pattern noted above comes to a climax in vs. 3, with 5 such verbs. The next -at form, jújoṣat, pāda-initial in 4c, is a subjunctive. The change in mood, while keeping the formal expression -at the same, is surely deliberate.
@@ -200,3 +267,4 @@ Er komm umwandernd die gestellten Sitze und bring' als Frucht der Erde reiche He
 Пусть заржет конь, ведомый (к алтарю)! Пусть замычит корова!  
 Пусть речь, словно вестник, странствует между двумя мирами!
 </details>
+

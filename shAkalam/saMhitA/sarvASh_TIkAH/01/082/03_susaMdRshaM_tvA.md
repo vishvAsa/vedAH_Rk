@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+susaṁdŕ̥śam ← susaṁdŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+mághavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vandiṣīmáhi ← √vandⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+nūnám ← nūnám (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pūrṇávandhuraḥ ← pūrṇávandhura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+stutáḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+váśān ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yójā ← √yuj- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Wir wollen, reicher, preisen dich, der schönen Anblick du gewährst. Mit reichg
 С сиденьем колесницы, полным (добра)!  
 Запрягай же, Индра, пару твоих буланых коней!
 </details>
+

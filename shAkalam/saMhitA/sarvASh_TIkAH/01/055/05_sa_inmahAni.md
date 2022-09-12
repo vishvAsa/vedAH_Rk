@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+mahā́ni ← mahá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+majmánā ← majmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+samithā́ni ← samithá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jánebhyaḥ ← jána- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+kr̥ṇóti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yudhmáḥ ← yudhmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+dadhati ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śrát ← śrád ( √dhā-, √kr̥-) (invariable)  
+{}
+
+tvíṣīmate ← tvíṣīmant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nighánighnate ← √han- (root)  
+{case:DAT, gender:M, number:SG, voice:ACT}
+
+vadhám ← vadhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Er ist der Kriegsheld, welcher grosse Schlachten kämpft dem Volk zu Nutz nach s
 И тогда верят они в разъяренного  
 Индру, мощно поражающего ваджрой-смертельным оружием.
 </details>
+

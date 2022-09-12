@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mūrdháni ← mūrdhán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+śvasanásya ← śvasaná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥ṇákṣi ← √vr̥j- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+róruvat ← √rū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śúṣṇasya ← śúṣṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vrandínaḥ ← vrandín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+barháṇāvatā ← barháṇāvant- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prācī́nena ← prācī́na- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇávaḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Wenn auf das Haupt des schnaubenden, des Çuschna, du, des zehrenden die Speere 
 С духом, исполненным разрушения, обращенным к (опасности) -  
 Если и сегодня ты захочешь (это) совершить, кто тебя у(держит)?
 </details>
+

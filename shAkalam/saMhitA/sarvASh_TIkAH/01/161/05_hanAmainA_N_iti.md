@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ábravīt ← √brū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+enān ← ena- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+hánāma ← √han- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánindiṣuḥ ← √nid- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+camasám ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devapā́nam ← devapā́na- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+anyā́ ← anyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṇvate ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+nā́māni ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sácā ← sácā (invariable)  
+{}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+anyaíḥ ← anyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+enān ← ena- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+kanyā̀ ← kanyā̀- ~ kanī́n- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nā́mabhiḥ ← nā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sparat ← √spr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +241,4 @@ Als Tvaschtar sprach: »Lasst diese Männer tödten uns, die frech durch Spott d
 Они приняли другие имена при выжимании (сомы).  
 Под другими именами их освободила девица.
 </details>
+

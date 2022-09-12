@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+átapyamāne ← átapyamāna- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ávantī ← √avⁱ- (root)  
+{case:ACC, gender:F, number:DU, tense:PRS, voice:ACT}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+deváputre ← deváputra- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ubháyebhiḥ ← ubháya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+ábhvāt ← ábhva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thivī ← pr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+rákṣatam ← √rakṣⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +218,4 @@ Wir seien lieb den beiden sel'gen Welten, die huldvoll helfen, sie, der Götter 
 Обоим (божествам) из богов в обе половины суток!  
 О Небо и Земля, защитите нас от ужаса!
 </details>
+

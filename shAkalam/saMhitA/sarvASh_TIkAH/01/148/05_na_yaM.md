@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ripávaḥ ← ripú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+riṣaṇyávaḥ ← riṣaṇyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+gárbhe ← gárbha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+reṣaṇā́ḥ ← reṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+reṣáyanti ← √riṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+abhikhyā́ ← abhikhyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+andhā́ḥ ← andhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+apaśyā́ḥ ← apaśyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dabhan ← √dabh- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+arakṣan ← √rakṣⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+nítyāsaḥ ← nítya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pretā́raḥ ← pretár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Den schadensücht'ge Feinde nicht beschäd'gen, noch Schäd'ger, selbst wenn er 
 Слепые невидящие (люди) не повредят (его) взглядом!  
 Его защитили его собственные друзья.
 </details>
+

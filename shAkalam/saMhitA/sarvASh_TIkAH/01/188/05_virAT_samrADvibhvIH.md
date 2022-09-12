@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+prabhvī́ḥ ← prabhú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+samrā́ṭ ← samrā́j- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vibhvī́ḥ ← vibhú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+virā́ṭ ← virā́j- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bahvī́ḥ ← bahú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhū́yasīḥ ← bhū́yaṁs- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+akṣaran ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ghr̥tā́ni ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +169,4 @@ Die Thore, herrschend weit und hoch, gewaltig, kräftig, gross an Zahl, In grös
 Врата  
 истекали струями жира.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ghŕ̥ṣum ← ghŕ̥ṣu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pāvakám ← pāvaká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vanínam ← vanín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vícarṣaṇim ← vícarṣaṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥ṇīmasi ← √gr̥̄- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+havásā ← havás- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sūnúm ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gaṇám ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rajastúram ← rajastúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tavásam ← tavás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥jīṣíṇam ← r̥jīṣín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saścata ← √sac- 1 (root)  
+{number:PL, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Die lust'gen Flammer, sie die muntern, spendenden, des Rudra Söhne preisen wir 
 За пересекающею пространство толпой Марутов,  
 Пьющей (сому,) из выжимок, следуйте для блеска!
 </details>
+

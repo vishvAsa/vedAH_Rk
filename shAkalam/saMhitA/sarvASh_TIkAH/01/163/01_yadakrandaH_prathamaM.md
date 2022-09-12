@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ákrandaḥ ← √krand- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+púrīṣāt ← púrīṣa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+samudrā́t ← samudrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+udyán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hariṇásya ← hariṇá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pakṣā́ ← pakṣá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śyenásya ← śyená- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+arvan ← árvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+upastútyam ← upastútya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Als du wiehertest, da du zuerst geboren wurdest, hervorgehend aus dem Meere oder
 Крылья сокола, передние ноги антилопы –  
 Достойное хвалы было твое великое рожденье, о скакун.
 </details>
+

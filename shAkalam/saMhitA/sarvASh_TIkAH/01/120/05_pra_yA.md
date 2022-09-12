@@ -15,13 +15,59 @@ ChandaH = "तनुशिरा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+bhŕ̥gavāṇe ← bhŕ̥gavāṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ghóṣe ← ghóṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+śóbhe ← √śubh- (root)  
+{case:DAT, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+pajriyáḥ ← pajriyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vācā́ ← vā́c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yájati ← √yaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+iṣayúḥ ← iṣayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +185,4 @@ Vorschreite das Lied, welches bei Ghoscha wie bei Bhrigavāna erglänzt, mit wel
 Речь, которую вас почитает Паджрия, –  
 (Ее я) про(изнес) как желающий вознаграждения знаток.
 </details>
+

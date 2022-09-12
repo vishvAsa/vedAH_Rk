@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átra ← átra (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+māmahe ← √maṁh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sakhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sákhīn ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yātana ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+apivātáyantaḥ ← √vat- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+citrāḥ ← citrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mánmāni ← mánman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhūta ← √bhū- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+eṣā́m ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+návedāḥ ← návedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tā́nām ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ Wer ist's, der euch, o Maruts, jetzt verherrlicht? o kommt doch her, ihr Freunde
 Будьте внимательны к нашим праведным словам!  
 Рассказчик:
 </details>
+

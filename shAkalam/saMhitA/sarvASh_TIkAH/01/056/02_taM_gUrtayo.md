@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gūrtáyaḥ ← gūrtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+nemanníṣaḥ ← nemanníṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+párīṇasaḥ ← párīṇas- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+saṁcáraṇe ← saṁcáraṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saniṣyávaḥ ← saniṣyú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidáthasya ← vidátha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+girím ← girí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+roha ← √ruh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+téjasā ← téjas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+venā́ḥ ← vená- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Die Loblieder der Leitung folgend kommen zu ihm zusammen [sám caranti aus samc�
 Поднимись же к господину силы действия (и) жертвенного собрания с силой,  
 С блеском, как стремящиеся (к соме) – на гору!
 </details>
+

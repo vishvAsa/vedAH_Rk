@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bheṣajébhiḥ ← bheṣajá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+bhiṣájā ← bhiṣáj- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ha ← ha (invariable)  
+{}
+
+sthaḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+átha ← átha (invariable)  
+{}
+
+ha ← ha (invariable)  
+{}
+
+rathyā̀ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rā́thyebhiḥ ← rā́thya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sthaḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+dhatthaḥ ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+ugrā ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dadā́śa ← √dāś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+havíṣmān ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +234,4 @@ Ihr seid's, die ihr mit Arzeneien heilet, und die mit Lenkerkunst ihr Wagen lenk
 И вы, о два грозных (бога), наделяете властью того,  
 Кто, имея жертвенное возлияние, от души вас почтил.
 </details>
+

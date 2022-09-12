@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśravam ← √śru- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+bhūridā́vattarā ← bhūridā́vattara- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+gha ← gha (invariable)  
+{}
+
+syālā́t ← syālá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+víjāmātuḥ ← víjāmātar- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+práyatī ← práyati- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yuvábhyām ← tvám (pronoun)  
+{case:INS, number:DU}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+janayāmi ← √janⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+návyam ← návya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +205,7 @@ The standard word for son-in-law is simply jā́mātar-; the ví- is presumably 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/109/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/109/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 These two vss. are parallel in structure, with an initial hí clause with a 1st sg. augmented verb of perception (‘see’, ‘hear’), with kinship terms in the second pāda, and in the last pāda a 1st sg. verb of production (‘fashion’, ‘beget’) with a verbal product as obj. (‘thought’, ‘praise’).
@@ -176,7 +228,6 @@ So with the offering of Soma I make for you,
 O Indra and Agni, a new hymn of praise;
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Ich habe ja von euch gehört, daß ihr mehr gebt als ein unechter Tochtermann oder ein Schwager. Darum verfertige ich unter Darbringung von Soma auf euch beide, Indra und Agni, ein neues Loblied.
@@ -194,3 +245,4 @@ Denn ihr, so hör ich, seid an Gaben reicher, als Tochtermann und als der Gattin
 И вот вместе с приношением вам сомы,  
 О Индра и Агни, я возношу новую хвалу.
 </details>
+

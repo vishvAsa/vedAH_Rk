@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ástoḍhvam ← √stu- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:MED}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+stomyāḥ ← stómya- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+ávīvr̥dhadhvam ← √vr̥dh- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:MED}
+
+uṣāsaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+uśatī́ḥ ← √vaś- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+devīḥ ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+sanema ← √sanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+yuṣmā́kam ← tvám (pronoun)  
+{case:GEN, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+sahasríṇam ← sahasrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatínam ← śatín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Gepriesen seid ihr preislichen mit Sprüchen, ihr habt euch gern ergötzt, o Mor
 С вашей помощью, о богини, мы хотим добиться  
 Награды числом в сотню и тысячу!
 </details>
+

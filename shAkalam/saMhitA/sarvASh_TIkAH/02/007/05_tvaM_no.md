@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhārata ← bhā́rata- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ukṣábhiḥ ← ukṣán- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vaśā́bhiḥ ← vaśā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ā́hutaḥ ← √hu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+aṣṭā́padībhiḥ ← aṣṭā́pad- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +158,4 @@ Du bist, o Agni Bharata, beschenkt von uns mit Kuh und Rind, Und mit achtsilbgen
 О Агни, (жертвами) от яловых коров,  
 От быков, от стельных (коров).
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525)
+#### Morph
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhrā́tā ← bhrā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svásā ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ádr̥ṣṭāḥ ← adŕ̥ṣṭa- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+víśvadr̥ṣṭāḥ ← viśvádr̥ṣṭa- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+iláyata ← √il- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kam ← kam (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+tíṣṭhata ← √sthā- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +202,4 @@ Der Himmel ist euer Vater, die Erde eure Mutter, der Soma euer Bruder, Aditi eur
 О невидимые, оставайтесь  
 Видимыми для всех! Замрите!
 </details>
+

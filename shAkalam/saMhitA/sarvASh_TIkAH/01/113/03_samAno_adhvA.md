@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhvā ← ádhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anantáḥ ← anantá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samānáḥ ← samāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svásroḥ ← svásar- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+anyā́nyā ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+carataḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+deváśiṣṭe ← deváśiṣṭa- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+methete ← √mith- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+suméke ← suméka- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tasthatuḥ ← √sthā- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+náktoṣā́sā ← náktoṣā́s- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sámanasā ← sámanas- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vírūpe ← vírūpa- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Der Nacht, des Morgens Weg ist gleich und endlos, gelehrt von Göttern gehn sie 
 Они не ссорятся, не останавливаются, (эти) две хорошо соразмеренные,  
 Ночь и Ушас одного духа, (но) разного вида.
 </details>
+

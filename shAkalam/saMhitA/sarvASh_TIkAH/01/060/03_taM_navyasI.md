@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+hr̥dáḥ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+jā́yamānam ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+návyasī ← návyas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+aśyāḥ ← √naś- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+mádhujihvam ← mádhujihva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sukīrtíḥ ← sukīrtí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mā́nuṣāsaḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tvíjaḥ ← r̥tvíj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥jáne ← vr̥jána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jī́jananta ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+práyasvantaḥ ← práyasvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Das neuste Lied, aus unserm Geist geboren, erreiche ihn, dess Zunge trieft von H
 Кого человеческие жрецы, приносящие удовлетворение Аю,  
 Породили в (нашей) общине!
 </details>
+

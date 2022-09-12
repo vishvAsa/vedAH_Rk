@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+amr̥tatvé ← amr̥tatvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+uttamé ← uttamá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dadhāsi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mártam ← márta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrávase ← śrávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+jánmane ← jánman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tātr̥ṣāṇáḥ ← √tr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ubháyāya ← ubháya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+kr̥ṇóṣi ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+máyaḥ ← máyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+práyaḥ ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sūráye ← sūrí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +248,4 @@ Du, Agni, führst den Menschen zur Unsterblichkeit zur höchsten, schaffest gros
 (Ты,) который, сам (того) взыскуя, обоим родам  
 Даешь утешение и вознаграждение покровителю.
 </details>
+

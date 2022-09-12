@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+harimā́ṇam ← harimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śúkeṣu ← śúka- (invariable)  
+{case:LOC, gender:M, number:PL}
+
+dadhmasi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ropaṇā́kāsu ← ropaṇā́kā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+átha ← átha (invariable)  
+{}
+
+hāridravéṣu ← hāridravá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+dadhmasi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+harimā́ṇam ← harimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Auf die Papageien und die Drosseln legen wir meine Gelbsucht, auf die gelbfüssi
 А также (птицам) харидрава мою  
 Желтуху мы оставляем!
 </details>
+

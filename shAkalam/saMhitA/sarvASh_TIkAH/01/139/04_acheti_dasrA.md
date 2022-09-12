@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,88 @@ genre M
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+áceti ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nā́kam ← nā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ṇvathaḥ ← √r̥- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+díviṣṭiṣu ← díviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+rathayújaḥ ← rathayúj- (nominal stem)  
+{case:NOM, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yuñjáte ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+adhvasmā́naḥ ← adhvasmán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+díviṣṭiṣu ← díviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+sthā́ma ← sthā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vandhúre ← vandhúra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hiraṇyáye ← hiraṇyáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+anuśā́satā ← √śās- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yántau ← √i- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+áñjasā ← áñjasā (invariable)  
+{}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śā́satā ← √śās- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,3 +294,4 @@ Man nimmt es wahr, ihr schönen schliesst den Himmel auf, und schirrt bei Festen
 (Вы-) словно двое идущих (прямой) дорогой, указывая путь по воздуху,  
 Прямо указывая путь по воздуху.
 </details>
+

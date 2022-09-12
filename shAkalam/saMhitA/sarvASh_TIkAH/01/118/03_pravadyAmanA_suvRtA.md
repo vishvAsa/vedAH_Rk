@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pravádyāmanā ← pravádyāman- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+suvŕ̥tā ← suvŕ̥t- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ádreḥ ← ádri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dásrau ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ślókam ← ślóka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śr̥ṇutam ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+ávartim ← ávarti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gámiṣṭhā ← gámiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+āhúḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+purājā́ḥ ← purājā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +205,4 @@ Auf schnellem Wagen, der im Schuss herabkommt, vernehmt, o thät'ge, diesen Scha
 Не вас ли, о Ашвины, назвали прежде рожденные мудрецы  
 Скорее всех приходящими (на помощь) в беде?
 </details>
+

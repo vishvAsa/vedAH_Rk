@@ -16,14 +16,54 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnínā ← agní- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+turváśam ← turváśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yádum ← yádu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ugrā́devam ← ugrā́deva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥hádratham ← br̥hádratha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návavāstvam ← návavāstva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nayat ← √nī- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+dásyave ← dásyu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+turvī́tim ← turvī́ti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +191,4 @@ Wir riefen Ugradeva, Turvaça, Jadu durch Agni aus der Ferne her; Auf hohem Wage
 Пусть Агни приведет Нававаству, Брихадратху,  
 Турвити – силу против врага!
 </details>
+

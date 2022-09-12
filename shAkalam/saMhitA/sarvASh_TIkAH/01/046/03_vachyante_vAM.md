@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+kakuhā́saḥ ← kakuhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vacyánte ← √vañc- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ádhi ← ádhi (invariable)  
+{}
+
+jūrṇā́yām ← √jr̥̄- ~ jūr- (root)  
+{case:LOC, gender:F, number:SG, non-finite:PPP}
+
+viṣṭápi ← viṣṭáp- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+pátāt ← √pat- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+víbhiḥ ← ví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +150,4 @@ Es springen eure Rosse schnell dort auf der alten Stätte hin, Wenn eur beschwin
 По зыбкой поверхности,  
 Когда летит ваша колесница, (влекомая) птицами.
 </details>
+

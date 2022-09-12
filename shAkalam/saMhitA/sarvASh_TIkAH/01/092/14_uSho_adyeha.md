@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+gomati ← gómant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+áśvāvati ← áśvāvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vibhāvari ← vibhā́van- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sūnr̥tāvati ← sūnŕ̥tāvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ucha ← √vas- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Erstrahl', o leuchtend Morgenroth, uns heute, wonnereiches du, Begabt mit Rossen
 Богатая конями, ярко сверкающая!  
 Воссвети нам богатство, о благодатная!
 </details>
+

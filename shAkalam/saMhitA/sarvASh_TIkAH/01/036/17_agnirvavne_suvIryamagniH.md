@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vavne ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káṇvāya ← káṇva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+saúbhagam ← saúbhaga- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āvat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+médhyātithim ← médhyātithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mitrā́ ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+upastutám ← upastutá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ Agni gewährte Heldenkraft, dem Kanva Agni hohes Glück, Agni und Mitra halfen d
 Агни, а также Митра и (Варуна) помогли Медхьятитхи,  
 Агни (помог) Упастуте в победе.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+asmā́t ← ayám (pronoun)  
+{case:ABL, number:SG}
+
+ī́ṣamāṇaḥ ← √īṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED, mood:DES}
+
+taviṣā́t ← taviṣá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+bhiyā́ ← bhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+índrāt ← índra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+réjamānaḥ ← √rej- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+havyā́ ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+níśitāni ← √śā- ~ śī- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+yuṣmábhyam ← tvám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+āré ← āré (invariable)  
+{}
+
+cakr̥ma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+mr̥ḷáta ← √mr̥ḍ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Ich flieh' aus Furcht vor diesem ungestümen erschreckt, o Maruts, zitternd vor 
 (Это) для вас были приправлены жертвы.  
 Мы убрали их. Помилуйте нас!
 </details>
+

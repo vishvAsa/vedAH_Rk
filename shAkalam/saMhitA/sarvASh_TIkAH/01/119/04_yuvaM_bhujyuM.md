@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhurámāṇam ← √bhur- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+gatám ← √gam- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+víbhiḥ ← ví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+niváhantā ← √vah- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+pitŕ̥bhyaḥ ← pitár- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+sváyuktibhiḥ ← sváyukti- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vijenyàm ← vijenyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yāsiṣṭám ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ceti ← √cit- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+dívodāsāya ← dívodāsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Zum Bhudschju kamt ihr, der im Wasser zappelte, mit selbstgeschirrten Vögeln fu
 Вы совершили неблизкий объезд, о два быка.  
 Для Диводасы проявилась великая ваша помощь.
 </details>
+

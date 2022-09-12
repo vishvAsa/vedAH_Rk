@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+caná ← caná (invariable)  
+{}
+
+ciketat ← √cit- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tvaḥ ← tva- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+kaviśastáḥ ← kaviśastá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mántraḥ ← mántra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥ghāvān ← ŕ̥ghāvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cáturaśriḥ ← cáturaśri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+triráśrim ← triráśri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajūryan ← √jr̥̄- ~ jūr- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devanídaḥ ← devaníd- (nominal stem)  
+{case:NOM, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+prathamā́ḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +241,4 @@ Nicht jeder Mensch vermag es zu verstehen; doch bleibet wahr das mächt'ge Wort 
 Грозный четырехгранник побивает трехгранник.  
 Первыми состарились хулители богов.
 </details>
+

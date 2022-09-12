@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsu ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+āvíṣṭyaḥ ← āvíṣṭya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cā́ruḥ ← cā́ru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vardhate ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jihmā́nām ← jihmá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sváyaśāḥ ← sváyaśas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bibhyatuḥ ← √bhī- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jā́yamānāt ← √janⁱ- (root)  
+{case:ABL, gender:M, number:SG, tense:PRS, voice:MED}
+
+tváṣṭuḥ ← tváṣṭar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+joṣayete ← √juṣ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+pratīcī́ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+siṁhám ← siṁhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +185,7 @@ The hymn began with unnamed dual feminines attending to the young fire; this ver
 Note the word play of pratīcī́… práti, with slightly different meanings.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/095/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/095/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 The caus. (práti) joṣayete in 5d, 6a literally means “they two cause (him) to take pleasure (in themselves),” but this tr. seems too heavy, esp. in adjacent pādas.
@@ -173,3 +222,4 @@ Der schöne wächst in ihnen sich enthüllend, selbstherrlich aufrecht in dem Sc
 Обе половины вселенной боятся рождающегося от Тваштара.  
 Обращенные ко льву, обе они рады (его) принять.
 </details>
+

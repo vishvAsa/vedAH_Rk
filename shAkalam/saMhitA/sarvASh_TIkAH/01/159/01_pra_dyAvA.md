@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+r̥tāvŕ̥dhā ← r̥tāvŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mahī́ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+prácetasā ← prácetas- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+stuṣe ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+deváputre ← deváputra- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sudáṁsasā ← sudáṁsas- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+prabhū́ṣataḥ ← √bhūṣ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́ryāṇi ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Mit Opfern ehr den Himmel und die Erde ich, beim Fest die grossen, weisen, die d
 (Тех,) у кого боги сыновья (и) кто вместе с богами творит чудеса,  
 Кто под воздействием истинной молитвы распоряжается желанными дарами.
 </details>
+

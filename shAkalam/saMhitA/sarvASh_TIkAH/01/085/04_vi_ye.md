@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhrā́jante ← √bhrāj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+r̥ṣṭíbhiḥ ← r̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+súmakhāsaḥ ← súmakha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+ácyutā ← ácyuta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pracyāváyantaḥ ← √cyu- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+manojúvaḥ ← manojū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áyugdhvam ← √yuj- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:MED}
+
+pŕ̥ṣatīḥ ← pŕ̥ṣant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vŕ̥ṣavrātāsaḥ ← vŕ̥ṣavrāta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +200,7 @@ The adj. manojúvaḥ ‘mind-swift’ could equally well be a nom. pl. masc.
 modifying the Maruts or an acc. pl. fem. modifying pṛ́ṣatīḥ. Most tr. opt for the latter, I think correctly on thematic grounds, but grammatically and semantically either is possible. Grassmann and Macdonell (Vedic Reader) take it as a nominative; certainly its position right before marutaḥ in pāda a, with pŕṣatīḥ appearing only in the middle of the second pāda, suggests that the initial audience interpretation would be as a modifier of the Maruts.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/085/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/085/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 Verse 5 is an intrusive Triṣṭubh in this Jagatī hymn. (The final verse is also in Triṣṭubh, but meter change is more usual in concluding verses.) The transition between the meters is cleverly managed here (as Oldenberg already pointed out): the final word of 4d (in Jagatī) and 5a (in Triṣṭubh) is áyugdhvam. The ending has the distracted reading -dhu vam in 4d, but is simply -dhvam in 5a. The reason for the change in meter is unclear to me.
@@ -180,3 +232,4 @@ Die kühnen Kämpfer funkeln mit den Speeren rings, mit Kraft erschütternd auch
 Когда вы, Маруты, мощною толпой  
 Запрягли в колесницы пестрых (антилоп,) быстрых, как мысль.
 </details>
+

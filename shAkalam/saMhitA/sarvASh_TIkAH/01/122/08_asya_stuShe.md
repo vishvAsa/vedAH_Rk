@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+máhimaghasya ← máhimagha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stuṣe ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+náhuṣaḥ ← náhus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+sanema ← √sanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pajrébhyaḥ ← pajrá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+vājínīvān ← vājínīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áśvāvataḥ ← áśvāvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rathínaḥ ← rathín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sūríḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +184,7 @@ introduction.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/122/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/122/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 The passively used 3rd sg. stuṣé (7a), stuṣe (8a) contrast in function with the great majority of stuṣé / stuṣe forms, which are 1st sg. and “active” in sense (“I (will) praise”). This rare usage may be mediated through the perception of the accented forms as infinitives; see disc. ad X.22.1.
@@ -167,3 +216,4 @@ Gepriesen wird das Geschenk dieses sehr reichen; wir männerreiche Freunde möge
 Человек, который награждает от Паджров,  
 (Дал) мне (награды,) состоящие из коней, из колесниц.
 </details>
+

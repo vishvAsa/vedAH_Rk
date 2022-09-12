@@ -14,12 +14,43 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gman ← √gam- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+padaíḥ ← padá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sajóṣāḥ ← sajóṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sīdan ← √sad- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+víśve ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yájatrāḥ ← yájatra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +139,7 @@ All in all, I.65.3cd packs a lot into its ten syllables and five words, as witne
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 These verses contain 3rd pl. act. root aorists ánu gman (2b) and ánu … guḥ (3b) to the associated roots √gam and √gā respectively, with no apparent difference in semantics. Here one might almost invoke the much over-used explanation of metrical convenience: both of these 3rd plurals are always (gman) or almost always (guḥ) pāda-final, with the first “making position” with a preceding light syllable (often ánu) and the latter not.
@@ -142,3 +173,4 @@ Dir nahten einig, – die weisen schreitend, wie einem Viehdieb, – der sich ve
 
 -ru-
 </details>
+

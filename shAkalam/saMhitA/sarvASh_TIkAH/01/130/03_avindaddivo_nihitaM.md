@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,88 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+ávindat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+nidhím ← nidhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+níhitam ← √dhā- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+áśmani ← áśman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+párivītam ← √vyā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+véḥ ← ví- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ananté ← anantá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+áśmani ← áśman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+vajrī́ ← vajrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áṅgirastamaḥ ← áṅgirastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síṣāsan ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+ápa ← ápa (invariable)  
+{}
+
+avr̥ṇot ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+párīvr̥tāḥ ← √vr̥- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+dvā́raḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+párīvr̥tāḥ ← √vr̥- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,3 +286,4 @@ Er fand den Schatz des Himmels, der verborgen lag, umhüllt im Felsen, gleich wi
 Индра открыл запертые жертвенные услады,  
 Запертые врата – жертвенные услады.
 </details>
+

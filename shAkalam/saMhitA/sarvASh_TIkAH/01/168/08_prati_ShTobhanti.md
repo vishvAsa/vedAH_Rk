@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pavíbhyaḥ ← paví- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stobhanti ← √stubh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+abhríyām ← abhríya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+udīráyanti ← √īr- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+smayanta ← √smi- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+vidyútaḥ ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pruṣṇuvánti ← √pruṣⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yádi ← yádi (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Von ihren Schienen hallt der Luftstrom wieder, wenn sie der Wetterwolken Sang er
 Молнии улыбаются вниз, на землю,  
 Когда Маруты кропят жиром.
 </details>
+

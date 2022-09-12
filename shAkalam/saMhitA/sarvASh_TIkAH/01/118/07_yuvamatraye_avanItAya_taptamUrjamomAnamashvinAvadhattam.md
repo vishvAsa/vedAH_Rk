@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átraye ← átri- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ávanītāya ← √nī- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+taptám ← √tap- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+adhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+aśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+omā́nam ← omán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ápiriptāya ← √rip- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+káṇvāya ← káṇva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+adhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+jujuṣāṇā́ ← √juṣ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +191,4 @@ Dem Atri, der in Feuersglut versenkt war, gabt ihr, o Ritter, Stärkung und Erqu
 Канве, ослепленному, вы вновь вернули  
 Зрение, наслаждаясь (его) хвалебной песнью.
 </details>
+

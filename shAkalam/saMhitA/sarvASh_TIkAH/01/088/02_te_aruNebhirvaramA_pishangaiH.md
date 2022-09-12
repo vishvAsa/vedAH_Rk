@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aruṇébhiḥ ← aruṇá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+piśáṅgaiḥ ← piśáṅga- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kám ← kám (invariable)  
+{}
+
+rathatū́rbhiḥ ← rathatúr- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yānti ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+citráḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rukmáḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svádhitīvān ← svádhitīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jaṅghananta ← √han- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+pavyā́ ← paví- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ Sie kommen mit den röthlichen, goldfarbenen, Wagen beeilenden Rossen nach eigne
 Сверкает, как золотая пластинка (их колесница) с топорами.  
 Они прибивают землю ободом колесницы.
 </details>
+

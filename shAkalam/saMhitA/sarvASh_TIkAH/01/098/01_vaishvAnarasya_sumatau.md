@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sumataú ← sumatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vaiśvānarásya ← vaiśvānará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+abhiśrī́ḥ ← abhiśrī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvanānām ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+kam ← kam (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+caṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+itás ← itás (invariable)  
+{}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ví ← ví (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vaiśvānaráḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yatate ← √yat- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +165,6 @@ genre M
 **वैश्वानरस्य** विश्वेषां नराणां लोकान्तरनेतृत्वेन स्वामित्वेन वा संबन्धिनोऽग्नेः **सुमतौ** शोभनायामनुग्रहात्मिकायां बुद्धौ **स्याम** अनुग्राह्यत्वेन वर्तमाना भवेम । **हि** **कम्** इत्येतत् हिशब्दार्थे । स हि वैश्वानरः **अभिश्रीः** अभिश्रयणीयः अभिमुख्येन सेवितव्यः सन् **भुवनानां** सर्वेषां भूतजातानां **राजा** स्वामी भवति । यः **वैश्वानरः** अग्निः **इतः** अस्मादरणिद्वयात् जातमात्रः एव **इदं** सर्वं जगत् **वि** **चष्टे** विशेषेण पश्यति प्रातरुद्यता **सूर्येण** च **यतते** संयतते संगच्छते । ‘ उद्यन्तं वावादित्यमग्निरनुसमारोहति' (तै. ब्रा. २. १. २. १०) इति तैत्तिरीयकम् । यद्वा । पार्थिवस्याग्नेस्तेजांस्युद्गच्छन्ति सूर्यकिरणाश्चाधोमुखं प्रसरन्ति । तयोः संगमनं दृष्ट्वा ‘वैश्वानरो यतते सूर्येण ' इति ऋषिर्ब्रूते । तथा च यास्कः-’ अमुतोऽमुष्य रश्मयः प्रादुर्भवन्तीतोऽस्यार्चिषस्तयोर्भासोः संसंगं दृष्ट्वैमवक्ष्यत् ' ( निरु. ७. २३ ) इति । एवंभूतस्य महानुभावस्य वैश्वानरस्य सुमतौ स्यामेति संबन्धः ॥ वैश्वानरस्य । विश्वेषां नराणां संबन्धी । “ नरे संज्ञायाम् ' ( पा. सू. ६. ३. १२९ ) इति पूर्वपदस्य दीर्घत्वम् । ‘ तस्येदम्' इति अण् । सुमतौ । शोभना मतिः सुमतिः । ‘ तादौ च° ' इति गतेः प्रकृतिस्वरे प्राप्ते ‘ मन्क्तिन्° ' इत्यादिना उत्तरपदान्तोदात्तत्वम् । ननु तत्र ‘ कारकात्' इत्यनुवृत्तेर्गतेरुत्तरस्य क्तिनो न प्राप्नोति । एवं तर्हि मतिर्मननम् । भावे क्तिन् । शोभनं मननं यस्यां बुद्धौ सा सुमतिः । ‘ नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । चष्टे । ‘ चक्षिङ् व्यक्तायां वाचि' । अयं पश्यतिकर्मा च । अदादित्वात् शपो लुक् ।' स्कोः संयोगाद्योः' इति कलोपः । यतते । ‘ यती प्रयत्ने ' ॥
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 **वैश्वानरस्य सुमतौ** कल्याणगुणानुग्रहबुद्धौ **स्याम** भवेम । 'मन्क्तिन्व्याख्यान' इत्युत्तरपदान्तोदात्तत्वम् ।  
@@ -121,7 +172,6 @@ genre M
 
 वैश्वानरो विशेष्यते - **हिकम्** इति । हेर् अर्थे पादपूर्णार्थे वा । **राजा** यस्सर्वभुवनानां भूतजातानाम् **अभिश्रीर्** आभिमुख्येनाश्रयणीयः, अभिमतश्रीर्वा । इतो हेतोर्जातमात्र एवायं विश्वं भुवनमिदं **विचष्टे** विशेषेण पश्यति । सूर्येण च यतते सूर्येण सङ्गतो वर्तते । 'उद्यन्तं वावादित्यमग्निरनु समारोहति' इति दिवादित्येन सङ्गच्छते । य इत्थं महात्मा तस्य सुमतौ यथास्मभ्यं दानकामाः प्रजास्स्युरिति ॥
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -159,7 +209,6 @@ Hence born he discerneth all the (earth),
 Vaiśvanara vieth with the sun.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Wir möchten in der Gunst des Vaisvanara stehen, denn er ist ja der König, der Oberherr der Geschöpfe. Hier geboren überschaut er von da dieses All. Vaisvanara wetteifert mit der Sonne.
@@ -177,3 +226,4 @@ Wir mögen in des Männerhortes Huld sein; denn er als König ist der Wesen Segn
 Рожденный отсюда, он озирает все это.  
 Вайшванара равняется на солнце.
 </details>
+

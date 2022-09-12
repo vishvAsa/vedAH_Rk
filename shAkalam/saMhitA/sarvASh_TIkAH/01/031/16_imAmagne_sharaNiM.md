@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+mīmr̥ṣaḥ ← √mr̥ṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śaráṇim ← śaráṇi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ádhvānam ← ádhvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ágāma ← √gā- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+āpíḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prámatiḥ ← prámati- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+somyā́nām ← somyá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhŕ̥miḥ ← bhŕ̥mi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártyānām ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+r̥ṣikŕ̥t ← r̥ṣikŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,3 +249,4 @@ Verzeih, o Agni, diese unsre Sünde, den Weg, den wir entfernt von dir gegangen,
 Ты друг, отец, заступничество для приносящих сому,  
 Ты ревностный создатель риши для смертных.
 </details>
+

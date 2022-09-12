@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ayoddhā́ ← ayoddhár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+durmádaḥ ← durmáda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+juhvé ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+mahāvīrám ← mahāvīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥jīṣám ← r̥jīṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tuvibādhám ← tuvibādhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+atārīt ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sámr̥tim ← sámr̥ti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vadhā́nām ← vadhá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+índraśatruḥ ← índraśatru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pipiṣe ← √piṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+rujā́nāḥ ← rujā́nā- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ Denn wie ein trunkner Feigling hatt' den Helden den tilgenden, gewalt'gen er gef
 Он не выдержал натиска его оружия:  
 Безликий от пролома, он раздавлен – тот, кому Индра враг.
 </details>
+

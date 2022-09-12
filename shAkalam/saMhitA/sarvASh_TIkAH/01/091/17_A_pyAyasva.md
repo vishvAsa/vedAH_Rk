@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 12 = 8+4
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+madintama ← madíntama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pyāyasva ← √pyā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+aṁśúbhiḥ ← aṁśú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sóma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśrávastamaḥ ← suśrávastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Schwill an von Saft, berauschendster, in allen Fasern, Soma du, Sei uns der hoch
 Сома, всеми стеблями!  
 Будь для нашего возрастания другом, самым чутким!
 </details>
+

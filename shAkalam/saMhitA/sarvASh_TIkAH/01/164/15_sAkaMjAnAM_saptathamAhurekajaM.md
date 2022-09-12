@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ekajám ← ekajá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sākaṁjā́nām ← sākaṁjá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+saptátham ← saptátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devajā́ḥ ← devajā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+íti ← íti (invariable)  
+{}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ṣáṭ ← ṣáṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yamā́ḥ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhāmaśás ← dhāmaśás (invariable)  
+{}
+
+iṣṭā́ni ← √iṣ- 2 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+víhitāni ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+rejante ← √rej- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+rūpaśás ← rūpaśás (invariable)  
+{}
+
+sthātré ← sthātrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+víkr̥tāni ← √kr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Von den zugleich erzeugten [Jahreszeiten] nennen sie die siebente [den Schaltmon
 Желанные их (дни и. ночи), распределенные по порядку,  
 Меняясь по форме, трясутся на (своем) месте.
 </details>
+

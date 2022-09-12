@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gaṇáḥ ← gaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+pŕ̥ṣadaśvaḥ ← pŕ̥ṣadaśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svasŕ̥t ← svasŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́vr̥taḥ ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ayā́ḥ ← ayā́s- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īśānáḥ ← √īś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+táviṣībhiḥ ← táviṣī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ánedyaḥ ← ánedya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+r̥ṇayā́vā ← r̥ṇayā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asyā́ḥ ← ayám (pronoun)  
+{case:GEN, gender:F, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+dhiyáḥ ← dhī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+gaṇáḥ ← gaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prāvitā́ ← prāvitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Denn selbst sich treibend, Hirsche lenkend, mühelos, mit Kraft gerüstet, herrs
 Ты истинный безупречный погаситель долгов.  
 Потому толпа мужей и содействует этой молитве.
 </details>
+

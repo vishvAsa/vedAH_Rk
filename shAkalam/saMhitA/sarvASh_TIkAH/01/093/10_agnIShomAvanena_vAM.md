@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D
+#### Morph
+ágnīṣomau ← agnī́-ṣóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+anéna ← ayám (pronoun)  
+{case:INS, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dā́śati ← √dāś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dīdayatam ← √dī- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +138,7 @@ All tr. take vanínaḥ as ‘trees’ (lit. ‘possessing wood’). This is dou
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/10-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 2nd du. dīdayatam (10c) and jujoṣatam (11b) are somewhat problematic forms. They belong to redupl. thematic stems; other forms to these stems are subjunctives to the perfect. However, they have secondary endings, and the act. 2nd and 3rd du. subjunctive endings should be primary. Lubotsky identifies them as impvs. (Grassmann also jujoṣatam); Kümmel (35) treats them as “hybrids” -- morphologically belonging to the subjunctive but functioning as imperatives. They differ from some other secondarily thematized pf. impvs. in having full grade of the root syllable, like the subjunctive (versus zero-graade in pīpyatam √pi, √vāvrdhásva √vṛdh, etc. -- but cf. pipráyasva √prī). In the published translation they are treated as subjunctives (“you will shine,” “you will enjoy”), but they would might be better rendered as imperatives. For further disc. of such forms, see my forthcoming article on the perfect imperative. ## 094 Agni
@@ -138,3 +169,4 @@ Der euch mit diesem Liede ehrt, mit Butter, Agni-Soma, euch, Dem strahlet hohes 
 Этой (жертвой), кто (почитает) вас жиром, –  
 Сделайте, чтоб для него высоко засверкало (богатство)!
 </details>
+

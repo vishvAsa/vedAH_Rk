@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gr̥ṇāné ← √gr̥̄- 1 (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+máhi ← máh- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mahinī ← mahín- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhāsathaḥ ← √dhā- 1 (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+dyāvāpr̥thivī ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+kr̥ṣṭī́ḥ ← kr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tatánāma ← √tan- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRF, voice:ACT}
+
+viśváhā ← viśváhā (invariable)  
+{}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+invatam ← √i- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+panā́yyam ← panā́yya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +221,4 @@ Von uns gepriesen gebet, Erd' und Himmel, uns, ihr grossen, hohe Herrschermacht 
 С помощью которой все дни мы будем возвышаться над народами!  
 Пробудите в нас силу, достойную удивления!
 </details>
+

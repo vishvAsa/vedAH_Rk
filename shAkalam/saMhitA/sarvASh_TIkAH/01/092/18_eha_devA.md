@@ -15,13 +15,41 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+devā́ ← devá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ihá ← ihá (invariable)  
+{}
+
+mayobhúvā ← mayobhū́- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+dasrā́ ← dasrá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+híraṇyavartanī ← híraṇyavartani- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+uṣarbúdhaḥ ← uṣarbúdh- (nominal stem)  
+{case:NOM, number:PL}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Das hehre, holde Götterpaar, auf goldnem Pfade mögen her Früh wache Rosse fah
 Чудотворных, (на колеснице) с золотыми колесами,  
 Пробуждающихся на заре, пусть приедут для питья сомы!
 </details>
+

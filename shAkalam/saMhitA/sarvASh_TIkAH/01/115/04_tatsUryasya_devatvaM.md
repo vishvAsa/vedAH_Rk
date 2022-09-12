@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+devatvám ← devatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahitvám ← mahitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jabhāra ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kártoḥ ← √kr̥- (root)  
+{case:ABL, number:SG}
+
+madhyā́ ← madhyā́ (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+vítatam ← √tan- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+áyukta ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+harítaḥ ← harít- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+sadhásthāt ← sadhástha- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+rā́trī ← rā́trī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+simásmai ← simá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tanute ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vā́saḥ ← vā́sas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +227,7 @@ In my view Night’s stretching her garment for him is in part a gesture of subm
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/115/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/115/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 As indicated in the published introduction, although at the time I was not certain what these verses depict, I was (and remain) skeptical of the notion that the two hemistichs refer to the so-called day-sun and night-sun respectively, as Geldner (/Witzel Gotō in part) and Renou take it. Among other things, I find it unlikely that the unequivocal proclamation of the Sun’s supremacy that begins this verse (tát sū́ryasya devatváṃ tán mahitvám “This is the Sun's divinity, this his greatness”) would pertain to what these scholars see in 4d: the rather ignominious bundling up of the Sun in Night’s garment to sneak him back across the sky to rise again the next day. I now feel I have a much clearer understanding of what is going on in these verses -- I think I have cracked their code
@@ -205,3 +266,4 @@ Das ist des Sonnengottes Macht und Gottheit, im Wirken rollt den Aufzug er zusam
 Как только он запряг с места рыжих (коней),  
 Ночь тут же протягивает (свой) наряд для него самого.
 </details>
+

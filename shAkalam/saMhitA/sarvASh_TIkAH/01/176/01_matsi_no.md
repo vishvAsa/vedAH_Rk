@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mátsi ← √mad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vásya: iṣṭaye ← vásya: iṣṭi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśa ← √viś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+invasi ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+r̥ghāyámāṇaḥ ← √r̥ghāy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ánti ← ánti (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+śátrum ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vindasi ← √vid- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ Berausch zur Schatzerlangung ihn, in Indra dringe, Indu, Held, Gewaltig tobend s
 Неистовствуя, ты обращаешь в бегство  
 Врага, (никого) не находишь перед (собой).
 </details>
+

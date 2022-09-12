@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+gávāśiraḥ ← gávāśir- (nominal stem)  
+{case:ACC, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhájāmahe ← √bhaj- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+yávāśiraḥ ← yávāśir- (nominal stem)  
+{case:ACC, number:PL}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+pī́vaḥ ← pī́vas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́tāpe ← vātāpi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +166,4 @@ Wenn, Soma, wir dein Milchgemisch geniessen und dein Korngebräu, Dann werde fet
 Смешанного с молоком, смешанного с ячменем,  
 Превратись в жир (для нас), о друг Ваты (?)!
 </details>
+

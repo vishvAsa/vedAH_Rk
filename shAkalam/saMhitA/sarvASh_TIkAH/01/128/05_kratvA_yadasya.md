@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,94 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pr̥ñcáte ← √pr̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+táviṣīṣu ← táviṣī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhojyā̀ ← bhojyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ráveṇa ← ráva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bhojyā̀ ← bhojyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+iṣirā́ya ← iṣirá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+dā́nam ← dā́na- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ínvati ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+majmánā ← majmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+abhihrútaḥ ← abhihrút- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+duritā́t ← duritá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+trāsate ← √trā- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+abhihrútaḥ ← abhihrút- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+aghā́t ← aghá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śáṁsāt ← śáṁsa- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,3 +327,4 @@ Mit Agni's Kraft und Lust bei seinem Ungestüm vermischen sich Genüsse wie der 
 Пусть спасет он нас от неудачи, от козней,  
 От враждебной речи, от козней!
 </details>
+

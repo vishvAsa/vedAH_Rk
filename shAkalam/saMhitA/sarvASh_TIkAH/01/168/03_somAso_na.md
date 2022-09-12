@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ná ← ná (invariable)  
+{}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sutā́ḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+tr̥ptā́ṁśavaḥ ← tr̥ptā́ṁśu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́sate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+duvásaḥ ← duvás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hr̥tsú ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pītā́saḥ ← √pā- 2 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áṁseṣu ← áṁsa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+rambhíṇī ← rambhín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rārabhe ← √rabh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+hásteṣu ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+khādíḥ ← khādí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥tíḥ ← kr̥tí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +252,4 @@ Den Somasäften gleichen sie, den kräftigen, die eingeschlürft sich regen, nim
 К плечам их прильнула (пика,) словно прильнувшая женщина  
 В их руках соединились пряжка и нож.
 </details>
+

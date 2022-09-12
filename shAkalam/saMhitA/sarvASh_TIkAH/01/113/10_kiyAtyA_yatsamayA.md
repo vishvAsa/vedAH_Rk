@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhávāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+kíyāti ← kíyant- (nominal stem)  
+{}
+
+samáyā ← samá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+vyuchā́n ← √vas- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vyūṣúḥ ← √vas- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+kr̥pate ← √kr̥p- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pū́rvāḥ ← pū́rva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vāvaśānā́ ← √vaś- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
+anyā́bhiḥ ← anyá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jóṣam ← jóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pradī́dhyānā ← √dhī- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,24 +207,24 @@ A different interpr. of the word arises from examining all the occurrences in co
 Every passage crucially contains the preverb/particle ví (save for VII.66.15, where víśvam takes its place):
 
 
-> ví vṛtrásya samáyā pāṣyā̀rujaḥ
+&gt; ví vṛtrásya samáyā pāṣyā̀rujaḥ
 ví síndhavaḥ samáyā sasrur ádrim
 
 
-> kíyāty ā́yát samáyā bhávāti yā́vyūṣúr yā́ś ca nūnáṃ vyuchā́n
+&gt; kíyāty ā́yát samáyā bhávāti yā́vyūṣúr yā́ś ca nūnáṃ vyuchā́n
 
 
-> I.163.3ási sùmena samáyā vípṛktaḥ
-> I.166.9ákṣo vaś cakrā́samáyā ví vāvṛte
-> VII.66.15 śīrṣṇáḥ-śīrṣṇo jágatas tasthúṣas pátiṃ samáyā víśvam ā́rájaḥ
-> IX.75.4 rómāṇy ávyā samáyā ví dhāvati
-> IX.85.5 vy àvyáyaṃ samáyā vā́ram arṣasi
+&gt; I.163.3ási sùmena samáyā vípṛktaḥ
+&gt; I.166.9ákṣo vaś cakrā́samáyā ví vāvṛte
+&gt; VII.66.15 śīrṣṇáḥ-śīrṣṇo jágatas tasthúṣas pátiṃ samáyā víśvam ā́rájaḥ
+&gt; IX.75.4 rómāṇy ávyā samáyā ví dhāvati
+&gt; IX.85.5 vy àvyáyaṃ samáyā vā́ram arṣasi
 
 Since ví ‘apart’ and sám ‘together’ are oppositional preverbs that frequently work formulaically with each other, samáyā seems to partake more in the semantics of sám than of samá- ‘same’ and to mean ‘altogether’, ‘all at once’, or ‘together with’. I take it in the last meaning here: the question being asked is when the current Dawn will be (re)joined with her sister Dawns, both preceding and following her.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details open><summary><h2>07-13 ...{Loading}...</h2></summary>
 
 These verses have a surprising density of forms of ví √vas ‘dawn forth’ (7b, d, 8c, 9b, 10b [2x], 11b, 12d, 13a, b, c), whereas vss. 1-6 lack any such forms -- though there’s a teasing echo in 4b ví … āvaḥ ‘She opened, uncovered’, belonging, however, to √vṛ. See also comments on vs. 14.
@@ -203,3 +261,4 @@ Wie lange währt's, dass sie mit denen eins wird, die früher strahlten und noch
 С готовностью она равняется на прежние (зори),  
 Размышляя, идет радостно с другими.
 </details>
+

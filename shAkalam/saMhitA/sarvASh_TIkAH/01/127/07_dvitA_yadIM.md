@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -30,6 +30,82 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+abhídyavaḥ ← abhídyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+kīstā́saḥ ← kīstá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+namasyántaḥ ← √namasy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+upavócanta ← √vac- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dāśā́ ← dā́ś- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mathnántaḥ ← √mathⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īśe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+dharṇíḥ ← dharṇí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+apidhī́n ← apidhí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+médhiraḥ ← médhira- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyā́n ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vaniṣīṣṭa ← √vanⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
+ā́ ← ā́ (invariable)  
+{}
+
+médhiraḥ ← médhira- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaniṣīṣṭa ← √vanⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,3 +284,4 @@ So als die Dichter, die zum Himmel strebenden, die Bhrigu's ihn anbetend luden z
 Пусть мудрый преодолеет милые укрытия,  
 Мудрый пусть (их) преодолеет!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aprāḥ ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ātmā́ ← ātmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+jágataḥ ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tasthúṣaḥ ← √sthā- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,8 +178,6 @@ genre D
 चित्रं चायनीयं देवानामनीकं सङ्घातरूपम्मण्डलम् । यद्वा - देवानां रश्मीनां अनीकं मुखं समुदायस्थानं वा । मित्रादीनां देवानामपि चक्षुस्स्थानं , तेपि हि तेन प्रकाशितं पश्यन्ति । यद्वा - मित्रत्वादिपदप्राप्तिहेतुत्वाच्चक्षुरित्युपचर्यते । उपलक्षणं चैतत्, सर्वदेवतापदलाभहेतुत्वात्; भवति मण्डलोपासनमिति । इर्दृशमण्डलमुदगात् उदेति । छान्दसो लुङ्, 'गातिस्था' इति सिचो लुक् । यदा ईदृशम्मण्डलमुदेति तदा तन्मण्डलान्तर्गतो भगवान् सूर्यः जगतो जङ्गमस्य तस्थुषः स्थावरस्य च विश्वस्यात्मा द्यावापृथिवी द्यावापृथिव्यौ अन्तरिक्षं च रश्मिभिराप्राः आपूरयति । प्रा पूरणे पुरुषव्यत्ययः, अदादित्वाच्छपो लुक् । द्यौश्च पृथिवी च द्यावापृथिव्यौ । 'दिवो द्यावा' इति द्यावादेशः, 'वा छन्दसि' इति पूर्वसवर्णदीर्घः', 'देवताद्वन्द्वे च' इति पूर्वोत्तरयोर्युगपत्प्रकृतिस्वरत्वम्, पृथिवीशब्दो ङीषन्तोन्तोदात्तः ।
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -162,7 +215,6 @@ He hath filled the sky and earth and atmosphere;
 The sun is the self of all that moveth and standeth.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Prangend ist das Antlitz der Götter aufgegangen, das Auge von Mitra, Varuna, Agni. Er hat Himmel und Erde und die Luft erfüllt; Surya ist die Seele von allem was geht und steht.
@@ -180,3 +232,4 @@ Es stieg empor der Götter lichtes Antlitz, das Auge Mitra's, Varuna's und Agni'
 Он заполнил собой небо и землю, воздушное пространство.  
 Сурья – дыхание жизни движущегося и неподвижного (мира).
 </details>
+

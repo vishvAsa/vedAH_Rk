@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvŕ̥tam ← suvŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tákṣan ← √takṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vidmanā́pasaḥ ← vidmanā́pas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+indravā́hā ← indraváh- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tákṣan ← √takṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vŕ̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pitŕ̥bhyām ← pitár- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tákṣan ← √takṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yúvat ← yúvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sacābhúvam ← sacābhū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tákṣan ← √takṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vatsā́ya ← vatsá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Den schnellen Wagen schuf die weise Künstlerschar, die stiergewalt'gen Füchse,
 Рибху смастерили юный возраст родителям.  
 Они смастерили теленку мать-спутницу.
 </details>
+

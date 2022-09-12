@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āraik ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jyā́yasyai ← jyā́yaṁs- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+svásā ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svásre ← svásar- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+praticákṣya ← √cakṣ- (root)  
+{non-finite:CVB}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vyuchántī ← √vas- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+añjí ← añjí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+aṅkte ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+samanagā́ḥ ← samanagā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vrā́ḥ ← vrā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +191,7 @@ The choosing maidens (vrā́ḥ) of the same marriage type are the topic of pād
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 suvā́śā(ḥ) in 7c is neatly echoed by svásā opening 8a.
@@ -168,3 +223,4 @@ Die Schwester räumt der edleren den Sitz ein, und geht davon, sobald sie sie ge
 Пламенея лучами Сурьи,  
 Она умащается мазью, как блудницы, идущие на свидание.
 </details>
+

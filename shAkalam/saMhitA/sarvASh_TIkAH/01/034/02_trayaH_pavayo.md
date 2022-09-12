@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+madhuvā́hane ← madhuvā́hana- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+paváyaḥ ← paví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+venā́m ← venā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viduḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ārábhe ← √rabh- (root)  
+{case:DAT, number:SG}
+
+skabhitā́saḥ ← √skambhⁱ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+skambhā́saḥ ← skambhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dívā ← dívā (invariable)  
+{}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+trís ← trís (invariable)  
+{}
+
+trís ← trís (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+yātháḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Drei Felgen sind an eurem honigfahrenden Wagen; es kennen alle ja des Soma's Lie
 Три опоры укреплены, чтобы (все) удерживать.  
 Трижды ночью вы выезжаете, о Ашвины, и трижды днем.
 </details>
+

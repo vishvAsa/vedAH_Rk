@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avánayaḥ ← aváni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+stúbhaḥ ← stúbh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ródhacakrāḥ ← ródhacakra- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sravátaḥ ← sravát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+caṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ubháyam ← ubháya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+gŕ̥dhraḥ ← gŕ̥dhra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táraḥ ← táras- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Zu ihm gehn Lieder wie ins Meer die Flüsse, wie Ströme die am Ufer spülend ro
 Тот, как знаток, видит насквозь обоих:  
 И перевоз, и воду, (этот) коршун-Брихаспати.
 </details>
+

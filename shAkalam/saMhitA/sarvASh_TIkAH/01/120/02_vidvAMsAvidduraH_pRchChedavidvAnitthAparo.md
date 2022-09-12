@@ -15,13 +15,53 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ávidvān ← ávidvaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+pr̥chet ← √praś- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+vidvā́ṁsau ← √vid- 2 (root)  
+{case:ACC, gender:M, number:DU, tense:PRF, voice:ACT}
+
+acetā́ḥ ← acetás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áparaḥ ← ápara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+ákrau ← ákra- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+márte ← márta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +166,4 @@ Euch wissende möge der Opferer fragen, der unwissende und jeder andre Unkundige
 Незнающий, любой другой, лишенный разума,  
 И никогда ведь (они) не бездеятельны в отношении смертного!
 </details>
+

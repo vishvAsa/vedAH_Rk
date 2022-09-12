@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svādhyàḥ ← svādhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yahvī́ḥ ← yahvī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ajānan ← √jñā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+r̥tajñā́ḥ ← r̥tajñā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+dr̥ḷhám ← √dr̥h- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+gávyam ← gávya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sarámā ← sarámā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ūrvám ← ūrvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+bhójate ← √bhuj- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+kam ← kam (invariable)  
+{}
+
+mā́nuṣī ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+víṭ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,3 +280,4 @@ Vom Himmel her ersahn die heil'gen kundig die sieben Ströme und des Reichthums 
 Сарама нашла загон с коровами, крепко (запертый),  
 С помощью которого и сейчас наслаждается род человеческий.
 </details>
+

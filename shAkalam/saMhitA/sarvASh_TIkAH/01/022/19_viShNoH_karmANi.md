@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kármāṇi ← kárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+paśyata ← √paś- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+víṣṇoḥ ← víṣṇu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+paspaśé ← √spaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yátas ← yátas (invariable)  
+{}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yújyaḥ ← yújya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -88,8 +116,6 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 12अथ द्वितीया ॥ विष्णोः कर्माणि चरितानि पश्यत हे जनाः । कीदृशानीत्याह - यतः यैः । 'इतराभ्योपि दृश्यन्ते' इति तृतीयान्तात्तसिः । व्रतानि युष्मदीयानि कर्माणि यैः कर्मभिः पस्पशे स्पृशति बध्नातीति वा युष्मासु । स्पश बाधनादौ स्वरितेत्, 'छन्दसि लुङ्लङ्लिटः' इति लिट् । शर्पूर्वाः खयश्शिष्यन्ते इति पकारशेषः । पुनश्च विशेष्यते - इन्द्रस्य युज्यः योग्यस्सखा । योगो युक् । सम्पदादित्वाद्युजेः क्विप् । युजि साधुर्युज्यः । 'तत्र साधुः' इति यत्, 'यतोऽनावः' इत्याद्युदात्तत्वम् । यद्वा - युञ्जाना युजः योगिनः । 'सत्सूद्विष' इत्यादिना क्विप् । तत्र भवः । दिगादिर्द्रष्टव्यः । तादृशस्यास्य तादृशानि कर्माणि पश्यतेति ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -116,7 +142,6 @@ Wherein he displayed his laws,
 Indra's true friend.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Schaut die Werke des Vishnu, von wo aus er auf seine Gebote acht gibt, des Indra treuer Freund!
@@ -133,3 +158,4 @@ Des Vischnu Thaten schauet an, durch die die Ordnungen er sah, Des Indra eng ver
 Откуда он следит за обетами,  
 Близкий друг Индры.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhā́yase ← dhā́yas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sváḥ ← svá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svā́ya ← svá- (pronoun)  
+{case:DAT, gender:N, number:SG}
+
+kr̥ṇutā́m ← √kr̥- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:MED}
+
+r̥tvíjam ← r̥tvíj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tvík ← r̥tvíj- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áram ← áram (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rarimá ← √rā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+vanéma ← √vanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +202,4 @@ Der Priester rüste selber sich den Priester zur Erquickung aus; Wir wollen Lied
 Пусть мы приобретем, как подобает  
 (Нашей) хвале и жертве! Это мы даровали!
 </details>
+

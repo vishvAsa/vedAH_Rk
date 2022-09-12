@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+ókasaḥ ← ókas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pratnásya ← pratná- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+náram ← nár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tuvipratím ← tuvipratí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+huvé ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pū́rvam ← pū́rva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Dich Herrn der alten Heimat ruf' ich an, der vielen widersteht, Und den zuvor me
 Зову я мужа, сильного сопротивлением,  
 Кого раньше звал твой отец.
 </details>
+

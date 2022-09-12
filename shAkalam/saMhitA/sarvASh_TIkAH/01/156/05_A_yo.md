@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+daívyaḥ ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sacáthāya ← sacátha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vivā́ya ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sukŕ̥te ← sukŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sukŕ̥ttaraḥ ← sukŕ̥ttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajinvat ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ā́ryam ← ā́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+triṣadhastháḥ ← triṣadhasthá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vedhā́ḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhajat ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhāgé ← bhāgá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yájamānam ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Der göttliche, der zur Genossenschaft erschien dem treuen Indra-Vischnu, der no
 Устроитель обряда, имеющий три жилища, придал жизни арию,  
 Он выделил жертвователю долю во (вселенском) законе.
 </details>
+

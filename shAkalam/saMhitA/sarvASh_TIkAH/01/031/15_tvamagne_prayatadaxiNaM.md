@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+náram ← nár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práyatadakṣiṇam ← práyatadakṣiṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+pāsi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+syūtám ← √sīv- ~ syū- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+várma ← várman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+svādukṣádmā ← svādukṣádman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syonakŕ̥t ← syonakŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vasataú ← vasatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jīvayājám ← jīvayājá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+upamā́ ← upamá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yájate ← √yaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +248,4 @@ Den Mann, o Agni, der die Opfergabe schenkt, umschirmst du wie ein festgefügter
 Кто подает сладкое блюдо, готовит мягкое ложе в жилище (своем),  
 Жертвует живое жертвенное животное, тот попадает в высшую часть неба.
 </details>
+

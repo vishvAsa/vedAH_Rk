@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápaḥ ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tatám ← √tan- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+tāyate ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+u ← u (invariable)  
+{}
+
+dhītíḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śasyate ← √śaṁs- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+svā́diṣṭhā ← svā́diṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ucáthāya ← ucátha- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+samudráḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvádevyaḥ ← viśvádevya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+svā́hākr̥tasya ← svā́hākr̥ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tr̥pṇuta ← √tr̥p- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Gespannt war mein Gewebe, wieder spann' ich es zu preisen euch, ertönt der süs
 Этот океан здесь предназначен Всем-Богам.  
 Насыщайтесь, о Рибху, выжатым (сомой,) сопровождаемым (возгласом): Свага!
 </details>
+

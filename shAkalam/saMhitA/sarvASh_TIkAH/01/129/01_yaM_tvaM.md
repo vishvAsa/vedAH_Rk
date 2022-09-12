@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -30,6 +30,94 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+medhásātaye ← medhásāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+apākā́ ← apākā́ (invariable)  
+{}
+
+iṣira ← iṣirá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+praṇáyasi ← √nī- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+anavadya ← anavadyá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+náyasi ← √nī- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+abhíṣṭaye ← abhíṣṭi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+káraḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váśaḥ ← váśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anavadya ← anavadyá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tūtujāna ← √tuj- (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:MED}
+
+vedhásām ← vedhás- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vedhásām ← vedhás- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,3 +324,4 @@ Den Wagen, den, o Indra, du zum Opferfest, da fern er war, o munterer, nun zu un
 Ведь она наша, о безупречный, о мощно разящий, (она у) устроителей обряда,  
 (Так продвинь ее вперед,) как (и) эту речь устроителей обряда!
 </details>
+

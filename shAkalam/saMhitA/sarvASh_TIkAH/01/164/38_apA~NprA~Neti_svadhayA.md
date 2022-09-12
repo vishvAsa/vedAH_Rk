@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular  
 popular
+#### Morph
+ápāṅ ← ápāñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gr̥bhītáḥ ← √gr̥bhⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+prā́ṅ ← prā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártyena ← mártya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sáyoniḥ ← sáyoni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śáśvantā ← śáśvant- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+viṣūcī́nā ← viṣūcī́na- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+viyántā ← √i- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cikyuḥ ← √ci- 3 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cikyúḥ ← √ci- 3 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Es schreitet rückwärts und vorwärts der aus eigner Lust ergriffene Unsterblic
 Эти двое расходятся постоянно, направляясь в разные стороны.  
 Когда видят одного, не видят другого.
 </details>
+

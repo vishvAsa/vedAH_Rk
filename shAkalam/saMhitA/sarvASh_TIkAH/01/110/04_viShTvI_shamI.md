@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+śámī ← śámī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+taraṇitvéna ← taraṇitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vāghátaḥ ← vāghát- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viṣṭvī́ ← √viṣ- 2 (root)  
+{non-finite:CVB}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ānaśuḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mártāsaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sántaḥ ← √as- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saudhanvanā́ḥ ← saudhanvaná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sū́racakṣasaḥ ← sū́racakṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+apr̥cyanta ← √pr̥c- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:PASS}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+saṁvatsaré ← saṁvatsará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +203,4 @@ Da emsig sie mit kräftigem Gebet gewirkt, erlangten sie, die Sterblichen, Unste
 Рибху, сыновья Судханвана, солнечноглазые,  
 В течение года соединились с (божественными) силами прозрения.
 </details>
+

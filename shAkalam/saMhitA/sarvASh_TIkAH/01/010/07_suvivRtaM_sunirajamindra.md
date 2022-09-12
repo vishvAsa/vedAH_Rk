@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sunirájam ← sunirája- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvivŕ̥tam ← suvivŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+tvā́dātam ← tvā́dāta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vrajám ← vrajá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥dhi ← √vr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥ṇuṣvá ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +193,4 @@ Leicht zu eröffnen, zu empfahn ist Schatz, den, Indra, du verleihst, So öffne 
 Открой загон с коровами!  
 Соверши благодеяние, о хозяин давильных камней!
 </details>
+

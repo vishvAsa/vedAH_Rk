@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avatám ← avatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nunudre ← √nud- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ūrdhvám ← ūrdhvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bibhiduḥ ← √bhid- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+dādr̥hāṇám ← √dr̥h- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+párvatam ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+dhámantaḥ ← √dhamⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sudā́navaḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāṇám ← vāṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cakrire ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ráṇyāni ← ráṇya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +227,4 @@ Sie stiessen hoch den Brunnen mit Gewalt empor, zerschmetterten den festgefügte
 Дуя в дудку, Маруты щедродарящие  
 В опьянении сомой совершили радостные деяния.
 </details>
+

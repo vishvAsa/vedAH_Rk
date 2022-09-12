@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dádhānā ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+várpāṁsi ← várpas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+pedáve ← pedú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ápratītam ← ápratīta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahasrasā́m ← sahasrasā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ahihánam ← ahihán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śravasyàm ← śravasyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tárutram ← tárutra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Euch viele Frommen schaffend, habt ihr Ritter das rasche Ross dem Pedu zugeführ
 Завоевывающего тысячи, приносящего награды, неотразимого,  
 Убивающего змей, достойного славы, победителя.
 </details>
+

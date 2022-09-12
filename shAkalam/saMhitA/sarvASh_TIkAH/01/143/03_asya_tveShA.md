@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajárāḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhānávaḥ ← bhānú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tveṣā́ḥ ← tveṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sudyútaḥ ← sudyút- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+suprátīkasya ← suprátīka- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+susaṁdŕ̥śaḥ ← susaṁdŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aktúḥ ← aktú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+bhā́tvakṣasaḥ ← bhā́tvakṣas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ajárāḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ásasantaḥ ← ásasant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rejante ← √rej- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,3 +255,4 @@ Des Agni Strahlen, seine muntre Flammenschar, des funkelnden mit schönem Blick 
 Сильные (своим) блеском (лучи), трепещут, словно реки  
 Сквозь ночь, о Агни, недремлющие, нестареющие.
 </details>
+

@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,79 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+āprásya ← āprá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bháre ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+svarjeṣé ← svarjeṣá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vákmani ← vákman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áñjasi ← áñjas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+svásmin ← svá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+uṣarbúdhaḥ ← uṣarbúdh- (nominal stem)  
+{case:ACC, number:PL}
+
+áñjasi ← áñjas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+krāṇásya ← √kr̥- (root)  
+{case:GEN, gender:M, number:SG, tense:AOR, voice:MED}
+
+svásmin ← svá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+áhan ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidé ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáthā ← yáthā (invariable)  
+{}
+
+śīrṣṇā́-śīrṣṇā ← śíras- ~ śīrṣán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+upavā́cyaḥ ← upavā́cya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmatrā́ ← asmatrā́ (invariable)  
+{}
+
+rātáyaḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sadhryàk ← sadhryàñc- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhadrásya ← bhadrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rātáyaḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,3 +293,4 @@ In dem glanzverschaffenden Kampfe, bei dem Rufe des eifrigen, bei der eignen Aus
 На нас пусть будут сосредоточены твои дары,  
 Приносящие счастье дары (бога,) приносящего счастье!
 </details>
+

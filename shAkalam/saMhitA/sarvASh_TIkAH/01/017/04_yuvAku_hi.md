@@ -15,13 +15,35 @@ ChandaH = "पादनिचृत्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hí ← hí (invariable)  
+{}
+
+śácīnām ← śácī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+yuvā́ku ← tvám (pronoun)  
+{}
+
+sumatīnā́m ← sumatí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+yuvā́ku ← tvám (pronoun)  
+{}
+
+bhūyā́ma ← √bhū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+vājadā́vnām ← vājadā́van- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +136,4 @@ Lasst uns, o die ihr Güter schenkt, Theil haben uns an eurer Kraft, Theil haben
 К вашим милостям  
 Мы хотели бы приобщаться – ведь вы дарите награды!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aguḥ ← √gā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+návyāḥ ← návya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sánā ← sána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+áviraṇāya ← áviraṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nábhaḥ ← nábh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sáhaḥ ← sáh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ádevīḥ ← ádeva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bhídaḥ ← bhíd- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bhinát ← √bhid- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ádevasya ← ádeva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nanámaḥ ← √nam- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+pīyóḥ ← pīyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vádhar ← vádhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Dies alte, Indra, und dies neue rühmt man: viel Frevler schlugst du, dass sie n
 Расколи, словно крепости, безбожные расщелины!  
 Согни смертельное оружие хулящего безбожника!
 </details>
+

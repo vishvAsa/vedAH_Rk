@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ámīvāḥ ← ámīvā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yuyodhi ← √yu- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+ámanta ← √amⁱ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+ánagnitrāḥ ← ánagnitrā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kr̥ṣṭī́ḥ ← kr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+amŕ̥tebhiḥ ← amŕ̥ta- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yajatra ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +225,4 @@ O Agni, halte fern von uns die Plagen, die agnilosen Völker lass sie plagen; La
 (Сделай) нам землю, о бог, снова на благо  
 Вместе со всеми бессмертными, о достойный жертв!
 </details>
+

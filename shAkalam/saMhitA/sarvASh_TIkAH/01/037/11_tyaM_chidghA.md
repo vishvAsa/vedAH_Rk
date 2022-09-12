@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+cit ← cit (invariable)  
+{}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+pr̥thúm ← pr̥thú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ámr̥dhram ← ámr̥dhra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+miháḥ ← míh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cyāvayanti ← √cyu- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+yā́mabhiḥ ← yā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Auf ihren Fahrten schütteln sie den langen, breiten Wolkensohn, Den unerschöpf
 Неиссякающего сына грозовой тучи  
 Они колеблют при своих выездах.
 </details>
+

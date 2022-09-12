@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jāmitvám ← jāmitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+páre ← pára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yugé ← yugá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+amr̥tāsaḥ ← amŕ̥ta- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ā́vata ← √avⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́vya ← √avⁱ- (root)  
+{non-finite:CVB}
+
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śruṣṭím ← śruṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cikitrire ← √cit- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+daṁsánaiḥ ← daṁsána- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +241,4 @@ Darin steht eure Freundschaft in vergangner Zeit, dass, Maruts, oft dem Sänger 
 Своими чудесными силами мужи проявляют себя (и теперь)  
 В том же духе в отношении человека, отзываясь на (его) готовность услужить.
 </details>
+

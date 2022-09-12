@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+bibhyuḥ ← √bhī- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+patatríṇaḥ ← patatrín- (nominal stem)  
+{case:ABL, number:SG}
+
+svanā́t ← svaná- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ásthiran ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+drapsā́ḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yavasā́daḥ ← yavasā́d- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ráthebhyaḥ ← rátha- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sugám ← sugá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tāvakébhyaḥ ← tāvaká- (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+riṣāma ← √riṣ- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +241,4 @@ Dann fürchten sich vor deinem Lärm die Vögel auch, wenn deine Funken grasverz
 Тогда для твоих колесниц путь легко преодолим.  
 О Агни, дружа с тобой, да не потерпим мы вреда!
 </details>
+

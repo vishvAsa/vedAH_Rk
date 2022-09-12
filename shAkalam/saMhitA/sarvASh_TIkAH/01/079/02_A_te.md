@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aminanta ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+suparṇā́ḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṣṇáḥ ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nonāva ← √nu- ~ nū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śivā́bhiḥ ← śivá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+smáyamānābhiḥ ← √smi- (root)  
+{case:INS, gender:F, number:PL, tense:PRS, voice:MED}
+
+abhrā́ ← abhrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+míhaḥ ← míh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pátanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+stanáyanti ← √stanⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ In ihren Flügen lösten deine Vögel sich ab, wenn hier der schwarze Stier gebr
 Он пришел (молниями), улыбающимися, словно милые (женщины).  
 Падают потоки дождя, гремят тучи.
 </details>
+

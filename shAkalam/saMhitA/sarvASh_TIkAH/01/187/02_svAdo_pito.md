@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+mádho ← mádhu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pito ← pitú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pito ← pitú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svā́do ← svādú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vavr̥mahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:MED}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ O süsser Trank, o Honigtrank, dich lieben haben wir erwählt, Du mögest unser 
 Мы выбрали себе тебя,  
 Будь нашей помощницей!
 </details>
+

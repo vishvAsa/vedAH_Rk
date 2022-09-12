@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arcáyaḥ ← arcí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rúśantaḥ ← rúśant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yásyāḥ ← yá- (pronoun)  
+{case:GEN, gender:F, number:SG}
+
+ádr̥kṣata ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+supéśasam ← supéśas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvávāram ← viśvávāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadātu ← √dā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+súgmyam ← súgmya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +192,4 @@ Sie, deren helle Strahlen nun, die prächtigen, erschienen sind, Die Morgenröth
 Та Ушас пусть даст нам богатство,  
 Для всех желанное, чудесно украшенное, легко приходящее!
 </details>
+

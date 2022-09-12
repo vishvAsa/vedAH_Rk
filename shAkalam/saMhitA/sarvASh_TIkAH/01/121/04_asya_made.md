@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+r̥tā́ya ← r̥tá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+svaryàm ← svaryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápīvr̥tam ← √vr̥- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+usríyāṇām ← usríya- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+nivártat ← √vr̥t- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+prasárge ← prasárga- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+trikakúp ← trikakúbh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+drúhaḥ ← drúh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mā́nuṣasya ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+var ← √vr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ In seinem Rausche verhalf er der eingeschlossenen rauschenden Schar der Kühe zu
 Когда же трехгорбый повел обратно (стадо, пришедшее) в движение,  
 Он открыл врата обмана рода человеческого.
 </details>
+

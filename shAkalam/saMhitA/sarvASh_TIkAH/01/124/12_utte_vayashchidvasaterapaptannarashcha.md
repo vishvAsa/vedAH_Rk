@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apaptan ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+vasatéḥ ← vasatí- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pitubhā́jaḥ ← pitubháj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vyùṣṭau ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+amā́ ← amā́ (invariable)  
+{}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+saté ← √as- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vahasi ← √vah- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Bei deinem Leuchten fliegen auf die Vögel aus ihrem Nest, die Männer suchen Na
 Тому, кто находится дома, ты привозишь богатое добро,  
 О богиня Ушас, смертному, почитающему (тебя).
 </details>
+

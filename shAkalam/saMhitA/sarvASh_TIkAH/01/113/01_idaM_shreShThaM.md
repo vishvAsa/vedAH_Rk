@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyótiṣām ← jyótis- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+śréṣṭham ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ajaniṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+citráḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+praketáḥ ← praketá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víbhvā ← víbhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prásūtā ← √sū- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+savā́ya ← savá- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+āraik ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+rā́trī ← rā́trī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uṣáse ← uṣás- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Das schönste Licht der Lichter ist gekommen, die helle prächt'ge Leuchte ist e
 Как (сама) она вызвана к жизни по побуждению Савитара,  
 Так ночь уступила место Ушас.
 </details>
+

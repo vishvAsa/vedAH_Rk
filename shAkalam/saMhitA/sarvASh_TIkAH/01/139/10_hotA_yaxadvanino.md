@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,76 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanínaḥ ← vanín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vanta ← √vanⁱ- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+vā́ryam ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yakṣat ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukṣábhiḥ ← ukṣán- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+venáḥ ← vená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajati ← √yaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+puruvā́rebhiḥ ← puruvā́ra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ukṣábhiḥ ← ukṣán- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dūráādiśam ← dūráādiś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jagr̥bhmá ← √gr̥bhⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ádha ← ádha (invariable)  
+{}
+
+ádreḥ ← ádri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ślókam ← ślóka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ádhārayat ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+araríndāni ← ararínda- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sádmāni ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,3 +270,4 @@ Der Priester bete und die Spender spenden Gut, und mit den Stieren opfert hold B
 (Бог) с прекрасной силой духа основал...  
 Многие места для сиденья, (бог) с прекрасной силой духа.
 </details>
+

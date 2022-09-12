@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citrā́m ← citrá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+tyā́m ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+párijman ← párijman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pīpayaḥ ← √pī- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáṁsi ← √yam- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+kṣáradhyai ← √kṣar- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+ná ← ná (invariable)  
+{}
+
+tmánam ← tmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viśvádha ← viśvádha (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Du, Indra, füll uns diese reiche Labung wie Wasserfluten zu uns rings umwandeln
 С помощью которой, о герой, ты наделяешь нас  
 Жизненным дыханием, чтобы оно везде струилось в нас как сила (жизни).
 </details>
+

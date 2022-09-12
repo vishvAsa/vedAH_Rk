@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abodhi ← √budh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+bhúvanāt ← bhúvana- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+pū́rvā ← pū́rva- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jáyantī ← √ji- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+sánutrī ← sánutar- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+akhyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+punarbhū́ḥ ← punarbhū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uccā́ ← uccā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agan ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pūrváhūtau ← pūrváhūti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ Vor aller Welt ist sie erwacht als erste, die hohe, Gut erkämpfend und erlangen
 Высоко (наверху) взглянула на все юная женщина, снова рождающаяся.  
 Ушас появилась первой на утренний призыв.
 </details>
+

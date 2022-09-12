@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+apr̥chata ← √praś- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+suṣupvā́ṁsaḥ ← √svap- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abūbudhat ← √budh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ágohya ← ágohya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+abravīt ← √brū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bastáḥ ← bastá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bodhayitā́ram ← bodhayitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śvā́nam ← śván- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+akhyata ← √khyā- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+saṁvatsaré ← saṁvatsará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Als, Ribhu's, ihr dann ausgeschlafen fragtet ihr: Agohja, sprich, wer hat uns eb
 Баран сказал, что разбудил пес.  
 И вот через год вы раскрыли глаза.
 </details>
+

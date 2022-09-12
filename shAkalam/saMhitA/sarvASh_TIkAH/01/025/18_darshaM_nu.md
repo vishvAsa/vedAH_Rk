@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dárśam ← √dr̥ś- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+viśvádarśatam ← viśvádarśata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dárśam ← √dr̥ś- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+kṣámi ← kṣám- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+etā́ḥ ← eṣá (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+juṣata ← √juṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +166,4 @@ O säh' ich ihn allsichtbar nun und seinen Wagen auf der Flur; Vernähm' er gern
 Вот бы мне увидеть (его) колесницу (, спускающуюся) на землю!  
 Пусть возрадуется он моим хвалебным песням!
 </details>
+

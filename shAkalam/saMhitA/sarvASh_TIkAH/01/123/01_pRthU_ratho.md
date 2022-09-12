@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayoji ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+dákṣiṇāyāḥ ← dákṣiṇa- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pr̥thúḥ ← pr̥thú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+amŕ̥tāsaḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+aryā̀ ← aryà- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kr̥ṣṇā́t ← kr̥ṣṇá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+víhāyāḥ ← víhāyas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cíkitsantī ← √cit- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+kṣáyāya ← kṣáya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mā́nuṣāya ← mā́nuṣa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Geschirrt ist schon der reichen Uschas Wagen, die ew'gen Götter haben ihn besti
 Из темного (пространства) восстала благородная огромная (богиня),  
 Заботящаяся о людском поселении.
 </details>
+

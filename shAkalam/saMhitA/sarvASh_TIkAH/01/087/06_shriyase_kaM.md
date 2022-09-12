@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhānúbhiḥ ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kám ← kám (invariable)  
+{}
+
+mimikṣire ← √myakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+śriyáse ← śriyás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sukhādáyaḥ ← sukhādí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ábhīravaḥ ← ábhīru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iṣmíṇaḥ ← iṣmín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vā́śīmantaḥ ← vā́śīmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhā́mnaḥ ← dhā́man- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mā́rutasya ← mā́ruta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+priyásya ← priyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vidré ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Zur Zierde haben sie mit Glanz sich ausgeschmückt, die schönberingten sich mit
 Они, носящие топоры, снабженные стрелами, бесстрашные.  
 Они (сами) сознают (свою) славную суть (Марутов).
 </details>
+

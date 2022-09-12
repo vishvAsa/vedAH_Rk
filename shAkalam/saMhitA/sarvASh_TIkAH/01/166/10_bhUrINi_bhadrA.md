@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bāhúṣu ← bāhú- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhū́rīṇi ← bhū́ri- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+náryeṣu ← nárya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+añjáyaḥ ← añjí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rabhasā́saḥ ← rabhasá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rukmā́ḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vákṣassu ← vákṣas- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+áṁseṣu ← áṁsa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+étāḥ ← éta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kṣurā́ḥ ← kṣurá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pavíṣu ← paví- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+dhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+pakṣā́n ← pakṣá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śríyaḥ ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ In euern starken Armen ist viel schönes Gut, an euren Brüsten Goldgehänge, bl
 На плечах – (шкуры) антилоп, на ободьях (колес) - ножи.  
 Как птицы – крылья, раскинули они (свои) красоты.
 </details>
+

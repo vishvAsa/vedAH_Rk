@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+nīcā́vayāḥ ← nīcā́vayas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vr̥tráputrā ← vr̥tráputra- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jabhāra ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vádhar ← vádhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ádharaḥ ← ádhara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́ḥ ← sū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+úttarā ← úttara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dā́nuḥ ← dā́nu- 1 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sahávatsā ← sahávatsa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śaye ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ Erschöpft an Kraft war da des Vritra Mutter, und Indra schlug hinweg nun ihre W
 Сверху – родительница, внизу был сын.  
 Дану лежит, как корова с теленком.
 </details>
+

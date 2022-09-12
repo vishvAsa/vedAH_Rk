@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jánmane ← jánman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+rabhasā́ya ← rabhasá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vocāma ← √vac- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+ketáve ← ketú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mahitvám ← mahitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pū́rvam ← pū́rva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aidhā́ ← aidhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tuviṣvaṇaḥ ← tuviṣván- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kartana ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śakrāḥ ← śakrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+taviṣā́ṇi ← taviṣá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yudhā́ ← yúdh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Lasst rühmen uns dem ungestümen Marutstamm, der Fackel Indra's, ihre alte Grö
 О Маруты, мощно звучащие, во время (вашего) выезда, словно огнем,  
 Словно битвой (вдохновляемые), совершайте мужественные деяния" о могучие!
 </details>
+

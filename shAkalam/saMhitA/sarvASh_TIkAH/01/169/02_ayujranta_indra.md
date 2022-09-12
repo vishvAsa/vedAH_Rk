@@ -16,14 +16,54 @@ ChandaH = "चतुष्पदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áyujran ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:PASS}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+viśvákr̥ṣṭīḥ ← viśvákr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+martyatrā́ ← martyatrā́ (invariable)  
+{}
+
+niṣṣídhaḥ ← niṣṣídh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vidānā́saḥ ← √vid- 2 (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+hā́samānā ← √hās- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pr̥tsutíḥ ← pr̥tsutí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pradhánasya ← pradhána- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+svàrmīḷhasya ← svàrmīḷha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +181,4 @@ Du hast, o Indra, die erlangten Güter für alle Völker zugeführt den Menschen
 Войско Марутов приходит в возбуждение  
 Для захвата главной награды – завоевания солнца.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvait ← √śvit- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+purástāt ← purástāt (invariable)  
+{}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aruṇā́nām ← aruṇá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yuṅkté ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ásati ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+uchāt ← √vas- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥háṁ-gr̥ham ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tiṣṭhāte ← √sthā- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Von Osten her erglänzte diese Jungfrau, sie schirrt sich an die Schar der rothe
 Пусть она вспыхнет сейчас! Пусть взовьется (ее) знамя!  
 Пусть будет огонь в каждом доме!
 </details>
+

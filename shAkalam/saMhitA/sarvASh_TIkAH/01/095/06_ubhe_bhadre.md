@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhadré ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+joṣayete ← √juṣ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+méne ← ménā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+tasthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+vāśrā́ḥ ← vāśrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+babhūva ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dákṣāṇām ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dákṣapatiḥ ← dákṣapati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+añjánti ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dakṣiṇatáḥ ← dakṣiṇatáḥ (invariable)  
+{}
+
+havírbhiḥ ← havís- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +208,7 @@ The etymological figure in c, dákṣāṇāṃ dákṣapatiḥ “skill-lord of
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/095/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/095/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 The caus. (práti) joṣayete in 5d, 6a literally means “they two cause (him) to take pleasure (in themselves),” but this tr. seems too heavy, esp. in adjacent pādas.
@@ -187,3 +245,4 @@ Wie Fraun liebkosen ihn die beiden schönen, wie Kühe brüllend nahn sie ihm in
 Он был господином сил действия,  
 Которого они мажут жертвенными возлияниями, (подходя к нему) справа.
 </details>
+

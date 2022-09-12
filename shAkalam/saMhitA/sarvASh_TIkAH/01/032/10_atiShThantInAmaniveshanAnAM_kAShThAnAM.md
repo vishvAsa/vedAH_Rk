@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aniveśanā́nām ← aniveśaná- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+átiṣṭhantīnām ← átiṣṭhant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+kā́ṣṭhānām ← kā́ṣṭhā- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+níhitam ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+śárīram ← śárīra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+niṇyám ← niṇyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vr̥trásya ← vr̥trá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśayat ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índraśatruḥ ← índraśatru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +212,4 @@ Es lag sein Leichnam mitten unter Strömen, die nimmer stillstehn, nimmer Einkeh
 Воды текут через тайное место Вритры.  
 В долгий мрак погрузился тот, кому Индра враг.
 </details>
+

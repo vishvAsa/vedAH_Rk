@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+r̥tapā́ḥ ← r̥tapā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+r̥tejā́ḥ ← r̥tejā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yāvayáddveṣāḥ ← yāvayáddveṣas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+īráyantī ← √īr- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+sumnāvárī ← sumnāván- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sūnŕ̥tāḥ ← sūnŕ̥ta- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bíbhratī ← √bhr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+devávītim ← devávīti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sumaṅgalī́ḥ ← sumaṅgalī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+śréṣṭhatamā ← śréṣṭhatama- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ucha ← √vas- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+uṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +188,7 @@ In c the phrase bíbhratī devávītim is somewhat puzzling; devávīti- general
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details open><summary><h2>07-13 ...{Loading}...</h2></summary>
 
 These verses have a surprising density of forms of ví √vas ‘dawn forth’ (7b, d, 8c, 9b, 10b [2x], 11b, 12d, 13a, b, c), whereas vss. 1-6 lack any such forms -- though there’s a teasing echo in 4b ví … āvaḥ ‘She opened, uncovered’, belonging, however, to √vṛ. See also comments on vs. 14.
@@ -179,3 +225,4 @@ Feindscheuchend, treu dem Recht und Recht beschirmend, voll Güte, alle Herrlich
 Несущая добрые предзнаменования, приглашающая богов:  
 Здесь, Ушас, сегодня зажгись, о самая лучшая!
 </details>
+

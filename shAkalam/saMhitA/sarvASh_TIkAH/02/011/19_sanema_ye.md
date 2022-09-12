@@ -16,14 +16,63 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
+#### Morph
+sánema ← √sanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+tárantaḥ ← √tr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́ryeṇa ← ā́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tvāṣṭrám ← tvāṣṭrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvárūpam ← viśvárūpa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+árandhayaḥ ← √randh- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+sākhyásya ← sākhyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tritā́ya ← tritá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Es glück' uns, dass durch deine Gunst wir schlagen die Feinde all', durch Arjer
 Это для нас тогда ты отдал во власть Вишварупу,  
 Сына Тваштара, во власть Триты из круга (наших) друзей.
 </details>
+

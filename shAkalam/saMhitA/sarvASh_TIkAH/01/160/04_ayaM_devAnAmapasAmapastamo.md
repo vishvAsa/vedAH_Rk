@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apásām ← apás- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+apástamaḥ ← apástama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+viśváśambhuvā ← viśváśambhū- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mamé ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+rájasī ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+sukratūyáyā ← sukratūyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ajárebhiḥ ← ajára- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ānr̥ce ← √r̥c- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+skámbhanebhiḥ ← skámbhana- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Der kunstbegabten Götter bester Künstler war der, welcher kunstvoll wirkend Er
 Кто отмерил два пространства о помощью прекрасной силы духа,  
 Он почтил (их) нестареющими опорами.
 </details>
+

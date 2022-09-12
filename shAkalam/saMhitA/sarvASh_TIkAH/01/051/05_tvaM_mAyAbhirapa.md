@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhamaḥ ← √dhamⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+māyā́bhiḥ ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+māyínaḥ ← māyín- (nominal stem)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ájuhvata ← √hu- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+śúptau ← śúpti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+svadhā́bhiḥ ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+arujaḥ ← √ruj- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+nr̥maṇaḥ ← nr̥máṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píproḥ ← pípru- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+āvitha ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+dasyuhátyeṣu ← dasyuhátya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+r̥jíśvānam ← r̥jíśvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Du bliesest weg die Zauberer mit Zaubermacht, die eignen Brauches auf der Schult
 Ты проломил крепости Пипру, о мужественный духом.  
 Ты сильно помогал Риджишвану в смертельных битвах с дасью.
 </details>
+

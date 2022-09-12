@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+īṣe ← √īṣ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+jigīṣā́ ← jigīṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG, mood:DES}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sudúghā ← sudúgha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uṣā́sānáktā ← uṣā́sānáktā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+áhan ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samāné ← samāná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vimímānaḥ ← √mā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+páyasi ← páyas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ū́dhan ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+víṣurūpe ← víṣurūpa- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Ich lock' euch her durch Andacht, Nacht und Morgen! wie zwei milchreiche Kühe v
 В тот же день отмеривая хвалебный гимн  
 В разнообразном молоке у этого вымени.
 </details>
+

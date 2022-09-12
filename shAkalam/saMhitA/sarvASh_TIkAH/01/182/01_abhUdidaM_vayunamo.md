@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ábhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhūṣata ← √bhūṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vayúnam ← vayúna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádata ← √mad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+manīṣiṇaḥ ← manīṣín- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣaṇvān ← vŕ̥ṣaṇvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhíṣṇyā ← dhíṣṇya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+dhiyaṁjinvā́ ← dhiyaṁjinvá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+viśpálāvasū ← viśpálāvasu- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nápātā ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śúcivratā ← śúcivrata- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sukŕ̥te ← sukŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +232,4 @@ Gerüstet ist dies Opferwerk, erscheinet nun, eur Wagen gleicht dem Stiere, freu
 (Эти) двое, оживляющие мысль, вызывающие вдохновение, доброжелательные к Вишпале,  
 Отпрыски неба, (боги) со сверкающими обетами (везут дары) благочестивому.
 </details>
+

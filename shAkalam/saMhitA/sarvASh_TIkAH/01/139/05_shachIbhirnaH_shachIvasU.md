@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śacīvasū ← śacīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+daśasyatam ← √daśasy- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dívā ← dívā (invariable)  
+{}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+dasat ← √das- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kádā ← kádā (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+rātíḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+caná ← caná (invariable)  
+{}
+
+kádā ← kádā (invariable)  
+{}
+
+rātíḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Durch eure Kräfte, o kraftreiche, seid uns hülfreich Tag und Nacht; nie gehe e
 Да не иссякнет ваш дар никогда,  
 Дар – для нас никогда!
 </details>
+

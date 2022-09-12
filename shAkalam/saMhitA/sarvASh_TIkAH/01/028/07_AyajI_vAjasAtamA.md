@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment
+#### Morph
+āyajī́ ← āyají- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vājasā́tamā ← vājasā́tama- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+uccā́ ← uccā́ (invariable)  
+{}
+
+vijarbhr̥táḥ ← √bhr̥- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ándhāṁsi ← ándhas- 2 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bápsatā ← √bhas- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Die opfernd reichlich Kraft verleihn, sie sperren weit den Rachen auf, Wie Rosse
 Эти двое громко мечутся туда-сюда,  
 Пожирая растения сомы, подобно паре буланых коней (Индры).
 </details>
+

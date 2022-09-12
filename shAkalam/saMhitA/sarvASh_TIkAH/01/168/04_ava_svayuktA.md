@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sváyuktāḥ ← sváyukta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+yayuḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ámartyāḥ ← ámartya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+codata ← √cud- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+káśayā ← káśā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+acucyavuḥ ← √cyu- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+areṇávaḥ ← areṇú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tuvijātā́ḥ ← tuvijātá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhrā́jadr̥ṣṭayaḥ ← bhrā́jadr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+dr̥ḷhā́ni ← √dr̥h- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +229,4 @@ Vom Himmel kamen selbstgereicht im Tanze sie; mit Peitschen treibt, unsterbliche
 Не поднимающие пыли, рожденные силой Маруты  
 Со сверкающими копьями сотрясли даже твердыни.
 </details>
+

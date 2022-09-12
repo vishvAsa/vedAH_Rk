@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+suyámāsaḥ ← suyáma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+árṇāṁsi ← árṇas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dī́yat ← √dī- 2 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hiraṇyáyāḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+paváyaḥ ← paví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pruṣāyan ← √pruṣⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+píbantau ← √pā- 2 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+sacethe ← √sac- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Wenn durch die Luft die schöngelenkten Rosse und euer Wagen durch die Fluten hi
 Золотые ваши ободья (колес) брызжут (медом).  
 Напиваясь меду, вы следуете за Ушас.
 </details>
+

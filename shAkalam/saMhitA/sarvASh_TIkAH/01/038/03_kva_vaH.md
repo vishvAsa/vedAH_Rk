@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kvà ← kvà (invariable)  
+{}
+
+návyāṁsi ← návyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sumnā́ ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+kvà ← kvà (invariable)  
+{}
+
+márutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+suvitā́ ← suvitá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kvà ← kvà (invariable)  
+{}
+
+saúbhagā ← saúbhaga- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+u ← u (invariable)  
+{}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +157,4 @@ Wo zeigt sich eure neuste Huld? o Maruts, wo das Wohlergehn? Und wo das ganze h�
 Где счастливые случаи, о Маруты?  
 Где все удачи?
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nahí ← nahí (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+ínvataḥ ← √i- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+r̥ghāyámāṇam ← √r̥ghāy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jéṣaḥ ← √ji- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+svàrvatīḥ ← svàrvant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+dhūnuhi ← √dhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Denn wenn du zürnst, bewältigen dich, Indra, Erd' und Himmel nicht; Erringe un
 Завоюй небесные воды!  
 (Ветром) сдуй нам коров!
 </details>
+

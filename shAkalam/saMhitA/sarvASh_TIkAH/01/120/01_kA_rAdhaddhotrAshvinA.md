@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hótrā ← hótrā- 2 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kā́ ← ká- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+rādhat ← √rādh- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+jóṣe ← jóṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ubháyoḥ ← ubhá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ápracetāḥ ← ápracetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+vidhāti ← √vidh- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +158,4 @@ Welche Anrufung mag euch, o Açvinen, gewinnen? was ist es, was euch beiden gef�
 Кто вам обоим на радость?  
 Как служить (вам) неразумному?
 </details>
+

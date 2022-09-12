@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánuvrate ← ánuvrata- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+trís ← trís (invariable)  
+{}
+
+trís ← trís (invariable)  
+{}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+śikṣatam ← √śak- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+suprāvyè ← suprāvyà- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tredhā́ ← tredhā́ (invariable)  
+{}
+
+trís ← trís (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nāndyàm ← nāndī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+trís ← trís (invariable)  
+{}
+
+vahatam ← √vah- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+akṣárā ← akṣára- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+pinvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pŕ̥kṣaḥ ← pŕ̥kṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+trís ← trís (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +246,4 @@ Kommt dreimal ins Haus, dreimal zu dem ergebenen Manne, dreimal beschenkt dreifa
 Трижды, о Ашвины, привезите вы радость!  
 Трижды сделайте кушанья набухшими для нас, как неисчерпаемая (дойная корова)!
 </details>
+

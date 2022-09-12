@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+rúśadvatsā ← rúśadvatsa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rúśatī ← rúśant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śvetyā́ ← śvetyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́raik ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+kr̥ṣṇā́ ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sádanāni ← sádana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+u ← u (invariable)  
+{}
+
+amŕ̥te ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+anūcī́ ← anváñc- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+samānábandhū ← samānábandhu- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+āmināné ← √mī- 1 (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+carataḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+várṇam ← várṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Die lichte kam mit lichtem Kalbe schimmernd, und ihre Sitze räumte ihr die schw
 Происходящие из одного рода, бессмертные, следующие друг за другом,  
 Странствуют день (и ночь), меняясь цветом.
 </details>
+

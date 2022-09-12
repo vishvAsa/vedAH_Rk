@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cátustriṁśat ← cátustriṁśat- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+devábandhoḥ ← devábandhu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, number:SG}
+
+áśvasya ← áśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+svádhitiḥ ← svádhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+váṅkrīḥ ← váṅkri- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áchidrā ← áchidra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gā́trā ← gā́tra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṇota ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vayúnā ← vayúna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+anughúṣya ← √ghuṣ- (root)  
+{non-finite:CVB}
+
+páruṣ-paruḥ ← párus- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śasta ← √śas- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +217,4 @@ Die vierunddreissig Rippen des gottverwandten Rosses erreicht das Beil; macht nu
 Приведите в порядок части тела, чтоб они были неповрежденными!  
 Расчлените сустав за суставом, называя (их) один за другим!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ájohavīt ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vártikā ← vártikā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ámuñcatam ← √muc- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+āsnáḥ ← āsán- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+sīm ← sīm (invariable)  
+{}
+
+vŕ̥kasya ← vŕ̥ka- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádreḥ ← ádri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jayúṣā ← jayúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yayathuḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ahatam ← √han- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+viṣéṇa ← viṣá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+viṣvā́caḥ ← viṣvā́(ñ)c- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Die Wachtel hatt', o Ritter, euch gerufen, als ihr sie löstet aus des Wolfes Ra
 На победной (колеснице) вы пронеслись через вершину горы.  
 Отродье Вишванча вы убили ядом.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+īṭṭe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhruvébhiḥ ← dhruvá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+srucā́ ← srúc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yajātai ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+āśú ← āśú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hóma ← hóman- 1 (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kásmai ← ká- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vahān ← √vah- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+maṁsate ← √man- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+sudeváḥ ← sudevá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vītíhotraḥ ← vītíhotra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Wer ehrt mit fettem Opferguss den Agni, mit Löffeln opfernd zu den festen Zeite
 К кому на жертвоприношение быстро будут приезжать боги?  
 Кто, принеся жертву, будет считать себя любимцем богов?
 </details>
+

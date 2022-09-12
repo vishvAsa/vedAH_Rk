@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line
+#### Morph
+bhándiṣṭhaḥ ← bhándiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asmā́kāsaḥ ← asmā́ka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aghám ← aghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śóśucat ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +144,7 @@ The referent of bhándiṣṭha eṣām “the most fortunate one of these” is
 
 However, since he is conjoined with “our patrons” and patrons are often conjoined with “us” (as in the next verse), referring to the poet-performers (explicitly II.2.12 stotā́raḥ … sūráyaś ca), it is likely a singer or poet, perhaps even this very poet, referring to himself in the 3rd ps.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/097/03-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/097/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 These three middle verses, before the refrain becomes reintegrated into the verse, begin identically: prá yát, though the sense of yád in 3-4 differs from that in 5.
@@ -143,3 +180,4 @@ Dass hell erstrahl der glänzendste der Sänger, unsre Fürsten auch, So strahl 
 И (все) наши покровители (стали) впереди –  
 Прочь от нас засвечивая зло! –
 </details>
+

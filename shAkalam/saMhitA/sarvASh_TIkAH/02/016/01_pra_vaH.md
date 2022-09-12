@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jyéṣṭhatamāya ← jyéṣṭhatama- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+satā́m ← √as- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhare ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+samidhāné ← √idh- 1 (root)  
+{case:LOC, gender:M, number:SG, tense:AOR, voice:MED}
+
+ajuryám ← ajuryá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaráyantam ← √jr̥̄- ~ jūr- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ukṣitám ← √vakṣ- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Ich bringe eurem trefflichsten der Guten dar den Lobgesang wie Butter in des Feu
 Индру, не стареющего, (но) старящего (других), возросшего  
 От века, (но) юного, мы зовем на помощь.
 </details>
+

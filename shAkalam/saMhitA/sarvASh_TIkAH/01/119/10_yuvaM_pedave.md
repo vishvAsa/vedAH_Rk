@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pedáve ← pedú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+puruvā́ram ← puruvā́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+duvasyathaḥ ← √duvasy- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+spr̥dhā́m ← spŕ̥dh- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+śvetám ← śvetá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tarutā́ram ← tarutár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhídyum ← abhídyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+duṣṭáram ← duṣṭára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śáryaiḥ ← śárya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+carkŕ̥tyam ← carkŕ̥tya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+carṣaṇīsáham ← carṣaṇīsáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Dem Pedu schenktet, Ritter ihr, das weisse Ross, das langgeschweifte, das die Fe
 Сверкающего (?) стрелами, трудно одолимого в сражениях,  
 Достойного воспевания, завоевателя народов, как Индра.
 </details>
+

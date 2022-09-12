@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śrayantām ← √śri- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+asaścátaḥ ← asaścát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dvā́raḥ ← dvā́r- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+adyá ← adyá (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+yáṣṭave ← √yaj- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Ihr Götterthore thut euch auf, ihr heil'gen, unvergleichlichen, Zum Opfer heut 
 , неиссякающие, –  
 Ныне и впредь – для жертвоприношения!
 </details>
+

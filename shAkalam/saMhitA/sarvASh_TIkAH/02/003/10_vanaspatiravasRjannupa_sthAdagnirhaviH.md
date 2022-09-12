@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avasr̥ján ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sthāt ← √sthā- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+vánaspátiḥ ← vánaspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sūdayāti ← √sūd- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+nayatu ← √nī- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+prajānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sámaktam ← √añj- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+trídhā ← trídhā (invariable)  
+{}
+
+daívyaḥ ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śamitā́ ← śamitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Der Pfosten stehe, Opfertrank ergiessend, den Guss verschöne Agni durch Gebete;
 Пусть божественный разделыватель туши, зная путь,  
 Приведет к богам жертву, трижды умащенную!
 </details>
+

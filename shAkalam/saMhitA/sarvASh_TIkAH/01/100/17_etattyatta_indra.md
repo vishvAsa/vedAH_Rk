@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ukthám ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+gr̥ṇanti ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vārṣāgirā́ḥ ← vārṣāgirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ambarī́ṣaḥ ← ambarī́ṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+práṣṭibhiḥ ← práṣṭi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥jrā́śvaḥ ← r̥jrā́śva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bháyamānaḥ ← bháyamāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahádevaḥ ← sahádeva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+surā́dhāḥ ← surā́dhas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +192,4 @@ Dieses Lied singen dir dem Stiere, o Indra, die Söhne des Vrischāgir als Huldi
 Риджрашва с помощниками, Амбариша,  
 Сахадева, Бхаямана, Сурадхас.
 </details>
+

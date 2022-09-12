@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahā́ntaḥ ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+víbhūtayaḥ ← víbhūti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vibhvàḥ ← vibhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+divyā́ḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dūredŕ̥śaḥ ← dūredŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+stŕ̥bhiḥ ← stár- ~ tár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+āsábhiḥ ← āsán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mandrā́ḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sujihvā́ḥ ← sujihvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sváritāraḥ ← sváritar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pariṣṭúbhaḥ ← pariṣṭúbh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sámmiślāḥ ← sámmiśla- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ An Grösse gross und mächtig an gewalt'ger Macht, und weithin leuchtend Sternen
 Радующие, сладкоязычные, звучащие устами,  
 Маруты окружают Индру, восхваляя (его) отовсюду.
 </details>
+

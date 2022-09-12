@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devágopāḥ ← devágopā- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+udŕ̥ci ← udŕ̥c- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ásāma ← √as- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śivátamāḥ ← śivátama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+stoṣāma ← √stu- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+tváyā ← tvám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+drā́ghīyaḥ ← drā́ghīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pratarám ← pratarám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Wir seien, Indra, deine besten Freunde, lass künftig auch von Göttern uns besc
 Мы будем восхвалять тебя, богатые с твоей помощью прекрасными сыновьями,  
 Протягивая дальше более долгий срок жизни!
 </details>
+

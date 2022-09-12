@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+anát ← √anⁱ- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+jīvám ← jīvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śaye ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+turágātu ← turágātu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhruvám ← dhruvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+éjat ← √ej- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pastyā̀nām ← pastyā̀- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jīváḥ ← jīvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥tásya ← √mr̥- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+svadhā́bhiḥ ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártyena ← mártya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sáyoniḥ ← sáyoni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Das athmende, das rasch gehende, das lebendige, das sich regende, das feste lieg
 Дух жизни умершего бродит по своей воле.  
 Бессмертный – из одного лона со смертным.
 </details>
+

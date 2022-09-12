@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+adr̥śran ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+pradoṣám ← pradoṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+táskarāḥ ← táskara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádr̥ṣṭāḥ ← adŕ̥ṣṭa- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+víśvadr̥ṣṭāḥ ← viśvádr̥ṣṭa- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+abhūtana ← √bhū- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+prátibuddhāḥ ← √budh- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +183,4 @@ Und diese sind in der Nacht wieder sichtbar geworden, wie Diebe, ihr unbemerkten
 Вы, невидимые, стали  
 Видимыми для всех, заметными!
 </details>
+

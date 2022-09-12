@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sūnávaḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+ájmeṣu ← ájma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+atnata ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+kā́ṣṭhāḥ ← kā́ṣṭhā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+abhijñú ← abhijñú (invariable)  
+{}
+
+vāśrā́ḥ ← vāśrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Ausdehnte weithin ihre Bahn der hochberühmten Söhne Schar, Knietief zu wandeln
 На своих путях они (еще дальше) отодвинули границы,  
 Чтобы, ревя, мчаться, выбрасывая вперед колени.
 </details>
+

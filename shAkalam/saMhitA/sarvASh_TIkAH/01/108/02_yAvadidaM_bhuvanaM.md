@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhúvanam ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́vat ← yā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gabhīrám ← gabhīrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uruvyácā ← uruvyáñc- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+varimátā ← varimánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pā́tave ← √pā- 2 (root)  
+{case:DAT, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tā́vān ← tā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áram ← áram (invariable)  
+{}
+
+indrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mánase ← mánas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yuvábhyām ← tvám (pronoun)  
+{case:INS, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Wie weit dies ganze Weltall sich erstrecket, wie tief, wie gross an umfangsreich
 Таков пусть будет этот сома для питья,  
 Как раз по вашему духу, о Индра и Агни!
 </details>
+

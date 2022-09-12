@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dákṣiṇāyāḥ ← dákṣiṇa- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dhurí ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuktā́ ← √yuj- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+antár ← antár (invariable)  
+{}
+
+átiṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥janī́ṣu ← vr̥janī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ámīmet ← √mā- 2 ~ mī- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+apaśyat ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vatsáḥ ← vatsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+triṣú ← trí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+viśvarūpyàm ← viśvarūpī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yójaneṣu ← yójana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Die Mutter war geschirrt an die Deichsel der reichlich milchenden Kuh [etwa des 
 Теленок мычал (и) глядел вслед корове  
 Многоцветной в трех расстояниях (от него).
 </details>
+

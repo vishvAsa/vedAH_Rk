@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āváhantī ← √vah- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+póṣyā ← póṣya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vā́ryāṇi ← vā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cékitānā ← √cit- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+īyúṣīṇām ← √i- 1 (root)  
+{case:GEN, gender:F, number:PL, tense:PRF, voice:ACT}
+
+śáśvatīnām ← śáśvant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+upamā́ ← upamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+aśvait ← √śvit- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vibhātīnā́m ← √bhā- (root)  
+{case:GEN, gender:F, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +206,4 @@ Herbei nun fahrend nahrungsreiche Güter, erregt sie hellen Glanz, wenn sie ersc
 Последняя из прошедших непрерывной чередой,  
 Первая из ярко сверкающих, засияла Ушас.
 </details>
+

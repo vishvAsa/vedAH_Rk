@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kam ← kam (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yojam ← √yuj- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+āyaí ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+návena ← náva- 2 (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sūkténa ← sūktá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vácasā ← vácas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+bahávaḥ ← bahú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+rīraman ← √ram- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+yájamānāsaḥ ← √yaj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +250,4 @@ Die Füchse will ich schirr'n an Indra's Wagen, durch Spruch und neues Lied ihn 
 Да не остановят тебя другие жертвователи:  
 Ведь тут много вдохновенных?
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urúm ← urú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánvetavaí ← √i- 1 (root)  
+{case:DAT, number:SG}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́ryāya ← sū́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+apáde ← apád- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+pā́dā ← pád- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+prátidhātave ← √dhā- 1 (root)  
+{case:DAT, number:SG}
+
+apavaktā́ ← apavaktár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+hr̥dayāvídhaḥ ← hr̥dayāvídh- (nominal stem)  
+{case:GEN, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,19 +181,13 @@ popular
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
-
-
 <details><summary>भट्टभास्करटीका</summary>
 
 वरुणो हि राजा सूर्यायान्वेतवै सूर्यमन्वेतुमनुक्रमेण गन्तुं उरुं विस्तीर्णं पन्थां पन्थानं मार्गं चकार करोति, साधुनि कर्मणि पुरुषं प्रवर्तयन् अभ्युदयेन योजयतीत्यर्थः । उ इत्यवधारणे, वरुण एव हि राजा इत्थं करोति ।   
 
 किञ्च - स एव अपदे अपदनीयस्थाने असाधुनि कर्मणि पादा पादान् प्रतिधातवे प्रतिधातुं अकः करोति पुरुषं प्रवर्तयतीत्यर्थः । कथमित्याह - उतापवक्ता अप्यवदिता यः परोक्षे परिवदति पिशुनो यश्च हृदयाविधः प्रत्यक्षमेवाप्रियाणि वदन् हृदयादि विध्यति, वरुणेनैव हि प्रेरितस्तथातथा परुषो भवति, सोस्मान् साधुनि कर्मणि पदं कारयत्विति शेषः । अन्य आह - अपदे अनालम्बेन्तरिक्षे अन्वेतवै अनुक्रमेण गन्तुं सूर्यस्य पन्थां पन्थानमुरुं वरुणो राजा यस्माच्चकार तस्मात्सोस्माकमपि पादान् प्रतिधातुं विस्तीर्णं पन्थानं अकः करोतु अवभृथार्थमपि; यो नामापवक्ता पुरुषो हृदयाविधश्च सोस्माकमवभृथार्थं मार्गं करोतु गमनप्रतिबन्धं मा कार्षीदित्यर्थः । चकारेत्यस्य 'हि च' इति निघातप्रतिषेधः । सूर्यशब्दात्कर्मणस्सम्प्रदानत्वाच्चतुर्थी । पथ आत्वं व्यत्ययेन द्वितीयायामपि भवति । अनुपूर्वादेतेः 'तुमर्थे सेसेन्' इति तवैप्रत्ययः, 'तवै चान्तश्च युगपत्' इत्येतेस्तवैप्रत्ययान्तस्य युगपत्प्रकृतिस्वरत्वम् । 'सुपां सुलुक्' इति पादशब्दाद्द्वितीयाया आकारः । प्रतिर्पूवाद्दधातेस्तेनैव सूत्रेण तवेन्प्रत्ययः । 'तादौ च' इति गतेः प्रकृतिस्वरतम् । करोतेश्छान्दसे लुङि 'मन्त्रे घस' इति च्लेर्लुक् । हृदयं विध्यतीति हृदयविधः । क्विबन्तादकारोपजनश्छान्दसः, 'नहिवृतिवृषिव्यधिरुचिसहितनिषु क्वौ' इति पूर्वपदस्य दीर्घः । बहुवचनान्तमेव वा । चिदिति चार्थे उपमार्थे वा ॥
 </details>
-
-
 </details>
-
-
 
 <details><summary>Wilson</summary>
 
@@ -192,3 +238,4 @@ Denn weite Bahn schuf Varuna, der König, dort für die Sonne, dass sie ihn durc
 Безногому он сделал ноги, чтобы приставить,  
 А еще он отвращает словом даже (того врага), что проник в сердце.
 </details>
+

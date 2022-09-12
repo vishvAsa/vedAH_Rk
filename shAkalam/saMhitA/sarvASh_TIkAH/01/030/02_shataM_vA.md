@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śúcīnām ← śúci- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sámāśirām ← sámāśir- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+nimnám ← nimná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rīyate ← √rī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +173,4 @@ Der hundert- oder tausendfach das Milchgebräu in sich hinein Wie in die Tiefe s
 Или тысяча смешанных с молоком,  
 (Тот) стекает, как (река), в низину.
 </details>
+

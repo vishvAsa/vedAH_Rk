@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+hí ← hí (invariable)  
+{}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+suvā́casā ← suvā́cas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+daívyā ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hótārā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kavī́ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yakṣatām ← √yaj- (root)  
+{number:DU, person:3, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Der Götterpriester weises Paar, das erste vielgepriesene, Vollbringe unser Opfe
 , два божественных поэта –  
 Пусть пожертвуют они эту нашу жертву!
 </details>
+

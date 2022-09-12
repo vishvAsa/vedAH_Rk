@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádridugdhāḥ ← ádridugdha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bahulā́ḥ ← bahulá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+túbhya ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+camasā́ḥ ← camasá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+camūṣádaḥ ← camūṣád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indrapā́nāḥ ← indrapā́na- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aśnuhi ← √naś- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tarpáya ← √tr̥p- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+kr̥ṣva ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vasudéyāya ← vasudéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Für dich sind diese vielen steingemelkten, in Schalen ruhnden, dir zum Trunk di
 Дорвись, утешь страсть к ним,  
 Затем настрой мысль на дарение добра!
 </details>
+

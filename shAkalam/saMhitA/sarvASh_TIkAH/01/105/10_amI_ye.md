@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Cretic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+amī́ ← asaú (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukṣáṇaḥ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tasthúḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+pravā́cyam ← pravā́cya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sadhrīcīnā́ḥ ← sadhrīcīná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāvr̥tuḥ ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+vittám ← √vid- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +200,7 @@ I have no idea what the exact referent of the “five oxen” is, but given thei
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/09-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these verses are the omphalos and are marked, as often, by responsion and numerology. They seem to express the poet’s vision of his connection with his distant ancestor Trita Āptya and also his vision of (somewhat unclear) cosmic phenomena.
@@ -178,3 +233,4 @@ Und die fünf Stiere, welche dort am grossen Himmels-Nabel stehn, Vereinigt lenk
 Вернулись назад (все) вместе.  
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
+

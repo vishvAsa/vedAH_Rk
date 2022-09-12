@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āśāthe ← √naś- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:MED}
+
+dadhāthe ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+itáūti ← itáūti- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mā́hinam ← mā́hina- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+māyā́bhiḥ ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+nárā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+áhabhiḥ ← áhar ~ áhan- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ānaśuḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+devatvám ← devatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+maghám ← maghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+paṇáyaḥ ← paṇí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +250,4 @@ Ihr gebet und empfanget reichlich frische Kraft, durch Zaubermacht, o Männer, s
 Ни дни со светлыми половинами, ни реки  
 Не достигли вашей божественности, ни Пани – (вашего) богатства.
 </details>
+

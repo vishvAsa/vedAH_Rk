@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yoṣat ← √yu- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+duhīta ← √duh- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+gábhastau ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jyéṣṭhe ← jyéṣṭha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+várūthe ← várūtha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jigīvā́ṁsaḥ ← √ji- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+prāyé-prāye ← prāyá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Nie höre meine Freundschaft auf mit Indra, uns möge seine Gabenfülle strömen
 Да будем мы (всегда) побеждать в каждом походе  
 Под (его) лучшей защитой, (находясь) в (его) длани!
 </details>
+

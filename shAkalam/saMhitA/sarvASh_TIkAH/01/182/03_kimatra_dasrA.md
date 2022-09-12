@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsāthe ← √ās- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+átra ← átra (invariable)  
+{}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇuthaḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+áhaviḥ ← áhavis- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mahīyáte ← √mahīy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ásum ← ásu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+jurátam ← √jr̥̄- ~ jūr- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+kramiṣṭam ← √kramⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+paṇéḥ ← paṇí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇutam ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vacasyáve ← vacasyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+víprāya ← vípra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +231,7 @@ The sense of pāda a would be better conveyed by “what are you doing there?”
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/182/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/182/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 The two 2nd dual middles, vahethe (2c) and āsāthe (3a), would both be better metrically with light 2nd syllables. On this phenomenon, see Arnole 129-30. A number of 2nd and 3rd dual middle forms invite this shortening. I do not understand it historically since Aves. has the ā in the athematic forms and the equivalent of e in the thematic ones (-aēte,- ōiϑe).
@@ -199,3 +263,4 @@ Was thut ihr dort, was sitzt ihr wunderkräftige beim Volk, das alles opferlos s
 Пройдите мимо! Состарьте жизненное дыхание скупца!  
 Создайте свет речистому поэту.
 </details>
+

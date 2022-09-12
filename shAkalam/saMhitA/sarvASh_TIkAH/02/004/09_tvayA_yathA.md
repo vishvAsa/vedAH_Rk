@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gr̥tsamadā́saḥ ← gr̥tsamadá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tváyā ← tvám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+gúhā ← gúhā (invariable)  
+{}
+
+syúḥ ← √as- 1 (root)  
+{number:PL, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+úparān ← úpara- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vanvántaḥ ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+abhimātiṣā́haḥ ← abhimātiṣáh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvī́rāsaḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+smát ← smát (invariable)  
+{}
+
+sūríbhyaḥ ← sūrí- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ O Agni, dass durch dich die Gritsamader die Nachbarn heimlich überflügeln, sie
 (Они,) имеющие прекрасных сыновей, преодолевающие враждебность,  
 Дай певцу (и) покровителям эту жизненную силу!
 </details>
+

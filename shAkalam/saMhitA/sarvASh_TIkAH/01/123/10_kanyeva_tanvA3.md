@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+kanyā̀ ← kanyā̀- ~ kanī́n- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śā́śadānā ← √śad- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+éṣi ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+íyakṣamāṇam ← √naś- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED, mood:DES}
+
+purástāt ← purástāt (invariable)  
+{}
+
+saṁsmáyamānā ← √smi- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āvís ← āvís (invariable)  
+{}
+
+kr̥ṇuṣe ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+vákṣāṁsi ← vákṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vibhātī́ ← √bhā- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Wie eine Braut am Leibe prangend gehst du zum Gott, o Göttin, der nach dir sich
 Юная женщина, улыбаясь, ты раскрываешь  
 Грудь (перед ним), когда зажигаешься с востока.
 </details>
+

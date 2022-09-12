@@ -17,15 +17,61 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+itthā́ ← itthā́ (invariable)  
+{}
+
+svādóḥ ← svādú- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+viṣūvátaḥ ← viṣūvánt- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gauryàḥ ← gaurī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pibanti ← √pā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sayā́varīḥ ← sayā́van- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+mádanti ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śobháse ← √śubh- (root)  
+{case:DAT, number:SG}
+
+vŕ̥ṣṇā ← vŕ̥ṣan- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+svarā́jyam ← svarā́jya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vásvīḥ ← vásu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +211,4 @@ Die Kühe trinken von dem Meth, dem süssen, welcher ringsum strömt, Sie, die d
 Быком, опьяняются для красоты.  
 (Они,) благие, (ликуют) вслед его собственному царству.
 </details>
+

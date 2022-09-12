@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gr̥ṇīṣe ← √gr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+saptáraśmim ← saptáraśmi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+trimūrdhā́nam ← trimūrdhán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánūnam ← ánūna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cárataḥ ← √carⁱ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhruvásya ← dhruvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+niṣattám ← √sad- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+āpaprivā́ṁsam ← √prā- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rocanā́ ← rocaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +213,4 @@ Ihn, der drei Köpfe hat und sieben Zügel, im Aeltern-Schooss den vollen Agni p
 Усевшегося, (в лоне того,) что движется и неподвижно,  
 (Агни), заполнившего все светлые пространства неба.
 </details>
+

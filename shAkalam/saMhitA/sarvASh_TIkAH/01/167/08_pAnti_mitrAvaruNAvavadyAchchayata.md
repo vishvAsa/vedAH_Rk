@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avadyā́t ← avadyá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+mitrā́váruṇau ← mitrā́váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pā́nti ← √pā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ápraśastān ← ápraśasta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cáyate ← √ci- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+īm ← īm (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ácyutā ← ácyuta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+cyavante ← √cyu- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+dhruvā́ṇi ← dhruvá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+dā́tivāraḥ ← dā́tivāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vāvr̥dhé ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Vor Sünde schützen Varuna und Mitra, und Arjaman bestraft die tadelnswerthen; 
 И несотрясаемые твердыни сотрясаются (из-за Марутов).  
 Тот, кто дает лучший дар, только крепнет.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhijñú ← abhijñú (invariable)  
+{}
+
+saṁjānānā́ḥ ← √jñā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+sīdan ← √sad- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+namasyàm ← namasyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+namasyan ← √namasy- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+pátnīvantaḥ ← pátnīvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kr̥ṇvata ← √kr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+ririkvā́ṁsaḥ ← √ric- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+svā́ḥ ← svá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nimíṣi ← nimíṣ- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+rákṣamāṇāḥ ← √rakṣⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhyuḥ ← sákhi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +223,4 @@ Sie sassen eines Sinnes kniend um ihn mit ihren Fraun, den ehrenwerthen ehrend, 
 Оставив (прежние) тела, они создали свои (теперешние),  
 Бодрствуя (так: один) друг (бодрствует), когда (другой) друг закрыл глаза.
 </details>
+

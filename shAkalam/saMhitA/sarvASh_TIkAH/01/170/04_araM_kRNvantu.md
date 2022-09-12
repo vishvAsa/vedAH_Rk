@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+áram ← áram (invariable)  
+{}
+
+kr̥ṇvantu ← √kr̥- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+védim ← védi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indhatām ← √idh- 1 (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:MED}
+
+purás ← purás (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+cétanam ← cétana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tátra ← tátra (invariable)  
+{}
+
+tanavāvahai ← √tan- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +186,4 @@ Den Altar mögen schmücken sie, entzünden Feuer auch zuvor, Dann schaffen beid
 Замечательную жертву тебе, бессмертному!  
 Агастья:
 </details>
+

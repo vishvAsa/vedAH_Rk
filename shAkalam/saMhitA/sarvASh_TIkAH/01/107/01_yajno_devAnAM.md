@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́dityāsaḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+bhávata ← √bhū- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mr̥ḷayántaḥ ← √mr̥ḍ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́cī ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vavr̥tyāt ← √vr̥t- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+aṁhóḥ ← aṁhú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+varivovíttarā ← varivovíttara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +221,6 @@ genre M
 **वरिवो** धनं, तस्य वेदयित्री लम्भयित्री **वरिवोवित्** । विन्दतेर्ण्यन्तात्क्विपि, 'बहुलं संज्ञाछन्दसोः' इति णिलुक्, ततोतिशायने तरप्प्रत्ययः । ज्ञातुरेव हि मतिर्वरिवोवित्तरा भवति । तस्माद्या ईदृशी मतिर्भवति सा सुमतिरस्मानावर्ततामिति ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -181,7 +235,6 @@ Your benevolent thought, inclined our way, should turn you hither—that  which 
 straits.
 </details>
 
-
 <details><summary>Jamison Brereton Notes</summary>
 
 I take ā́… vavṛtyāt as transitive, with vaḥ as object, contra all standard tr.
@@ -194,7 +247,6 @@ An intransitive tr. is tempting (and see VII.59.4), but this stem is overwhelmin
 THE sacrifice obtains the Gods' acceptance: be graciously inclined to us, Adityas.  
      Hitherward let your favour be directed, and be our best deliverer from trouble.
 </details>
-
 
 <details><summary>Keith</summary>
 
@@ -221,3 +273,4 @@ Zur Huld der Götter eilet hin das Opfer, o seid uns gnädig, ihr Aditi-Söhne, 
 Да повернет сюда ваша благожелательность,  
 Та, что лучше всех находит широкий выход даже из узости!
 </details>
+

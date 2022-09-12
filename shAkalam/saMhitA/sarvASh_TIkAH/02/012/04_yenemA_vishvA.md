@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cyávanā ← cyávana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ádharam ← ádhara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ákar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dā́sam ← dā́sa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+várṇam ← várṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádat ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+jigīvā́n ← √ji- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+lakṣám ← lakṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śvaghnī́ ← śvaghnín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janāsaḥ ← jána- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+puṣṭā́ni ← √puṣ- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +240,7 @@ champion does the wager – he, o peoples, is Indra.
 cyávana- is ordinarily agentive, ‘rousing, rouser’, but there is no escaping the sense ‘exploit, deed’ here (like its fellow derivative cyautná-). Perhaps the semantic development is by way of “stirring (deed)” or sim.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The phrases aryáḥ puṣṭā́ni (4d) and aryáḥ puṣṭī́ḥ (5c) with ppl. and fem.
@@ -209,3 +279,4 @@ Der alles schuf, was sich bewegt hienieden, der Bösen Anhang in die Tiefe senkt
 Кто, как счастливый игрок, выиграв, сорвал ставку, -  
 Богатства чужого человека – тот, о люди, Индра!
 </details>
+

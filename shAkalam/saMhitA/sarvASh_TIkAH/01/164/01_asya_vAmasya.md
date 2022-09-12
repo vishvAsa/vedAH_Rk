@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+hótuḥ ← hótar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+palitásya ← palitá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vāmásya ← vāmá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áśnaḥ ← áśna- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhrā́tā ← bhrā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+madhyamáḥ ← madhyamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhrā́tā ← bhrā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghr̥tápr̥ṣṭhaḥ ← ghr̥tápr̥ṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tr̥tī́yaḥ ← tr̥tī́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+saptáputram ← saptáputra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśpátim ← viśpáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +216,4 @@ Von diesem altersgrauen schönen Priester [dem himmlischen Agni] ist der mittler
 Третий брат его – жирноспинный.  
 Здесь я увидел хозяина племен с семью сыновьями.
 </details>
+

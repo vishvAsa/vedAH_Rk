@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+kám ← kám (invariable)  
+{}
+
+purutámā ← purutáma- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ájāmim ← ájāmi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jāmím ← jāmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+vr̥ṇakti ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+arepásā ← arepás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śā́śadānā ← √śad- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+árbhāt ← árbha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ī́ṣate ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+maháḥ ← máh- (nominal stem)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+vibhātī́ ← √bhā- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +232,4 @@ Die herrliche entzieht sich nicht dem Anblick, nicht der verwandten, noch der un
 Красуясь незапятнанным телом,  
 Она, сверкающая, не сторонится ни малого, ни великого.
 </details>
+

@@ -15,13 +15,56 @@ ChandaH = "कृतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+amitríṇe ← amitrín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhātam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+kásmai ← ká- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+akútra ← akútra (invariable)  
+{}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gr̥hébhyaḥ ← gr̥há- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+guḥ ← √gā- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+áśiśvīḥ ← áśiśu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+stanābhújaḥ ← stanābhúj- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +175,4 @@ Gebt uns nicht irgend einem Feinde Preis, nicht mögen die Kühe von unsern Häu
 Да не уйдут дойные коровы от наших домов неизвестно куда!  
 Они приносят пользу выменем (даже) без телят.
 </details>
+

@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,91 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+juṣéta ← √juṣ- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+u ← u (invariable)  
+{}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+arkásya ← arká- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bodhi ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+hávīmabhiḥ ← hávīman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+havíṣaḥ ← havís- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+hávīmabhiḥ ← hávīman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+svàrṣātā ← svàrṣāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+hántave ← √han- (root)  
+{case:DAT, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cíketasi ← √cit- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+návīyasaḥ ← návīyaṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+návīyasaḥ ← návīyaṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śrudhi ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,3 +301,4 @@ Er möge hold uns sein an diesem Morgen auch; durch unsre Rufe acht' auf Lied un
 Услышь меня, самого нового устроителя (обряда),  
 Молитву самого нового!
 </details>
+

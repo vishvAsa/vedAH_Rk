@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gómatīḥ ← gómant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sárvavīrāḥ ← sárvavīra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vyuchánti ← √vas- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+sūnŕ̥tānām ← sūnŕ̥ta- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+udarké ← udarká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vāyóḥ ← vāyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aśnavat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+aśvadā́ḥ ← aśvadā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+somasútvā ← somasútvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +218,4 @@ Die Morgen, die dem sterblichen Verehrer mit Rinderschar und allen Helden leucht
 Пусть тот, кто выжимает сому, достигнет их, дающих коней,  
 При вызывании песней щедрых даров, как при(призыве) Ваю.
 </details>
+

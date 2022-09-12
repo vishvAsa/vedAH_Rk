@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+krándasī ← krándas- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+saṁyatī́ ← √i- 1 (root)  
+{case:NOM, gender:N, number:DU, tense:PRS, voice:ACT}
+
+vihváyete ← √hvā- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+amítrāḥ ← amítra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ávare ← ávara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+páre ← pára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ubháyāḥ ← ubháya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ātasthivā́ṁsā ← √sthā- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havete ← √hū- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janāsaḥ ← jána- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nā́nā ← nā́nā (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Den beide Schlachtreihn in dem Kampfe anflehn, die Gegner beide, hüben hier und
 Даже те двое, что взобрались на одну и ту же колесницу,  
 Порознь призывают – тот, о люди, Индра!
 </details>
+

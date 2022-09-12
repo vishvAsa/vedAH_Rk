@@ -15,13 +15,53 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+duhīyán ← √duh- (root)  
+{number:PL, person:3, mood:OPT, tense:PRS, voice:MED}
+
+mitrádhitaye ← mitrádhiti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yuvā́ku ← tvám (pronoun)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+mimītám ← √mā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vā́javatyai ← vā́javant- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dhenumátyai ← dhenumánt- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+iṣé ← íṣ- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mimītam ← √mā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +163,4 @@ Sie mögen Milch geben, um euch [durch die den Açvinen dargereichten Tränke] z
 Предназначьте нас для богатства, несущего награду,  
 И предназначьте нас для подкрепляющего напитка, связанного с коровами!
 </details>
+

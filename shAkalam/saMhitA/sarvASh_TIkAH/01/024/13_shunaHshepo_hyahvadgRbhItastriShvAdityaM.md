@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áhvat ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+gr̥bhītáḥ ← √gr̥bhⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+hí ← hí (invariable)  
+{}
+
+śúnaḥśépaḥ ← śúnaḥśépa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ādityám ← ādityá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+baddháḥ ← √bandh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+drupadéṣu ← drupadá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+triṣú ← trí- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sasr̥jyāt ← √sr̥j- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádabdhaḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mumoktu ← √muc- (root)  
+{number:SG, person:3, mood:IMP, tense:PRF, voice:ACT}
+
+pā́śān ← pā́śa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ Denn der gefangne Çunasçepa rief einst gebunden an drei Pfosten den Aditja; Au
 Чтоб освободил его царь Варуна.  
 Ведун, которого не обмануть, да отпустит он петли!
 </details>
+

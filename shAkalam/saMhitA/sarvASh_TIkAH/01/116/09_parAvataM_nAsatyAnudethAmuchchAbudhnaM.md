@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anudethām ← √nud- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:MED}
+
+avatám ← avatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+párā ← párā (invariable)  
+{}
+
+cakrathuḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+jihmábāram ← jihmábāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uccā́budhnam ← uccā́budhna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kṣáran ← √kṣar- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pāyánāya ← pāyána- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gótamasya ← gótama- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sahásrāya ← sahásra- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tŕ̥ṣyate ← √tr̥ṣ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Ihr Treuen stiesset um den Born und hieltet den Boden oben und die Oeffnung schr
 Как воды стремятся для питья, (так потекли они) для богатства,  
 Для жаждущей тысячи (людей) Готамы.
 </details>
+

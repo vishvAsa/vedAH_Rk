@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+vahataḥ ← √vah- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ápratidhr̥ṣṭaśavasam ← ápratidhr̥ṣṭaśavas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ŕ̥ṣīṇām ← ŕ̥ṣi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+stutī́ḥ ← stutí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+mā́nuṣāṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +168,6 @@ Him of unequalled strength,
 To the praises of the Rsis and the sacrifice of men.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Den Indra, gegen dessen Stärke nicht anzukommen ist, fahren die beiden Falben her zu den Lobliedern der Rishi´s und zum Opfer der Menschenkinder.
@@ -149,3 +185,4 @@ Den Indra fährt das Füchsepaar, ihn, dessen Kraft unhemmbar ist, Hin zu der S�
 К восхвалениям риши  
 И к жертвоприношению людей.
 </details>
+

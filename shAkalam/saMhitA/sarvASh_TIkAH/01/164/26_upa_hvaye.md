@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+etā́m ← eṣá (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+hvaye ← √hvā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sudúghām ← sudúgha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+dohat ← √duh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+enām ← ena- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+godhúk ← godúh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suhástaḥ ← suhásta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+savám ← savá- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sāviṣat ← √sū- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śréṣṭham ← śréṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhī̀ddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+gharmáḥ ← gharmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+vocam ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +254,4 @@ Ich rufe herbei diese schönmilchende Kuh und der schönhändige Kuhmelker [der 
 Пусть Савитар возбудит в нас лучшее возбуждение!  
 Раскален котелок с молоком. Я это громко провозглашаю.
 </details>
+

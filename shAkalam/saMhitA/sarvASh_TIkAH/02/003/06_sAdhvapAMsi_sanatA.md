@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápāṁsi ← ápas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sādhú ← sādhú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sanátā ← sanátā (invariable)  
+{}
+
+ukṣité ← √vakṣ- (root)  
+{case:NOM, gender:F, number:DU, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+raṇvité ← raṇvitá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+uṣā́sānáktā ← uṣā́sānáktā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vayyā̀ ← vayyà- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+samīcī́ ← samyáñc- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+saṁváyantī ← √u- 2 (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+tántum ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tatám ← √tan- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+páyasvatī ← páyasvant- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+péśaḥ ← péśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sudúghe ← sudúgha- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Stets wirken schöne Werk' uns Nacht und Morgen, die beiden hohen, wie zwei munt
 Ткут они вместе натянутую нить,  
 Украшение жертвы, (они,) две дойные коровы, полные молока.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+anukāmám ← anukāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tarpayethām ← √tr̥p- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+índrāvaruṇā = ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+nédiṣṭham ← nédiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Nach eurer Lust ergötzet euch an Gaben, Indra-Varuna, Euch wünschen wir ganz n
 О Индра-Варуна, чтобы (дать потом) богатство!  
 Об этом мы вас больше всего просим.
 </details>
+

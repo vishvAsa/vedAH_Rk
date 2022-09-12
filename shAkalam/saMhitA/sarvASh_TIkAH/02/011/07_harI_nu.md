@@ -16,14 +16,63 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
+#### Morph
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vājáyantā ← √vājay- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+asvārṣṭām ← √svar- (root)  
+{number:DU, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ghr̥taścútam ← ghr̥taścút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svārám ← svārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aprathiṣṭa ← √prathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+bhū́miḥ ← bhū́mi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+samanā́ ← samanā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+áraṁsta ← √ram- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+párvataḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sariṣyán ← √sr̥- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Dein Füchsepaar, o Indra, kräftig eilend liess rauschen nun ein Rauschen, wie 
 Ровно раскинулась земля,  
 Даже гора, пытавшаяся убежать, остановилась.
 </details>
+

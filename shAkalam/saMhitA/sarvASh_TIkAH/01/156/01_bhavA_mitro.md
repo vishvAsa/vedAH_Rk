@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ghr̥tā́sutiḥ ← ghr̥tā́suti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śévyaḥ ← śévya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+evayā́ḥ ← evayā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sapráthāḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+víbhūtadyumnaḥ ← víbhūtadyumna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+árdhyaḥ ← árdhya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vidúṣā ← √vid- 2 (root)  
+{case:INS, gender:M, number:SG, tense:PRF, voice:ACT}
+
+viṣṇo ← víṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+havíṣmatā ← havíṣmant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rā́dhyaḥ ← rā́dhya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Sei, fettgetränkter, du wie Mitra heilvoll uns, glanzreicher, grosser, gehend d
 Вот для тебя, о Вишну, восхваление, (сложенное) знатоком,  
 Приводящее к успеху, и жертва, (принесенная) тем, у кого есть жертвенное возлияние, сулящее успех.
 </details>
+

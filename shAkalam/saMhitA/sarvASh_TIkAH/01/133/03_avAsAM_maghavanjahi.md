@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+jahi ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yātumátīnām ← yātumánt- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+armaké ← armaká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vailasthānaké ← vailasthānaká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+armaké ← armaká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mahā́vailasthe ← mahā́vailastha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Stosse hinab, o mächtiger, die Schar dieser Hexen in den Trümmerhaufen der Sch
 На месте бойни, на свалке,  
 На огромном месте бойни, на свалке!
 </details>
+

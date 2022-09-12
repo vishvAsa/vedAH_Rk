@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agrúvaḥ ← agrū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+keśínīḥ ← keśín- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rebhiré ← √rabh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+āyáve ← āyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mamrúṣīḥ ← √mr̥- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+tasthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ūrdhvā́ḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jarā́m ← jarā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nā́nadat ← √nad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+pramuñcán ← √muc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tā́sām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+ástr̥tam ← ástr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ásum ← ásu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jīvám ← jīvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+páram ← pára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +230,7 @@ Again there is a difference of opinion as to referent. With Oldenberg (SBE) I ta
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 This trio of verses treats the union (by burning) of the hyper-masculine Agni/fire and the plants (feminine). This must be the “der erotische Grundton” of the hymn that Geldner mentions in his introduction. This sexual union leads to the death of the plants (8b) and their regrowth and transformation into a different form (7cd, 8). Or so is my interpr.; acdg. to some, the flames are sometimes the referents, rather than the plants.
@@ -202,3 +269,4 @@ Die Jungfraun, die langhaar'gen, halten ihn umfasst, die todten sind erstanden n
 Освобождая их от старости, он идет, громко ревя,  
 Рождая высшее жизненное дыхание, несокрушимую жизнь.
 </details>
+

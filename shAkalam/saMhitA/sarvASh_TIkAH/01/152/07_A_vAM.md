@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+havyájuṣṭim ← havyájuṣṭi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+devau ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vavr̥tyām ← √vr̥t- (root)  
+{number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sahyāḥ ← √sah- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+divyā́ ← divyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+supārā́ ← supārá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +215,4 @@ Euch lad' ich ein mit Ehrfurcht und mit Liebe zum Opfermahl, o Varuna und Mitra,
 Наше священное слово да одержит верх в состязаниях!  
 Нам (пусть будет) небесный дождь, ведущий к успеху!
 </details>
+

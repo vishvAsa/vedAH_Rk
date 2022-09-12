@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvŕ̥tam ← suvŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tiṣṭhatam ← √sthā- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+havíṣmān ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vártate ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+iṣayádhyai ← √iṣay- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+tánayāya ← tánaya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tmáne ← tmán- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yātháḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Besteiget euren leichtbewegten Wagen, der trankgefüllt auf euren Wink dahinroll
 (Колесница,) на которой вы, о два мужа, о Насатьи, для услады  
 Совершаете обьезд – ради потомства и (нас) самих.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D
+#### Morph
+ágnīṣomau ← agnī́-ṣóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+imā́ni ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jujoṣatam ← √juṣ- (root)  
+{number:DU, person:3, mood:IMP, tense:PRF, voice:MED}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sácā ← sácā (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +140,7 @@ tāvaká-, the vṛddhi derivative of the genitive of the 2nd ps. pronoun, enlar
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/10-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 2nd du. dīdayatam (10c) and jujoṣatam (11b) are somewhat problematic forms. They belong to redupl. thematic stems; other forms to these stems are subjunctives to the perfect. However, they have secondary endings, and the act. 2nd and 3rd du. subjunctive endings should be primary. Lubotsky identifies them as impvs. (Grassmann also jujoṣatam); Kümmel (35) treats them as “hybrids” -- morphologically belonging to the subjunctive but functioning as imperatives. They differ from some other secondarily thematized pf. impvs. in having full grade of the root syllable, like the subjunctive (versus zero-graade in pīpyatam √pi, √vāvrdhásva √vṛdh, etc. -- but cf. pipráyasva √prī). In the published translation they are treated as subjunctives (“you will shine,” “you will enjoy”), but they would might be better rendered as imperatives. For further disc. of such forms, see my forthcoming article on the perfect imperative. ## 094 Agni
@@ -137,3 +171,4 @@ Lasst diesen unsern Opfertrank gefallen, Agni-Soma, euch, Und kommt vereinigt zu
 Этими нашими жертвенными возлияниями!  
 Приходите к нам вместе!
 </details>
+

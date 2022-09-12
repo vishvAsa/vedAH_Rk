@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dádataḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+pito ← pitú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{}
+
+pito ← pitú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svādiṣṭha ← svā́diṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+rásānām ← rása- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+svādmā́naḥ ← svādmán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+tuvigrī́vāḥ ← tuvigrī́va- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +199,4 @@ O Opfertrank, du süssester, die Süssigkeiten deines Safts, Die spendereichen, 
 Сладкие глотки соков,  
 Рвутся вперед, словно жестковыйные (быки).
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abodhi ← √budh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ántān ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vyūrṇvatī́ ← √vr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+sanutár ← sanutár (invariable)  
+{}
+
+svásāram ← svásar- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yuyoti ← √yu- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+manuṣyā̀ ← manuṣyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+praminatī́ ← √mī- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+yugā́ni ← yugá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cákṣasā ← cákṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jārásya ← jārá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Sie ist erwacht, des Himmels Rand enthüllend, und ihre Schwester treibt sie in 
 Уменьшая людские поколения,  
 Юная женщина сверкает глазом (своего) возлюбленного.
 </details>
+

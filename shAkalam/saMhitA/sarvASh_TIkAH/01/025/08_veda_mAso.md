@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dhr̥távrataḥ ← dhr̥távrata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+māsáḥ ← mā́s- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dvā́daśa ← dvā́daśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prajā́vataḥ ← prajā́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+upajā́yate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +143,4 @@ Der Ordnungschirmer, der die zwölf an Kindern reichen Monde kennt, Und auch den
 Месяцев с (их) потомством.  
 Он знает (того,) кто рождается в придачу.
 </details>
+

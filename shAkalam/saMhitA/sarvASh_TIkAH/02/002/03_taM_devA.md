@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+budhné ← budhná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sudáṁsasam ← sudáṁsas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+aratím ← aratí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diváspr̥thivyóḥ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+erire ← √īr- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śukráśociṣam ← śukráśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+védyam ← védya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣitíṣu ← kṣití- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+praśáṁsyam ← praśáṁsya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +232,4 @@ Drum setzten ihn die Götter an der Lüfte Grund zum thät'gen Diener Himmels un
 (Бога,) знаменитого как колесница, чистопламенного  
 Агни, которого надо прославлять среди народов, как Митру.
 </details>
+

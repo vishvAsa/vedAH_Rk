@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+cáritave ← √carⁱ- (root)  
+{case:DAT, number:SG}
+
+jihmaśyè ← jihmaśī́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+maghónī ← maghávan- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ābhogáye ← ābhogí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+iṣṭáye ← iṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tvam ← tva- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+dabhrám ← dabhrá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+páśyadbhyaḥ ← √paś- (root)  
+{case:DAT, gender:M, number:PL, tense:PRS, voice:ACT}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+vicákṣe ← √cakṣ- (root)  
+{case:DAT, number:SG}
+
+ajīgar ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Den hingestreckten weckt zum Gehn die reiche, den zum Genuss, und den zum Schatz
 Плохо видящих – к тому, чтоб видеть далеко.  
 Ушас пробудила все существа.
 </details>
+

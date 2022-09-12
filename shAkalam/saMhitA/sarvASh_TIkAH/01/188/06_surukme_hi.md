@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+supéśasā ← supéśas- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+surukmé ← surukmá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ádhi ← ádhi (invariable)  
+{}
+
+śriyā́ ← śrī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+virā́jataḥ ← √rāj- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+sīdatām ← √sad- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+uṣā́sau ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Die reich geschmückten, prächtigen, von Schönheit strahlend mögen sich hier 
 Ушас и (Ночь)  
 усядутся здесь!
 </details>
+

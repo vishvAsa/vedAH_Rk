@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+árṇaḥ ← árṇas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+híraṇyakarṇam ← híraṇyakarṇa- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+maṇigrīvam ← maṇigrīva- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+varivasyantu ← √varivasy- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jagmúṣīḥ ← √gam- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:ACT}
+
+sadyás ← sadyás (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+cākantu ← √kanⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRF, voice:ACT}
+
+ubháyeṣu ← ubháya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +233,4 @@ Die wallende Schar (?) mit Goldschmuck am Ohr und Perlen am Halse, die mögen un
 Пусть зори, сразу приходящие на хвалебные песни чужого,  
 Будут радоваться обоим (сообществам) среди нас!
 </details>
+

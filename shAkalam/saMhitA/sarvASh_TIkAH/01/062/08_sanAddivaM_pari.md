@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́ma ← bhū́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
+vírūpe ← vírūpa- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+punarbhúvā ← punarbhū́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+svébhiḥ ← svá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+yuvatī́ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+aktā́ ← aktā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kr̥ṣṇébhiḥ ← kr̥ṣṇá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+rúśadbhiḥ ← rúśant- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+anyā́nyā ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+carataḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vápurbhiḥ ← vápus- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Stets wandeln um den Himmel, um die Erde, an Farbe ungleich, neu sich stets verj
 Ночь с черными очертаниями, утренняя заря – со светлыми.  
 Они движутся, приближаясь: то одна, то другая.
 </details>
+

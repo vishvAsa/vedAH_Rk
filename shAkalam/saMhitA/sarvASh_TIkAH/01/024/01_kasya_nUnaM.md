@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+amŕ̥tānām ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+katamásya ← katamá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mánāmahe ← √man- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+áditaye ← áditi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mahyaí ← máh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+púnar ← púnar (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dr̥śéyam ← √dr̥ś- (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Welch Gott ist's, der Unsterblichen wie vielter, in dessen theuren Namen wir ged
 Кто же снова вернет нас великой Несвязанности,  
 Чтобы я видел отца и мать?
 </details>
+

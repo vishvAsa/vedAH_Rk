@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apasyā́t ← √apasy- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+svidhmā́ ← svidhmá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vanádhitiḥ ← vanádhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+ródhanā ← ródhana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+kŕ̥tvyān ← kŕ̥tvya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prabhā́si ← √bhā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánarviśe ← ánarviś- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+paśvíṣe ← paśvíṣ- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+turā́ya ← turá- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +235,4 @@ Wenn der mit gutem Brennholz versehene Holzstoss in Wirksamkeit tritt, als Sonne
 Когда ты будешь светить в решающие дни  
 Для сильного искателя скота, (вождя,) чей род следует на повозках.
 </details>
+

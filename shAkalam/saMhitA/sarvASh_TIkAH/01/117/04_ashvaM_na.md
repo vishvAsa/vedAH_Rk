@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+durévaiḥ ← duréva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gūḷhám ← √guh- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rebhám ← rebhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ŕ̥ṣim ← ŕ̥ṣi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dáṁsobhiḥ ← dáṁsas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+riṇīthaḥ ← √rī- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+víprutam ← √pru- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+jūryanti ← √jr̥̄- ~ jūr- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+pūrvyā́ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +219,4 @@ Den Dichter Rebha, Ritter, starke Helden, den Böse bargen wie ein Pferd im Wass
 (Своими) чудесными силами вы восстановили, (уже) разложившегося.  
 Не стареют ваши прежние деяния!
 </details>
+

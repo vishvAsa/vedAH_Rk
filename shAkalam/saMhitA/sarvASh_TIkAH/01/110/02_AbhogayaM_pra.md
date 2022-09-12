@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ābhogáyam ← ābhogáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aítana ← √i- 1 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ichántaḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ápākāḥ ← ápāka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āpáyaḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+ké ← ká- (pronoun)  
+{}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+prā́ñcaḥ ← prā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhūmánā ← bhūmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+caritásya ← caritá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+saúdhanvanāsaḥ ← saudhanvaná- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ágachata ← √gam- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Als nach Genüssen suchend ihr hinwandertet nach West und Ost, die ihr zum Theil
 После долгих скитаний, о сыновья Судханвана,  
 Вы добрались до дома Савитара, приносящего жертвы.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+taráṇiḥ ← taráṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvádarśataḥ ← viśvádarśata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+jyotiṣkŕ̥t ← jyotiṣkŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhāsi ← √bhā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+rocanám ← rocaná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -100,8 +128,6 @@ genre M
 तरणिः क्षिप्रगामी पापानां तारयिता वा । तरतेरनिप्रत्ययः । विश्वदर्शतः विश्वं दर्शयितव्यं यस्य सः विश्वदर्शतः । दृशेरौणादिकोतच्प्रत्ययः, 'बहुव्रीहौ विश्वं संज्ञायाम्' इति विश्वशब्दस्यान्तोदात्तत्वम् । यद्वा - विश्वस्य दर्शयिता विश्वदर्शतः । व्यत्ययेन पूर्वपदान्तोदात्तत्वम् । ज्योतिष्कृत् ज्योतिषः प्रकाशस्य कर्ता उत्पादयिता । यद्वा - ज्योतिषां ग्रहनक्षत्रादीनां कर्ता उद्भावयिता, त्वदधीनप्रकाशत्वात्तेषाम् । यथाहुः - 'सूर्याभिमुखानि दीप्यन्ते' इति । हे सूर्य ईदृशस्त्वमसि सत्वं विश्वां रोचनं प्रकाशकं ग्रहनक्षत्रादिकं सुषुम्नाख्येन रश्मिनानुप्रविश्य आभासि दृश्यसे लोकेन, तानि वा प्रकाशयसि, तस्मादुच्यते 'ज्योतिष्कृदसि' इति ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -160,3 +186,4 @@ Für alle sichtbar, schnellen Laufs erzeugst du Licht, o Sonnengott, Den ganzen 
 Создающий свет – (вот каков) ты, Сурья.  
 Ты даруешь все светлое пространство.
 </details>
+

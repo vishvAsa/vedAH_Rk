@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhadrám ← bhadrá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cakrā́the ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sadhryàk ← sadhryàñc- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sadhrīcīnā́ ← sadhrīcīná- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sthaḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+vr̥trahaṇau ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+indrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+niṣádya ← √sad- (root)  
+{non-finite:CVB}
+
+sadhryàñcā ← sadhryàñc- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+taú ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vr̥ṣethām ← √vr̥ṣ- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:MED}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +208,7 @@ Geldner (explicitly) and Renou / Klein (DGRV I.373) / Witzel Gotō (all implicit
 I would prefer this interpretation, but think that the lack of accent should be taken seriously. Moreover, given the repetition of sadhryàñc- / sadhrīcīná- just noted, it may be that the conjunction of Indra and Agni is what is being highlighted, not their Vṛtra-smashing.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, vs. 3 attributes Indra’s characteristic deed (Vṛtra-smashing) to both gods, while vs. 4 attributes Agni’s characteristic ritual behavior to both.
@@ -185,3 +240,4 @@ Ihr habt vereint ja eure hehren Namen und seid vereinigt, o ihr Vritratödter, D
 О Индра и Агни, сев с одной целью, вы,  
 Два быка, залейте себя дождем быка – сомы!
 </details>
+

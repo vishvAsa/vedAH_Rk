@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+índrajyeṣṭhāḥ ← índrajyeṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+márudgaṇāḥ ← marúdgaṇa- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+dévāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pū́ṣarātayaḥ ← pū́ṣarāti- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+śruta ← √śru- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +154,4 @@ Ihr Scharen, welche Indra führt, mit Puschan's Gaben Götter ihr, Vernehmet all
 (Вы,) боги, кому Пушан – даритель,  
 Все услышьте мой зов!
 </details>
+

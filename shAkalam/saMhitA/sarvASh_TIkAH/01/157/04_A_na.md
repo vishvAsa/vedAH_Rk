@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vahatam ← √vah- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+káśayā ← káśā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mádhumatyā ← mádhumant- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mimikṣatam ← √myakṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mr̥kṣatam ← √mr̥j- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+rápāṁsi ← rápas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́riṣṭam ← √tr̥̄- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+bhávatam ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sacābhúvā ← sacābhū́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sédhatam ← √sidh- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Ihr Ritter beide, fahret Nahrung uns herbei, besprengt uns mit der Peitsche, die
 Продлите срок жизни, сотрите телесные повреждения,  
 Отвратите враждебность, будьте (нашими) товарищами!
 </details>
+

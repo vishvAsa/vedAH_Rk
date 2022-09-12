@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kr̥ṣṇaprútau ← kr̥ṣṇaprút- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sakṣítau ← sakṣít- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vevijé ← vevijá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+abhí ← abhí (invariable)  
+{}
+
+mātárā ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tarete ← √tr̥̄- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+dhvasáyantam ← √dhvaṁs- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prācā́jihvam ← prācā́jihva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tr̥ṣucyútam ← tr̥ṣucyút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kúpayam ← kúpaya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sā́cyam ← sā́cya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+várdhanam ← várdhana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Zu ihrem Sohne gehn erschreckt die Aeltern hin, die mit ihm wohnen, die im Dunke
 Высунувшему язык, поднимающему дым, жадно мечущемуся,  
 Цепкому, возбужденному, усиливающему (своего) отца.
 </details>
+

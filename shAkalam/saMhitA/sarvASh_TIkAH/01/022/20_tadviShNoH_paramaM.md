@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+padám ← padá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+paramám ← paramá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+víṣṇoḥ ← víṣṇu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+paśyanti ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́tatam ← √tan- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -90,12 +124,10 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सूरयः** विद्वांस ऋत्विगादयः **विष्णोः** संबन्धि **परमम्** उत्कृष्टं **तत्** शास्त्रप्रसिद्धं **पदं** स्वर्गस्थानं शास्त्रदृष्ट्या सर्वदा **पश्यन्ति** । तत्र दृष्टान्तः । **दिवीव** । आकाशे यथा **आततं** सर्वतः प्रसृतं **चक्षुः** निरोधाभावेन विशदं पश्यति तद्वत् ॥ सदा । ‘सर्वैकान्य ' ( पा. सू. ५. ३. १५) इति दाप्रत्ययः । सर्वस्य सोऽन्यतरस्यां दि ' ( पा. सू. ५. ३. ६ ) इति सर्वशब्दस्य सभावः । व्यत्ययेनाद्युदात्तत्वम् । दिवि । ' उडिदम्' इत्यादिना विभक्तेरुदात्तत्वम् । ‘इवेन विभक्त्यलोपः पूर्वपदप्रकृतिस्वरत्वं च ' इति तदेव शिष्यते । चक्षुः । ‘नब्विषयस्य° ' इत्याद्युदात्तत्वम् । आततम् । तनोतेः कर्मणि क्तः ।' यस्य विभाषा ' इति इट्प्रतिषेधः । अनुदात्तोपदेश' इत्यादिना नलोपः । कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्ते ‘ गतिरनन्तरः' इति गतेरुदात्तत्वम् ॥
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 13चषालमीक्षते - तद्विष्णोरिति त्रिपदया गायत्र्या ॥ 'विष्णोः परमं पदमवभाति भूरेः' इति यत्पूर्वोक्तं तदेव हि विष्णोः परमं पदं सदा सर्वदा सूरयः मेधाविनः पश्यन्तीति । कीदृशं? दिवि चक्षुरिवाततम् । सर्वेषां चक्शुस्स्थानीयं सूर्यमण्डलमिह चक्षुरुच्यते । आततं समन्ताद्विस्तारितप्रकाशं, सवत्र प्रकाशत्वात् । 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् । दिवि सूर्यमण्डलमिव यदात्मप्रकाशस्वरूपं तत्सूरयस्सदा हृदि पश्यन्ति । तस्मात्त्वमपि विष्णोः परमपदस्थानीयं चषालं पश्येति ॥
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -134,7 +166,6 @@ The singers ever gaze upon
 Like an eye stretched in the sky.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Immerdar schauen die freigebigen Patrone diese höchste Fußtapfe des Vishnu, die wie das Auge am Himmel weithin reicht.
@@ -151,3 +182,4 @@ Auf ihn, des Vischnu höchsten Tritt; der wie des Himmels Auge glänzt, Schaun f
 Всегда глядят приносящие жертву,  
 Как на глаз, разверстый в небе.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+dīdihi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+maghávatsu ← maghávan- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+dámūnāḥ ← dámūnas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śvásīvān ← śvásīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adīdeḥ ← √dī- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+avā́sya ← √as- 2 (root)  
+{non-finite:CVB}
+
+śíśumatīḥ ← śíśumant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+parijárbhurāṇaḥ ← √bhur- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+várma ← várman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yutsú ← yúdh- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +202,4 @@ O Agni, leuchte unsern Opferherren hell, und mächtig schnaufend wie ein Stier a
 Ты засверкал, швырнув (языки пламени) с отпрысками,  
 Разбрасывая искры, словно щит в сражениях.
 </details>
+

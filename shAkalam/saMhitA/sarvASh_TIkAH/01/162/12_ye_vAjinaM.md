@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+pakvám ← pakvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+paripáśyanti ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+āhúḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+hara ← √hr̥- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+íti ← íti (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+surabhíḥ ← surabhí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+árvataḥ ← árvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+māṁsabhikṣā́m ← māṁsabhikṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG, mood:DES}
+
+upā́sate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yé ← yá- (pronoun)  
+{}
+
+abhígūrtiḥ ← abhígūrti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+invatu ← √i- 2 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +250,4 @@ Welche das Ross gar gebraten sehen, welche, von ihm sagen: »Schönduftend ist e
 И кто ожидает угощения мясом скакового коня, –  
 Их воспевание пусть также нам благоприятствует!
 </details>
+

@@ -15,13 +15,35 @@ ChandaH = "पादनिचृद्गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+śipríṇīnām ← śiprín- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sómapāḥ ← somapā́- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+somapā́vnām ← somapā́van- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sákhe ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sákhīnām ← sákhi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +136,4 @@ Du Freund der Freunde, blitzbewehrt, und unsrer schönen Frauen auch, der du mit
 Пьющий сому, у питухов сомы,  
 О друг, о громовержец, у друзей...
 </details>
+

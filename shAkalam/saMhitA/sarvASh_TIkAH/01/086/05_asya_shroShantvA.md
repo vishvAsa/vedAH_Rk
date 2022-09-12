@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhúvaḥ ← bhū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śroṣantu ← √śruṣ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+carṣaṇī́ḥ ← carṣaṇí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sasrúṣīḥ ← √sr̥- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:ACT}
+
+sū́ram ← sū́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +145,7 @@ The condensed expression of the earlier part of the hymn continues here, and the
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 As indicated in the published introduction, the genitive of the human worshiper is continued in these verses, though with the demonstrative, not relative pronoun.
@@ -139,3 +176,4 @@ Ihm muss gehorchen alle Welt, der über alle Menschen ragt, Sein Opfer dringt zu
 (Того,) кто пре(восходит) все народы,  
 (Пусть будут послушны) жертвенные услады, восходящие до самого солнца.
 </details>
+

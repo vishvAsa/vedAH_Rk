@@ -15,13 +15,56 @@ ChandaH = "काविराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 12 = 5+7, ending LHX  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vidvā́ṁsā ← √vid- 2 (root)  
+{case:ACC, gender:M, number:DU, tense:PRF, voice:ACT}
+
+adyá ← adyá (invariable)  
+{}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+vidvā́ṁsā ← √vid- 2 (root)  
+{case:ACC, gender:M, number:DU, tense:PRF, voice:ACT}
+
+vocetam ← √vac- (root)  
+{number:DU, person:2, mood:OPT, tense:AOR, voice:ACT}
+
+ārcat ← √r̥c- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dáyamānaḥ ← √dā- 3 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+yuvā́kuḥ ← yuvā́ku- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +177,4 @@ Drum rufen wir euch, die wissenden; ihr wissenden möget uns heute das Gebet aus
 Как знатоки такие подскажите нам сегодня тему (молитвы).  
 Ваш приверженец, наделяемый (наградой), запел (восхваление).
 </details>
+

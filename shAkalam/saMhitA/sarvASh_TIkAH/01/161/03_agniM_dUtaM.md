@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ábravītana ← √brū- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+kártvaḥ ← kártva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kártvaḥ ← kártva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dvā́ ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kártvā ← kártva- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kártvā ← kártva- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yuvaśā́ ← yuvaśá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+bhrātar ← bhrā́tar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+imasi ← √i- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+kr̥tvī́ ← √kr̥- (root)  
+{}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,3 +278,4 @@ Als ihr dem Boten Agni drauf erwidertet: »Wir wollen einen Wagen machen und ein
 Надо сделать дойную корову, двоих сделать молодыми.  
 После того, как сделаем эти (дела,), брат, отправимся к вам.
 </details>
+

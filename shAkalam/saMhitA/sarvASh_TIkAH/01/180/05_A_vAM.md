@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dānā́ya ← dāná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vavr̥tīya ← √vr̥t- (root)  
+{number:SG, person:1, mood:OPT, tense:PRF, voice:MED}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+jívriḥ ← jívri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+óhena ← óha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+taugryáḥ ← taugryá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+kṣoṇī́ ← kṣoṇí- ~ kṣoṇī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+mā́hinā ← mā́hina- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sacate ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ákṣuḥ ← ákṣu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+jūrṇáḥ ← √jr̥̄- ~ jūr- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yajatrā ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Zum Geben möcht' ich euch, o hehre, stimmen, euch Milch anbietend wie der greis
 Ваша могучая (помощь) распространяется на воды, небо и землю.  
 Изношена для вас ось узости, о достойные жертвы.
 </details>
+

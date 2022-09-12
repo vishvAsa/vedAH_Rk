@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gaṇaśriyaḥ ← gaṇaśrí- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vadata ← √vadⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áhimanyavaḥ ← áhimanyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nŕ̥ṣācaḥ ← nr̥ṣác- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śūrāḥ ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+amátiḥ ← amáti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+darśatā́ ← darśatá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vandhúreṣu ← vandhúra- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vidyút ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ In Scharen schreitend redet Erd' und Himmel an wie Schlangen grimmig, heftig, He
 (Взойдя) на сиденья (колесниц,) прекрасная, как солнечное сияние,  
 (Родаси,) словно молния, находится на колесницах ваших, о Маруты.
 </details>
+

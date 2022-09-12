@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+didr̥kṣéṇyaḥ ← didr̥kṣéṇya- (nominal stem)  
+{case:NOM, gender:M, number:SG, mood:DES}
+
+jényaḥ ← jénya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́ṣṭhāsu ← kā́ṣṭhā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+árbhāya ← árbha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+īḷényaḥ ← īḷénya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+maháḥ ← mahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ábhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áha ← áha (invariable)  
+{}
+
+ebhyaḥ ← ayám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+sū́ḥ ← sū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gárbhebhyaḥ ← gárbha- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvádarśataḥ ← viśvádarśata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Der sehenswerthe, edle in der Lüfte Bahn, der preisenswerth für gross und klei
 Потому что во многих местах он был (словно) мать  
 Для новорожденных, щедрый, видимый для всех.
 </details>
+

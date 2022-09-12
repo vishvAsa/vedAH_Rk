@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āśuhémabhiḥ ← āśuhéman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+vīḷupátmabhiḥ ← vīḷupátman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jūtíbhiḥ ← jūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śā́śadānā ← √śad- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+vā ← vā (invariable)  
+{}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rā́sabhaḥ ← rā́sabha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ājā́ ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jigāya ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pradháne ← pradhána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yamásya ← yamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +198,4 @@ Die ihr vertraut auf starke Flügelrosse, auf rasche Renner, auf der Götter Eil
 Осел, о Насатьи, выиграл ту тысячу  
 В состязании с Ямой за высокую награду.
 </details>
+

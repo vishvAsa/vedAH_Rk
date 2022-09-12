@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stubhā́ ← stúbh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+suṣṭúbhā ← suṣṭúbh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vípraiḥ ← vípra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návagvaiḥ ← návagva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+svaréṇa ← svará- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+svaryàḥ ← svaryà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+phaligám ← phaligá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śakra ← śakrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+saraṇyúbhiḥ ← saraṇyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+darayaḥ ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+dáśagvaiḥ ← dáśagva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ráveṇa ← ráva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+valám ← valá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +228,4 @@ Mit Jubelruf mit lautem Schall zerbrachst du mit sieben Sängern, mit der Schar 
 Вместе с быстрыми – вместилище влаги (?), Индра могучий,  
 Вместе с Дашагва – с ревом Валу.
 </details>
+

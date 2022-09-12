@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayā́saḥ ← ayā́s- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+párā ← pára- (nominal stem)  
+{}
+
+śubhrā́ḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yavyā́ ← yavyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mimikṣuḥ ← √myakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sādhāraṇyā́ ← sā́dhāraṇa- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+ghorā́ḥ ← ghorá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nudanta ← √nud- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+rodasī́ ← rodasī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+juṣánta ← √juṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vŕ̥dham ← vŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +192,7 @@ In the next pāda both Rodasī and the two world halves are then the objects of 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
 <details open><summary><h2>03-07 ...{Loading}...</h2></summary>
 
 Hoffmann (Injunk., 194-97) translates and comments on these verses.
@@ -172,3 +224,4 @@ Das fernste auch besprengten sie, die lichten behenden Maruts wie mit gleichem S
 Они, грозные, не оттолкнули Родаси.  
 Богам понравилось усиление (их толпы) – для дружбы.
 </details>
+

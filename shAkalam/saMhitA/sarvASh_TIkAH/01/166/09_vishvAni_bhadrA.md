@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́hitā ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+mithaspŕ̥dhyā ← mithaspŕ̥dhyā (invariable)  
+{case:NOM, gender:N, number:PL, non-finite:CVB}
+
+taviṣā́ṇi ← taviṣá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áṁseṣu ← áṁsa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+khādáyaḥ ← khādí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prápatheṣu ← prápatha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ákṣaḥ ← ákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakrā́ ← cakrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+samáyā ← samá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vāvr̥te ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Auf eure Wagen ist, o Maruts, alles Heil gelegt und Kräfte, wie wetteifernd unt
 На ваших долгих путях (вы носите) кольца на плечах.  
 Ось ваша вертится посреди колес.
 </details>
+

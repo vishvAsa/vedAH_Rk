@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+ā́hitam ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+gāyatrám ← gāyatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gāyatré ← gāyatrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nirátakṣata ← √takṣ- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+traíṣṭubham ← traíṣṭubha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+traíṣṭubhāt ← traíṣṭubha- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+ā́hitam ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+jágat ← jágat- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jágati ← jágat- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ānaśuḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vidúḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +249,4 @@ Wie an die Gājatrī-Zeile die Gājatrī-Zeile gefügt wird, wie aus der Trischt
 Или же размер джагат основан на (песне) джагат –  
 Кто это знает, те достигли бессмертия.
 </details>
+

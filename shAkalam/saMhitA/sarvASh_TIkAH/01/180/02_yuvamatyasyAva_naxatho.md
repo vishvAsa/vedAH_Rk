@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átyasya ← átya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+nakṣathaḥ ← √nakṣ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+náryasya ← nárya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+práyajyoḥ ← práyajyu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vípatmanaḥ ← vípatman- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhárāti ← √bhr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+svásā ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+viśvagūrtī ← viśvagūrti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+iṣé ← íṣ- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ī́ṭṭe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+madhupau ← madhupá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Wenn ihr das schnelle Ross der Sonne einholt, das weithin fliegt und allen Mensc
 Когда приведет вас сестра, о воспеваемые всеми,  
 {И жертвователь) призовет ради награды и подкрепления, о вы пьющие мед.
 </details>
+

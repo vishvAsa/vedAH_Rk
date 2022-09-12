@@ -16,14 +16,69 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahā́ni ← mahá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+pūrvyā́ ← pūrvyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+stávā ← √stu- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+nū́tanā ← nū́tana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+stavāma ← √stu- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+bāhvóḥ ← bāhú- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+stávā ← √stu- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+uśántam ← √vaś- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ketū́ ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+stávā ← √stu- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Wir wollen preisen deine alten Thaten, wir wollen preisen auch die neu vollbrach
 Я хочу прославить ваджру в (твоих) руках, жаждущую (подвигов),  
 Я хочу прославить пару буланых коней – знаки солнца.
 </details>
+

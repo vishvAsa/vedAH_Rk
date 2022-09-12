@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhan ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párvate ← párvata- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śiśriyāṇám ← √śri- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+svaryàm ← svaryà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tatakṣa ← √takṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+syándamānāḥ ← √syand- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+vāśrā́ḥ ← vāśrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+áñjas ← áñjas (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+jagmuḥ ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Er schlug den Drachen, welcher auf dem Berg lag; die Waffe saust, die Tvaschtar 
 Как мычащие коровы, устремившись (к телятам),  
 Прямо к морю сбегают воды.
 </details>
+

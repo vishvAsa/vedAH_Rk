@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Normal on metrical evidence alone
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+váśaḥ ← váśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jīvā́tum ← jīvā́tu- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+marāmahe ← √mr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+priyástotraḥ ← priyástotra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánaspátiḥ ← vánaspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +163,4 @@ Wenn du uns, Soma, leben heisst, so fall'n wir nicht dem Tod anheim, O Waldesfü
 Жили, мы не умрем.  
 (Ты) любитель хвалы, господин деревьев.
 </details>
+

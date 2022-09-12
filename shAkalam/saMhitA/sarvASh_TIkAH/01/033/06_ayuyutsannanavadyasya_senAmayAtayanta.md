@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anavadyásya ← anavadyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áyuyutsan ← √yudh- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT, mood:DES}
+
+sénām ← sénā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áyātayanta ← √yat- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+kṣitáyaḥ ← kṣití- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+návagvāḥ ← návagva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+níraṣṭāḥ ← √akṣ- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vádhrayaḥ ← vádhri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥ṣāyúdhaḥ ← vr̥ṣāyúdh- (nominal stem)  
+{case:NOM, number:PL}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+citáyantaḥ ← √cit- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+índrāt ← índra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pravádbhiḥ ← pravát- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +185,4 @@ Sie griffen an des Tadellosen Heerschar, es einten sich die neun verbundnen Stä
 Словно сражающиеся с быком волы, холощеные,  
 Бежали от Индры низинами, сознавая (свое поражение).
 </details>
+

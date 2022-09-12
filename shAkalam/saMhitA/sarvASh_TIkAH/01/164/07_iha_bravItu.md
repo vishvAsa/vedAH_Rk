@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+aṅgá ← aṅgá (invariable)  
+{}
+
+bravītu ← √brū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+níhitam ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vāmásya ← vāmá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+véḥ ← ví- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+duhrate ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kṣīrám ← kṣīrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śīrṣṇáḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+apuḥ ← √pā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+padā́ ← pád- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+udakám ← udaká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vásānāḥ ← √vas- 2 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+vavrím ← vavrí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Hier möge der, welcher es recht weiss, dieses schönen Vogels [der Sonne] niede
 Из ее головы молоком доятся коровы.  
 Облекаясь в тело, ногой они выпили воду.
 </details>
+

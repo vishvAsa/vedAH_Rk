@@ -15,13 +15,56 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ádīdet ← √dī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+nā́rmiṇīm ← nā́rmin- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+púram ← púr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+árvā ← árvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nabhanyàḥ ← nabhanyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rurukvā́n ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+śatā́tmā ← śatā́tman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +192,4 @@ Er, der die unversehrte Burg bestrahlt hat, der weise Renner gleich dem Ross des
 Стремительный поэт, кидающийся, словно скаковой конь,  
 Светящий, как солнце, имеющий сотню жизней.
 </details>
+

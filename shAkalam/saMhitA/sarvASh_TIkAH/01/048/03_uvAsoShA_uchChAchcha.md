@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+uchā́t ← √vas- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uvā́sa ← √vas- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jīrā́ ← jīrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ācáraṇeṣu ← ācáraṇa- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+dadhriré ← √dhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śravasyávaḥ ← śravasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +201,4 @@ Sie hat gestrahlt und strahle nun, die Morgengöttin, Treiberin Der Wagen, die d
 Которые держались наготове к ее приходам,  
 Как жаждущие добычи (мореходы) – (к выходу) в море.
 </details>
+

@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+madhvádaḥ ← madhvád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suparṇā́ḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥kṣé ← vr̥kṣá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+niviśánte ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+súvate ← √sū- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+píppalam ← píppala- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svādú ← svādú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+naśat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +252,4 @@ Auf welchem Baume die schöngeflügelten, welche die süsse Frucht geniessen, al
 На вершине его, говорят, – ягода сладкая,  
 До нее не доберется тот, кто не знает отца.
 </details>
+

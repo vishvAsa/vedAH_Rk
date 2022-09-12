@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line
+#### Morph
+sugātuyā́ ← sugātuyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sukṣetriyā́ ← sukṣetriyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+vasūyā́ ← vasūyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yajāmahe ← √yaj- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+aghám ← aghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śóśucat ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +140,4 @@ Um schöne Felder, schön Gedeihn, nach Gut verlangend opfern wir, Er strahle Le
 И желая благ, мы приносим жертву –  
 Прочь от нас засвечивая зло!
 </details>
+

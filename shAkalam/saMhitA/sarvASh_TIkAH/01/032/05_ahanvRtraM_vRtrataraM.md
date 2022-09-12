@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhan ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥tratáram ← vr̥tratára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vyàṁsam ← vyàṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahatā́ ← mahā́nt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vadhéna ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kúliśena ← kúliśa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+skándhāṁsi ← skándhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vívr̥kṇā ← √vr̥śc- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+áhiḥ ← áhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+śayate ← √śī- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+upapŕ̥k ← upapŕ̥c- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Den Vritra und den schlimmeren Viansa schlug Indra mit dem Blitz, mit mächt'gem
 Как ветви топором обрубленные,  
 Змей лежит, прильнув к земле.
 </details>
+

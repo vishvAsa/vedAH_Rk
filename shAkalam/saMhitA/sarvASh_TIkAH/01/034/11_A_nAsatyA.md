@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ekādaśaíḥ ← ekādaśá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tribhíḥ ← trí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+madhupéyam ← madhupéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mr̥kṣatam ← √mr̥j- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+rápāṁsi ← rápas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́riṣṭam ← √tr̥̄- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+bhávatam ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sacābhúvā ← sacābhū́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sédhatam ← √sidh- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Kommt hierher, o wahrhafte, mit den dreimal elf Göttern, zum Honigtranke, o Aç
 Продлите срок жизни! Сотрите (телесные) повреждения!  
 Отвратите ненависть! Будьте спутниками!
 </details>
+

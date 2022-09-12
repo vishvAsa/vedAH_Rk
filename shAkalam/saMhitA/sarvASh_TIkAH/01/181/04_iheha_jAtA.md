@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avāvaśītām ← √vāś- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ihéha ← ihá (invariable)  
+{}
+
+jātā́ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+sám ← sám (invariable)  
+{}
+
+arepásā ← arepás- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+nā́mabhiḥ ← nā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+svaíḥ ← svá- (pronoun)  
+{case:INS, gender:N, number:PL}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jiṣṇúḥ ← jiṣṇú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+súmakhasya ← súmakha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sūríḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+subhágaḥ ← subhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūhe ← √vāh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +232,4 @@ Sie, hier und dort geboren, rauschten beide vereint, an Leibern rein, nach ihrer
 Один из вас – победоносный щедрый покровитель (человека,) имеющего прекрасную жертву,  
 Другой считается счастливым сыном неба.
 </details>
+

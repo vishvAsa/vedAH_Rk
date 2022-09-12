@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citrábhānavaḥ ← citrábhānu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mahiṣā́saḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+māyínaḥ ← māyín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+giráyaḥ ← girí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+raghuṣyádaḥ ← raghuṣyád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svátavasaḥ ← svátavas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hastínaḥ ← hastín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+khādatha ← √khād- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mr̥gā́ḥ ← mr̥gá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ruṇīṣu ← ā́ruṇī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+áyugdhvam ← √yuj- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:MED}
+
+táviṣīḥ ← táviṣī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Ihr zauberreichen Büffel strahlend hell an Glanz voll eigner Kraft wie Berge ih
 Как слоны, вы вырываете (с корнем) деревья,  
 Когда сопрягаете (свои) силы с (силами) рыжих (кобылиц).
 </details>
+

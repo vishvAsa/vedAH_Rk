@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jinvan ← √ji- 2 ~ jinv- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+uśántam ← √vaś- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+uśatī́ḥ ← √vaś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+jánayaḥ ← jáni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nítyam ← nítya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sánīḷāḥ ← sánīḷa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ajuṣran ← √juṣ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+áruṣīm ← áruṣī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śyā́vīm ← śyā́vī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+uchántīm ← √vas- 1 (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Ihn regten liebend an wie ihren Gatten, den liebenden, die Fraun im gleichen Sit
 Сестрам понравились черная и алая,  
 Как коровам – ярко вспыхивающая заря.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anārambhaṇé ← anārambhaṇá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+avīrayethām ← √vīray- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agrabhaṇé ← agrabhaṇá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+anāsthāné ← anāsthāná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ástam ← ásta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+aśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūháthuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ātasthivā́ṁsam ← √sthā- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+nā́vam ← naú- ~ nā́v- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śatā́ritrām ← śatā́ritra- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Dies Heldenwerk vollzogt ihr auf dem Meere, das keine Stütze, keinen Stand noch
 Когда, о Ашвины, вы везли Бхуджью домой,  
 Взошедшего на стовесельную ладью.
 </details>
+

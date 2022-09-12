@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakrāṇā́saḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+parīṇáham ← parīṇáh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+híraṇyena ← híraṇya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+maṇínā ← maṇí- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śúmbhamānāḥ ← √śubh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+hinvānā́saḥ ← √hi- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+titiruḥ ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+adadhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+spáśaḥ ← spáś- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +202,4 @@ Ringsum die Erde eine Schutzwehr machend, mit Gold sich schmückend und mit Edel
 Они, спешащие, (все же) не миновали Индры.  
 Своих соглядатаев он поместил вокруг солнца.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+īrmā́ntāsaḥ ← īrmā́nta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sílikamadhyamāsaḥ ← sílikamadhyama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+átyāḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+divyā́saḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+śū́raṇāsaḥ ← śū́raṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+haṁsā́ḥ ← haṁsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+śreṇiśás ← śreṇiśás (invariable)  
+{}
+
+yatante ← √yat- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ájmam ← ájma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́kṣiṣuḥ ← √akṣ- 2 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+divyám ← divyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ Die himmlischen Sonnenrosse, die schnellen, die rasch an beiden Seiten laufen un
 Словно гуси, смыкаются кони в ряд,  
 Когда они достигли небесного ристалища.
 </details>
+

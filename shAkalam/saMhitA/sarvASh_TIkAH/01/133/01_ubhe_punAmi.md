@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+punāmi ← √pū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+anindrā́ḥ ← anindrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dahāmi ← √dah- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+drúhaḥ ← drúh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+abhivlágya ← √vlag- (root)  
+{non-finite:CVB}
+
+amítrāḥ ← amítra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hatā́ḥ ← √han- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+yátra ← yátra (invariable)  
+{}
+
+áśeran ← √śī- (root)  
+{number:PL, person:3, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+tr̥ḷhā́ḥ ← √tr̥h- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vailasthānám ← vailasthāná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Die beiden Welten reinige ich durch heiliges Werk, die grossen, dem Indra feindl
 (Там,) где недруги были настигнуты (нами и) убиты,  
 Растерзанные полегли они кругом на месте бойни.
 </details>
+

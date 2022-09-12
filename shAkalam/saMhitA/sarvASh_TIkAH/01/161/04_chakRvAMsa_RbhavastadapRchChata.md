@@ -16,14 +16,90 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+apr̥chata ← √praś- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cakr̥vā́ṁsaḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ajagan ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+kvà ← kvà (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+avā́khyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+camasā́n ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+catúraḥ ← catúr- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kr̥tā́n ← √kr̥- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+ānaje ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+antár ← antár (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+gnā́su ← gnā́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,3 +272,4 @@ Als das, o Ribhu's, ihr vollbracht, so fragtet ihr: »Wo ging der hin, der uns d
 Когда же Тваштар разглядел четыре готовых кубка,  
 Он затерялся среди божественных жен.
 </details>
+

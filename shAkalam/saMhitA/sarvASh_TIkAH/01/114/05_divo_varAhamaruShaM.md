@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṣám ← aruṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kapardínam ← kapardín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+varāhám ← varāhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hvayāmahe ← √hvā- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+rūpám ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bheṣajā́ ← bheṣajá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bíbhrat ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā́ryāṇi ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+chardíḥ ← chardís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+várma ← várman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yaṁsat ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Des Himmels rothen Eber mit geflochtnem Haar, sein funkelnd Aussehn rufen wir in
 Держа в руке желанные целебные средства,  
 Пусть дарует он нам укрытие, щит, прибежище.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+harítaḥ ← harít- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śocíṣkeśam ← śocíṣkeśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vicakṣaṇa ← vicakṣaṇá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -100,7 +128,7 @@ The reassignment of Agni epithets continues in this verse: śocíṣkeśa- ‘fl
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/050/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/050/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 I assume that the seven mares of vs. 8 are the same as the sleek daughters (śundhyúvaḥ … naptyàḥ) (or granddaughters) of the chariot, but I do not know why the rare word naptī́- is used of them. Thieme (KlSch: 220), on the basis of śundhyúvaḥ, thinks they are wild geese (“…hat sich sieben Wildgänse als Tochter des Wagens angeschirrt”), but this seems to introduce an unnecessary complication since śundhyú- can be taken in its literal meaning.
@@ -137,3 +165,4 @@ Es fahren sieben Stuten dich, o Sonnengott, weitschauender, Im Wagen dich lichth
 Пламенновласого, на колеснице,  
 О Сурья, бог, видящий издалека.
 </details>
+

@@ -17,15 +17,73 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Cretic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+amī́ ← asaú (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+raśmáyaḥ ← raśmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́tatā ← √tan- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nā́bhiḥ ← nā́bhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tátra ← tátra (invariable)  
+{}
+
+āptyáḥ ← āptyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tritáḥ ← tritá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jāmitvā́ya ← jāmitvá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+rebhati ← √ribh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+vittám ← √vid- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +215,7 @@ The verb ‘rasps’ (rebhati) may convey the sound of old man's voice, as would
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/09-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these verses are the omphalos and are marked, as often, by responsion and numerology. They seem to express the poet’s vision of his connection with his distant ancestor Trita Āptya and also his vision of (somewhat unclear) cosmic phenomena.
@@ -190,3 +248,4 @@ Dort wo die sieben Strahlen sind, da ist verbreitet mein Geschlecht, Das kennet 
 Он поднимает голос в пользу родства.  
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
+

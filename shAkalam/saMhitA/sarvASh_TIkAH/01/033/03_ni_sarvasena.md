@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asakta ← √sañj- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+iṣudhī́n ← iṣudhí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+sárvasenaḥ ← sárvasena- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajati ← √aj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+váṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+coṣkūyámāṇaḥ ← √sku- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vāmám ← vāmá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+bhūḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+paṇíḥ ← paṇí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pravr̥ddha ← √vr̥dh- (root)  
+{case:VOC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Den Köcher hing sich an der Herr der Scharen, treibt, wie er will, die Rinder f
 Сгребая себе много добра, о Индра,  
 Не будь скупым к нам, о возросший!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+divyásya ← divyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+rā́jasi ← √rāj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pā́rthivasya ← pā́rthiva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+paśupā́ḥ ← paśupā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+abhiśríyā ← abhiśrī́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+énī ← éta- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+āśāte ← √naś- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hiraṇyáyī ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vákvarī ← vákvan- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Denn du beherrschst, o Agni, alles Himmlische, behütest alles Irdische gleich w
 Эти две пестрые (стихии,) высокие, выдающиеся,  
 Золотистые, вращающиеся, сели к тебе на жертвенную солому,
 </details>
+
